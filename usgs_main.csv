@@ -197,3 +197,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T13:49:35.292Z,31.65,-104.371,4.4674,1.7,ml,29.0,71.0,0.1,0.3,tx,tx2025oswnyn,2025-07-28T13:52:31.779Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.0580545663834,0.1,20.0,automatic,tx,tx
 2025-07-28T13:38:20.447Z,-3.8044,29.2362,10.0,5.1,mww,69.0,79.0,8.438,0.7,us,us6000qvm7,2025-07-28T14:07:10.643Z,"29 km NW of Rumonge, Burundi",earthquake,10.01,1.878,0.11,8.0,reviewed,us,us
 2025-07-27T21:00:22.730Z,33.714,-118.4436667,3.24,1.73,ml,33.0,70.0,0.04415,0.3,ci,ci41033927,2025-07-28T14:06:26.972Z,"6 km WSW of Rancho Palos Verdes, CA",earthquake,0.47,0.35,0.107,49.0,reviewed,ci,ci
+2025-07-28T14:13:01.924Z,61.3052,-152.434,0.0,1.5,ml,,,,1.22,ak,ak0259lvqe4w,2025-07-28T14:14:58.438Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-28T13:37:16.180Z,18.173166666667,-67.077833333333,21.67,2.59,md,13.0,66.0,0.008006,0.11,pr,pr71490838,2025-07-28T14:20:00.960Z,"6 km NE of Hormigueros, Puerto Rico",earthquake,0.52,0.7,0.024036454589958,4.0,reviewed,pr,pr
+2025-07-28T13:35:27.039Z,54.6698,-160.2413,35.0,3.3,ml,11.0,190.0,0.411,1.13,us,us6000qvm6,2025-07-28T14:13:47.040Z,"75 km SSE of Sand Point, Alaska",earthquake,5.05,1.972,0.069,28.0,reviewed,us,us
+2025-07-28T12:34:01.516Z,-3.5845,-79.8973,59.178,4.4,mb,26.0,118.0,1.282,0.93,us,us6000qvm0,2025-07-28T14:19:09.040Z,"16 km SSE of Santa Rosa, Ecuador",earthquake,9.23,11.838,0.179,9.0,reviewed,us,us
+2025-07-28T08:13:20.525Z,28.886,-98.926,8.3118,1.6,ml,19.0,89.0,0.2,0.4,tx,tx2025oslkfm,2025-07-28T14:32:52.756Z,"16 km E of Pearsall, Texas",earthquake,1.7534923823067,1.7240067913045,0.2,11.0,reviewed,tx,tx
