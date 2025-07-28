@@ -311,3 +311,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T20:49:17.430Z,36.7642,-116.2635,4.7,0.0,ml,8.0,124.43,0.102,0.2342,nn,nn00901330,2025-07-28T20:51:19.590Z,"47 km ESE of Beatty, Nevada",earthquake,,12.1,0.18,7.0,automatic,nn,nn
 2025-07-28T01:57:22.910Z,51.719,-179.03316666667,8.68,1.38,ml,8.0,274.0,0.1245,0.15,av,av93691921,2025-07-28T20:50:46.570Z,"166 km W of Adak, Alaska",earthquake,1.21,0.58,0.25940740827055,8.0,reviewed,av,av
 2025-07-28T01:35:25.380Z,60.020666666667,-153.0835,-2.98,-0.05,ml,6.0,106.0,0.03294,0.3,av,av93691896,2025-07-28T20:53:48.700Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.58,3.15,0.18202666607559,4.0,reviewed,av,av
+2025-07-28T21:12:50.522Z,60.1573,-150.9334,32.6,2.9,ml,,,,0.58,ak,ak0259lzwbf3,2025-07-28T21:18:15.444Z,"26 km ESE of Clam Gulch, Alaska",earthquake,,850.6,,,automatic,ak,ak
+2025-07-28T21:11:43.074Z,65.4906,-149.9951,0.0,1.7,ml,,,,0.69,ak,ak0259lzw343,2025-07-28T21:13:39.347Z,"8 km ESE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-28T21:08:48.960Z,62.6062,-149.3829,55.2,1.4,ml,,,,0.35,ak,ak0259lzvgf4,2025-07-28T21:10:39.924Z,"40 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-28T21:01:13.560Z,59.9898,-147.9168,60.6,1.8,ml,,,,1.0,ak,ak0259lztvoc,2025-07-28T21:03:45.252Z,"10 km SSE of Chenega, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-07-28T20:55:20.131Z,11.0887,-86.8365,10.0,5.0,mb,63.0,149.0,1.201,1.22,us,us6000qvrw,2025-07-28T21:10:36.040Z,"84 km SSW of Masachapa, Nicaragua",earthquake,6.14,1.895,0.026,476.0,reviewed,us,us
+2025-07-28T02:28:57.320Z,51.872333333333,-176.6265,-0.86,1.42,ml,13.0,179.0,0.109,0.11,av,av93691951,2025-07-28T21:08:28.330Z,"0 km ESE of Adak, Alaska",earthquake,0.5,0.66,0.25102790115792,17.0,reviewed,av,av
