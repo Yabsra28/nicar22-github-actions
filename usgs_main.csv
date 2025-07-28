@@ -222,3 +222,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T10:56:58.940Z,43.3865,-110.60233333333,-2.5,1.22,ml,6.0,200.0,0.1082,0.09,mb,mb90103888,2025-07-28T15:44:49.670Z,"15 km ESE of South Park, Wyoming",earthquake,0.72,1.16,0.29487505946819,6.0,reviewed,mb,mb
 2025-07-28T09:47:24.834Z,31.701,-104.167,5.6,1.1,ml,21.0,68.0,0.1,0.1,tx,tx2025osonfl,2025-07-28T15:41:18.394Z,"53 km W of Mentone, Texas",earthquake,0.46899961847928,0.85464885991371,0.2,19.0,reviewed,tx,tx
 2025-07-28T05:49:30.220Z,44.29,-115.1005,11.57,1.1,ml,8.0,118.0,0.05999,0.06,mb,mb90103878,2025-07-28T15:37:02.880Z,"15 km WNW of Stanley, Idaho",earthquake,0.44,0.59,0.19414237819814,13.0,reviewed,mb,mb
+2025-07-28T16:07:23.610Z,38.822666168213,-122.85216522217,2.4800000190735,0.29,md,8.0,176.0,0.01339,0.01,nc,nc75216212,2025-07-28T16:09:01.998Z,"10 km NW of The Geysers, CA",earthquake,0.48,1.45000005,0.18,9.0,automatic,nc,nc
+2025-07-28T15:58:33.363Z,62.2607,-149.6562,57.5,1.2,ml,,,,0.29,ak,ak0259lwlje0,2025-07-28T15:59:48.935Z,"15 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-07-28T15:58:11.025Z,31.702,-104.173,4.2563,1.6,ml,31.0,56.0,0.1,0.3,tx,tx2025otaulr,2025-07-28T16:01:45.971Z,"54 km W of Mentone, Texas",earthquake,0.0,0.97210484743118,0.2,21.0,automatic,tx,tx
+2025-07-28T15:05:05.838Z,-18.3157,167.7527,10.0,4.9,mb,37.0,132.0,2.901,0.84,us,us6000qvms,2025-07-28T16:08:15.040Z,"87 km SW of Port-Vila, Vanuatu",earthquake,6.17,1.906,0.104,29.0,reviewed,us,us
+2025-07-28T12:54:37.037Z,41.8977,-119.6025,5.6,1.7,ml,5.0,130.43,0.351,0.1388,nn,nn00901304,2025-07-28T16:02:04.560Z,"45 km E of Fort Bidwell, California",earthquake,,3.6,0.5,3.0,reviewed,nn,nn
+2025-07-28T12:24:05.922Z,41.9135,-119.6286,7.1,1.9,ml,5.0,214.6,0.326,0.208,nn,nn00901303,2025-07-28T15:55:52.766Z,"43 km E of Fort Bidwell, California",earthquake,,6.2,0.52,3.0,reviewed,nn,nn
+2025-07-27T20:37:51.010Z,32.001,-103.822,6.7664,1.0,ml,14.0,59.0,0.0,0.2,tx,tx2025oroihq,2025-07-28T15:55:37.128Z,"34 km SE of Malaga, New Mexico",earthquake,0.66190756567294,1.0740334695873,0.2,12.0,reviewed,tx,tx
