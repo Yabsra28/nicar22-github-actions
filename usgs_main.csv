@@ -191,3 +191,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T06:51:45.650Z,41.791333333333,-111.67333333333,15.39,0.86,md,15.0,144.0,0.07026,0.19,uu,uu80112651,2025-07-28T13:38:13.990Z,"11 km ENE of North Logan, Utah",earthquake,0.92,0.44,0.12408232724583,12.0,reviewed,uu,uu
 2025-07-28T06:38:57.282Z,28.828,-98.954,8.3777,1.7,ml,17.0,88.0,0.1,0.2,tx,tx2025osigwe,2025-07-28T13:20:14.735Z,"15 km ESE of Pearsall, Texas",earthquake,1.6262664504464,1.154364809118,0.1,9.0,reviewed,tx,tx
 2025-07-28T00:00:28.203Z,28.824,-98.939,5.7824,1.5,ml,14.0,88.0,0.2,0.4,tx,tx2025orvbna,2025-07-28T13:12:57.697Z,"16 km ESE of Pearsall, Texas",earthquake,2.1287625963583,1.2390900172335,0.1,7.0,reviewed,tx,tx
+2025-07-28T14:02:18.829Z,59.5102,-152.4563,68.0,1.9,ml,,,,0.42,ak,ak0259lvo2ka,2025-07-28T14:04:00.093Z,"34 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-28T13:54:14.096Z,60.8024,-151.6562,67.1,1.8,ml,,,,0.21,ak,ak0259lvdrtt,2025-07-28T13:55:44.208Z,"23 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-28T13:52:43.231Z,32.121,-101.926,7.8369,2.7,ml,19.0,51.0,0.0,0.1,tx,tx2025oswqqk,2025-07-28T14:02:18.572Z,"13 km W of Stanton, Texas",earthquake,0.50204883495958,0.65464126780256,0.1,13.0,reviewed,tx,tx
+2025-07-28T13:49:35.292Z,31.65,-104.371,4.4674,1.7,ml,29.0,71.0,0.1,0.3,tx,tx2025oswnyn,2025-07-28T13:52:31.779Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.0580545663834,0.1,20.0,automatic,tx,tx
+2025-07-28T13:38:20.447Z,-3.8044,29.2362,10.0,5.1,mww,69.0,79.0,8.438,0.7,us,us6000qvm7,2025-07-28T14:07:10.643Z,"29 km NW of Rumonge, Burundi",earthquake,10.01,1.878,0.11,8.0,reviewed,us,us
+2025-07-27T21:00:22.730Z,33.714,-118.4436667,3.24,1.73,ml,33.0,70.0,0.04415,0.3,ci,ci41033927,2025-07-28T14:06:26.972Z,"6 km WSW of Rancho Palos Verdes, CA",earthquake,0.47,0.35,0.107,49.0,reviewed,ci,ci
