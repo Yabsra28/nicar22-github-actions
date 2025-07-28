@@ -289,3 +289,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T10:21:15.625Z,31.697,-104.163,6.7664,1.2,ml,22.0,53.0,0.1,0.1,tx,tx2025ospqgi,2025-07-28T19:33:52.374Z,"53 km W of Mentone, Texas",earthquake,0.55080502161248,0.70492671228958,0.2,14.0,reviewed,tx,tx
 2025-07-28T01:38:59.190Z,19.964333333333,-155.61866666667,-0.85,2.34,ml,30.0,148.0,0.113,0.33,hv,hv74737552,2025-07-28T19:33:34.810Z,"8 km SE of Waimea, Hawaii",earthquake,0.74,0.41,0.13599226732096,16.0,reviewed,hv,hv
 2025-07-28T00:59:51.090Z,51.879666666667,-176.62833333333,0.47,0.78,ml,13.0,156.0,0.102,0.16,av,av93691851,2025-07-28T19:32:49.840Z,"0 km NNE of Adak, Alaska",earthquake,0.46,0.66,0.25930967422737,13.0,reviewed,av,av
+2025-07-28T19:44:02.544Z,61.3101,-152.517,6.5,1.9,ml,,,,0.92,ak,ak0259lyw7em,2025-07-28T19:45:10.109Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-28T17:43:20.640Z,44.749166666667,-110.937,10.22,1.52,ml,13.0,106.0,0.05031,0.09,uu,uu80112691,2025-07-28T19:49:13.940Z,"16 km NE of West Yellowstone, Montana",earthquake,0.34,0.82,0.09412507498356,4.0,reviewed,uu,uu
