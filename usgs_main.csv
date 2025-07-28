@@ -202,3 +202,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T13:35:27.039Z,54.6698,-160.2413,35.0,3.3,ml,11.0,190.0,0.411,1.13,us,us6000qvm6,2025-07-28T14:13:47.040Z,"75 km SSE of Sand Point, Alaska",earthquake,5.05,1.972,0.069,28.0,reviewed,us,us
 2025-07-28T12:34:01.516Z,-3.5845,-79.8973,59.178,4.4,mb,26.0,118.0,1.282,0.93,us,us6000qvm0,2025-07-28T14:19:09.040Z,"16 km SSE of Santa Rosa, Ecuador",earthquake,9.23,11.838,0.179,9.0,reviewed,us,us
 2025-07-28T08:13:20.525Z,28.886,-98.926,8.3118,1.6,ml,19.0,89.0,0.2,0.4,tx,tx2025oslkfm,2025-07-28T14:32:52.756Z,"16 km E of Pearsall, Texas",earthquake,1.7534923823067,1.7240067913045,0.2,11.0,reviewed,tx,tx
+2025-07-28T00:08:47.170Z,39.930166666667,-112.88033333333,5.4,1.64,ml,12.0,262.0,0.2695,0.17,uu,uu80112636,2025-07-28T14:54:35.280Z,"34 km SSW of Dugway, Utah",earthquake,2.87,0.9,0.08109371739853,5.0,reviewed,uu,uu
+2025-07-27T22:03:35.854Z,28.663,-98.243,4.2488,1.2,ml,19.0,65.0,0.0,0.2,tx,tx2025orretw,2025-07-28T14:56:23.641Z,"23 km NNW of Three Rivers, Texas",earthquake,0.88910297918151,1.0381559049183,0.1,10.0,reviewed,tx,tx
