@@ -674,3 +674,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T07:42:28.520Z,46.399,-122.318,15.04,0.03,ml,6.0,309.0,0.09449,0.08,uw,uw62153037,2025-07-29T21:18:41.190Z,"18 km S of Morton, Washington",earthquake,0.8,0.91,0.0486995250044,4.0,reviewed,uw,uw
 2025-07-29T05:05:34.710Z,53.817166666667,-166.944,11.29,-0.57,ml,11.0,205.0,0.009277,0.26,av,av93691583,2025-07-29T21:17:09.900Z,"27 km WSW of Dutch Harbor, Alaska",earthquake,1.41,0.63,0.088995945570761,1.0,reviewed,av,av
 2025-07-29T03:53:53.480Z,58.3735,-154.603,4.58,-0.35,ml,6.0,223.0,0.1049,0.09,av,av93047454,2025-07-29T20:58:49.690Z,"90 km N of Karluk, Alaska",earthquake,0.59,0.72,0.24134399388132,6.0,reviewed,av,av
+2025-07-29T21:33:32.866Z,61.2903,-152.4308,0.0,1.5,ml,,,,0.71,ak,ak0259nnk4km,2025-07-29T21:35:48.406Z,"73 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-29T21:31:18.370Z,33.7101667,-117.3421667,2.02,1.44,ml,52.0,42.0,0.03767,0.21,ci,ci41241952,2025-07-29T21:35:32.205Z,"5 km NNW of Lake Elsinore, CA",earthquake,0.18,0.3,0.299,36.0,automatic,ci,ci
+2025-07-29T21:30:42.105Z,61.2864,-152.6266,0.0,2.1,ml,,,,0.9,ak,ak0259nnjgnh,2025-07-29T21:32:38.977Z,"83 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-29T21:28:42.750Z,34.042,-117.166,9.15,1.46,ml,70.0,20.0,0.04498,0.17,ci,ci41241832,2025-07-29T21:39:39.600Z,"2 km SE of Redlands, CA",earthquake,0.12,0.31,0.151,28.0,automatic,ci,ci
+2025-07-29T21:23:48.865Z,60.0265,-151.359,36.0,1.5,ml,,,,0.45,ak,ak0259nni0na,2025-07-29T21:27:06.699Z,"17 km E of Ninilchik, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-07-29T05:56:43.700Z,47.744,-122.29366666667,30.3,1.19,ml,19.0,80.0,0.01145,0.23,uw,uw62153007,2025-07-29T21:37:41.270Z,"1 km SW of Lake Forest Park, Washington",earthquake,0.58,0.51,0.19132100412605,7.0,reviewed,uw,uw
+2025-07-29T05:37:56.830Z,58.585833333333,-154.19266666667,6.67,0.08,ml,7.0,199.0,0.08139,0.23,av,av93691618,2025-07-29T21:39:23.390Z,"95 km NW of Aleneva, Alaska",earthquake,2.27,1.67,0.15566551328668,7.0,reviewed,av,av
+2025-07-29T05:35:51.380Z,58.2625,-155.45316666667,2.73,-0.23,ml,9.0,74.0,0.06767,0.07,av,av93691608,2025-07-29T21:33:04.420Z,"84 km SE of King Salmon, Alaska",earthquake,0.17,0.34,0.18636387280564,9.0,reviewed,av,av
