@@ -438,3 +438,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T04:58:02.405Z,36.7442,-115.5686,1.2,0.5,ml,18.0,117.42,0.326,0.2335,nn,nn00901380,2025-07-29T05:00:11.336Z,"21 km NNE of Indian Springs, Nevada",earthquake,,30.8,0.27,14.0,automatic,nn,nn
 2025-07-29T04:37:03.552Z,-57.8116,157.8761,35.0,4.6,mb,23.0,104.0,3.374,0.57,us,us6000qvvh,2025-07-29T05:22:29.040Z,Macquarie Island region,earthquake,13.18,1.95,0.158,13.0,reviewed,us,us
 2025-07-28T22:43:13.176Z,40.5029,144.9545,10.0,4.6,mb,48.0,136.0,2.029,0.42,us,us6000qvu4,2025-07-29T04:54:10.040Z,"241 km SE of Hiroo, Japan",earthquake,8.71,1.908,0.098,31.0,reviewed,us,us
+2025-07-29T05:28:30.570Z,33.6905,-116.7163333,17.87,0.62,ml,24.0,60.0,0.0415,0.15,ci,ci41035191,2025-07-29T05:31:58.545Z,"6 km S of Idyllwild, CA",earthquake,0.27,0.53,0.316,17.0,automatic,ci,ci
+2025-07-29T05:16:22.650Z,18.586833333333,-66.377166666667,103.43,3.21,md,27.0,198.0,0.1811,0.14,pr,pr71490923,2025-07-29T05:36:37.480Z,"13 km NNW of Brenas, Puerto Rico",earthquake,0.81,0.43,0.047160495385017,13.0,reviewed,pr,pr
+2025-07-28T21:24:43.640Z,34.917833333333,-120.858,1.02,1.84,md,35.0,197.0,0.2621,0.29,nc,nc75216297,2025-07-29T05:44:18.962Z,"27 km W of Guadalupe, CA",earthquake,1.21,2.19,0.164,20.0,reviewed,nc,nc
