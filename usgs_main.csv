@@ -485,3 +485,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T09:52:01.458Z,31.621,-104.239,4.1963,1.6,ml,31.0,68.0,0.1,0.4,tx,tx2025oukkcr,2025-07-29T09:58:31.910Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.0189523696899,0.2,25.0,automatic,tx,tx
 2025-07-29T09:49:15.940Z,19.332834243774,-155.13716125488,5.2699999809265,2.34,ml,57.0,98.0,0.04734,0.180000007,hv,hv74739002,2025-07-29T09:52:48.800Z,"14 km S of Fern Forest, Hawaii",earthquake,0.37,0.49000001,0.34,39.0,automatic,hv,hv
 2025-07-28T22:22:16.430Z,38.813833333333,-122.783,0.98,0.31,md,17.0,76.0,0.001897,0.02,nc,nc75216322,2025-07-29T09:58:44.412Z,"5 km NNW of The Geysers, CA",earthquake,0.22,0.4,0.135,16.0,reviewed,nc,nc
+2025-07-29T10:27:12.372Z,61.6835,-150.139,20.9,1.5,ml,,,,0.57,ak,ak0259ngz11h,2025-07-29T10:29:03.731Z,"8 km SW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-29T04:21:05.140Z,38.8135,-122.81983333333,1.48,0.33,md,18.0,54.0,0.008642,0.02,nc,nc75216432,2025-07-29T10:10:20.537Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.46,0.221,18.0,reviewed,nc,nc
+2025-07-29T01:14:41.750Z,38.7905,-122.75016666667,0.94,0.21,md,9.0,140.0,0.01256,0.01,nc,nc75216382,2025-07-29T10:04:47.126Z,"2 km NNE of The Geysers, CA",earthquake,0.47,0.85,0.098,7.0,reviewed,nc,nc
