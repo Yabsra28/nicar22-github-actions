@@ -568,3 +568,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T21:32:08.402Z,31.969,-102.312,5.6396,0.6,ml,11.0,66.0,0.0,0.2,tx,tx2025otlwle,2025-07-29T15:09:38.859Z,"8 km SE of Gardendale, Texas",earthquake,0.76461963300937,1.0536719784014,0.2,4.0,reviewed,tx,tx
 2025-07-28T20:34:26.763Z,31.601,-103.959,8.7146,1.0,ml,17.0,66.0,0.0,0.1,tx,tx2025otjyuy,2025-07-29T15:11:13.433Z,"35 km NNW of Toyah, Texas",earthquake,0.66131915826416,0.73790315000261,0.2,19.0,reviewed,tx,tx
 2025-07-28T18:34:20.392Z,31.967,-102.304,6.958,0.8,ml,8.0,87.0,0.0,0.1,tx,tx2025otfzhz,2025-07-29T15:22:44.194Z,"9 km SE of Gardendale, Texas",earthquake,0.92390696373159,0.82991845714031,0.1,6.0,reviewed,tx,tx
+2025-07-29T15:39:44.321Z,31.745,-104.128,3.9784,1.7,ml,31.0,53.0,0.0,0.6,tx,tx2025ouvxtf,2025-07-29T15:43:53.242Z,"50 km W of Mentone, Texas",earthquake,0.0,0.92679661512375,0.2,23.0,automatic,tx,tx
+2025-07-29T15:37:29.799Z,64.6936,-149.173,18.7,0.6,ml,,,,0.27,ak,ak0259nk0dkj,2025-07-29T15:39:05.380Z,"10 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
