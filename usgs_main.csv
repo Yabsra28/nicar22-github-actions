@@ -462,3 +462,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T06:56:46.112Z,31.611,-104.111,4.5924,1.7,ml,36.0,57.0,0.0,0.5,tx,tx2025oueovc,2025-07-29T07:00:46.395Z,"44 km NW of Toyah, Texas",earthquake,0.0,0.90416860580444,0.3,25.0,automatic,tx,tx
 2025-07-29T05:32:22.141Z,16.5422,41.0321,10.0,4.3,mb,45.0,126.0,3.786,1.01,us,us6000qvvm,2025-07-29T06:58:41.040Z,"117 km W of Farasān, Saudi Arabia",earthquake,12.64,1.949,0.08,44.0,reviewed,us,us
 2025-07-29T05:03:58.983Z,51.4276,-177.243,38.444,3.9,mb,86.0,185.0,0.334,0.61,us,us6000qvvt,2025-07-29T07:10:12.040Z,"65 km SW of Adak, Alaska",earthquake,4.16,3.503,0.067,58.0,reviewed,us,us
+2025-07-29T07:38:08.643Z,62.8695,-149.9901,72.2,0.9,ml,,,,0.37,ak,ak0259nf92tc,2025-07-29T07:40:00.519Z,"47 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-07-29T07:14:21.216Z,-57.8152,157.9322,31.77,5.1,mb,42.0,97.0,3.373,0.7,us,us6000qvw7,2025-07-29T07:32:39.040Z,Macquarie Island region,earthquake,10.47,5.752,0.092,38.0,reviewed,us,us
+2025-07-29T06:02:20.644Z,16.6425,41.1884,10.0,4.3,mb,45.0,123.0,3.712,1.45,us,us6000qvvy,2025-07-29T07:24:13.040Z,"99 km W of Farasān, Saudi Arabia",earthquake,13.25,1.949,0.081,44.0,reviewed,us,us
