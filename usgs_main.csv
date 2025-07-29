@@ -663,3 +663,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T13:11:20.058Z,31.71,-104.164,5.9973,1.1,ml,20.0,64.0,0.0,0.1,tx,tx2025ouqzwg,2025-07-29T20:19:47.610Z,"53 km W of Mentone, Texas",earthquake,0.72310619235734,1.2863893847159,0.2,15.0,reviewed,tx,tx
 2025-07-29T04:05:39.670Z,61.314333333333,-152.50283333333,3.49,-0.39,ml,8.0,138.0,0.04917,0.2,av,av93691493,2025-07-29T20:38:13.740Z,"78 km WNW of Tyonek, Alaska",earthquake,1.2,1.22,0.090723562941473,8.0,reviewed,av,av
 2025-07-29T03:31:48.000Z,61.357333333333,-152.258,-0.13,-0.21,ml,8.0,170.0,0.09549,0.11,av,av93691458,2025-07-29T20:24:39.580Z,"67 km WNW of Beluga, Alaska",earthquake,0.34,3.63,0.11408961885527,8.0,reviewed,av,av
+2025-07-29T20:50:22.307Z,31.683,-104.395,7.9709,1.6,ml,19.0,68.0,0.0,0.6,tx,tx2025ovgfjk,2025-07-29T20:52:40.331Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.4990797042847,0.1,13.0,automatic,tx,tx
+2025-07-29T20:43:29.580Z,33.8673333,-117.5066667,1.56,1.15,ml,37.0,55.0,0.04603,0.19,ci,ci41241496,2025-07-29T20:47:04.108Z,"2 km SE of Home Gardens, CA",earthquake,0.26,0.34,0.284,33.0,automatic,ci,ci
+2025-07-29T20:36:13.693Z,-23.6125,-66.7605,187.95,4.4,mb,32.0,57.0,1.46,1.0,us,us6000qw4s,2025-07-29T20:52:11.040Z,"80 km NW of San Antonio de los Cobres, Argentina",earthquake,8.64,7.42,0.115,22.0,reviewed,us,us
+2025-07-29T04:07:27.650Z,52.0845,-176.154,2.07,-0.18,ml,6.0,137.0,0.01712,0.31,av,av93691498,2025-07-29T20:44:15.530Z,"40 km NE of Adak, Alaska",earthquake,0.87,1.52,0.30554622965616,6.0,reviewed,av,av
