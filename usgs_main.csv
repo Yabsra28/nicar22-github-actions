@@ -700,3 +700,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T22:12:14.936Z,38.1482,-115.9955,7.9,1.6,ml,10.0,195.2,0.974,0.2209,nn,nn00901456,2025-07-29T22:15:17.312Z,"60 km NNW of Rachel, Nevada",earthquake,,2.4,0.2,7.0,automatic,nn,nn
 2025-07-29T22:10:00.264Z,36.1816,-115.2528,2.6,1.6,ml,11.0,247.61,0.332,0.359,nn,nn00901455,2025-07-29T22:12:49.309Z,"8 km N of Spring Valley, Nevada",earthquake,,15.6,0.3,9.0,automatic,nn,nn
 2025-07-29T08:49:02.640Z,60.016333333333,-153.07133333333,3.93,-0.68,ml,5.0,94.0,0.02654,0.09,av,av93691908,2025-07-29T22:32:19.800Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.42,1.01,0.4126537333296,5.0,reviewed,av,av
+2025-07-29T22:43:56.893Z,61.5388,-151.2039,4.8,1.0,ml,,,,0.64,ak,ak0259no7r6x,2025-07-29T22:46:21.196Z,"36 km W of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-29T22:42:11.228Z,64.4767,-146.9106,0.0,0.9,ml,,,,0.44,ak,ak0259no7fya,2025-07-29T22:47:38.474Z,"5 km S of Salcha, Alaska",earthquake,,27.1,,,automatic,ak,ak
+2025-07-29T09:53:37.510Z,52.1095,-174.15783333333,12.08,1.36,ml,6.0,334.0,0.09543,0.09,av,av93047464,2025-07-29T22:50:10.260Z,"10 km SSE of Atka, Alaska",earthquake,1.37,0.75,0.47917321609603,5.0,reviewed,av,av
+2025-07-29T09:13:13.030Z,51.763666666667,-177.4975,3.79,0.67,ml,7.0,179.0,0.163,0.21,av,av93691938,2025-07-29T22:43:18.240Z,"60 km WSW of Adak, Alaska",earthquake,2.06,3.14,0.24745273082311,7.0,reviewed,av,av
