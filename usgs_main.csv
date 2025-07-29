@@ -718,3 +718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T23:05:21.944Z,14.1377,-89.8349,10.0,5.4,mww,83.0,117.0,0.24,0.74,us,us6000qw5x,2025-07-29T23:35:49.507Z,"0 km W of Zapotitlán, Guatemala",earthquake,4.37,1.868,0.098,10.0,reviewed,us,us
 2025-07-29T12:32:58.730Z,60.048833333333,-153.086,-1.85,-0.84,ml,5.0,120.0,0.01412,0.08,av,av93692168,2025-07-29T23:22:14.460Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.22,4.8,0.2285659741789,4.0,reviewed,av,av
 2025-07-29T11:51:13.130Z,61.321333333333,-152.24066666667,-1.12,-0.2,ml,11.0,104.0,0.05905,0.11,av,av93692118,2025-07-29T23:28:45.440Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,1.82,0.11873721412358,12.0,reviewed,av,av
+2025-07-29T23:24:50.851Z,52.4732,160.396,19.263,8.0,mww,119.0,71.0,1.196,1.61,us,us6000qw60,2025-07-29T23:50:01.288Z,"136 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.57,4.081,0.089,12.0,reviewed,us,us
