@@ -501,3 +501,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T00:11:22.723Z,31.978,-102.31,4.72,1.0,mlv,9.0,84.0,0.0,0.2,tx,tx2025otrdtb,2025-07-29T11:13:07.672Z,"8 km SE of Gardendale, Texas",earthquake,0.0,1.8448807001114,0.3,7.0,automatic,tx,tx
 2025-07-28T23:59:01.586Z,28.821,-98.95,9.3446,1.9,ml,19.0,89.0,0.2,0.4,tx,tx2025otqtdm,2025-07-29T10:56:41.437Z,"16 km ESE of Pearsall, Texas",earthquake,1.7929613854577,1.0759439020899,0.1,10.0,reviewed,tx,tx
 2025-07-28T20:48:22.728Z,31.966,-102.314,7.9346,1.1,ml,18.0,66.0,0.0,0.2,tx,tx2025otkkuu,2025-07-29T11:09:19.652Z,"8 km SE of Gardendale, Texas",earthquake,0.6236622351632,0.65134992468736,0.1,8.0,reviewed,tx,tx
+2025-07-29T11:24:21.150Z,38.801166534424,-122.8193359375,2.9400000572205,0.75,md,15.0,80.0,0.01088,0.02,nc,nc75216487,2025-07-29T11:27:04.716Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.829999983,0.05,15.0,automatic,nc,nc
+2025-07-29T11:24:17.089Z,36.7009,-116.0365,1.9,-0.4,ml,9.0,138.66,0.049,0.0624,nn,nn00901387,2025-07-29T11:26:21.172Z,"35 km WNW of Indian Springs, Nevada",earthquake,,0.0,0.1,6.0,automatic,nn,nn
+2025-07-29T11:23:01.900Z,38.835166931152,-122.79599761963,2.3599998950958,0.7,md,8.0,101.0,0.005475,0.04,nc,nc75216482,2025-07-29T11:24:39.570Z,"6 km WNW of Cobb, CA",earthquake,0.6,1.54999995,0.23,7.0,automatic,nc,nc
