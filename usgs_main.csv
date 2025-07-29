@@ -550,3 +550,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T20:51:53.848Z,-32.1402,-70.0627,122.918,4.1,mb,32.0,94.0,0.746,0.66,us,us6000qvrv,2025-07-29T14:19:16.040Z,"91 km NNE of Los Andes, Chile",earthquake,5.43,6.521,0.197,7.0,reviewed,us,us
 2025-07-28T20:51:49.335Z,52.8985,161.0604,10.0,4.1,mb,24.0,204.0,1.463,0.47,us,us6000qvxr,2025-07-29T14:15:50.040Z,"164 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,15.66,2.001,0.127,17.0,reviewed,us,us
 2025-07-28T17:32:44.079Z,31.611,-104.004,8.1506,1.0,ml,14.0,58.0,0.0,0.1,tx,tx2025otdxsz,2025-07-29T14:13:17.852Z,"38 km NNW of Toyah, Texas",earthquake,0.52599501158277,0.58623681520338,0.2,14.0,reviewed,tx,tx
+2025-07-29T14:49:38.002Z,28.843,-98.977,5.0,1.8,ml,6.0,145.0,0.2,0.2,tx,tx2025ouugos,2025-07-29T14:52:37.017Z,"12 km ESE of Pearsall, Texas",earthquake,0.0,,0.1,6.0,automatic,tx,tx
+2025-07-29T14:48:22.854Z,40.3711,-119.4012,4.2,1.7,ml,10.0,211.44,0.323,0.1825,nn,nn00901396,2025-07-29T14:51:13.431Z,"23 km SSW of Empire, Nevada",earthquake,,1.3,0.18,5.0,automatic,nn,nn
+2025-07-29T14:32:38.700Z,40.398,-119.4702,13.4,2.3,ml,16.0,215.87,0.303,0.4295,nn,nn00901394,2025-07-29T14:35:36.814Z,"22 km SSW of Empire, Nevada",earthquake,,0.8,0.17,9.0,automatic,nn,nn
+2025-07-29T02:13:47.549Z,31.526,-104.024,6.8689,1.2,ml,26.0,61.0,0.0,0.1,tx,tx2025otvfbi,2025-07-29T14:55:01.003Z,"32 km NW of Toyah, Texas",earthquake,0.71505176092826,0.58003225883171,0.2,26.0,reviewed,tx,tx
