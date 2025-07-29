@@ -434,3 +434,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T04:00:51.620Z,17.921,-66.8635,15.19,2.41,md,12.0,207.0,0.05581,0.12,pr,pr71490898,2025-07-29T04:12:41.970Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.41,0.11654549219387,6.0,reviewed,pr,pr
 2025-07-29T03:58:37.870Z,38.838001251221,-122.87866973877,2.7300000190735,0.77,md,15.0,115.0,0.003742,0.03,nc,nc75216417,2025-07-29T04:01:18.588Z,"13 km E of Cloverdale, CA",earthquake,0.56,0.800000012,0.13,14.0,automatic,nc,nc
 2025-07-28T21:49:50.207Z,42.5225,-111.2444,5.0,3.0,ml,61.0,50.0,0.265,0.47,us,us6000qvsb,2025-07-29T04:47:50.534Z,"11 km ENE of Georgetown, Idaho",earthquake,1.34,1.868,0.032,132.0,reviewed,us,us
+2025-07-29T05:16:02.230Z,32.2241667,-116.5643333,17.16,2.3,ml,33.0,95.0,0.1222,0.18,ci,ci41035183,2025-07-29T05:19:54.596Z,"33 km E of Primo Tapia, B.C., MX",earthquake,0.3,0.7,0.256,27.0,automatic,ci,ci
+2025-07-29T04:58:02.405Z,36.7442,-115.5686,1.2,0.5,ml,18.0,117.42,0.326,0.2335,nn,nn00901380,2025-07-29T05:00:11.336Z,"21 km NNE of Indian Springs, Nevada",earthquake,,30.8,0.27,14.0,automatic,nn,nn
+2025-07-29T04:37:03.552Z,-57.8116,157.8761,35.0,4.6,mb,23.0,104.0,3.374,0.57,us,us6000qvvh,2025-07-29T05:22:29.040Z,Macquarie Island region,earthquake,13.18,1.95,0.158,13.0,reviewed,us,us
+2025-07-28T22:43:13.176Z,40.5029,144.9545,10.0,4.6,mb,48.0,136.0,2.029,0.42,us,us6000qvu4,2025-07-29T04:54:10.040Z,"241 km SE of Hiroo, Japan",earthquake,8.71,1.908,0.098,31.0,reviewed,us,us
