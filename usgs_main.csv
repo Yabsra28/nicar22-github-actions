@@ -465,3 +465,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T07:38:08.643Z,62.8695,-149.9901,72.2,0.9,ml,,,,0.37,ak,ak0259nf92tc,2025-07-29T07:40:00.519Z,"47 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-07-29T07:14:21.216Z,-57.8152,157.9322,31.77,5.1,mb,42.0,97.0,3.373,0.7,us,us6000qvw7,2025-07-29T07:32:39.040Z,Macquarie Island region,earthquake,10.47,5.752,0.092,38.0,reviewed,us,us
 2025-07-29T06:02:20.644Z,16.6425,41.1884,10.0,4.3,mb,45.0,123.0,3.712,1.45,us,us6000qvvy,2025-07-29T07:24:13.040Z,"99 km W of Farasān, Saudi Arabia",earthquake,13.25,1.949,0.081,44.0,reviewed,us,us
+2025-07-29T07:50:56.067Z,60.7317,-147.3381,12.3,1.6,ml,,,,1.06,ak,ak0259nfbr2e,2025-07-29T07:53:35.374Z,"38 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-29T07:50:26.021Z,64.5069,-146.9013,4.5,0.7,ml,,,,0.43,ak,ak0259nfboqy,2025-07-29T07:52:07.141Z,"1 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
