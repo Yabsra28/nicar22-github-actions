@@ -587,3 +587,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T22:45:45.204Z,31.603,-103.957,8.9197,1.3,ml,19.0,55.0,0.0,0.1,tx,tx2025otohny,2025-07-29T16:36:17.277Z,"35 km NNW of Toyah, Texas",earthquake,0.58643213322391,0.73831720350147,0.2,18.0,reviewed,tx,tx
 2025-07-28T20:55:40.260Z,31.604,-103.959,8.8684,1.4,ml,23.0,56.0,0.0,0.1,tx,tx2025otkrcp,2025-07-29T16:41:42.112Z,"35 km NNW of Toyah, Texas",earthquake,0.59052748164166,0.64097586460853,0.2,20.0,reviewed,tx,tx
 2025-07-28T19:26:03.544Z,31.967,-102.308,7.2998,0.7,ml,11.0,68.0,0.0,0.1,tx,tx2025othrwu,2025-07-29T16:31:31.224Z,"9 km SE of Gardendale, Texas",earthquake,0.84791920840188,0.84431969936376,0.1,7.0,reviewed,tx,tx
+2025-07-29T17:07:35.630Z,32.5200005,-115.9045029,7.52,1.48,ml,24.0,112.0,0.128,0.17,ci,ci41035799,2025-07-29T17:09:41.848Z,"25 km SSE of Ocotillo, CA",earthquake,0.34,1.18,0.444,6.0,automatic,ci,ci
+2025-07-29T17:03:34.982Z,63.3281,-151.7363,0.0,1.4,ml,,,,1.07,ak,ak0259nkzyu2,2025-07-29T17:08:38.950Z,"23 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-29T16:42:33.821Z,58.8408,-154.1539,105.5,1.4,ml,,,,0.41,ak,ak0259nkmw2e,2025-07-29T16:45:10.687Z,"75 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-07-29T16:24:24.924Z,9.377,93.9335,10.0,4.9,mb,97.0,45.0,2.549,0.66,us,us6000qw0e,2025-07-29T17:04:31.040Z,"284 km SSE of Port Blair, India",earthquake,7.43,1.857,0.059,88.0,reviewed,us,us
+2025-07-29T16:11:34.494Z,9.3686,93.9905,10.0,5.0,mb,148.0,29.0,2.582,0.61,us,us6000qw06,2025-07-29T16:52:52.040Z,"288 km SSE of Port Blair, India",earthquake,6.64,1.791,0.051,131.0,reviewed,us,us
+2025-07-29T06:04:01.340Z,31.738,-104.128,6.2152,1.2,ml,25.0,61.0,0.0,0.1,tx,tx2025oucvnj,2025-07-29T16:51:37.170Z,"50 km W of Mentone, Texas",earthquake,0.4890306661448,0.60147439405119,0.2,22.0,reviewed,tx,tx
+2025-07-28T23:33:40.360Z,34.123,-118.5065,5.83,1.37,ml,18.0,131.0,0.043,0.15,ci,ci41035039,2025-07-29T17:05:34.660Z,"4 km S of Encino, CA",earthquake,0.29,0.56,0.134,21.0,reviewed,ci,ci
