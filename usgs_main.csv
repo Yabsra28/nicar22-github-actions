@@ -931,3 +931,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T09:33:33.255Z,52.3771,160.4611,10.0,4.7,mb,37.0,132.0,1.278,0.77,us,us6000qwf0,2025-07-30T09:58:20.040Z,"145 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.74,1.926,0.091,36.0,reviewed,us,us
 2025-07-30T05:04:52.359Z,31.794,-103.734,8.0481,1.1,ml,11.0,79.0,0.1,0.1,tx,tx2025ovwphe,2025-07-30T10:28:17.278Z,"16 km NW of Mentone, Texas",earthquake,0.6992524354093,1.4358851200586,0.2,6.0,reviewed,tx,tx
 2025-07-29T21:17:01.372Z,28.845,-98.967,8.8965,1.7,ml,14.0,85.0,0.1,0.2,tx,tx2025ovhckr,2025-07-30T10:03:15.562Z,"13 km ESE of Pearsall, Texas",earthquake,1.388434380544,1.0241339804741,0.2,7.0,reviewed,tx,tx
+2025-07-30T10:42:28.806Z,32.294,-101.328,3.6121,1.5,ml,21.0,88.0,0.1,0.2,tx,tx2025owhume,2025-07-30T10:47:03.958Z,"2 km W of Coahoma, Texas",earthquake,0.0,1.2747415304184,0.1,13.0,automatic,tx,tx
+2025-07-30T10:34:33.510Z,36.0175,-117.8088333,1.53,0.81,ml,23.0,51.0,0.03494,0.12,ci,ci41245632,2025-07-30T10:38:00.272Z,"13 km NE of Little Lake, CA",earthquake,0.14,0.18,0.108,10.0,automatic,ci,ci
+2025-07-30T10:13:00.889Z,52.378,160.472,10.0,5.2,mb,104.0,152.0,1.283,1.34,us,us6000qwft,2025-07-30T10:33:55.040Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.85,1.913,0.044,169.0,reviewed,us,us
+2025-07-30T09:45:13.059Z,52.3305,161.676,10.0,4.5,mb,88.0,121.0,1.969,0.5,us,us6000qwfr,2025-07-30T10:45:32.040Z,"221 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.2,1.868,0.061,79.0,reviewed,us,us
