@@ -836,3 +836,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T01:05:47.301Z,31.625,-104.306,4.3679,1.7,mlv,12.0,172.0,0.1,0.3,tx,tx2025ovorly,2025-07-30T05:09:46.207Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.6622843742371,0.2,9.0,automatic,tx,tx
 2025-07-30T00:57:11.933Z,31.54,-103.999,3.0782,1.8,mlv,10.0,114.0,0.0,0.4,tx,tx2025ovokbt,2025-07-30T05:09:38.037Z,"31 km NW of Toyah, Texas",earthquake,0.0,2.2198100090027,0.3,8.0,automatic,tx,tx
 2025-07-29T23:44:14.457Z,31.51,-104.027,3.3437,1.8,mlv,8.0,173.0,0.0,0.4,tx,tx2025ovlzgh,2025-07-30T05:09:13.036Z,"31 km NW of Toyah, Texas",earthquake,0.0,2.2907955646515,0.2,6.0,automatic,tx,tx
+2025-07-30T05:30:22.042Z,51.3761,159.708,10.0,5.3,mb,89.0,104.0,1.774,1.31,us,us6000qwbi,2025-07-30T05:52:39.040Z,"194 km SSE of Vilyuchinsk, Russia",earthquake,8.76,1.846,0.035,273.0,reviewed,us,us
+2025-07-30T05:27:23.287Z,-38.9356,175.8067,126.102,4.9,mb,33.0,72.0,0.089,1.05,us,us6000qwbf,2025-07-30T05:53:23.212Z,"6 km N of Turangi, New Zealand",earthquake,5.88,6.525,0.14,18.0,reviewed,us,us
+2025-07-30T05:19:31.557Z,51.4485,158.7139,10.0,5.4,mb,88.0,120.0,1.578,0.81,us,us6000qwbb,2025-07-30T05:47:47.196Z,"153 km E of Ozernovskiy, Russia",earthquake,8.28,1.86,0.022,731.0,reviewed,us,us
+2025-07-30T05:09:03.160Z,50.131,157.4479,10.0,5.3,mb,131.0,71.0,2.986,1.23,us,us6000qwb7,2025-07-30T05:33:19.040Z,"111 km ESE of Severo-Kuril’sk, Russia",earthquake,8.25,1.744,0.024,607.0,reviewed,us,us
