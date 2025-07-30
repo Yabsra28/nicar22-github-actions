@@ -1158,3 +1158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T18:34:22.033Z,52.2766,160.3117,28.129,4.6,mb,98.0,144.0,1.259,1.18,us,us6000qwns,2025-07-30T21:11:19.040Z,"143 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.36,6.328,0.051,114.0,reviewed,us,us
 2025-07-30T16:48:50.514Z,31.665,-104.182,4.2029,1.0,ml,12.0,67.0,0.1,0.1,tx,tx2025owtybr,2025-07-30T20:55:51.770Z,"53 km NW of Toyah, Texas",earthquake,0.63100141687409,1.533205464479,0.2,13.0,reviewed,tx,tx
 2025-07-30T12:21:08.960Z,46.193,-122.19366666667,0.42,0.62,ml,16.0,102.0,0.007057,0.16,uw,uw62153672,2025-07-30T21:05:12.020Z,"37 km NNE of Amboy, Washington",earthquake,0.26,0.15,0.35799825580602,10.0,reviewed,uw,uw
+2025-07-30T21:18:40.658Z,59.6698,-155.9545,4.2,2.3,ml,,,,1.26,ak,ak0259pb09xd,2025-07-30T21:20:11.686Z,"38 km N of Igiugig, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-30T21:13:01.574Z,49.5359,158.6827,10.0,5.5,mb,119.0,113.0,3.492,0.78,us,us6000qwqm,2025-07-30T21:33:13.040Z,"222 km SE of Severo-Kuril’sk, Russia",earthquake,8.72,1.852,0.019,994.0,reviewed,us,us
+2025-07-30T20:31:45.080Z,32.125,-101.105,6.1279,2.5,ml,43.0,48.0,0.2,0.1,tx,tx2025oxbigd,2025-07-30T21:26:05.501Z,"24 km E of Forsan, Texas",earthquake,0.5496661147809,2.2376316377956,0.1,21.0,reviewed,tx,tx
+2025-07-30T16:54:25.934Z,53.3616,-163.3409,35.0,3.5,ml,32.0,206.0,1.307,0.87,us,us6000qwnb,2025-07-30T21:32:31.040Z,"166 km S of False Pass, Alaska",earthquake,5.74,2.014,0.081,20.0,reviewed,us,us
