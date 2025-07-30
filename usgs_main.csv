@@ -820,3 +820,19 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T21:33:56.330Z,61.312,-152.4975,3.12,0.74,ml,10.0,119.0,0.04876,0.11,av,av93047499,2025-07-30T04:17:58.380Z,"78 km WNW of Tyonek, Alaska",earthquake,0.45,0.53,0.20676110568136,12.0,reviewed,av,av
 2025-07-29T20:25:38.460Z,46.315666666667,-122.38083333333,13.36,0.22,ml,9.0,193.0,0.02883,0.1,uw,uw62153322,2025-07-30T04:29:41.480Z,"25 km SSE of Mossyrock, Washington",earthquake,0.63,0.66,0.15351334322286,3.0,reviewed,uw,uw
 2025-07-29T18:41:55.320Z,46.202,-122.194,1.52,-0.01,mh,8.0,107.0,0.006172,0.09,uw,uw62153287,2025-07-30T04:19:53.820Z,"37 km NNE of Amboy, Washington",earthquake,1.28,1.1,,0.0,reviewed,uw,uw
+2025-07-30T05:14:01.274Z,31.106,-103.702,5.0511,1.6,ml,14.0,56.0,0.1,0.6,tx,tx2025ovwxeo,2025-07-30T05:16:50.990Z,"14 km NNE of Balmorhea, Texas",earthquake,0.0,3.1603178977966,0.2,9.0,automatic,tx,tx
+2025-07-30T05:08:51.710Z,63.1411,-150.6773,108.3,1.8,ml,,,,0.33,ak,ak0259p1f7xv,2025-07-30T05:12:21.315Z,"68 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-30T05:08:04.910Z,34.5635,-116.2745,3.54,1.65,ml,34.0,48.0,0.1565,0.16,ci,ci41243552,2025-07-30T05:11:54.750Z,"20 km SSW of Ludlow, CA",earthquake,0.18,1.01,0.119,27.0,automatic,ci,ci
+2025-07-30T05:05:08.668Z,50.5743,158.0534,10.0,5.7,mb,114.0,113.0,2.48,1.16,us,us6000qwb4,2025-07-30T05:29:23.040Z,"136 km E of Severo-Kuril’sk, Russia",earthquake,8.53,1.844,0.019,956.0,reviewed,us,us
+2025-07-30T05:00:57.210Z,33.5258333,-116.731,5.26,1.58,ml,74.0,23.0,0.03981,0.2,ci,ci41243400,2025-07-30T05:12:13.810Z,"6 km WSW of Anza, CA",earthquake,0.13,0.42,0.2,26.0,automatic,ci,ci
+2025-07-30T05:00:32.490Z,35.6908333,-117.5356667,6.39,1.27,ml,32.0,51.0,0.0947,0.17,ci,ci41243232,2025-07-30T05:03:58.677Z,"15 km SW of Searles Valley, CA",earthquake,0.2,0.75,0.142,26.0,automatic,ci,ci
+2025-07-30T04:59:34.294Z,51.971,160.0993,10.0,5.1,mb,90.0,119.0,1.377,0.82,us,us6000qwb5,2025-07-30T05:26:49.040Z,"157 km SE of Vilyuchinsk, Russia",earthquake,8.73,1.86,0.045,161.0,reviewed,us,us
+2025-07-30T04:54:18.291Z,51.4067,159.9919,10.0,5.3,mb,154.0,72.0,1.817,1.28,us,us6000qwaz,2025-07-30T05:21:43.040Z,"201 km SSE of Vilyuchinsk, Russia",earthquake,7.3,1.792,0.027,477.0,reviewed,us,us
+2025-07-30T04:48:12.407Z,51.6677,159.1266,22.961,5.1,mb,71.0,120.0,1.389,1.11,us,us6000qwas,2025-07-30T05:10:24.613Z,"148 km SSE of Vilyuchinsk, Russia",earthquake,9.48,5.356,0.025,513.0,reviewed,us,us
+2025-07-30T04:46:49.306Z,16.3393,41.1714,10.0,4.4,mb,33.0,125.0,3.569,1.2,us,us6000qwav,2025-07-30T05:11:00.040Z,"108 km WSW of Farasān, Saudi Arabia",earthquake,12.35,1.954,0.104,27.0,reviewed,us,us
+2025-07-30T04:25:11.257Z,49.3776,156.5083,10.0,5.6,mb,163.0,49.0,3.81,1.14,us,us6000qwah,2025-07-30T05:28:50.821Z,"146 km S of Severo-Kuril’sk, Russia",earthquake,7.54,1.735,0.019,973.0,reviewed,us,us
+2025-07-30T04:24:22.894Z,51.6554,159.3129,10.0,4.9,mb,85.0,115.0,1.429,0.65,us,us6000qwat,2025-07-30T05:30:26.040Z,"154 km SSE of Vilyuchinsk, Russia",earthquake,7.84,1.866,0.04,192.0,reviewed,us,us
+2025-07-30T01:27:08.784Z,31.691,-104.43,10.0864,1.6,mlv,12.0,63.0,0.0,0.6,tx,tx2025ovpjyk,2025-07-30T05:09:53.210Z,"53 km S of Whites City, New Mexico",earthquake,0.0,2.7431039810181,0.2,9.0,automatic,tx,tx
+2025-07-30T01:05:47.301Z,31.625,-104.306,4.3679,1.7,mlv,12.0,172.0,0.1,0.3,tx,tx2025ovorly,2025-07-30T05:09:46.207Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.6622843742371,0.2,9.0,automatic,tx,tx
+2025-07-30T00:57:11.933Z,31.54,-103.999,3.0782,1.8,mlv,10.0,114.0,0.0,0.4,tx,tx2025ovokbt,2025-07-30T05:09:38.037Z,"31 km NW of Toyah, Texas",earthquake,0.0,2.2198100090027,0.3,8.0,automatic,tx,tx
+2025-07-29T23:44:14.457Z,31.51,-104.027,3.3437,1.8,mlv,8.0,173.0,0.0,0.4,tx,tx2025ovlzgh,2025-07-30T05:09:13.036Z,"31 km NW of Toyah, Texas",earthquake,0.0,2.2907955646515,0.2,6.0,automatic,tx,tx
