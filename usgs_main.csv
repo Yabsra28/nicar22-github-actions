@@ -940,3 +940,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T09:48:05.319Z,51.0712,158.3148,37.408,4.5,mb,59.0,137.0,1.966,0.94,us,us6000qwf8,2025-07-30T10:56:14.040Z,"135 km ESE of Ozernovskiy, Russia",earthquake,10.96,7.297,0.071,59.0,reviewed,us,us
 2025-07-30T04:47:25.466Z,32.418,-101.206,3.1468,1.0,mlv,7.0,157.0,0.0,0.3,tx,tx2025ovwamy,2025-07-30T11:12:14.375Z,"16 km NE of Coahoma, Texas",earthquake,0.0,2.6293761730194,0.4,7.0,automatic,tx,tx
 2025-07-29T23:46:18.613Z,32.751,-100.664,3.5375,2.3,mlv,5.0,241.0,0.1,0.2,tx,tx2025ovmbal,2025-07-30T11:11:56.375Z,"15 km NE of Hermleigh, Texas",earthquake,0.0,4.2463574409485,0.4,5.0,automatic,tx,tx
+2025-07-30T11:21:23.730Z,35.4948333,-118.5211667,3.16,1.09,ml,31.0,38.0,0.1719,0.18,ci,ci41245792,2025-07-30T11:24:54.650Z,"11 km SSW of Bodfish, CA",earthquake,0.22,0.72,0.258,13.0,automatic,ci,ci
+2025-07-30T10:57:38.656Z,52.5022,160.6989,10.0,4.6,mb,55.0,119.0,1.35,0.82,us,us6000qwg3,2025-07-30T11:27:35.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.38,1.899,0.071,59.0,reviewed,us,us
+2025-07-30T10:54:00.160Z,50.2753,158.9676,10.0,5.0,mb,151.0,117.0,2.759,0.7,us,us6000qwg0,2025-07-30T11:24:09.040Z,"206 km ESE of Severo-Kuril’sk, Russia",earthquake,8.72,1.867,0.027,446.0,reviewed,us,us
