@@ -1094,3 +1094,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T15:56:19.146Z,50.3233,156.7605,65.8,4.6,mb,103.0,130.0,2.849,0.61,us,us6000qwjt,2025-07-30T17:27:52.040Z,"59 km SE of Severo-Kuril’sk, Russia",earthquake,8.97,6.763,0.038,206.0,reviewed,us,us
 2025-07-30T17:52:05.250Z,38.779666900635,-122.75716400147,0.80000001192093,0.78,md,10.0,67.0,0.01117,0.03,nc,nc75217042,2025-07-30T17:53:43.881Z,"0 km  of The Geysers, CA",earthquake,0.29,0.639999986,0.36,11.0,automatic,nc,nc
 2025-07-30T17:43:42.190Z,17.984333333333,-66.841166666667,17.51,2.3,md,12.0,171.0,0.02843,0.1,pr,pr71491128,2025-07-30T17:54:24.960Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.43,0.48,0.11600097811108,8.0,reviewed,pr,pr
+2025-07-30T18:15:30.008Z,58.7772,-157.1974,0.0,1.6,ml,,,,1.41,ak,ak0259p97b54,2025-07-30T18:17:55.234Z,"11 km WNW of Naknek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-30T18:08:18.380Z,33.2946667,-116.2705,3.56,1.02,ml,32.0,53.0,0.07504,0.22,ci,ci41247552,2025-07-30T18:12:18.069Z,"11 km ENE of Borrego Springs, CA",earthquake,0.25,0.82,0.046,4.0,automatic,ci,ci
+2025-07-30T18:05:37.944Z,51.2175,158.5072,35.0,5.2,mb,90.0,99.0,1.811,1.03,us,us6000qwnd,2025-07-30T18:22:34.040Z,"143 km ESE of Ozernovskiy, Russia",earthquake,8.13,1.893,0.024,574.0,reviewed,us,us
+2025-07-30T18:05:35.154Z,61.2524,-141.7632,14.3,1.3,ml,,,,0.33,ak,ak0259p956dn,2025-07-30T18:07:20.410Z,"65 km ESE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-30T17:58:31.470Z,35.2505,-92.358666666667,6.46,2.27,md,13.0,74.0,0.0693,0.12,nm,nm60611746,2025-07-30T18:20:39.291Z,"3 km NE of Greenbrier, Arkansas",earthquake,0.33,0.75,0.15931629847206,12.0,reviewed,nm,nm
+2025-07-30T17:46:44.396Z,49.576,157.7858,10.0,4.9,mb,177.0,112.0,3.494,0.46,us,us6000qwn4,2025-07-30T18:33:06.040Z,"170 km SE of Severo-Kuril’sk, Russia",earthquake,7.81,1.869,0.037,229.0,reviewed,us,us
+2025-07-30T17:31:38.461Z,50.0045,156.6439,40.266,5.3,mb,198.0,49.0,3.177,0.53,us,us6000qwmy,2025-07-30T17:59:10.040Z,"83 km SSE of Severo-Kuril’sk, Russia",earthquake,8.55,5.081,0.021,748.0,reviewed,us,us
+2025-07-30T17:04:39.687Z,51.7175,160.0972,10.0,4.7,mb,108.0,73.0,1.58,0.69,us,us6000qwlh,2025-07-30T18:20:04.040Z,"177 km SE of Vilyuchinsk, Russia",earthquake,8.61,1.871,0.054,102.0,reviewed,us,us
+2025-07-30T16:54:26.235Z,53.4147,-163.5529,27.2,3.4,ml,,,,0.63,ak,ak0259p88sxe,2025-07-30T18:10:04.923Z,"160 km S of False Pass, Alaska",earthquake,,2.3,,,reviewed,ak,ak
