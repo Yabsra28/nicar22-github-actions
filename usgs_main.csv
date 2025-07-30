@@ -1178,3 +1178,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T07:49:15.163Z,36.7201,-116.3094,8.4,1.3,ml,24.0,90.73,0.013,0.078,nn,nn00901676,2025-07-30T22:03:29.287Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,0.31,7.0,reviewed,nn,nn
 2025-07-30T04:07:14.030Z,59.36,-153.44066666667,-0.27,-0.67,ml,4.0,259.0,0.003327,0.07,av,av93047514,2025-07-30T22:27:34.290Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.48,0.11,0.21947565087651,4.0,reviewed,av,av
 2025-07-30T03:58:42.880Z,51.862666666667,-177.81366666667,7.4,0.07,ml,4.0,251.0,0.04843,0.03,av,av93693438,2025-07-30T22:13:15.040Z,"81 km W of Adak, Alaska",earthquake,0.55,1.26,0.28055980510565,4.0,reviewed,av,av
+2025-07-30T21:51:10.202Z,52.0731,160.4237,10.0,5.6,mb,90.0,98.0,1.442,1.38,us,us6000qwr5,2025-07-30T22:37:10.794Z,"164 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.78,1.768,0.031,361.0,reviewed,us,us
