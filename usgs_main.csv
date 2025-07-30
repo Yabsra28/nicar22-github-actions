@@ -935,3 +935,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T10:34:33.510Z,36.0175,-117.8088333,1.53,0.81,ml,23.0,51.0,0.03494,0.12,ci,ci41245632,2025-07-30T10:38:00.272Z,"13 km NE of Little Lake, CA",earthquake,0.14,0.18,0.108,10.0,automatic,ci,ci
 2025-07-30T10:13:00.889Z,52.378,160.472,10.0,5.2,mb,104.0,152.0,1.283,1.34,us,us6000qwft,2025-07-30T10:33:55.040Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.85,1.913,0.044,169.0,reviewed,us,us
 2025-07-30T09:45:13.059Z,52.3305,161.676,10.0,4.5,mb,88.0,121.0,1.969,0.5,us,us6000qwfr,2025-07-30T10:45:32.040Z,"221 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.2,1.868,0.061,79.0,reviewed,us,us
+2025-07-30T10:52:19.001Z,31.744,-104.133,4.4116,1.9,ml,41.0,44.0,0.0,0.5,tx,tx2025owicyl,2025-07-30T11:01:27.321Z,"50 km W of Mentone, Texas",earthquake,0.0,0.82340013980865,0.2,30.0,automatic,tx,tx
+2025-07-30T10:40:50.563Z,51.4046,159.7561,10.0,4.9,mb,114.0,86.0,1.758,0.92,us,us6000qwfx,2025-07-30T11:05:02.040Z,"193 km SSE of Vilyuchinsk, Russia",earthquake,8.29,1.875,0.049,131.0,reviewed,us,us
+2025-07-30T09:48:05.319Z,51.0712,158.3148,37.408,4.5,mb,59.0,137.0,1.966,0.94,us,us6000qwf8,2025-07-30T10:56:14.040Z,"135 km ESE of Ozernovskiy, Russia",earthquake,10.96,7.297,0.071,59.0,reviewed,us,us
+2025-07-30T04:47:25.466Z,32.418,-101.206,3.1468,1.0,mlv,7.0,157.0,0.0,0.3,tx,tx2025ovwamy,2025-07-30T11:12:14.375Z,"16 km NE of Coahoma, Texas",earthquake,0.0,2.6293761730194,0.4,7.0,automatic,tx,tx
+2025-07-29T23:46:18.613Z,32.751,-100.664,3.5375,2.3,mlv,5.0,241.0,0.1,0.2,tx,tx2025ovmbal,2025-07-30T11:11:56.375Z,"15 km NE of Hermleigh, Texas",earthquake,0.0,4.2463574409485,0.4,5.0,automatic,tx,tx
