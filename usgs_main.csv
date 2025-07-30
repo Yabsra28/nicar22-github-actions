@@ -1163,3 +1163,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T20:31:45.080Z,32.125,-101.105,6.1279,2.5,ml,43.0,48.0,0.2,0.1,tx,tx2025oxbigd,2025-07-30T21:26:05.501Z,"24 km E of Forsan, Texas",earthquake,0.5496661147809,2.2376316377956,0.1,21.0,reviewed,tx,tx
 2025-07-30T16:54:25.934Z,53.3616,-163.3409,35.0,3.5,ml,32.0,206.0,1.307,0.87,us,us6000qwnb,2025-07-30T21:32:31.040Z,"166 km S of False Pass, Alaska",earthquake,5.74,2.014,0.081,20.0,reviewed,us,us
 2025-07-30T21:42:59.682Z,63.9075,-151.1258,13.7,2.0,ml,,,,0.83,ak,ak0259pb5gkw,2025-07-30T21:45:01.400Z,"50 km NE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-30T21:32:33.951Z,49.9941,157.4116,10.0,5.3,mb,72.0,120.0,3.131,0.97,us,us6000qwqr,2025-07-30T21:48:33.040Z,"118 km SE of Severo-Kuril’sk, Russia",earthquake,9.71,1.848,0.034,288.0,reviewed,us,us
+2025-07-30T19:34:05.091Z,51.2114,158.9841,35.0,4.8,mb,79.0,166.0,1.826,0.79,us,us6000qwpg,2025-07-30T21:55:02.040Z,"175 km ESE of Ozernovskiy, Russia",earthquake,9.98,1.951,0.062,79.0,reviewed,us,us
