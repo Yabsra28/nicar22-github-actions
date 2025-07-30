@@ -894,3 +894,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T07:23:21.194Z,44.5532,149.2056,52.315,5.2,mb,94.0,120.0,4.763,0.99,us,us6000qwd6,2025-07-30T07:58:33.040Z,"128 km SE of Kuril’sk, Russia",earthquake,8.93,6.702,0.02,844.0,reviewed,us,us
 2025-07-30T06:49:05.704Z,32.056,-103.063,6.0999,2.0,ml,26.0,64.0,0.2,0.2,tx,tx2025owabhw,2025-07-30T08:07:09.900Z,"13 km ESE of Jal, New Mexico",earthquake,0.58641645287105,1.3586865738365,0.1,14.0,reviewed,tx,tx
 2025-07-30T02:41:48.778Z,49.5845,156.864,10.0,4.7,mb,32.0,115.0,3.567,1.25,us,us6000qwde,2025-07-30T08:06:05.040Z,"132 km SSE of Severo-Kuril’sk, Russia",earthquake,8.89,1.88,0.108,26.0,reviewed,us,us
+2025-07-30T08:26:44.590Z,35.676,-117.5318333,8.72,0.64,ml,18.0,76.0,0.08871,0.12,ci,ci41244840,2025-07-30T08:30:15.703Z,"14 km ENE of Ridgecrest, CA",earthquake,0.24,0.72,0.121,10.0,automatic,ci,ci
+2025-07-30T08:19:36.480Z,62.3178,-149.7001,58.1,1.4,ml,,,,0.53,ak,ak0259p39ugg,2025-07-30T08:46:26.508Z,"19 km NNE of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-07-30T08:18:04.024Z,36.724,-116.2903,13.4,0.4,ml,20.0,78.04,0.063,0.285,nn,nn00901590,2025-07-30T08:20:11.311Z,"46 km ESE of Beatty, Nevada",earthquake,,0.6,0.24,14.0,automatic,nn,nn
+2025-07-30T08:15:48.142Z,36.7135,-116.3051,8.3,0.1,ml,8.0,110.77,0.02,0.0702,nn,nn00901589,2025-07-30T08:17:47.178Z,"45 km ESE of Beatty, Nevada",earthquake,,1.2,0.05,3.0,automatic,nn,nn
+2025-07-30T07:58:21.923Z,51.4298,159.7891,10.0,5.2,mb,89.0,80.0,1.743,1.58,us,us6000qwdk,2025-07-30T08:32:28.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,7.39,1.784,0.024,606.0,reviewed,us,us
+2025-07-30T02:42:46.966Z,49.3213,157.0576,10.0,5.2,mb,101.0,136.0,3.813,0.5,us,us6000qw8c,2025-07-30T08:34:53.040Z,"164 km SSE of Severo-Kuril’sk, Russia",earthquake,9.17,1.88,0.057,102.0,reviewed,us,us
