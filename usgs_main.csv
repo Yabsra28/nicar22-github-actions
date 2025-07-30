@@ -855,3 +855,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T06:43:40.160Z,38.825332641602,-122.79100036621,1.4700000286102,1.08,md,17.0,49.0,0.0145,0.02,nc,nc75216837,2025-07-30T06:45:16.722Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.560000002,0.12,20.0,automatic,nc,nc
 2025-07-30T06:26:11.325Z,51.5969,159.6807,10.0,5.2,mb,83.0,123.0,1.563,1.21,us,us6000qwcc,2025-07-30T06:43:06.040Z,"172 km SSE of Vilyuchinsk, Russia",earthquake,8.35,1.869,0.042,185.0,reviewed,us,us
 2025-07-30T06:21:29.072Z,51.4296,159.5345,10.0,5.3,mb,110.0,77.0,1.686,1.01,us,us6000qwc7,2025-07-30T06:58:38.040Z,"184 km SSE of Vilyuchinsk, Russia",earthquake,7.03,1.84,0.023,646.0,reviewed,us,us
+2025-07-30T07:30:00.245Z,36.7316,-116.3052,3.8,0.2,ml,16.0,86.06,0.051,0.0912,nn,nn00901568,2025-07-30T07:32:09.039Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,0.24,13.0,automatic,nn,nn
+2025-07-30T07:29:14.164Z,36.7105,-116.329,10.8,-0.1,ml,13.0,155.56,0.063,0.2546,nn,nn00901567,2025-07-30T07:31:37.858Z,"44 km ESE of Beatty, Nevada",earthquake,,1.0,0.21,8.0,automatic,nn,nn
+2025-07-30T07:28:13.956Z,60.867,-150.8237,62.4,1.3,ml,,,,0.1,ak,ak0259p2qak3,2025-07-30T07:30:24.884Z,"9 km SW of Point Possession, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-07-30T07:27:52.330Z,36.6854,-116.2753,0.0,-0.1,ml,8.0,143.21,0.065,0.1644,nn,nn00901566,2025-07-30T07:29:59.086Z,"49 km ESE of Beatty, Nevada",earthquake,,2.6,0.48,6.0,automatic,nn,nn
+2025-07-30T07:27:23.050Z,36.7179,-116.3041,8.1,-0.1,ml,17.0,85.21,0.063,0.1721,nn,nn00901565,2025-07-30T07:29:38.897Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.32,11.0,automatic,nn,nn
+2025-07-30T07:20:38.134Z,36.7227,-116.305,11.0,0.5,ml,21.0,85.97,0.058,0.1629,nn,nn00901563,2025-07-30T07:22:40.105Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.22,16.0,automatic,nn,nn
+2025-07-30T07:16:46.847Z,36.7785,-116.2683,0.0,-0.5,ml,9.0,92.0,0.06,0.378,nn,nn00901561,2025-07-30T07:18:37.091Z,"46 km ESE of Beatty, Nevada",earthquake,,2.6,0.43,6.0,automatic,nn,nn
+2025-07-30T07:14:32.593Z,36.7168,-116.3021,7.4,0.5,ml,12.0,127.09,0.065,0.2367,nn,nn00901559,2025-07-30T07:16:47.796Z,"46 km ESE of Beatty, Nevada",earthquake,,1.0,0.32,8.0,automatic,nn,nn
+2025-07-30T07:13:25.023Z,36.7247,-116.3082,7.7,1.7,ml,29.0,66.27,0.055,0.2393,nn,nn00901558,2025-07-30T07:16:14.008Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.26,22.0,automatic,nn,nn
+2025-07-30T07:09:28.338Z,-57.5818,157.2638,10.0,5.0,mb,24.0,156.0,3.231,1.33,us,us6000qwd1,2025-07-30T07:31:58.040Z,Macquarie Island region,earthquake,12.61,1.918,0.118,23.0,reviewed,us,us
+2025-07-30T07:05:41.308Z,59.6179,-152.4621,70.1,1.7,ml,,,,0.4,ak,ak0259p2lf76,2025-07-30T07:07:30.302Z,"39 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-30T06:57:35.595Z,52.2828,160.3887,10.0,5.0,mb,52.0,121.0,1.293,1.05,us,us6000qwcx,2025-07-30T07:27:32.040Z,"147 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.41,1.889,0.042,185.0,reviewed,us,us
+2025-07-30T02:18:29.764Z,50.5892,157.7402,10.0,4.9,mb,60.0,113.0,2.502,0.82,us,us6000qw81,2025-07-30T07:31:05.040Z,"114 km E of Severo-Kuril’sk, Russia",earthquake,8.44,1.872,0.059,92.0,reviewed,us,us
+2025-07-30T02:05:10.072Z,52.0577,160.5584,10.0,5.0,mb,61.0,118.0,1.515,0.68,us,us6000qw7r,2025-07-30T07:16:00.040Z,"172 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.29,1.887,0.069,67.0,reviewed,us,us
+2025-07-30T01:59:24.587Z,52.4692,160.6549,10.0,4.5,mb,56.0,120.0,1.339,0.81,us,us6000qw7t,2025-07-30T07:03:04.040Z,"152 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,4.47,1.879,0.083,43.0,reviewed,us,us
