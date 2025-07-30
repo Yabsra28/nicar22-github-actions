@@ -1152,3 +1152,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T20:02:21.868Z,52.1985,159.7925,36.229,5.0,mb,229.0,73.0,1.081,0.82,us,us6000qwps,2025-07-30T20:49:35.040Z,"124 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.85,6.316,0.026,454.0,reviewed,us,us
 2025-07-30T16:46:30.172Z,31.666,-104.182,6.6125,1.0,ml,19.0,61.0,0.1,0.2,tx,tx2025owtvuu,2025-07-30T20:43:38.706Z,"53 km NW of Toyah, Texas",earthquake,0.69848884845874,1.3447916281364,0.2,18.0,reviewed,tx,tx
 2025-07-30T15:34:31.919Z,31.661,-104.349,8.407,1.2,ml,29.0,69.0,0.1,0.1,tx,tx2025owrmdf,2025-07-30T20:50:31.747Z,"57 km S of Whites City, New Mexico",earthquake,0.65200161913763,0.77725167139271,0.2,25.0,reviewed,tx,tx
+2025-07-30T20:59:29.367Z,31.445,-103.874,5.5482,1.7,ml,9.0,83.0,0.1,0.3,tx,tx2025oxcfze,2025-07-30T21:01:35.548Z,"16 km NNW of Toyah, Texas",earthquake,0.0,2.7495908737183,0.1,7.0,automatic,tx,tx
+2025-07-30T20:51:40.219Z,48.9394,156.4308,10.0,4.9,mb,46.0,171.0,4.25,0.9,us,us6000qwqe,2025-07-30T21:04:47.040Z,"194 km S of Severo-Kuril’sk, Russia",earthquake,7.61,1.94,0.063,79.0,reviewed,us,us
+2025-07-30T19:17:51.993Z,51.5755,159.53,10.0,4.9,mb,84.0,126.0,1.548,0.79,us,us6000qwp9,2025-07-30T20:57:38.040Z,"169 km SSE of Vilyuchinsk, Russia",earthquake,8.14,1.874,0.048,139.0,reviewed,us,us
+2025-07-30T18:34:22.033Z,52.2766,160.3117,28.129,4.6,mb,98.0,144.0,1.259,1.18,us,us6000qwns,2025-07-30T21:11:19.040Z,"143 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.36,6.328,0.051,114.0,reviewed,us,us
+2025-07-30T16:48:50.514Z,31.665,-104.182,4.2029,1.0,ml,12.0,67.0,0.1,0.1,tx,tx2025owtybr,2025-07-30T20:55:51.770Z,"53 km NW of Toyah, Texas",earthquake,0.63100141687409,1.533205464479,0.2,13.0,reviewed,tx,tx
+2025-07-30T12:21:08.960Z,46.193,-122.19366666667,0.42,0.62,ml,16.0,102.0,0.007057,0.16,uw,uw62153672,2025-07-30T21:05:12.020Z,"37 km NNE of Amboy, Washington",earthquake,0.26,0.15,0.35799825580602,10.0,reviewed,uw,uw
