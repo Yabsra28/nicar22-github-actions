@@ -946,3 +946,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T11:38:19.360Z,31.681,-104.4,7.2039,2.0,ml,31.0,69.0,0.0,0.6,tx,tx2025owjqpi,2025-07-30T11:41:46.020Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.0310597419739,0.1,22.0,automatic,tx,tx
 2025-07-30T11:36:25.110Z,38.813167572021,-122.8125,2.6099998950958,1.24,md,30.0,54.0,0.01039,0.03,nc,nc75216892,2025-07-30T11:39:53.770Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.370000005,0.15,31.0,automatic,nc,nc
 2025-07-30T11:10:45.451Z,50.479,158.1173,10.0,4.6,mb,98.0,131.0,2.569,0.54,us,us6000qwga,2025-07-30T11:40:11.040Z,"142 km E of Severo-Kuril’sk, Russia",earthquake,9.0,1.879,0.057,93.0,reviewed,us,us
+2025-07-30T11:51:49.345Z,31.743,-104.133,4.2917,1.6,ml,33.0,41.0,0.0,0.4,tx,tx2025owkcfi,2025-07-30T11:55:37.949Z,"50 km W of Mentone, Texas",earthquake,0.0,0.90353262424469,0.2,25.0,automatic,tx,tx
+2025-07-30T11:47:42.430Z,38.812831878662,-122.813331604,2.7200000286102,0.77,md,19.0,50.0,0.01085,0.02,nc,nc75216902,2025-07-30T11:50:17.073Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.629999995,0.14,19.0,automatic,nc,nc
+2025-07-30T11:26:37.788Z,51.5444,159.6354,10.0,5.1,mb,129.0,80.0,1.6,1.37,us,us6000qwgf,2025-07-30T11:52:08.040Z,"175 km SSE of Vilyuchinsk, Russia",earthquake,7.91,1.79,0.028,412.0,reviewed,us,us
