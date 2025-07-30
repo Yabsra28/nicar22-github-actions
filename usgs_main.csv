@@ -1084,3 +1084,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T16:47:12.789Z,50.4145,159.6984,10.0,5.7,mb,215.0,44.0,2.693,0.78,us,us6000qwlc,2025-07-30T17:15:18.088Z,"254 km E of Severo-Kuril’sk, Russia",earthquake,7.48,1.827,0.019,982.0,reviewed,us,us
 2025-07-30T15:00:53.630Z,37.5695,-121.88633333333,8.54,0.42,md,10.0,142.0,0.06699,0.05,nc,nc75216967,2025-07-30T17:16:27.717Z,"4 km S of Sunol, CA",earthquake,0.44,0.53,0.17,5.0,reviewed,nc,nc
 2025-07-30T09:24:03.747Z,31.675,-104.412,6.0999,1.0,ml,17.0,78.0,0.0,0.1,tx,tx2025owfewu,2025-07-30T17:19:24.930Z,"55 km S of Whites City, New Mexico",earthquake,0.97183849318882,0.59733755307934,0.2,22.0,reviewed,tx,tx
+2025-07-30T17:37:52.995Z,32.358,-102.163,4.7539,1.4,ml,25.0,54.0,0.0,0.5,tx,tx2025owvols,2025-07-30T17:41:47.545Z,"35 km E of McKinney Acres, Texas",earthquake,0.0,1.1331716775894,0.2,12.0,automatic,tx,tx
+2025-07-30T17:37:12.700Z,19.030666351318,-155.37983703613,32.29999923706,2.47,ml,52.0,212.0,0.1465,0.180000007,hv,hv74739832,2025-07-30T17:41:09.700Z,"21 km E of Naalehu, Hawaii",earthquake,0.55,0.879999995,0.68,8.0,automatic,hv,hv
+2025-07-30T17:34:26.860Z,62.1518,-151.2064,75.1,1.4,ml,,,,0.55,ak,ak0259p8pxwe,2025-07-30T17:37:09.617Z,"20 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-30T17:33:51.750Z,36.09,-117.8655,5.92,1.14,ml,21.0,50.0,0.02884,0.12,ci,ci41247400,2025-07-30T17:37:16.713Z,"9 km NE of Coso Junction, CA",earthquake,0.18,0.33,0.342,20.0,automatic,ci,ci
+2025-07-30T17:20:31.210Z,51.465,159.5218,28.337,5.3,mb,180.0,110.0,1.65,0.61,us,us6000qwmb,2025-07-30T17:40:17.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,7.44,5.014,0.028,423.0,reviewed,us,us
+2025-07-30T17:13:57.774Z,52.4397,160.7426,10.0,5.0,mb,168.0,114.0,1.4,0.7,us,us6000qwli,2025-07-30T17:32:46.040Z,"158 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.08,1.679,0.025,516.0,reviewed,us,us
+2025-07-30T16:42:33.638Z,52.2943,160.1415,10.0,4.8,mb,57.0,137.0,1.166,1.06,us,us6000qwla,2025-07-30T17:39:03.040Z,"133 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.86,1.91,0.06,87.0,reviewed,us,us
+2025-07-30T15:56:19.146Z,50.3233,156.7605,65.8,4.6,mb,103.0,130.0,2.849,0.61,us,us6000qwjt,2025-07-30T17:27:52.040Z,"59 km SE of Severo-Kuril’sk, Russia",earthquake,8.97,6.763,0.038,206.0,reviewed,us,us
