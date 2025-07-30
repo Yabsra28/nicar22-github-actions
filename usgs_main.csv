@@ -1182,3 +1182,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T22:51:20.260Z,35.80683517456,-121.31866455078,5.710000038147,2.26,md,30.0,177.0,0.1212,0.1,nc,nc75217122,2025-07-30T22:57:20.869Z,"22 km NNW of San Simeon, CA",earthquake,0.5,1.19000006,0.13,29.0,automatic,nc,nc
 2025-07-30T22:25:59.859Z,49.7642,156.3759,35.0,5.0,mb,81.0,96.0,3.449,0.83,us,us6000qwrb,2025-07-30T22:49:02.040Z,"102 km S of Severo-Kuril’sk, Russia",earthquake,9.78,1.844,0.026,474.0,reviewed,us,us
 2025-07-30T22:16:18.190Z,18.107,-68.260166666667,89.21,3.44,md,18.0,187.0,0.4212,0.22,pr,pr71491158,2025-07-30T22:53:10.730Z,"47 km SE of Boca de Yuma, Dominican Republic",earthquake,1.43,1.06,0.027007819796691,10.0,reviewed,pr,pr
+2025-07-30T23:19:25.919Z,61.3,-152.4407,0.0,1.5,ml,,,,0.83,ak,ak0259pc7aiw,2025-07-30T23:21:21.990Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-30T23:15:15.402Z,61.3003,-152.5093,5.8,2.0,ml,,,,0.8,ak,ak0259pc6g1g,2025-07-30T23:16:52.945Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-30T23:10:49.778Z,37.0102,-116.7745,0.5,1.2,ml,18.0,113.38,0.166,0.4373,nn,nn00901681,2025-07-30T23:13:28.084Z,"11 km N of Beatty, Nevada",earthquake,,7.9,0.24,12.0,automatic,nn,nn
+2025-07-30T23:00:20.970Z,38.787666320801,-122.7679977417,2.6099998950958,1.19,md,25.0,79.0,0.01447,0.03,nc,nc75217127,2025-07-30T23:17:20.015Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.460000008,0.17,27.0,automatic,nc,nc
+2025-07-30T22:56:53.517Z,61.8635,-150.9177,10.4,1.5,ml,,,,0.48,ak,ak0259pbtvqf,2025-07-30T23:00:10.573Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-30T22:53:48.275Z,43.2778,-126.9343,10.0,3.3,ml,18.0,279.0,1.655,0.31,us,us6000qwrj,2025-07-30T23:13:21.729Z,"205 km W of Langlois, Oregon",earthquake,4.17,2.022,0.034,114.0,reviewed,us,us
+2025-07-30T22:48:19.434Z,52.3942,160.3079,10.0,5.1,mb,83.0,127.0,1.189,1.02,us,us6000qwri,2025-07-30T23:08:08.040Z,"135 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.89,1.881,0.042,183.0,reviewed,us,us
+2025-07-30T22:40:49.300Z,32.1334,-101.1058,5.0,2.5,mb_lg,23.0,47.0,0.219,0.41,us,us6000qwre,2025-07-30T23:18:50.040Z,"24 km E of Forsan, Texas",earthquake,1.1,1.966,0.082,40.0,reviewed,us,us
+2025-07-30T21:27:44.023Z,51.2516,159.6428,10.0,4.8,mb,45.0,129.0,1.877,1.15,us,us6000qwqq,2025-07-30T23:27:53.040Z,"205 km SSE of Vilyuchinsk, Russia",earthquake,8.87,1.891,0.059,88.0,reviewed,us,us
+2025-07-30T15:59:43.321Z,52.5594,159.5351,35.0,4.5,mb,30.0,120.0,0.711,0.76,us,us6000qwjw,2025-07-30T23:00:49.040Z,"83 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.61,1.933,0.104,27.0,reviewed,us,us
+2025-07-30T15:43:09.917Z,52.9773,160.7376,10.0,4.5,mb,55.0,117.0,1.263,0.67,us,us6000qwjk,2025-07-30T23:11:08.040Z,"141 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.72,1.878,0.069,61.0,reviewed,us,us
+2025-07-30T15:38:15.967Z,50.6681,160.0491,10.0,4.2,mb,32.0,133.0,2.513,0.59,us,us6000qwjj,2025-07-30T23:17:35.040Z,"265 km ESE of Ozernovskiy, Russia",earthquake,10.86,1.916,0.104,26.0,reviewed,us,us
+2025-07-30T06:18:03.060Z,58.484166666667,-154.42966666667,3.24,0.67,ml,7.0,220.0,0.0622,0.1,av,av93693838,2025-07-30T23:23:50.050Z,"100 km WNW of Aleneva, Alaska",earthquake,1.49,1.4,0.21436348696518,7.0,reviewed,av,av
+2025-07-30T00:35:16.879Z,36.717,-116.3095,6.5,1.7,ml,6.0,206.23,0.015,0.0964,nn,nn00901680,2025-07-30T23:05:39.169Z,"45 km ESE of Beatty, Nevada",earthquake,,2.5,0.0,1.0,reviewed,nn,nn
