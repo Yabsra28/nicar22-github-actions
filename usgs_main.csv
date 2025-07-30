@@ -1092,3 +1092,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T17:13:57.774Z,52.4397,160.7426,10.0,5.0,mb,168.0,114.0,1.4,0.7,us,us6000qwli,2025-07-30T17:32:46.040Z,"158 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.08,1.679,0.025,516.0,reviewed,us,us
 2025-07-30T16:42:33.638Z,52.2943,160.1415,10.0,4.8,mb,57.0,137.0,1.166,1.06,us,us6000qwla,2025-07-30T17:39:03.040Z,"133 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.86,1.91,0.06,87.0,reviewed,us,us
 2025-07-30T15:56:19.146Z,50.3233,156.7605,65.8,4.6,mb,103.0,130.0,2.849,0.61,us,us6000qwjt,2025-07-30T17:27:52.040Z,"59 km SE of Severo-Kuril’sk, Russia",earthquake,8.97,6.763,0.038,206.0,reviewed,us,us
+2025-07-30T17:52:05.250Z,38.779666900635,-122.75716400147,0.80000001192093,0.78,md,10.0,67.0,0.01117,0.03,nc,nc75217042,2025-07-30T17:53:43.881Z,"0 km  of The Geysers, CA",earthquake,0.29,0.639999986,0.36,11.0,automatic,nc,nc
+2025-07-30T17:43:42.190Z,17.984333333333,-66.841166666667,17.51,2.3,md,12.0,171.0,0.02843,0.1,pr,pr71491128,2025-07-30T17:54:24.960Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.43,0.48,0.11600097811108,8.0,reviewed,pr,pr
