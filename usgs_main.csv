@@ -900,3 +900,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T08:15:48.142Z,36.7135,-116.3051,8.3,0.1,ml,8.0,110.77,0.02,0.0702,nn,nn00901589,2025-07-30T08:17:47.178Z,"45 km ESE of Beatty, Nevada",earthquake,,1.2,0.05,3.0,automatic,nn,nn
 2025-07-30T07:58:21.923Z,51.4298,159.7891,10.0,5.2,mb,89.0,80.0,1.743,1.58,us,us6000qwdk,2025-07-30T08:32:28.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,7.39,1.784,0.024,606.0,reviewed,us,us
 2025-07-30T02:42:46.966Z,49.3213,157.0576,10.0,5.2,mb,101.0,136.0,3.813,0.5,us,us6000qw8c,2025-07-30T08:34:53.040Z,"164 km SSE of Severo-Kuril’sk, Russia",earthquake,9.17,1.88,0.057,102.0,reviewed,us,us
+2025-07-30T08:47:49.598Z,52.3941,160.7709,10.0,5.1,mb,97.0,110.0,1.436,1.55,us,us6000qwed,2025-07-30T09:10:49.040Z,"162 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.51,1.847,0.029,397.0,reviewed,us,us
+2025-07-30T08:32:53.607Z,51.6858,159.8584,10.0,4.9,mb,48.0,142.0,1.531,0.97,us,us6000qwe1,2025-07-30T09:02:15.040Z,"170 km SE of Vilyuchinsk, Russia",earthquake,10.61,1.917,0.059,90.0,reviewed,us,us
+2025-07-30T02:59:33.182Z,51.7428,159.3831,35.0,4.9,mb,93.0,125.0,1.359,0.81,us,us6000qw8j,2025-07-30T08:47:31.040Z,"148 km SSE of Vilyuchinsk, Russia",earthquake,8.82,1.914,0.057,97.0,reviewed,us,us
