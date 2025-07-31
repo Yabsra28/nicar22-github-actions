@@ -1479,3 +1479,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T15:59:02.020Z,34.1415,-117.4205,5.59,1.06,ml,51.0,51.0,0.04448,0.19,ci,ci41249456,2025-07-31T16:03:39.911Z,"6 km NE of Fontana, CA",earthquake,0.18,0.62,0.16,29.0,automatic,ci,ci
 2025-07-31T15:52:28.900Z,38.799667358398,-122.75183105469,2.0199999809265,1.11,md,15.0,98.0,0.006232,0.02,nc,nc75217497,2025-07-31T15:54:02.908Z,"3 km NNE of The Geysers, CA",earthquake,0.29,0.629999995,0.17,15.0,automatic,nc,nc
 2025-07-31T07:53:08.950Z,37.161666666667,-113.51016666667,8.51,1.51,ml,12.0,58.0,0.0302,0.25,uu,uu80112971,2025-07-31T16:01:17.500Z,"3 km N of Washington, Utah",earthquake,0.51,0.67,0.15059915444127,3.0,reviewed,uu,uu
+2025-07-31T16:38:20.511Z,63.0975,-152.4197,12.9,1.2,ml,,,,0.69,ak,ak0259qvop5v,2025-07-31T16:40:27.764Z,"60 km SW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T16:38:00.760Z,34.1385,-117.405,5.84,1.97,ml,32.0,50.0,0.04788,0.18,ci,ci41249520,2025-07-31T16:42:00.132Z,"5 km NW of Rialto, CA",earthquake,0.25,0.58,0.444,22.0,automatic,ci,ci
+2025-07-31T16:36:50.810Z,34.1408348,-117.4121704,6.15,3.11,ml,111.0,18.0,0.0467,0.22,ci,ci41249512,2025-07-31T16:42:03.023Z,"5 km NW of Rialto, CA",earthquake,0.21,0.63,0.199,19.0,reviewed,ci,ci
+2025-07-31T16:36:19.980Z,65.4485,-148.2126,10.9,0.9,ml,,,,0.3,ak,ak0259qvo9ou,2025-07-31T16:38:12.907Z,"17 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-31T16:35:25.794Z,60.3454,-152.1122,91.7,1.4,ml,,,,0.36,ak,ak0259qvo2f7,2025-07-31T16:37:08.682Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-31T16:32:24.250Z,34.1551666,-117.411499,5.3,4.35,mw,107.0,27.0,0.03961,0.26,ci,ci41249496,2025-07-31T16:44:56.551Z,"6 km W of Muscoy, CA",earthquake,0.27,0.72,,6.0,reviewed,ci,ci
+2025-07-31T16:29:07.670Z,33.0986667,-117.0353333,9.53,0.87,ml,6.0,112.0,0.2037,0.18,ci,ci41249488,2025-07-31T16:32:31.974Z,"5 km SE of Escondido, CA",earthquake,1.11,11.04,0.425,9.0,automatic,ci,ci
+2025-07-31T16:28:23.990Z,38.838500976562,-122.81283569336,2.0099999904633,0.78,md,15.0,58.0,0.01524,0.02,nc,nc75217507,2025-07-31T16:31:02.995Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.639999986,0.3,16.0,automatic,nc,nc
+2025-07-31T16:24:45.187Z,63.7635,-150.6377,0.8,1.2,ml,,,,0.89,ak,ak0259qvlr1i,2025-07-31T16:26:59.230Z,"59 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-31T16:21:12.116Z,54.5986,-160.163,23.8,3.1,ml,,,,0.68,ak,ak0259qvl18n,2025-07-31T16:35:26.411Z,"84 km SSE of Sand Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-07-31T16:20:51.704Z,63.7674,-150.7122,12.9,1.1,ml,,,,0.77,ak,ak0259qvkwoi,2025-07-31T16:22:58.392Z,"56 km ENE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-31T16:15:19.933Z,63.2499,-151.0859,0.1,1.2,ml,,,,0.4,ak,ak0259qvjrnd,2025-07-31T16:17:17.780Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-31T16:12:43.760Z,38.826831817627,-122.81600189209,2.329999923706,0.79,md,7.0,178.0,0.005763,0.01,nc,nc75217502,2025-07-31T16:14:17.740Z,"8 km NNW of The Geysers, CA",earthquake,0.71,1.23000002,0.21,7.0,automatic,nc,nc
+2025-07-31T08:14:45.970Z,39.515666666667,-111.90533333333,4.18,1.15,ml,13.0,73.0,0.3824,0.27,uu,uu80004283,2025-07-31T16:34:38.010Z,"6 km SW of Levan, Utah",earthquake,0.7,2.78,0.20072900224851,3.0,reviewed,uu,uu
+2025-07-31T02:46:29.600Z,38.8175,-122.82316666667,2.44,0.33,md,25.0,47.0,0.009816,0.03,nc,nc75217237,2025-07-31T16:35:51.011Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.25,0.226,25.0,reviewed,nc,nc
