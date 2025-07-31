@@ -1551,3 +1551,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T19:19:49.291Z,52.86,161.0105,10.0,4.5,mb,38.0,206.0,1.438,0.54,us,us6000qx1v,2025-07-31T19:51:22.040Z,"161 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.34,1.969,0.094,33.0,reviewed,us,us
 2025-07-31T19:18:08.232Z,50.3356,158.5563,10.0,4.8,mb,72.0,134.0,2.692,0.44,us,us6000qx1q,2025-07-31T19:46:02.040Z,"176 km ESE of Severo-Kuril’sk, Russia",earthquake,9.4,1.849,0.041,186.0,reviewed,us,us
 2025-07-31T03:19:30.310Z,48.123666666667,-119.32283333333,0.43,0.83,ml,10.0,61.0,0.235,0.32,uw,uw62154267,2025-07-31T19:49:17.440Z,"22 km WSW of Nespelem Community, Washington",earthquake,0.59,23.05,0.13028019262328,8.0,reviewed,uw,uw
+2025-07-31T20:05:22.420Z,38.836666107178,-122.79699707031,1.7599999904633,0.36,md,7.0,155.0,0.00548,0.01,nc,nc75217577,2025-07-31T20:06:59.603Z,"7 km WNW of Cobb, CA",earthquake,0.59,1.47000003,0.16,8.0,automatic,nc,nc
+2025-07-31T19:57:04.510Z,34.142,-117.4096667,5.29,1.35,ml,49.0,30.0,0.04872,0.17,ci,ci41249856,2025-07-31T20:08:01.770Z,"5 km NW of Rialto, CA",earthquake,0.16,0.35,0.218,10.0,automatic,ci,ci
+2025-07-31T19:40:35.063Z,49.1843,157.5635,10.0,4.4,mb,24.0,140.0,3.905,0.51,us,us6000qx1y,2025-07-31T19:56:51.040Z,"195 km SSE of Severo-Kuril’sk, Russia",earthquake,11.86,1.954,0.123,19.0,reviewed,us,us
+2025-07-31T18:22:16.369Z,49.9346,157.5178,10.0,4.6,mb,64.0,118.0,3.173,1.04,us,us6000qx0m,2025-07-31T20:08:15.040Z,"128 km SE of Severo-Kuril’sk, Russia",earthquake,10.82,1.878,0.043,158.0,reviewed,us,us
