@@ -1358,3 +1358,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T06:49:32.645Z,-23.3801,178.8636,570.438,5.0,mb,64.0,77.0,5.658,0.8,us,us6000qwut,2025-07-31T07:05:56.040Z,south of the Fiji Islands,earthquake,12.81,8.946,0.04,202.0,reviewed,us,us
 2025-07-31T06:36:15.660Z,52.52,159.379,52.919,4.8,mb,82.0,111.0,0.671,1.07,us,us6000qwur,2025-07-31T07:28:03.040Z,"78 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.41,6.618,0.029,377.0,reviewed,us,us
 2025-07-30T21:41:40.510Z,60.469333333333,-152.7915,0.99,-0.4,ml,6.0,135.0,0.02781,0.22,av,av93695533,2025-07-31T07:01:46.010Z,"77 km NW of Ninilchik, Alaska",earthquake,0.58,0.66,0.23584389376598,6.0,reviewed,av,av
+2025-07-31T07:40:52.337Z,59.8631,-147.8114,23.7,1.6,ml,,,,0.9,ak,ak0259qqcalt,2025-07-31T07:46:10.764Z,"25 km SSE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-31T07:37:36.752Z,62.8901,-150.4446,90.6,2.2,ml,,,,0.23,ak,ak0259qqbm97,2025-07-31T07:39:43.827Z,"46 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-31T07:33:07.285Z,60.4108,-148.0334,18.4,1.8,ml,,,,0.31,ak,ak0259qqap48,2025-07-31T07:35:20.161Z,"38 km N of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T07:22:52.646Z,63.9093,-148.3155,96.1,1.5,ml,,,,1.62,ak,ak0259qq8fqo,2025-07-31T07:35:29.821Z,"32 km E of Healy, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2025-07-31T07:21:40.909Z,49.2332,157.8546,10.0,5.2,mb,113.0,61.0,3.828,0.94,us,us6000qwv7,2025-07-31T07:43:21.040Z,"202 km SE of Severo-Kuril’sk, Russia",earthquake,6.1,1.804,0.02,797.0,reviewed,us,us
+2025-07-31T06:22:06.415Z,-6.65,130.5304,84.542,4.4,mb,24.0,74.0,2.204,0.9,us,us6000qwup,2025-07-31T07:35:24.040Z,"270 km WSW of Tual, Indonesia",earthquake,6.49,9.077,0.131,17.0,reviewed,us,us
