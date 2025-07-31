@@ -1561,3 +1561,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T20:24:25.640Z,36.37833404541,-121.22566986084,2.5499999523163,1.86,md,12.0,52.0,0.04268,0.05,nc,nc75217582,2025-07-31T20:35:33.893Z,"7 km NNE of Greenfield, CA",earthquake,0.35,0.670000017,0.26,12.0,automatic,nc,nc
 2025-07-31T20:00:21.090Z,19.3568,-64.8046,63.0,3.6,md,10.0,286.0,0.9599,0.22,pr,pr2025212001,2025-07-31T20:23:59.441Z,"113 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.83,6.65,0.08,6.0,reviewed,pr,pr
 2025-07-31T18:07:25.994Z,51.3809,159.5177,10.0,4.4,mb,40.0,158.0,1.73,0.96,us,us6000qx0c,2025-07-31T20:26:08.040Z,"188 km SSE of Vilyuchinsk, Russia",earthquake,9.43,1.934,0.069,60.0,reviewed,us,us
+2025-07-31T20:52:17.588Z,61.5974,-149.8718,40.5,1.4,ml,,,,0.42,ak,ak0259qy5fdq,2025-07-31T20:54:08.080Z,"4 km SW of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-07-31T20:47:34.650Z,41.166667938232,-124.37300109863,10.489999771118,1.9,md,7.0,295.0,0.2642,0.04,nc,nc75217597,2025-07-31T20:49:14.008Z,"23 km NW of Trinidad, CA",earthquake,4.5,1.92999995,0.11,7.0,automatic,nc,nc
+2025-07-31T20:36:03.277Z,52.7008,160.7961,10.0,5.7,mww,124.0,78.0,1.341,0.99,us,us6000qx2r,2025-07-31T20:52:11.040Z,"151 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.12,1.856,0.071,19.0,reviewed,us,us
+2025-07-31T20:10:20.747Z,51.5203,160.2421,10.0,4.3,mb,21.0,244.0,1.795,0.49,us,us6000qx2d,2025-07-31T20:42:14.040Z,"201 km SE of Vilyuchinsk, Russia",earthquake,12.22,2.0,0.138,15.0,reviewed,us,us
+2025-07-31T02:52:11.400Z,46.902333333333,-112.6475,11.24,0.45,ml,8.0,125.0,0.01347,0.06,mb,mb90104813,2025-07-31T20:43:03.350Z,"6 km SSE of Lincoln, Montana",earthquake,0.59,0.49,0.12535706472429,5.0,reviewed,mb,mb
