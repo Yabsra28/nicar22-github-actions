@@ -1371,3 +1371,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T08:09:14.710Z,35.9706667,-117.4888333,6.43,1.17,ml,30.0,45.0,0.08714,0.16,ci,ci41249192,2025-07-31T08:12:40.051Z,"24 km NNW of Searles Valley, CA",earthquake,0.19,0.5,0.175,22.0,automatic,ci,ci
 2025-07-31T08:04:13.072Z,40.0923,-119.6777,14.3,1.3,ml,11.0,130.95,0.088,0.2247,nn,nn00901732,2025-07-31T08:06:50.573Z,"17 km NNW of Sutcliffe, Nevada",earthquake,,1.0,0.46,6.0,automatic,nn,nn
 2025-07-31T07:42:38.478Z,49.8822,157.446,10.0,5.6,mb,132.0,58.0,3.234,0.95,us,us6000qwvb,2025-07-31T08:14:12.412Z,"128 km SE of Severo-Kuril’sk, Russia",earthquake,8.24,1.787,0.02,862.0,reviewed,us,us
+2025-07-31T08:45:20.480Z,33.9233333,-116.0838333,0.12,1.2,ml,42.0,43.0,0.07451,0.21,ci,ci41249200,2025-07-31T08:53:02.505Z,"24 km S of Twentynine Palms, CA",earthquake,0.2,0.45,0.122,27.0,automatic,ci,ci
+2025-07-31T08:42:49.860Z,38.841167449951,-122.80982971191,1.7300000190735,0.96,md,13.0,51.0,0.01546,0.02,nc,nc75217342,2025-07-31T08:44:27.261Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.75999999,0.07,13.0,automatic,nc,nc
