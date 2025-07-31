@@ -1555,3 +1555,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T19:57:04.510Z,34.142,-117.4096667,5.29,1.35,ml,49.0,30.0,0.04872,0.17,ci,ci41249856,2025-07-31T20:08:01.770Z,"5 km NW of Rialto, CA",earthquake,0.16,0.35,0.218,10.0,automatic,ci,ci
 2025-07-31T19:40:35.063Z,49.1843,157.5635,10.0,4.4,mb,24.0,140.0,3.905,0.51,us,us6000qx1y,2025-07-31T19:56:51.040Z,"195 km SSE of Severo-Kuril’sk, Russia",earthquake,11.86,1.954,0.123,19.0,reviewed,us,us
 2025-07-31T18:22:16.369Z,49.9346,157.5178,10.0,4.6,mb,64.0,118.0,3.173,1.04,us,us6000qx0m,2025-07-31T20:08:15.040Z,"128 km SE of Severo-Kuril’sk, Russia",earthquake,10.82,1.878,0.043,158.0,reviewed,us,us
+2025-07-31T20:36:33.830Z,33.5265,-116.4496667,3.51,0.97,ml,42.0,56.0,0.1313,0.19,ci,ci41249888,2025-07-31T20:40:12.392Z,"20 km SW of La Quinta, CA",earthquake,0.16,0.54,0.169,30.0,automatic,ci,ci
+2025-07-31T20:35:31.920Z,38.814334869385,-122.81700134277,2.6300001144409,1.16,md,25.0,50.0,0.01054,0.02,nc,nc75217587,2025-07-31T20:37:08.776Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.400000006,0.15,28.0,automatic,nc,nc
+2025-07-31T20:26:04.059Z,63.1847,-150.44,116.9,3.0,ml,,,,0.6,ak,ak0259qxztn7,2025-07-31T20:27:58.017Z,"75 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-31T20:24:25.640Z,36.37833404541,-121.22566986084,2.5499999523163,1.86,md,12.0,52.0,0.04268,0.05,nc,nc75217582,2025-07-31T20:35:33.893Z,"7 km NNE of Greenfield, CA",earthquake,0.35,0.670000017,0.26,12.0,automatic,nc,nc
+2025-07-31T20:00:21.090Z,19.3568,-64.8046,63.0,3.6,md,10.0,286.0,0.9599,0.22,pr,pr2025212001,2025-07-31T20:23:59.441Z,"113 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.83,6.65,0.08,6.0,reviewed,pr,pr
+2025-07-31T18:07:25.994Z,51.3809,159.5177,10.0,4.4,mb,40.0,158.0,1.73,0.96,us,us6000qx0c,2025-07-31T20:26:08.040Z,"188 km SSE of Vilyuchinsk, Russia",earthquake,9.43,1.934,0.069,60.0,reviewed,us,us
