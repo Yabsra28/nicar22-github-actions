@@ -1397,3 +1397,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T22:44:08.486Z,28.801,-98.927,4.7277,1.7,ml,20.0,91.0,0.2,0.3,tx,tx2025oxfsjd,2025-07-31T11:24:04.041Z,"19 km ESE of Pearsall, Texas",earthquake,1.9793835208151,1.7977776418634,0.1,9.0,reviewed,tx,tx
 2025-07-31T11:27:21.880Z,38.789665222168,-122.77166748047,3.5999999046326,0.71,md,15.0,80.0,0.01318,0.02,nc,nc75217382,2025-07-31T11:28:56.579Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.75,0.37,16.0,automatic,nc,nc
 2025-07-30T12:14:47.450Z,31.966,-102.314,7.3486,0.6,ml,8.0,81.0,0.0,0.1,tx,tx2025owkwad,2025-07-31T11:34:15.156Z,"8 km SE of Gardendale, Texas",earthquake,0.82445138978178,0.79605912302173,0.1,6.0,reviewed,tx,tx
+2025-07-31T11:47:57.370Z,33.2706667,-116.416,5.56,0.36,ml,24.0,75.0,0.002645,0.16,ci,ci41249256,2025-07-31T11:52:18.768Z,"4 km WNW of Borrego Springs, CA",earthquake,0.21,0.57,0.076,5.0,automatic,ci,ci
+2025-07-31T11:44:34.120Z,33.2678333,-116.4195,4.78,0.69,ml,36.0,39.0,0.001994,0.21,ci,ci41249248,2025-07-31T11:48:00.002Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.34,0.197,16.0,automatic,ci,ci
+2025-07-31T11:40:04.150Z,60.207,-153.3424,143.6,1.0,ml,,,,0.57,ak,ak0259qspxb3,2025-07-31T11:42:14.752Z,"54 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
