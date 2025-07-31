@@ -1511,3 +1511,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T13:13:29.800Z,44.755333333333,-110.77883333333,5.47,1.44,ml,16.0,89.0,0.06081,0.17,uu,uu80112976,2025-07-31T17:17:05.480Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.31,1.65,0.42788341375999,3.0,reviewed,uu,uu
 2025-07-31T11:43:10.820Z,37.334166666667,-121.691,8.5,0.9,md,22.0,43.0,0.03931,0.05,nc,nc75217387,2025-07-31T17:33:40.139Z,"13 km ESE of Alum Rock, CA",earthquake,0.22,0.28,0.308,17.0,reviewed,nc,nc
 2025-07-30T23:17:11.400Z,61.310666666667,-152.496,3.04,0.68,ml,11.0,119.0,0.04816,0.08,av,av93695623,2025-07-31T17:26:11.070Z,"77 km WNW of Tyonek, Alaska",earthquake,0.38,0.4,0.32656956546891,13.0,reviewed,av,av
+2025-07-31T17:33:48.430Z,33.2705,-116.4293333,4.37,0.89,ml,38.0,55.0,0.01045,0.24,ci,ci41249632,2025-07-31T17:46:21.386Z,"5 km WNW of Borrego Springs, CA",earthquake,0.23,0.5,0.131,18.0,reviewed,ci,ci
+2025-07-31T17:05:50.872Z,51.8048,158.7624,53.333,4.2,mb,37.0,153.0,1.223,1.03,us,us6000qwzs,2025-07-31T17:41:41.040Z,"127 km S of Vilyuchinsk, Russia",earthquake,8.93,9.44,0.064,68.0,reviewed,us,us
