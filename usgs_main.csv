@@ -1291,3 +1291,23 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T07:22:47.425Z,36.7219,-116.3065,8.0,-0.4,ml,22.0,118.93,0.027,0.0811,nn,nn00901705,2025-07-31T03:11:21.519Z,"45 km ESE of Beatty, Nevada",earthquake,,0.8,0.25,5.0,reviewed,nn,nn
 2025-07-30T07:20:58.111Z,36.7227,-116.3064,7.8,-0.2,ml,14.0,130.97,0.032,0.0677,nn,nn00901704,2025-07-31T03:04:58.718Z,"45 km ESE of Beatty, Nevada",earthquake,,1.0,0.15,2.0,reviewed,nn,nn
 2025-07-30T07:18:20.290Z,36.7279,-116.3018,7.8,-0.4,ml,24.0,203.55,0.021,0.0612,nn,nn00901703,2025-07-31T02:58:40.175Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,0.28,7.0,reviewed,nn,nn
+2025-07-31T04:26:48.980Z,38.812831878662,-122.81600189209,0.5,1.07,md,24.0,52.0,0.01103,0.02,nc,nc75217267,2025-07-31T04:28:24.100Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.340000004,0.12,27.0,automatic,nc,nc
+2025-07-31T04:26:16.490Z,61.6747,-150.5444,3.9,2.4,ml,,,,0.52,ak,ak0259qogx04,2025-07-31T04:27:48.136Z,"14 km N of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T04:20:01.863Z,60.9025,-151.0434,17.7,1.2,ml,,,,0.78,ak,ak0259qoflkq,2025-07-31T04:22:32.967Z,"19 km SSE of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T04:19:10.616Z,31.631,-104.485,3.7482,1.6,ml,19.0,130.0,0.0,0.6,tx,tx2025oxquyn,2025-07-31T04:22:08.982Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.4992572069168,0.2,14.0,automatic,tx,tx
+2025-07-31T04:18:52.750Z,38.835498809815,-122.80016326904,1.9199999570847,0.23,md,10.0,74.0,0.008201,0.01,nc,nc75217262,2025-07-31T04:20:29.995Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.850000024,0.09,10.0,automatic,nc,nc
+2025-07-31T04:13:52.317Z,61.5753,-150.5893,24.7,1.2,ml,,,,0.54,ak,ak0259qoe7gf,2025-07-31T04:16:01.911Z,"5 km NW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-31T04:07:02.092Z,51.3893,159.4718,10.0,4.9,mb,66.0,121.0,1.713,1.08,us,us6000qwu0,2025-07-31T04:28:48.040Z,"186 km SSE of Vilyuchinsk, Russia",earthquake,8.11,1.88,0.044,161.0,reviewed,us,us
+2025-07-31T03:56:07.270Z,18.051,-66.6125,18.78,3.22,md,28.0,79.0,0.0101,0.19,pr,pr71491198,2025-07-31T04:13:57.130Z,"4 km NNE of Ponce, Puerto Rico",earthquake,0.36,0.31,0.034512924907398,7.0,reviewed,pr,pr
+2025-07-31T03:52:53.590Z,34.2,-117.4308333,7.85,1.06,ml,60.0,37.0,0.007899,0.18,ci,ci41249064,2025-07-31T03:56:18.090Z,"4 km SW of Devore, CA",earthquake,0.15,0.32,0.141,26.0,automatic,ci,ci
+2025-07-31T03:48:55.813Z,50.1717,156.8738,35.0,4.6,mb,62.0,127.0,2.985,1.17,us,us6000qwty,2025-07-31T04:17:01.040Z,"77 km SE of Severo-Kuril’sk, Russia",earthquake,9.12,1.921,0.036,226.0,reviewed,us,us
+2025-07-31T03:46:51.826Z,-24.6439,179.804,500.836,4.6,mb,41.0,121.0,7.056,1.0,us,us6000qwtw,2025-07-31T04:05:54.040Z,south of the Fiji Islands,earthquake,14.8,9.367,0.069,63.0,reviewed,us,us
+2025-07-31T03:46:33.394Z,60.6875,-150.2531,36.5,1.5,ml,,,,0.75,ak,ak0259qnzt0r,2025-07-31T03:48:15.770Z,"32 km NW of Cooper Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-31T03:44:35.780Z,37.062168121338,-121.48566436768,6.8699998855591,1.29,md,12.0,95.0,0.04395,0.18,nc,nc75217257,2025-07-31T04:17:22.142Z,"10 km ENE of Gilroy, CA",earthquake,0.75,1.75999999,0.18,8.0,automatic,nc,nc
+2025-07-31T03:40:34.390Z,66.1844,-157.3152,10.0,1.2,ml,,,,0.44,ak,ak0259qnyisv,2025-07-31T03:46:15.633Z,"68 km NW of Huslia, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T03:27:35.310Z,50.4385,157.9536,10.0,4.6,mb,64.0,88.0,2.625,1.15,us,us6000qwts,2025-07-31T03:56:48.040Z,"132 km ESE of Severo-Kuril’sk, Russia",earthquake,8.15,1.878,0.049,123.0,reviewed,us,us
+2025-07-31T01:16:47.751Z,50.2115,158.0462,10.0,4.2,mb,39.0,227.0,2.841,0.67,us,us6000qwsr,2025-07-31T03:49:18.040Z,"145 km ESE of Severo-Kuril’sk, Russia",earthquake,10.76,1.976,0.091,34.0,reviewed,us,us
+2025-07-31T00:46:06.264Z,51.531,159.7726,10.0,4.8,mb,40.0,173.0,1.646,1.46,us,us6000qwsg,2025-07-31T04:23:12.040Z,"181 km SSE of Vilyuchinsk, Russia",earthquake,9.81,1.933,0.064,76.0,reviewed,us,us
+2025-07-31T00:36:08.993Z,50.2225,158.855,10.0,4.5,mb,52.0,134.0,2.808,1.14,us,us6000qwsh,2025-07-31T04:05:57.040Z,"200 km ESE of Severo-Kuril’sk, Russia",earthquake,10.26,1.903,0.078,49.0,reviewed,us,us
+2025-07-31T00:33:09.990Z,50.2862,158.6503,10.0,4.5,mb,36.0,181.0,9.939,0.73,us,us6000qwsf,2025-07-31T03:58:37.040Z,"184 km ESE of Severo-Kuril’sk, Russia",earthquake,13.98,1.968,0.078,48.0,reviewed,us,us
+2025-07-31T00:32:49.721Z,13.9894,-89.8808,10.0,4.0,mb,18.0,147.0,0.131,1.13,us,us6000qwsc,2025-07-31T03:46:47.040Z,"8 km NNW of Ahuachapán, El Salvador",earthquake,4.08,1.975,0.164,10.0,reviewed,us,us
