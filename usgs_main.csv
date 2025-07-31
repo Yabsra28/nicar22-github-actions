@@ -1378,3 +1378,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T09:22:58.330Z,32.899,-116.2595,7.74,0.7,ml,31.0,90.0,0.0666,0.2,ci,ci41249208,2025-07-31T09:27:08.105Z,"27 km ENE of Pine Valley, CA",earthquake,0.27,0.72,0.237,9.0,automatic,ci,ci
 2025-07-31T09:15:29.116Z,61.6492,-150.6027,7.8,1.0,ml,,,,0.4,ak,ak0259qrdr4f,2025-07-31T09:17:17.183Z,"12 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-31T08:18:36.686Z,-5.4288,146.0565,59.026,4.6,mb,33.0,136.0,3.608,0.54,us,us6000qwvk,2025-07-31T09:28:57.040Z,"37 km SE of Madang, Papua New Guinea",earthquake,11.03,7.853,0.066,68.0,reviewed,us,us
+2025-07-31T09:53:45.429Z,32.009,-103.799,9.7828,1.6,ml,21.0,85.0,0.0,0.5,tx,tx2025oybxjn,2025-07-31T10:00:21.836Z,"35 km SE of Malaga, New Mexico",earthquake,0.0,2.285843372345,0.2,15.0,automatic,tx,tx
+2025-07-31T09:52:54.350Z,34.5691667,-118.166,6.38,0.63,ml,20.0,93.0,0.04311,0.1,ci,ci41249224,2025-07-31T09:56:26.950Z,"6 km WSW of Palmdale, CA",earthquake,0.21,0.34,0.176,14.0,automatic,ci,ci
+2025-07-31T09:10:55.974Z,52.0439,160.4564,10.0,5.3,mb,105.0,77.0,1.476,1.26,us,usd0013iej,2025-07-31T10:04:36.040Z,"168 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.19,1.81,0.027,465.0,reviewed,us,us
+2025-07-31T04:41:22.841Z,31.881,-102.419,4.0771,1.2,ml,22.0,63.0,0.1,0.2,tx,tx2025oxroem,2025-07-31T10:12:04.670Z,"6 km NW of Odessa, Texas",earthquake,0.78898675066094,1.484060408199,0.2,13.0,reviewed,tx,tx
