@@ -1437,3 +1437,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T23:34:02.030Z,44.341833333333,-115.02133333333,6.54,1.4,ml,14.0,78.0,0.04233,0.17,mb,mb90104568,2025-07-31T13:52:52.620Z,"15 km NNW of Stanley, Idaho",earthquake,0.41,0.88,0.22457821844591,16.0,reviewed,mb,mb
 2025-07-30T23:10:41.089Z,31.683,-104.408,5.7922,0.8,ml,13.0,68.0,0.0,0.1,tx,tx2025oxgpfh,2025-07-31T13:53:32.406Z,"54 km S of Whites City, New Mexico",earthquake,1.1156426109687,0.7969248231795,0.2,12.0,reviewed,tx,tx
 2025-07-30T16:24:21.890Z,32.751,-100.664,7.6416,0.9,ml,10.0,79.0,0.1,0.2,tx,tx2025owtdbz,2025-07-31T13:23:58.237Z,"15 km NE of Hermleigh, Texas",earthquake,1.3266883854345,1.9838879363499,0.2,8.0,reviewed,tx,tx
+2025-07-31T13:53:52.723Z,61.8099,-150.5078,29.3,1.5,ml,,,,0.52,ak,ak0259qtzoko,2025-07-31T13:56:15.407Z,"25 km WNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-31T13:39:07.408Z,52.2825,160.4674,10.0,5.4,mb,92.0,121.0,1.333,1.0,us,us6000qwxr,2025-07-31T14:03:27.396Z,"151 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.61,1.868,0.022,735.0,reviewed,us,us
+2025-07-31T08:09:45.034Z,31.629,-104.302,6.5613,0.9,ml,19.0,68.0,0.1,0.1,tx,tx2025oxylta,2025-07-31T14:11:08.008Z,"59 km NW of Toyah, Texas",earthquake,0.86990966675228,0.96901751168984,0.1,14.0,reviewed,tx,tx
+2025-07-31T03:09:14.140Z,43.7595,-115.76333333333,4.99,1.28,ml,7.0,118.0,0.3475,0.17,mb,mb90104653,2025-07-31T14:05:51.060Z,"9 km SE of Idaho City, Idaho",earthquake,0.51,12.45,0.18140505682358,10.0,reviewed,mb,mb
+2025-07-31T02:40:22.542Z,31.562,-104.176,7.074,1.1,ml,25.0,63.0,0.0,0.1,tx,tx2025oxnnxk,2025-07-31T14:16:52.079Z,"45 km NW of Toyah, Texas",earthquake,0.7546356816765,0.76349351865086,0.1,19.0,reviewed,tx,tx
+2025-07-30T18:08:56.909Z,36.251,-95.80966667,0.0,1.32,ml,65.0,112.0,0.3401332543,0.65,ok,ok2025ovbo,2025-07-31T14:09:51.319Z,"4 km ESE of Owasso, Oklahoma",quarry blast,,0.7,0.19,26.0,reviewed,ok,ok
+2025-07-30T16:25:12.669Z,34.3115,-96.41133333,0.0,1.37,ml,45.0,231.0,0.1682669803,0.5,ok,ok2025ouyd,2025-07-31T14:17:43.806Z,"7 km S of Wapanucka, Oklahoma",quarry blast,,1.0,0.24,14.0,reviewed,ok,ok
