@@ -1590,3 +1590,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T21:44:23.335Z,63.1673,-152.6239,14.1,1.1,ml,,,,0.36,ak,ak0259qyp5p9,2025-07-31T21:46:17.196Z,"61 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-31T21:42:53.620Z,33.6993333,-116.713,17.61,0.83,ml,25.0,74.0,0.1123,0.13,ci,ci41249952,2025-07-31T21:46:20.932Z,"5 km S of Idyllwild, CA",earthquake,0.23,0.5,0.163,23.0,automatic,ci,ci
 2025-07-31T17:33:38.580Z,47.515166666667,-122.788,19.58,0.45,md,6.0,249.0,0.05503,0.05,uw,uw62154672,2025-07-31T21:45:06.580Z,"6 km W of Gorst, Washington",earthquake,0.58,0.43,0.092895609853273,5.0,reviewed,uw,uw
+2025-07-31T22:04:44.720Z,38.842498779297,-122.8253326416,1.75,0.7,md,12.0,101.0,0.008839,0.02,nc,nc75217632,2025-07-31T22:06:19.413Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.819999993,0.17,13.0,automatic,nc,nc
+2025-07-31T22:03:15.583Z,35.6548,-114.6697,9.1,2.1,ml,10.0,313.44,0.937,0.3717,nn,nn00901818,2025-07-31T22:06:10.897Z,"15 km ESE of Nelson, Nevada",earthquake,,2.6,0.28,8.0,automatic,nn,nn
+2025-07-31T21:58:15.819Z,57.9833,-156.3354,143.3,1.1,ml,,,,0.43,ak,ak0259qys559,2025-07-31T22:00:51.869Z,"66 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-31T21:51:09.140Z,33.8201667,-117.4886667,2.15,1.64,ml,47.0,32.0,0.03646,0.21,ci,ci41249968,2025-07-31T21:56:43.999Z,"7 km SSE of Home Gardens, CA",earthquake,0.21,0.3,0.178,38.0,automatic,ci,ci
+2025-07-31T04:50:04.173Z,51.3325,159.5787,10.0,4.6,mb,27.0,221.0,1.787,0.81,us,us6000qwub,2025-07-31T21:59:21.040Z,"195 km SSE of Vilyuchinsk, Russia",earthquake,9.32,1.968,0.112,24.0,reviewed,us,us
