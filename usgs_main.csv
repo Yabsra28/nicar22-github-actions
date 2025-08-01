@@ -1984,3 +1984,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T18:19:06.256Z,31.606,-103.967,8.4583,1.3,ml,21.0,67.0,0.0,0.1,tx,tx2025paojta,2025-08-01T20:32:50.201Z,"36 km NNW of Toyah, Texas",earthquake,0.54641265781343,0.74057862898636,0.2,33.0,reviewed,tx,tx
 2025-08-01T18:07:44.340Z,31.693,-104.314,6.1255,1.1,ml,12.0,76.0,0.0,0.1,tx,tx2025panzqu,2025-08-01T20:47:39.797Z,"53 km S of Whites City, New Mexico",earthquake,0.68089445014023,1.1367373740953,0.2,12.0,reviewed,tx,tx
 2025-08-01T07:51:07.280Z,41.970666666667,-119.62366666667,-1.49,1.85,ml,7.0,238.0,0.2865,0.32,uw,uw62155482,2025-08-01T20:32:38.890Z,"45 km ENE of Fort Bidwell, California",earthquake,2.38,5.26,0.034898952434783,2.0,reviewed,uw,uw
+2025-08-01T20:53:21.317Z,63.4442,-149.5731,95.6,1.6,ml,,,,0.17,ak,ak0259slozvn,2025-08-01T20:55:57.349Z,"31 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-01T20:32:24.186Z,51.1055,158.5183,35.0,5.0,mb,85.0,135.0,1.923,0.95,us,us6000qxie,2025-08-01T20:50:31.040Z,"147 km ESE of Ozernovskiy, Russia",earthquake,9.81,1.904,0.032,307.0,reviewed,us,us
+2025-08-01T03:43:45.440Z,62.009333333333,-144.40983333333,10.09,0.37,ml,8.0,99.0,0.04427,0.21,av,av93047694,2025-08-01T20:56:26.600Z,"42 km NE of Kenny Lake, Alaska",earthquake,0.52,0.64,0.22586026864728,8.0,reviewed,av,av
