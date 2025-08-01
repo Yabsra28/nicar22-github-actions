@@ -1797,3 +1797,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T08:06:12.711Z,31.613,-103.976,6.5331,1.5,ml,7.0,242.0,0.1,0.5,tx,tx2025ozuamc,2025-08-01T09:00:53.137Z,"37 km WSW of Mentone, Texas",earthquake,0.0,9.3835182189941,0.2,6.0,automatic,tx,tx
 2025-08-01T09:34:47.290Z,32.9768333,-116.3085,9.34,0.13,ml,26.0,96.0,0.02259,0.15,ci,ci41250400,2025-08-01T09:38:14.514Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.21,0.45,0.024,2.0,automatic,ci,ci
 2025-08-01T09:18:05.816Z,51.3064,157.62,54.371,4.7,mb,87.0,122.0,1.805,0.69,us,us6000qx8t,2025-08-01T09:45:12.040Z,"80 km ESE of Ozernovskiy, Russia",earthquake,8.69,6.922,0.028,385.0,reviewed,us,us
+2025-08-01T10:11:01.110Z,33.533,-116.723,5.43,0.33,ml,19.0,63.0,0.03445,0.1,ci,ci41250424,2025-08-01T10:15:02.904Z,"5 km WSW of Anza, CA",earthquake,0.17,0.36,0.209,7.0,automatic,ci,ci
+2025-08-01T10:01:16.140Z,34.1596667,-117.4355,5.99,1.07,ml,82.0,35.0,0.03352,0.2,ci,ci41250408,2025-08-01T10:05:20.125Z,"7 km NNE of Fontana, CA",earthquake,0.14,0.39,0.184,28.0,automatic,ci,ci
+2025-08-01T09:58:14.590Z,38.834999084473,-122.7988357544,1.7400000095367,0.2,md,8.0,85.0,0.007455,0.01,nc,nc75217842,2025-08-01T09:59:50.584Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.47000003,0.02,7.0,automatic,nc,nc
+2025-08-01T09:55:33.922Z,31.558,-104.2,4.4686,2.3,ml,38.0,73.0,0.1,0.4,tx,tx2025ozxrnc,2025-08-01T09:59:32.182Z,"47 km NW of Toyah, Texas",earthquake,0.0,0.9820858836174,0.3,29.0,automatic,tx,tx
+2025-08-01T09:55:33.922Z,31.558,-104.2,4.4686,2.3,ml,38.0,73.0,0.1,0.4,tx,tx2025ozxria,2025-08-01T10:01:47.092Z,"47 km NW of Toyah, Texas",earthquake,0.0,0.9820858836174,0.3,29.0,automatic,tx,tx
+2025-08-01T09:45:17.968Z,51.4355,159.7716,10.0,5.0,mb,90.0,134.0,1.734,0.92,us,us6000qx8w,2025-08-01T10:05:25.040Z,"190 km SSE of Vilyuchinsk, Russia",earthquake,9.5,1.887,0.037,236.0,reviewed,us,us
+2025-08-01T09:19:56.316Z,28.63,-98.253,6.6487,1.7,mlv,22.0,64.0,0.0,0.5,tx,tx2025ozwncf,2025-08-01T10:06:10.822Z,"20 km NNW of Three Rivers, Texas",earthquake,0.0,2.8873085975647,0.1,16.0,automatic,tx,tx
