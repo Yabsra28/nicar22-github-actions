@@ -1782,3 +1782,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T08:00:23.930Z,34.1631667,-117.434,6.33,1.99,ml,125.0,33.0,0.02986,0.2,ci,ci41250352,2025-08-01T08:10:56.890Z,"7 km SSW of Devore, CA",earthquake,0.1,0.27,0.171,25.0,automatic,ci,ci
 2025-08-01T07:44:11.239Z,51.7532,160.4727,10.0,5.3,mb,96.0,131.0,1.693,1.19,us,us6000qx85,2025-08-01T08:01:21.040Z,"192 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.62,1.884,0.023,631.0,reviewed,us,us
 2025-08-01T07:32:39.548Z,31.804,-104.468,0.7654,1.7,ml,4.0,268.0,0.1,0.3,tx,tx2025ozsykh,2025-08-01T08:00:50.872Z,"42 km SSW of Whites City, New Mexico",earthquake,0.0,7.5951581001282,0.4,4.0,automatic,tx,tx
+2025-08-01T08:41:10.073Z,36.903,-114.589,13.7,1.5,ml,11.0,309.67,0.605,0.3139,nn,nn00901865,2025-08-01T08:44:00.702Z,"24 km N of Moapa Town, Nevada",earthquake,,2.4,0.4,9.0,automatic,nn,nn
+2025-08-01T08:34:26.273Z,52.8679,160.0266,35.0,5.7,mww,113.0,70.0,0.847,1.11,us,us6000qx8k,2025-08-01T08:53:33.040Z,"96 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.7,1.885,0.068,21.0,reviewed,us,us
+2025-08-01T08:34:22.550Z,36.0803333,-117.3698333,0.76,1.28,ml,29.0,82.0,0.0991,0.17,ci,ci41250392,2025-08-01T08:37:54.856Z,"35 km N of Searles Valley, CA",earthquake,0.26,0.43,0.153,22.0,automatic,ci,ci
+2025-08-01T07:52:33.979Z,51.8684,159.3861,35.0,4.5,mb,55.0,121.0,1.241,0.59,us,us6000qx89,2025-08-01T08:36:22.040Z,"135 km SSE of Vilyuchinsk, Russia",earthquake,9.04,1.926,0.049,123.0,reviewed,us,us
