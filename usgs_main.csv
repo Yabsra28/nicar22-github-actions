@@ -1844,3 +1844,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T12:27:27.951Z,60.6169,-150.5635,45.3,1.8,ml,,,,0.52,ak,ak0259sgryxn,2025-08-01T12:29:10.011Z,"14 km NE of Sterling, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-01T12:08:37.703Z,32.103,-102.121,4.1348,1.9,ml,62.0,35.0,0.0,0.4,tx,tx2025pacavx,2025-08-01T13:03:59.505Z,"12 km NNW of Midland, Texas",earthquake,0.0,0.67953640222549,0.2,43.0,automatic,tx,tx
 2025-07-31T20:30:56.087Z,52.8053,161.0306,10.0,4.6,mb,70.0,119.0,1.458,0.88,us,us6000qx2p,2025-08-01T12:37:15.040Z,"164 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,5.8,1.838,0.056,95.0,reviewed,us,us
+2025-08-01T13:39:49.272Z,32.092,-102.127,4.5766,1.0,ml,17.0,51.0,0.0,0.6,tx,tx2025pafdbm,2025-08-01T13:43:11.729Z,"11 km NNW of Midland, Texas",earthquake,0.0,1.2612620592117,0.2,12.0,automatic,tx,tx
+2025-08-01T13:34:02.339Z,59.5415,-159.4062,57.7,2.2,ml,,,,0.97,ak,ak0259sheukp,2025-08-01T13:36:52.787Z,"53 km WNW of Aleknagik, Alaska",earthquake,,11.0,,,automatic,ak,ak
+2025-08-01T13:18:02.450Z,33.8256667,-116.9665,5.2,0.85,ml,22.0,194.0,0.01765,0.2,ci,ci41250496,2025-08-01T13:23:02.647Z,"5 km N of San Jacinto, CA",earthquake,1.2,1.41,0.201,27.0,automatic,ci,ci
+2025-08-01T12:46:27.867Z,51.2348,159.4577,10.0,4.8,mb,30.0,169.0,1.859,1.46,us,us6000qxa5,2025-08-01T13:26:03.040Z,"202 km SSE of Vilyuchinsk, Russia",earthquake,10.35,1.948,0.091,37.0,reviewed,us,us
+2025-08-01T12:08:59.003Z,52.6272,159.7416,10.0,4.9,mb,40.0,208.0,0.772,0.47,us,us6000qx9v,2025-08-01T13:49:34.040Z,"89 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.83,1.932,0.079,50.0,reviewed,us,us
+2025-08-01T12:04:01.858Z,31.566,-104.015,7.6251,1.6,ml,20.0,85.0,0.0,0.1,tx,tx2025pabyme,2025-08-01T13:21:32.607Z,"34 km NW of Toyah, Texas",earthquake,0.54407206140453,0.49442063545623,0.2,16.0,reviewed,tx,tx
