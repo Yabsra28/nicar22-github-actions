@@ -1738,3 +1738,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T06:17:56.154Z,-19.4556,-69.4944,99.756,4.2,mb,17.0,127.0,0.354,0.69,us,us6000qwun,2025-08-01T05:14:08.040Z,"17 km SSW of Camiña, Chile",earthquake,5.92,5.466,0.176,9.0,reviewed,us,us
 2025-07-31T05:24:56.178Z,50.1668,158.7074,10.0,4.5,mb,47.0,126.0,2.861,0.53,us,us6000qwvl,2025-08-01T05:05:30.040Z,"191 km ESE of Severo-Kuril’sk, Russia",earthquake,10.3,1.896,0.085,41.0,reviewed,us,us
 2025-07-31T05:19:18.812Z,50.4917,159.9057,10.0,4.1,mb,36.0,133.0,2.653,0.41,us,us6000qwug,2025-08-01T05:00:48.040Z,"263 km ESE of Ozernovskiy, Russia",earthquake,13.46,1.96,0.095,30.0,reviewed,us,us
+2025-08-01T05:39:25.040Z,38.840667724609,-122.83750152588,1.6900000572205,1.29,md,22.0,87.0,0.002605,0.02,nc,nc75217772,2025-08-01T05:41:00.276Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.389999986,0.11,24.0,automatic,nc,nc
+2025-08-01T05:34:51.880Z,35.7188333,-117.5531667,5.33,0.55,ml,23.0,68.0,0.1032,0.16,ci,ci41250288,2025-08-01T05:38:22.350Z,"14 km WSW of Searles Valley, CA",earthquake,0.24,1.44,0.087,11.0,automatic,ci,ci
+2025-08-01T05:16:57.508Z,62.3047,-148.7574,17.6,0.9,ml,,,,0.41,ak,ak0259scjn3q,2025-08-01T05:19:30.688Z,"58 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-01T05:14:34.957Z,50.9921,158.7627,41.108,4.8,mb,58.0,125.0,2.036,0.92,us,us6000qx7k,2025-08-01T05:48:44.040Z,"167 km ESE of Ozernovskiy, Russia",earthquake,8.99,7.054,0.038,213.0,reviewed,us,us
+2025-08-01T05:06:51.077Z,48.6408,157.4615,10.0,5.0,mb,63.0,124.0,4.452,0.85,us,us6000qx7j,2025-08-01T05:27:48.040Z,"245 km SSE of Severo-Kuril’sk, Russia",earthquake,9.91,1.85,0.028,403.0,reviewed,us,us
+2025-08-01T05:02:18.132Z,51.2714,159.5028,10.0,5.0,mb,66.0,156.0,1.832,0.74,us,us6000qx7i,2025-08-01T05:19:34.040Z,"199 km SSE of Vilyuchinsk, Russia",earthquake,9.03,1.902,0.047,146.0,reviewed,us,us
+2025-08-01T04:59:37.526Z,-13.3072,167.1708,195.019,4.8,mb,42.0,68.0,2.127,0.76,us,us6000qx7h,2025-08-01T05:18:19.040Z,"75 km NNW of Sola, Vanuatu",earthquake,11.61,6.106,0.059,91.0,reviewed,us,us
+2025-08-01T03:49:31.059Z,57.0197,-147.3532,10.0,2.9,ml,12.0,202.0,2.932,0.64,us,us6000qx73,2025-08-01T05:24:28.040Z,Gulf of Alaska,earthquake,9.51,2.013,0.085,18.0,reviewed,us,us
+2025-07-31T23:21:09.547Z,51.1977,157.5331,73.106,4.2,mb,44.0,120.0,1.916,0.64,us,us6000qx4h,2025-08-01T05:21:00.040Z,"79 km ESE of Ozernovskiy, Russia",earthquake,7.09,7.173,0.08,46.0,reviewed,us,us
+2025-07-31T06:48:29.380Z,50.9296,159.1131,28.565,4.2,mb,40.0,130.0,2.116,1.04,us,us6000qwuw,2025-08-01T05:25:22.040Z,"193 km ESE of Ozernovskiy, Russia",earthquake,9.49,4.598,0.098,29.0,reviewed,us,us
