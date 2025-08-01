@@ -1774,3 +1774,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T07:52:35.880Z,33.3531667,-116.949,13.88,0.43,ml,33.0,43.0,0.07228,0.16,ci,ci41250336,2025-08-01T07:56:00.805Z,"8 km W of Palomar Observatory, CA",earthquake,0.19,0.46,0.186,13.0,automatic,ci,ci
 2025-08-01T07:48:38.150Z,39.222332000732,-120.08633422852,3.5299999713898,1.42,md,8.0,82.0,0.0341,0.12,nc,nc75217807,2025-08-01T07:50:51.544Z,"4 km WSW of Tahoe Vista, CA",earthquake,0.58,1.36000001,0.13,7.0,automatic,nc,nc
 2025-08-01T07:08:13.444Z,50.1787,158.9614,10.0,4.7,mb,74.0,128.0,2.855,1.06,us,us6000qx7z,2025-08-01T07:46:51.040Z,"208 km ESE of Severo-Kuril’sk, Russia",earthquake,7.51,1.88,0.039,200.0,reviewed,us,us
+2025-08-01T08:29:05.270Z,34.1408333,-117.4196667,5.38,0.92,ml,68.0,28.0,0.0441,0.21,ci,ci41250384,2025-08-01T08:32:50.690Z,"6 km NW of Rialto, CA",earthquake,0.17,0.59,0.238,29.0,automatic,ci,ci
+2025-08-01T08:26:30.498Z,62.7877,-149.4432,68.8,1.8,ml,,,,0.48,ak,ak0259see0yr,2025-08-01T08:28:12.736Z,"50 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-01T08:20:05.140Z,33.226,-116.1938333,10.91,0.63,ml,48.0,68.0,0.06039,0.2,ci,ci41250376,2025-08-01T08:23:35.993Z,"11 km NNW of Ocotillo Wells, CA",earthquake,0.2,0.41,0.12,9.0,automatic,ci,ci
+2025-08-01T08:02:45.240Z,34.1621667,-117.435,6.07,1.32,ml,91.0,33.0,0.031,0.2,ci,ci41250368,2025-08-01T08:14:01.190Z,"7 km SSW of Devore, CA",earthquake,0.12,0.33,0.164,25.0,automatic,ci,ci
+2025-08-01T08:02:28.710Z,34.1611671,-117.4346695,7.19,0.98,ml,42.0,36.0,0.03192,0.18,ci,ci41250360,2025-08-01T08:04:31.305Z,"7 km NNE of Fontana, CA",earthquake,0.28,0.56,0.185,12.0,automatic,ci,ci
+2025-08-01T08:00:23.930Z,34.1631667,-117.434,6.33,1.99,ml,125.0,33.0,0.02986,0.2,ci,ci41250352,2025-08-01T08:10:56.890Z,"7 km SSW of Devore, CA",earthquake,0.1,0.27,0.171,25.0,automatic,ci,ci
+2025-08-01T07:44:11.239Z,51.7532,160.4727,10.0,5.3,mb,96.0,131.0,1.693,1.19,us,us6000qx85,2025-08-01T08:01:21.040Z,"192 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.62,1.884,0.023,631.0,reviewed,us,us
+2025-08-01T07:32:39.548Z,31.804,-104.468,0.7654,1.7,ml,4.0,268.0,0.1,0.3,tx,tx2025ozsykh,2025-08-01T08:00:50.872Z,"42 km SSW of Whites City, New Mexico",earthquake,0.0,7.5951581001282,0.4,4.0,automatic,tx,tx
