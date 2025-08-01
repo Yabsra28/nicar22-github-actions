@@ -1748,3 +1748,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T03:49:31.059Z,57.0197,-147.3532,10.0,2.9,ml,12.0,202.0,2.932,0.64,us,us6000qx73,2025-08-01T05:24:28.040Z,Gulf of Alaska,earthquake,9.51,2.013,0.085,18.0,reviewed,us,us
 2025-07-31T23:21:09.547Z,51.1977,157.5331,73.106,4.2,mb,44.0,120.0,1.916,0.64,us,us6000qx4h,2025-08-01T05:21:00.040Z,"79 km ESE of Ozernovskiy, Russia",earthquake,7.09,7.173,0.08,46.0,reviewed,us,us
 2025-07-31T06:48:29.380Z,50.9296,159.1131,28.565,4.2,mb,40.0,130.0,2.116,1.04,us,us6000qwuw,2025-08-01T05:25:22.040Z,"193 km ESE of Ozernovskiy, Russia",earthquake,9.49,4.598,0.098,29.0,reviewed,us,us
+2025-08-01T06:06:33.720Z,38.840167999268,-122.83599853516,1.6499999761581,0.59,md,8.0,151.0,0.001627,0.01,nc,nc75217777,2025-08-01T06:08:10.262Z,"10 km NNW of The Geysers, CA",earthquake,0.47,0.790000021,0.33,11.0,automatic,nc,nc
+2025-08-01T06:02:41.791Z,57.5189,-156.565,245.4,1.4,ml,,,,1.75,ak,ak0259sd21gz,2025-08-01T06:05:20.588Z,"49 km E of Ugashik, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2025-08-01T05:52:01.506Z,-20.8148,-178.3907,567.743,4.2,mb,40.0,135.0,4.54,0.9,us,us6000qx7q,2025-08-01T06:08:27.040Z,Fiji region,earthquake,15.73,9.487,0.055,90.0,reviewed,us,us
+2025-08-01T05:27:04.381Z,50.0597,159.3973,10.0,4.8,mb,55.0,127.0,3.004,0.48,us,us6000qx7p,2025-08-01T05:56:14.040Z,"242 km ESE of Severo-Kuril’sk, Russia",earthquake,9.37,1.897,0.036,246.0,reviewed,us,us
