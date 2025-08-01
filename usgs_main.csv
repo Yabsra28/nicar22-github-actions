@@ -1758,3 +1758,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T06:29:59.070Z,35.899,-117.6861667,4.1,0.54,ml,18.0,88.0,0.05679,0.09,ci,ci41250296,2025-08-01T06:33:26.620Z,"20 km ESE of Little Lake, CA",earthquake,0.14,0.34,0.116,9.0,automatic,ci,ci
 2025-08-01T06:19:29.528Z,53.4062,-163.5357,10.0,2.6,ml,10.0,207.0,1.295,0.13,us,us6000qx7r,2025-08-01T06:30:38.040Z,"161 km S of False Pass, Alaska",earthquake,4.95,2.003,0.085,18.0,reviewed,us,us
 2025-08-01T05:24:32.607Z,50.9512,158.7239,35.0,4.5,mb,42.0,129.0,2.076,1.02,us,us6000qx7l,2025-08-01T06:25:48.040Z,"166 km ESE of Ozernovskiy, Russia",earthquake,9.23,1.927,0.059,86.0,reviewed,us,us
+2025-08-01T07:17:17.873Z,32.128,-102.216,4.7033,1.5,ml,46.0,58.0,0.0,0.3,tx,tx2025ozslku,2025-08-01T07:21:37.218Z,"19 km NW of Midland, Texas",earthquake,0.0,0.79275590181351,0.2,35.0,automatic,tx,tx
+2025-08-01T07:14:17.940Z,33.6526667,-116.7551667,14.63,0.83,ml,51.0,38.0,0.08052,0.15,ci,ci41250312,2025-08-01T07:18:16.732Z,"10 km SSW of Idyllwild, CA",earthquake,0.15,0.23,0.249,29.0,automatic,ci,ci
+2025-08-01T07:06:14.800Z,34.1451667,-117.4195,6.32,1.25,ml,77.0,25.0,0.04777,0.19,ci,ci41250304,2025-08-01T07:10:27.926Z,"6 km NW of Rialto, CA",earthquake,0.14,0.36,0.145,28.0,automatic,ci,ci
+2025-08-01T06:48:20.426Z,53.0765,159.5012,71.432,4.8,mb,90.0,128.0,0.517,0.96,us,us6000qx7w,2025-08-01T07:10:46.454Z,"58 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.43,6.041,0.027,426.0,reviewed,us,us
+2025-08-01T06:36:45.032Z,32.125,-102.212,4.3597,1.6,ml,53.0,76.0,0.0,0.5,tx,tx2025ozrcke,2025-08-01T07:04:42.976Z,"18 km NW of Midland, Texas",earthquake,0.0,0.74399900436401,0.2,36.0,automatic,tx,tx
