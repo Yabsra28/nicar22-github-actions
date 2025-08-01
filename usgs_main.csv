@@ -1810,3 +1810,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T10:17:29.414Z,32.41,-102.023,4.9147,2.4,ml,52.0,76.0,0.1,0.4,tx,tx2025ozykow,2025-08-01T10:21:35.116Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,0.77255845069885,0.2,39.0,automatic,tx,tx
 2025-08-01T10:15:57.460Z,33.269,-116.1321667,11.12,0.76,ml,42.0,54.0,0.1273,0.23,ci,ci41250432,2025-08-01T10:19:21.541Z,"14 km N of Ocotillo Wells, CA",earthquake,0.27,0.57,0.181,13.0,automatic,ci,ci
 2025-08-01T09:55:34.112Z,31.567,-104.179,7.2662,2.3,ml,46.0,70.0,0.0,0.2,tx,tx2025ozxrux,2025-08-01T10:26:21.782Z,"46 km NW of Toyah, Texas",earthquake,0.49486193122752,0.65508310789004,0.1,23.0,reviewed,tx,tx
+2025-08-01T11:16:15.488Z,32.104,-102.125,4.4,2.6,ml,76.0,35.0,0.0,0.4,tx,tx2025paajiq,2025-08-01T11:23:05.025Z,"12 km NNW of Midland, Texas",earthquake,0.0,0.60391634702682,0.2,55.0,automatic,tx,tx
+2025-08-01T11:01:10.701Z,39.2262,-120.0874,6.5,0.8,ml,14.0,66.66,0.035,0.1172,nn,nn00901881,2025-08-01T11:03:23.244Z,"0 km W of Carnelian Bay, California",earthquake,,0.5,0.34,11.0,automatic,nn,nn
+2025-08-01T11:00:21.560Z,38.818000793457,-122.81349945068,2.789999961853,0.4,md,8.0,91.0,0.01527,0.03,nc,nc75217847,2025-08-01T11:01:59.729Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.20000005,0.32,8.0,automatic,nc,nc
+2025-08-01T10:59:58.052Z,49.985,159.3886,10.0,5.1,mb,77.0,85.0,3.077,0.71,us,us6000qx9e,2025-08-01T11:21:30.040Z,"244 km ESE of Severo-Kuril’sk, Russia",earthquake,9.35,1.82,0.028,426.0,reviewed,us,us
+2025-08-01T10:54:56.921Z,50.4935,157.952,14.359,5.5,mb,98.0,116.0,2.57,0.78,us,us6000qx98,2025-08-01T11:24:36.945Z,"130 km E of Severo-Kuril’sk, Russia",earthquake,8.47,4.566,0.025,564.0,reviewed,us,us
+2025-08-01T10:19:10.557Z,31.612,-103.978,5.5096,1.4,ml,25.0,62.0,0.0,0.4,tx,tx2025ozylrw,2025-08-01T11:05:27.858Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.5594415664673,0.2,15.0,automatic,tx,tx
+2025-08-01T10:12:48.459Z,52.9345,160.5179,35.0,4.8,mb,77.0,107.0,1.133,0.81,us,us6000qx91,2025-08-01T11:01:03.040Z,"127 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.89,1.864,0.03,339.0,reviewed,us,us
+2025-08-01T06:35:14.617Z,32.132,-102.21,8.3941,0.8,mlv,11.0,86.0,0.0,0.4,tx,tx2025ozrbez,2025-08-01T11:14:10.785Z,"19 km NW of Midland, Texas",earthquake,0.0,2.496869802475,0.2,8.0,automatic,tx,tx
+2025-08-01T02:09:01.589Z,32.104,-102.129,6.9428,1.1,mlv,13.0,74.0,0.0,0.5,tx,tx2025oziftc,2025-08-01T11:13:18.330Z,"12 km NNW of Midland, Texas",earthquake,0.0,2.105982542038,0.3,7.0,automatic,tx,tx
