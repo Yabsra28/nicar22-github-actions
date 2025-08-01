@@ -1836,3 +1836,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T11:15:30.243Z,-4.9496,106.6437,379.391,4.4,mb,71.0,42.0,1.214,0.86,us,us6000qx9g,2025-08-01T11:56:50.040Z,"127 km N of Teluknaga, Indonesia",earthquake,8.68,5.831,0.076,50.0,reviewed,us,us
 2025-08-01T09:56:59.020Z,48.6516,157.3219,10.0,4.4,mb,34.0,136.0,4.457,0.49,us,us6000qx8z,2025-08-01T11:57:33.040Z,"241 km SSE of Severo-Kuril’sk, Russia",earthquake,11.06,1.909,0.073,54.0,reviewed,us,us
 2025-07-31T15:17:21.399Z,36.45633333,-98.81716667,6.33,1.77,ml,24.0,86.0,0.01439717478,0.33,ok,ok2025owrk,2025-08-01T12:17:20.147Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.7,0.28,8.0,reviewed,ok,ok
+2025-08-01T13:17:07.328Z,62.968,-150.4823,97.7,1.2,ml,,,,0.14,ak,ak0259shb7sc,2025-08-01T13:19:21.513Z,"54 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-01T13:08:16.870Z,38.822166442871,-122.84600067139,2.170000076294,0.75,md,11.0,113.0,0.008622,0.02,nc,nc75217887,2025-08-01T13:09:55.848Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.550000012,0.23,12.0,automatic,nc,nc
+2025-08-01T12:51:25.700Z,38.840167999268,-122.81950378418,0.46000000834465,0.7,md,9.0,85.0,0.01258,0.01,nc,nc75217882,2025-08-01T12:52:59.479Z,"9 km WNW of Cobb, CA",earthquake,0.59,1.77999997,0.08,10.0,automatic,nc,nc
+2025-08-01T12:39:36.350Z,51.7742,160.1965,10.0,5.3,mb,101.0,113.0,1.569,1.24,us,us6000qxa2,2025-08-01T12:59:19.040Z,"177 km SE of Vilyuchinsk, Russia",earthquake,8.19,1.86,0.027,448.0,reviewed,us,us
+2025-08-01T12:27:41.830Z,38.82500076294,-122.80349731445,2.5,0.81,md,13.0,73.0,0.01688,0.01,nc,nc75217877,2025-08-01T12:29:19.760Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.779999971,0.2,14.0,automatic,nc,nc
+2025-08-01T12:27:27.951Z,60.6169,-150.5635,45.3,1.8,ml,,,,0.52,ak,ak0259sgryxn,2025-08-01T12:29:10.011Z,"14 km NE of Sterling, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-01T12:08:37.703Z,32.103,-102.121,4.1348,1.9,ml,62.0,35.0,0.0,0.4,tx,tx2025pacavx,2025-08-01T13:03:59.505Z,"12 km NNW of Midland, Texas",earthquake,0.0,0.67953640222549,0.2,43.0,automatic,tx,tx
+2025-07-31T20:30:56.087Z,52.8053,161.0306,10.0,4.6,mb,70.0,119.0,1.458,0.88,us,us6000qx2p,2025-08-01T12:37:15.040Z,"164 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,5.8,1.838,0.056,95.0,reviewed,us,us
