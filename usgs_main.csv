@@ -1987,3 +1987,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T20:53:21.317Z,63.4442,-149.5731,95.6,1.6,ml,,,,0.17,ak,ak0259slozvn,2025-08-01T20:55:57.349Z,"31 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-01T20:32:24.186Z,51.1055,158.5183,35.0,5.0,mb,85.0,135.0,1.923,0.95,us,us6000qxie,2025-08-01T20:50:31.040Z,"147 km ESE of Ozernovskiy, Russia",earthquake,9.81,1.904,0.032,307.0,reviewed,us,us
 2025-08-01T03:43:45.440Z,62.009333333333,-144.40983333333,10.09,0.37,ml,8.0,99.0,0.04427,0.21,av,av93047694,2025-08-01T20:56:26.600Z,"42 km NE of Kenny Lake, Alaska",earthquake,0.52,0.64,0.22586026864728,8.0,reviewed,av,av
+2025-08-01T21:24:20.082Z,62.2773,-148.315,39.0,0.8,ml,,,,0.51,ak,ak0259sm47mg,2025-08-01T21:26:31.283Z,"54 km N of Chickaloon, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-01T21:05:37.955Z,31.5,-104.39,5.0,1.7,ml,9.0,249.0,0.2,0.7,tx,tx2025patxfg,2025-08-01T21:07:40.437Z,"60 km WNW of Toyah, Texas",earthquake,0.0,,0.2,7.0,automatic,tx,tx
+2025-08-01T21:03:34.893Z,36.0682,70.0528,122.578,5.0,mww,96.0,47.0,1.722,0.97,us,us6000qxit,2025-08-01T21:26:04.964Z,"58 km SSE of Farkhār, Afghanistan",earthquake,6.09,6.144,0.071,19.0,reviewed,us,us
+2025-08-01T20:08:13.741Z,50.5189,156.3824,88.75,5.6,mb,182.0,43.0,2.719,0.58,us,us6000qxi9,2025-08-01T21:20:42.040Z,"25 km SE of Severo-Kuril’sk, Russia",earthquake,7.71,6.738,0.029,416.0,reviewed,us,us
+2025-08-01T11:33:01.270Z,47.787333333333,-122.87733333333,19.61,0.29,ml,7.0,128.0,0.03418,0.14,uw,uw62155527,2025-08-01T21:27:43.960Z,"3 km S of Quilcene, Washington",earthquake,0.89,0.6,0.073843521751842,2.0,reviewed,uw,uw
+2025-08-01T04:20:50.620Z,61.3265,-152.24266666667,2.75,0.08,ml,11.0,127.0,0.06423,0.12,av,av93697668,2025-08-01T21:16:17.020Z,"65 km WNW of Beluga, Alaska",earthquake,0.35,0.63,0.13236722453794,12.0,reviewed,av,av
