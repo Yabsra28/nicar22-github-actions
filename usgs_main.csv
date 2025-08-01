@@ -1819,3 +1819,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T10:12:48.459Z,52.9345,160.5179,35.0,4.8,mb,77.0,107.0,1.133,0.81,us,us6000qx91,2025-08-01T11:01:03.040Z,"127 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.89,1.864,0.03,339.0,reviewed,us,us
 2025-08-01T06:35:14.617Z,32.132,-102.21,8.3941,0.8,mlv,11.0,86.0,0.0,0.4,tx,tx2025ozrbez,2025-08-01T11:14:10.785Z,"19 km NW of Midland, Texas",earthquake,0.0,2.496869802475,0.2,8.0,automatic,tx,tx
 2025-08-01T02:09:01.589Z,32.104,-102.129,6.9428,1.1,mlv,13.0,74.0,0.0,0.5,tx,tx2025oziftc,2025-08-01T11:13:18.330Z,"12 km NNW of Midland, Texas",earthquake,0.0,2.105982542038,0.3,7.0,automatic,tx,tx
+2025-08-01T11:32:31.760Z,19.364166259766,-155.07383728027,4.8499999046326,2.26,ml,52.0,137.0,0.03809,0.310000002,hv,hv74741137,2025-08-01T11:35:43.920Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.5,0.569999993,0.93,7.0,automatic,hv,hv
+2025-08-01T11:26:11.200Z,40.666667938232,-123.99150085449,23.389999389648,2.95,md,38.0,125.0,0.0841,0.12,nc,nc75217862,2025-08-01T11:36:58.813Z,"15 km SE of Pine Hills, CA",earthquake,0.41,0.550000012,0.16,34.0,automatic,nc,nc
+2025-08-01T11:15:44.116Z,52.4816,160.6823,10.0,4.7,mb,51.0,135.0,1.349,1.06,us,us6000qx9i,2025-08-01T11:34:38.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.78,1.898,0.05,120.0,reviewed,us,us
+2025-08-01T11:02:36.713Z,49.7174,157.0682,10.0,5.0,mb,47.0,123.0,3.418,0.78,us,us6000qx9j,2025-08-01T11:30:43.040Z,"125 km SSE of Severo-Kuril’sk, Russia",earthquake,12.74,1.87,0.056,101.0,reviewed,us,us
