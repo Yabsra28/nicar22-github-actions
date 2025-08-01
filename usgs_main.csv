@@ -1879,3 +1879,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T19:23:39.745Z,50.7225,160.0631,10.0,4.4,mb,38.0,164.0,2.465,0.61,us,us6000qx1t,2025-08-01T15:25:09.040Z,"263 km ESE of Ozernovskiy, Russia",earthquake,6.05,1.926,0.069,60.0,reviewed,us,us
 2025-07-31T19:04:50.185Z,49.2565,156.1285,35.0,4.6,mb,43.0,187.0,3.981,0.89,us,us6000qx1i,2025-08-01T15:15:07.040Z,"157 km S of Severo-Kuril’sk, Russia",earthquake,11.35,1.967,0.071,59.0,reviewed,us,us
 2025-07-31T19:01:33.347Z,-17.7384,-178.4229,539.346,4.4,mb,36.0,124.0,2.455,0.79,us,us6000qx1d,2025-08-01T15:04:31.040Z,"242 km E of Levuka, Fiji",earthquake,15.42,9.717,0.1,29.0,reviewed,us,us
+2025-08-01T15:42:13.810Z,37.375831604004,-117.82633209228,-0.31999999284744,2.49,md,10.0,229.0,0.3919,0.17,nc,nc75217932,2025-08-01T15:44:50.996Z,"14 km E of Deep Springs, CA",earthquake,2.23,14.1599998,0.44,4.0,automatic,nc,nc
+2025-08-01T15:41:59.140Z,35.8721667,-117.6918333,8.48,0.87,ml,26.0,40.0,0.08273,0.16,ci,ci41250552,2025-08-01T15:45:26.639Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.55,0.133,19.0,automatic,ci,ci
+2025-08-01T15:29:25.920Z,33.3115,-116.3206667,12.27,0.7,ml,27.0,134.0,0.04177,0.15,ci,ci41250536,2025-08-01T15:32:52.532Z,"8 km NE of Borrego Springs, CA",earthquake,0.26,0.34,0.112,13.0,automatic,ci,ci
+2025-08-01T08:03:12.164Z,32.204,-101.397,5.2002,0.8,ml,13.0,90.0,0.0,0.1,tx,tx2025oztyza,2025-08-01T15:43:10.269Z,"9 km SE of Big Spring, Texas",earthquake,0.53383433825592,1.0881770484384,0.1,7.0,reviewed,tx,tx
+2025-07-31T19:47:17.964Z,51.2207,159.5468,10.0,4.2,mb,24.0,196.0,1.888,0.7,us,us6000qx23,2025-08-01T15:47:03.040Z,"205 km SSE of Vilyuchinsk, Russia",earthquake,11.03,1.973,0.136,15.0,reviewed,us,us
+2025-07-31T19:36:32.266Z,51.5851,159.3705,10.0,4.5,mb,32.0,126.0,1.507,0.75,us,us6000qx1x,2025-08-01T15:40:12.040Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,7.23,1.818,0.115,22.0,reviewed,us,us
