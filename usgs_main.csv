@@ -2036,3 +2036,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T07:57:10.500Z,60.023,-153.05316666667,0.32,-0.87,ml,5.0,119.0,0.01866,0.22,av,av93697873,2025-08-01T23:27:19.550Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.51,2.1,0.18719863034816,4.0,reviewed,av,av
 2025-08-01T07:55:52.350Z,60.041,-153.08733333333,-2.11,-0.67,ml,5.0,100.0,0.02027,0.07,av,av93697868,2025-08-01T23:23:38.400Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.22,2.99,0.47071147105095,5.0,reviewed,av,av
 2025-08-01T07:51:06.760Z,41.9536,-119.611,5.3,1.6,ml,6.0,208.54,0.305,0.1854,nn,nn00901945,2025-08-01T23:31:09.705Z,"46 km ENE of Fort Bidwell, California",earthquake,,4.0,0.3,4.0,reviewed,nn,nn
+2025-08-01T23:46:17.470Z,35.905,-117.9216667,1.63,0.84,ml,22.0,65.0,0.06392,0.09,ci,ci41251024,2025-08-01T23:49:53.845Z,"4 km SSW of Little Lake, CA",earthquake,0.12,0.15,0.153,16.0,automatic,ci,ci
+2025-08-01T23:45:04.975Z,65.1468,-150.0936,12.3,1.1,ml,,,,0.38,ak,ak0259snfjpd,2025-08-01T23:46:31.969Z,"30 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-01T10:16:29.100Z,33.2805,-116.1336667,11.71,0.4,ml,13.0,158.0,0.1336,0.13,ci,ci37737324,2025-08-01T23:46:10.898Z,"15 km N of Ocotillo Wells, CA",earthquake,0.31,0.51,0.11,10.0,reviewed,ci,ci
+2025-08-01T08:27:40.890Z,58.2655,-155.0025,3.05,-0.3,ml,9.0,133.0,0.04483,0.17,av,av93697918,2025-08-01T23:43:05.550Z,"84 km NNW of Karluk, Alaska",earthquake,0.41,0.91,0.30243846961088,9.0,reviewed,av,av
+2025-08-01T08:25:47.730Z,57.873666666667,-156.11483333333,4.67,0.54,ml,15.0,138.0,0.1583,0.28,av,av93697908,2025-08-01T23:40:13.620Z,"83 km ESE of Egegik, Alaska",earthquake,0.8,1.67,0.2226575197589,15.0,reviewed,av,av
