@@ -1786,3 +1786,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T08:34:26.273Z,52.8679,160.0266,35.0,5.7,mww,113.0,70.0,0.847,1.11,us,us6000qx8k,2025-08-01T08:53:33.040Z,"96 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.7,1.885,0.068,21.0,reviewed,us,us
 2025-08-01T08:34:22.550Z,36.0803333,-117.3698333,0.76,1.28,ml,29.0,82.0,0.0991,0.17,ci,ci41250392,2025-08-01T08:37:54.856Z,"35 km N of Searles Valley, CA",earthquake,0.26,0.43,0.153,22.0,automatic,ci,ci
 2025-08-01T07:52:33.979Z,51.8684,159.3861,35.0,4.5,mb,55.0,121.0,1.241,0.59,us,us6000qx89,2025-08-01T08:36:22.040Z,"135 km SSE of Vilyuchinsk, Russia",earthquake,9.04,1.926,0.049,123.0,reviewed,us,us
+2025-08-01T09:26:15.466Z,61.6848,-146.345,32.7,1.0,ml,,,,0.59,ak,ak0259sezffu,2025-08-01T09:27:47.844Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-01T09:22:24.515Z,38.8149,-119.6378,6.0,0.7,ml,12.0,139.08,0.082,0.0702,nn,nn00901876,2025-08-01T09:24:31.678Z,"5 km S of Carter Springs, Nevada",earthquake,,0.9,0.32,6.0,automatic,nn,nn
+2025-08-01T09:17:29.040Z,38.790500640869,-122.76983642578,1.6200000047684,0.71,md,12.0,99.0,0.01284,0.03,nc,nc75217832,2025-08-01T09:19:04.931Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.610000014,0.23,12.0,automatic,nc,nc
+2025-08-01T09:11:32.600Z,35.905498504639,-89.962669372559,13.710000038147,2.1400001,md,28.0,113.0,0.07444,0.119999997,nm,nm60612096,2025-08-01T09:17:44.170Z,"4 km WSW of Blytheville, Arkansas",earthquake,0.48,0.550000012,0.699999988,21.0,reviewed,nm,nm
+2025-08-01T08:57:34.038Z,61.8884,-149.9603,30.3,0.9,ml,,,,0.27,ak,ak0259sekogr,2025-08-01T08:59:27.571Z,"16 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-01T08:57:05.160Z,38.841999053955,-122.80216979981,2.6600000858307,0.74,md,7.0,213.0,0.009907,0.03,nc,nc75217827,2025-08-01T08:58:40.802Z,"7 km WNW of Cobb, CA",earthquake,1.15,1.80999994,0.32,8.0,automatic,nc,nc
+2025-08-01T08:44:57.873Z,51.9845,158.9609,58.67,4.7,mb,58.0,134.0,1.058,0.89,us,us6000qx8q,2025-08-01T09:11:36.040Z,"111 km SSE of Vilyuchinsk, Russia",earthquake,9.28,4.066,0.04,187.0,reviewed,us,us
+2025-08-01T08:31:53.124Z,51.0673,158.7145,10.0,5.2,mb,103.0,90.0,1.959,1.6,us,us6000qx8j,2025-08-01T09:00:55.040Z,"161 km ESE of Ozernovskiy, Russia",earthquake,8.96,1.78,0.023,599.0,reviewed,us,us
+2025-08-01T08:06:12.711Z,31.613,-103.976,6.5331,1.5,ml,7.0,242.0,0.1,0.5,tx,tx2025ozuamc,2025-08-01T09:00:53.137Z,"37 km WSW of Mentone, Texas",earthquake,0.0,9.3835182189941,0.2,6.0,automatic,tx,tx
