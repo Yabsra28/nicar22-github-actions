@@ -2251,3 +2251,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T17:09:51.914Z,65.192,-150.2738,14.3,1.7,ml,,,,0.41,ak,ak0259u76oev,2025-08-02T17:11:20.607Z,"27 km NE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-02T17:06:10.680Z,33.5285,-116.7336667,6.52,0.3,ml,22.0,48.0,0.03693,0.13,ci,ci41251552,2025-08-02T17:09:51.587Z,"6 km WSW of Anza, CA",earthquake,0.19,0.36,0.16,8.0,automatic,ci,ci
 2025-08-02T16:41:25.121Z,37.53,-23.751,10.0,5.2,mww,214.0,47.0,1.427,0.6,us,us6000qxnx,2025-08-02T17:10:59.290Z,"127 km ESE of Senhora do Rosário, Portugal",earthquake,7.01,1.834,0.058,29.0,reviewed,us,us
+2025-08-02T17:36:09.601Z,61.3906,-150.0769,31.2,1.5,ml,,,,0.61,ak,ak0259u7cdhc,2025-08-02T17:38:31.503Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-02T17:32:25.830Z,33.309,-116.2998333,9.86,1.09,ml,60.0,24.0,0.05385,0.19,ci,ci41251568,2025-08-02T17:42:47.650Z,"9 km NE of Borrego Springs, CA",earthquake,0.16,0.32,0.156,29.0,automatic,ci,ci
+2025-08-02T17:20:25.635Z,50.1911,157.307,46.691,5.4,mb,118.0,78.0,2.932,0.66,us,us6000qxp3,2025-08-02T17:38:33.040Z,"99 km ESE of Severo-Kuril’sk, Russia",earthquake,8.83,6.275,0.021,780.0,reviewed,us,us
+2025-08-02T15:57:52.427Z,40.4588,77.3155,10.0,4.4,mb,46.0,132.0,1.322,1.1,us,us6000qxnk,2025-08-02T17:40:24.040Z,"150 km ESE of At-Bashi, Kyrgyzstan",earthquake,3.62,1.888,0.107,25.0,reviewed,us,us
