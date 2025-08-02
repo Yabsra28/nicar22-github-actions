@@ -2133,3 +2133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T07:48:32.947Z,31.597,-104.335,3.9583,1.6,ml,32.0,82.0,0.1,0.5,tx,tx2025pbpffu,2025-08-02T07:51:07.735Z,"60 km WNW of Toyah, Texas",earthquake,0.0,1.077300786972,0.2,23.0,automatic,tx,tx
 2025-08-02T07:47:40.090Z,34.4656667,-117.9625,8.92,0.79,ml,14.0,56.0,0.01768,0.09,ci,ci41251272,2025-08-02T07:51:05.182Z,"6 km SSE of Littlerock, CA",earthquake,0.2,0.37,0.423,22.0,automatic,ci,ci
 2025-08-02T07:44:34.530Z,33.2676667,-116.4143333,5.03,0.51,ml,36.0,77.0,0.002427,0.18,ci,ci41251264,2025-08-02T07:48:00.676Z,"4 km WNW of Borrego Springs, CA",earthquake,0.18,0.31,0.184,12.0,automatic,ci,ci
+2025-08-02T08:06:46.922Z,39.1591,-119.0576,0.8,1.5,ml,17.0,76.13,0.225,0.1328,nn,nn00901951,2025-08-02T08:09:28.674Z,"21 km NNE of Yerington, Nevada",earthquake,,18.9,0.24,10.0,automatic,nn,nn
+2025-08-02T08:00:22.540Z,35.472,-118.8231667,3.93,0.68,ml,20.0,110.0,0.03807,0.19,ci,ci41251288,2025-08-02T08:03:45.265Z,"19 km ENE of Oildale, CA",earthquake,0.36,0.49,0.078,5.0,automatic,ci,ci
+2025-08-02T07:54:18.830Z,35.7233333,-118.4613333,9.34,1.16,ml,26.0,80.0,0.05573,0.17,ci,ci41251280,2025-08-02T08:09:03.599Z,"2 km NNW of Wofford Heights, CA",earthquake,0.22,0.41,0.298,16.0,automatic,ci,ci
+2025-08-02T07:49:03.224Z,54.3102,-159.921,32.972,3.7,ml,30.0,200.0,0.556,0.71,us,us6000qxlp,2025-08-02T07:57:55.040Z,"120 km SSE of Sand Point, Alaska",earthquake,8.9,15.001,0.077,22.0,reviewed,us,us
