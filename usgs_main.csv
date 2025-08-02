@@ -2185,3 +2185,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T11:32:34.990Z,38.826667785645,-122.81433105469,2.079999923706,1.06,md,23.0,40.0,0.004662,0.02,nc,nc75218302,2025-08-02T11:34:08.685Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.17,24.0,automatic,nc,nc
 2025-08-02T11:25:15.149Z,61.3083,-152.4434,0.0,0.8,ml,,,,0.97,ak,ak0259u3pfei,2025-08-02T11:27:42.823Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-02T11:06:03.892Z,51.64,159.5562,42.574,5.4,mww,109.0,113.0,1.493,1.09,us,us6000qxme,2025-08-02T11:32:17.490Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,8.54,6.558,0.08,15.0,reviewed,us,us
+2025-08-02T11:36:51.727Z,39.359,-119.9739,2.2,1.0,ml,15.0,61.24,0.082,0.1449,nn,nn00901955,2025-08-02T11:38:49.374Z,"5 km SE of Floriston, California",earthquake,,0.7,0.18,10.0,automatic,nn,nn
+2025-08-02T09:52:39.843Z,52.2153,160.5916,10.0,4.5,mb,42.0,123.0,1.434,0.89,us,us6000qxm4,2025-08-02T11:38:37.040Z,"163 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.31,1.897,0.095,33.0,reviewed,us,us
