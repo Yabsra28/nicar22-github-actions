@@ -2273,3 +2273,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T19:23:41.500Z,19.257999420166,-155.38082885742,29.530000686646,2.26,ml,56.0,134.0,0.02576,0.150000006,hv,hv74741897,2025-08-02T19:27:06.500Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.44,0.5,0.22,19.0,automatic,hv,hv
 2025-08-02T19:23:33.910Z,34.2435,-116.8835,8.78,1.02,ml,39.0,57.0,0.03611,0.2,ci,ci41251624,2025-08-02T19:32:12.931Z,"3 km E of Big Bear Lake, CA",earthquake,0.18,0.42,0.239,27.0,automatic,ci,ci
 2025-08-02T18:02:37.117Z,50.7992,160.0508,10.0,4.5,mb,58.0,135.0,2.39,0.81,us,us6000qxq5,2025-08-02T19:31:43.040Z,"260 km ESE of Ozernovskiy, Russia",earthquake,10.25,1.918,0.077,50.0,reviewed,us,us
+2025-08-02T19:43:36.178Z,38.447,-116.5012,0.1,1.5,ml,13.0,195.62,0.678,0.2091,nn,nn00901987,2025-08-02T19:46:31.163Z,"76 km ENE of Tonopah, Nevada",earthquake,,6.3,0.32,9.0,automatic,nn,nn
+2025-08-02T19:39:33.950Z,38.2501,-116.6227,5.8,2.8,ml,24.0,196.3,0.503,0.2714,nn,nn00901985,2025-08-02T19:42:25.690Z,"56 km ENE of Tonopah, Nevada",earthquake,,1.1,0.26,13.0,automatic,nn,nn
