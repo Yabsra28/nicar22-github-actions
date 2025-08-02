@@ -2187,3 +2187,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T11:06:03.892Z,51.64,159.5562,42.574,5.4,mww,109.0,113.0,1.493,1.09,us,us6000qxme,2025-08-02T11:32:17.490Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,8.54,6.558,0.08,15.0,reviewed,us,us
 2025-08-02T11:36:51.727Z,39.359,-119.9739,2.2,1.0,ml,15.0,61.24,0.082,0.1449,nn,nn00901955,2025-08-02T11:38:49.374Z,"5 km SE of Floriston, California",earthquake,,0.7,0.18,10.0,automatic,nn,nn
 2025-08-02T09:52:39.843Z,52.2153,160.5916,10.0,4.5,mb,42.0,123.0,1.434,0.89,us,us6000qxm4,2025-08-02T11:38:37.040Z,"163 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.31,1.897,0.095,33.0,reviewed,us,us
+2025-08-02T11:51:16.830Z,35.362,-117.7966667,6.73,0.86,ml,26.0,73.0,0.1026,0.15,ci,ci41251376,2025-08-02T11:54:45.514Z,"15 km W of Johannesburg, CA",earthquake,0.18,0.63,0.119,17.0,automatic,ci,ci
+2025-08-02T11:48:35.580Z,35.8876667,-117.6765,3.82,0.13,ml,17.0,60.0,0.06374,0.09,ci,ci41251368,2025-08-02T11:52:08.019Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.41,0.061,4.0,automatic,ci,ci
