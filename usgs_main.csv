@@ -2189,3 +2189,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T09:52:39.843Z,52.2153,160.5916,10.0,4.5,mb,42.0,123.0,1.434,0.89,us,us6000qxm4,2025-08-02T11:38:37.040Z,"163 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.31,1.897,0.095,33.0,reviewed,us,us
 2025-08-02T11:51:16.830Z,35.362,-117.7966667,6.73,0.86,ml,26.0,73.0,0.1026,0.15,ci,ci41251376,2025-08-02T11:54:45.514Z,"15 km W of Johannesburg, CA",earthquake,0.18,0.63,0.119,17.0,automatic,ci,ci
 2025-08-02T11:48:35.580Z,35.8876667,-117.6765,3.82,0.13,ml,17.0,60.0,0.06374,0.09,ci,ci41251368,2025-08-02T11:52:08.019Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.41,0.061,4.0,automatic,ci,ci
+2025-08-02T12:46:33.790Z,38.805500030518,-122.77749633789,2.5499999523163,0.74,md,9.0,106.0,0.01413,0.02,nc,nc75218317,2025-08-02T12:48:08.141Z,"4 km NNW of The Geysers, CA",earthquake,0.38,0.879999995,0.17,9.0,automatic,nc,nc
+2025-08-02T12:46:09.486Z,32.191,-102.105,0.5907,0.9,ml,6.0,195.0,0.1,0.6,tx,tx2025pbzbrn,2025-08-02T12:51:18.659Z,"21 km N of Midland, Texas",earthquake,0.0,2.697696685791,0.5,6.0,automatic,tx,tx
+2025-08-02T12:44:14.000Z,35.8756667,-117.6916667,6.44,0.2,ml,14.0,65.0,0.07949,0.11,ci,ci41251400,2025-08-02T12:47:41.029Z,"20 km ESE of Little Lake, CA",earthquake,0.19,0.56,0.125,5.0,automatic,ci,ci
+2025-08-02T12:39:05.700Z,59.8104,-151.7751,43.7,1.4,ml,,,,0.5,ak,ak0259u4duay,2025-08-02T12:42:25.812Z,"4 km NE of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-02T12:20:20.095Z,63.688,-149.753,116.0,1.1,ml,,,,0.6,ak,ak0259u49st5,2025-08-02T12:22:41.503Z,"41 km W of Denali Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-08-02T12:17:06.880Z,33.3393333,-116.2333333,10.8,1.02,ml,43.0,95.0,0.06784,0.36,ci,ci41251384,2025-08-02T12:20:29.728Z,"16 km NE of Borrego Springs, CA",earthquake,0.44,0.96,0.252,5.0,automatic,ci,ci
+2025-08-02T12:13:59.023Z,32.104,-102.124,4.3379,1.9,ml,58.0,35.0,0.0,0.4,tx,tx2025pbxzym,2025-08-02T12:18:12.752Z,"12 km NNW of Midland, Texas",earthquake,0.0,0.72091090679169,0.2,40.0,automatic,tx,tx
+2025-08-02T12:03:24.737Z,61.3039,-146.8134,18.4,1.5,ml,,,,0.59,ak,ak0259u465zt,2025-08-02T12:06:11.832Z,"31 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-02T12:01:35.006Z,60.1548,-151.3684,54.6,1.6,ml,,,,0.19,ak,ak0259u45rcs,2025-08-02T12:02:43.149Z,"8 km S of Clam Gulch, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-08-02T12:01:02.660Z,19.087833333333,-66.5075,28.76,2.83,md,9.0,300.0,0.6078,0.17,pr,pr71491328,2025-08-02T12:22:03.160Z,"69 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.09,6.85,0.040701482040298,6.0,reviewed,pr,pr
+2025-08-02T11:52:19.043Z,51.5527,159.4977,15.214,4.5,mb,62.0,116.0,1.562,1.14,us,us6000qxml,2025-08-02T12:48:16.040Z,"170 km SSE of Vilyuchinsk, Russia",earthquake,8.73,4.794,0.069,62.0,reviewed,us,us
+2025-08-02T11:15:00.349Z,51.5675,159.5613,17.819,4.7,mb,41.0,127.0,1.562,1.4,us,us6000qxmk,2025-08-02T12:17:12.040Z,"171 km SSE of Vilyuchinsk, Russia",earthquake,8.96,5.139,0.092,36.0,reviewed,us,us
+2025-08-02T10:37:08.479Z,52.333,160.1616,35.0,4.4,mb,63.0,122.0,1.151,0.8,us,us6000qxmc,2025-08-02T12:00:09.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.81,1.912,0.058,87.0,reviewed,us,us
