@@ -2266,3 +2266,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T18:37:40.494Z,62.4469,-151.1206,74.3,1.2,ml,,,,0.36,ak,ak0259u7y36p,2025-08-02T18:40:18.719Z,"19 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-02T16:41:21.101Z,51.5108,159.7063,10.0,4.6,mb,38.0,157.0,1.648,0.96,us,us6000qxny,2025-08-02T18:40:06.040Z,"181 km SSE of Vilyuchinsk, Russia",earthquake,8.38,1.926,0.081,46.0,reviewed,us,us
 2025-08-02T07:48:24.910Z,47.448666666667,-123.769,1.94,0.32,ml,6.0,134.0,0.07104,0.05,uw,uw62164306,2025-08-02T18:44:00.010Z,"9 km ENE of Neilton, Washington",earthquake,0.23,0.9,0.11734305566577,3.0,reviewed,uw,uw
+2025-08-02T17:10:32.162Z,51.9363,159.4229,46.013,4.7,mb,131.0,125.0,1.187,0.78,us,us6000qxp2,2025-08-02T18:54:30.040Z,"130 km SSE of Vilyuchinsk, Russia",earthquake,7.94,6.408,0.038,207.0,reviewed,us,us
