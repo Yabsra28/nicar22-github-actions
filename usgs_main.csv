@@ -2119,3 +2119,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T05:34:08.220Z,34.4638333,-117.9628333,8.91,1.08,ml,28.0,34.0,0.01607,0.13,ci,ci41251232,2025-08-02T05:38:17.188Z,"7 km SSE of Littlerock, CA",earthquake,0.17,0.34,0.274,31.0,automatic,ci,ci
 2025-08-01T20:27:41.940Z,47.311333333333,-121.87183333333,-0.65,0.93,md,3.0,350.0,0.1468,0.01,uw,uw62155787,2025-08-02T05:39:21.140Z,"9 km ESE of Ravensdale, Washington",explosion,4.38,31.61,0.13782923609438,4.0,reviewed,uw,uw
 2025-08-01T08:11:52.867Z,51.8997,159.3539,35.0,4.3,mb,51.0,119.0,1.205,0.77,us,us6000qx8f,2025-08-02T05:36:02.040Z,"131 km SSE of Vilyuchinsk, Russia",earthquake,8.36,1.909,0.059,82.0,reviewed,us,us
+2025-08-02T06:13:40.010Z,35.867,-117.6886667,7.89,0.82,ml,19.0,118.0,0.08651,0.16,ci,ci41251256,2025-08-02T06:17:08.855Z,"21 km ESE of Little Lake, CA",earthquake,0.34,0.82,0.166,16.0,automatic,ci,ci
+2025-08-02T06:05:06.440Z,34.0553333,-117.2521667,14.4,0.86,ml,23.0,257.0,0.09359,0.19,ci,ci41251240,2025-08-02T06:09:06.382Z,"1 km NE of Loma Linda, CA",earthquake,0.66,0.89,0.268,28.0,automatic,ci,ci
+2025-08-02T06:01:47.260Z,59.5592,-152.9799,102.5,1.4,ml,,,,0.16,ak,ak0259u0l6o6,2025-08-02T06:02:54.985Z,"64 km WNW of Nanwalek, Alaska",earthquake,,6.6,,,automatic,ak,ak
+2025-08-02T05:49:19.463Z,51.6852,159.449,35.0,4.4,mb,55.0,178.0,1.427,0.78,us,us6000qxl8,2025-08-02T06:04:23.040Z,"155 km SSE of Vilyuchinsk, Russia",earthquake,12.1,1.967,0.067,63.0,reviewed,us,us
+2025-08-02T05:35:32.040Z,50.1156,159.4479,10.0,4.6,mb,59.0,135.0,2.954,0.68,us,us6000qxl7,2025-08-02T06:00:37.040Z,"244 km ESE of Severo-Kuril’sk, Russia",earthquake,8.05,1.882,0.075,52.0,reviewed,us,us
+2025-08-01T12:34:40.979Z,52.2382,160.5267,10.0,4.4,mb,59.0,161.0,1.388,0.46,us,us6000qxa1,2025-08-02T06:04:04.040Z,"157 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.76,1.916,0.056,94.0,reviewed,us,us
