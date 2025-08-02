@@ -2255,3 +2255,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T17:32:25.830Z,33.309,-116.2998333,9.86,1.09,ml,60.0,24.0,0.05385,0.19,ci,ci41251568,2025-08-02T17:42:47.650Z,"9 km NE of Borrego Springs, CA",earthquake,0.16,0.32,0.156,29.0,automatic,ci,ci
 2025-08-02T17:20:25.635Z,50.1911,157.307,46.691,5.4,mb,118.0,78.0,2.932,0.66,us,us6000qxp3,2025-08-02T17:38:33.040Z,"99 km ESE of Severo-Kuril’sk, Russia",earthquake,8.83,6.275,0.021,780.0,reviewed,us,us
 2025-08-02T15:57:52.427Z,40.4588,77.3155,10.0,4.4,mb,46.0,132.0,1.322,1.1,us,us6000qxnk,2025-08-02T17:40:24.040Z,"150 km ESE of At-Bashi, Kyrgyzstan",earthquake,3.62,1.888,0.107,25.0,reviewed,us,us
+2025-08-02T17:42:26.730Z,19.239999771118,-155.51849365234,-0.23999999463558,2.25999999,md,58.0,62.0,0.02023,0.280000001,hv,hv74741857,2025-08-02T17:47:14.621Z,"5 km NW of Pāhala, Hawaii",earthquake,0.34,0.180000007,0.119999997,12.0,automatic,hv,hv
