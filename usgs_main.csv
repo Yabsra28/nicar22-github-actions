@@ -2275,3 +2275,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T18:02:37.117Z,50.7992,160.0508,10.0,4.5,mb,58.0,135.0,2.39,0.81,us,us6000qxq5,2025-08-02T19:31:43.040Z,"260 km ESE of Ozernovskiy, Russia",earthquake,10.25,1.918,0.077,50.0,reviewed,us,us
 2025-08-02T19:43:36.178Z,38.447,-116.5012,0.1,1.5,ml,13.0,195.62,0.678,0.2091,nn,nn00901987,2025-08-02T19:46:31.163Z,"76 km ENE of Tonopah, Nevada",earthquake,,6.3,0.32,9.0,automatic,nn,nn
 2025-08-02T19:39:33.950Z,38.2501,-116.6227,5.8,2.8,ml,24.0,196.3,0.503,0.2714,nn,nn00901985,2025-08-02T19:42:25.690Z,"56 km ENE of Tonopah, Nevada",earthquake,,1.1,0.26,13.0,automatic,nn,nn
+2025-08-02T20:24:58.837Z,61.1043,-150.6177,35.1,1.1,ml,,,,0.96,ak,ak0259u927i3,2025-08-02T20:26:55.998Z,"20 km N of Point Possession, Alaska",earthquake,,20.0,,,automatic,ak,ak
+2025-08-02T20:07:30.070Z,33.27,-116.4183333,4.41,0.71,ml,30.0,41.0,0.002047,0.2,ci,ci41251640,2025-08-02T20:10:58.881Z,"4 km WNW of Borrego Springs, CA",earthquake,0.21,0.35,0.106,18.0,automatic,ci,ci
+2025-08-02T15:02:06.150Z,46.720833333333,-121.12816666667,8.6,1.37,ml,29.0,126.0,0.209,0.21,uw,uw62164401,2025-08-02T20:09:34.860Z,"18 km SW of Nile, Washington",earthquake,0.62,0.94,0.16878915439214,20.0,reviewed,uw,uw
+2025-08-02T06:11:18.870Z,48.261166666667,-123.09766666667,23.54,1.94,ml,48.0,29.0,0.2148,0.14,uw,uw62164296,2025-08-02T20:09:22.900Z,"14 km N of Jamestown, Washington",earthquake,0.2,0.57,0.14691366733202,25.0,reviewed,uw,uw
