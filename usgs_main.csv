@@ -2239,3 +2239,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T15:37:50.900Z,19.402500152588,-155.32434082031,1.1299999952316,1.85,ml,20.0,61.0,0.011,0.360000014,hv,hv74741812,2025-08-02T15:40:48.280Z,"10 km WSW of Volcano, Hawaii",earthquake,0.63,0.649999976,0.21,3.0,automatic,hv,hv
 2025-08-02T15:37:45.490Z,19.464666366577,-155.47416687012,2.5599999427795,2.13,ml,52.0,38.0,0.05001,0.25,hv,hv74741817,2025-08-02T15:41:41.930Z,"25 km W of Volcano, Hawaii",earthquake,0.29,1.21000004,0.56,17.0,automatic,hv,hv
 2025-08-02T14:57:19.318Z,51.9705,159.1049,35.0,4.4,mb,26.0,140.0,1.091,0.71,us,us6000qxnf,2025-08-02T15:46:04.040Z,"117 km SSE of Vilyuchinsk, Russia",earthquake,9.99,1.804,0.11,24.0,reviewed,us,us
+2025-08-02T16:01:11.099Z,61.8728,-147.2594,7.2,1.9,ml,,,,0.82,ak,ak0259u6jfxh,2025-08-02T16:03:28.093Z,"8 km SSW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-02T15:55:49.954Z,32.404,-102.084,7.0516,1.1,ml,23.0,89.0,0.0,0.6,tx,tx2025pcfjdq,2025-08-02T15:58:48.222Z,"37 km WSW of Ackerly, Texas",earthquake,0.0,1.4876141548157,0.1,12.0,automatic,tx,tx
+2025-08-02T15:48:30.710Z,28.643,-98.234,11.7584,1.7,ml,9.0,93.0,0.0,0.3,tx,tx2025pcfcuz,2025-08-02T16:00:24.237Z,"20 km NNW of Three Rivers, Texas",earthquake,0.0,4.9872646331787,0.1,7.0,automatic,tx,tx
