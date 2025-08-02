@@ -2125,3 +2125,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T05:49:19.463Z,51.6852,159.449,35.0,4.4,mb,55.0,178.0,1.427,0.78,us,us6000qxl8,2025-08-02T06:04:23.040Z,"155 km SSE of Vilyuchinsk, Russia",earthquake,12.1,1.967,0.067,63.0,reviewed,us,us
 2025-08-02T05:35:32.040Z,50.1156,159.4479,10.0,4.6,mb,59.0,135.0,2.954,0.68,us,us6000qxl7,2025-08-02T06:00:37.040Z,"244 km ESE of Severo-Kuril’sk, Russia",earthquake,8.05,1.882,0.075,52.0,reviewed,us,us
 2025-08-01T12:34:40.979Z,52.2382,160.5267,10.0,4.4,mb,59.0,161.0,1.388,0.46,us,us6000qxa1,2025-08-02T06:04:04.040Z,"157 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.76,1.916,0.056,94.0,reviewed,us,us
+2025-08-02T06:19:22.000Z,38.82816696167,-122.82416534424,1.4500000476837,0.28,md,7.0,129.0,0.009872,0.01,nc,nc75218182,2025-08-02T06:20:56.927Z,"8 km NW of The Geysers, CA",earthquake,0.46,1.25999999,0.19,9.0,automatic,nc,nc
