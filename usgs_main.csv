@@ -2267,3 +2267,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T16:41:21.101Z,51.5108,159.7063,10.0,4.6,mb,38.0,157.0,1.648,0.96,us,us6000qxny,2025-08-02T18:40:06.040Z,"181 km SSE of Vilyuchinsk, Russia",earthquake,8.38,1.926,0.081,46.0,reviewed,us,us
 2025-08-02T07:48:24.910Z,47.448666666667,-123.769,1.94,0.32,ml,6.0,134.0,0.07104,0.05,uw,uw62164306,2025-08-02T18:44:00.010Z,"9 km ENE of Neilton, Washington",earthquake,0.23,0.9,0.11734305566577,3.0,reviewed,uw,uw
 2025-08-02T17:10:32.162Z,51.9363,159.4229,46.013,4.7,mb,131.0,125.0,1.187,0.78,us,us6000qxp2,2025-08-02T18:54:30.040Z,"130 km SSE of Vilyuchinsk, Russia",earthquake,7.94,6.408,0.038,207.0,reviewed,us,us
+2025-08-02T19:07:42.786Z,31.505,-103.411,4.4492,2.1,ml,30.0,56.0,0.0,0.9,tx,tx2025pclsml,2025-08-02T19:12:05.470Z,"5 km NNW of Barstow, Texas",earthquake,0.0,0.98645913600922,0.2,23.0,automatic,tx,tx
+2025-08-02T17:49:52.051Z,50.8018,160.0638,10.0,4.5,mb,103.0,135.0,2.391,0.64,us,us6000qxp7,2025-08-02T19:15:53.040Z,"260 km ESE of Ozernovskiy, Russia",earthquake,8.91,1.903,0.05,116.0,reviewed,us,us
