@@ -2149,3 +2149,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T08:50:22.404Z,36.7726,-116.2478,10.0,0.6,ml,25.0,39.87,0.045,0.1771,nn,nn00901953,2025-08-02T08:52:09.683Z,"48 km ESE of Beatty, Nevada",earthquake,,0.5,0.21,18.0,automatic,nn,nn
 2025-08-02T08:48:18.490Z,35.6865,-117.535,6.11,0.69,ml,17.0,73.0,0.09309,0.17,ci,ci41251304,2025-08-02T08:51:41.609Z,"15 km ENE of Ridgecrest, CA",earthquake,0.3,1.04,0.106,13.0,automatic,ci,ci
 2025-08-02T08:40:13.460Z,33.1021667,-116.5178333,11.03,0.57,ml,36.0,43.0,0.07018,0.16,ci,ci41251296,2025-08-02T08:43:50.317Z,"8 km ENE of Julian, CA",earthquake,0.2,0.44,0.075,8.0,automatic,ci,ci
+2025-08-02T09:23:27.862Z,61.2912,-152.5089,5.9,1.7,ml,,,,0.84,ak,ak0259u2i5qq,2025-08-02T09:25:03.456Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-02T09:19:30.175Z,61.2943,-152.5045,2.7,1.7,ml,,,,0.79,ak,ak0259u2hb21,2025-08-02T09:21:12.722Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-02T09:18:03.580Z,37.455001831055,-118.73349761963,-0.47999998927116,1.2,md,13.0,177.0,0.1547,0.12,nc,nc75218232,2025-08-02T09:20:39.543Z,"13 km SSW of Toms Place, CA",earthquake,0.85,10.0900002,0.18,12.0,automatic,nc,nc
+2025-08-02T09:12:26.880Z,38.802833557129,-122.78033447266,2.8900001049042,1.28,md,29.0,65.0,0.01041,0.02,nc,nc75218227,2025-08-02T09:28:17.980Z,"4 km NNW of The Geysers, CA",earthquake,0.23,0.439999998,0.18,30.0,automatic,nc,nc
+2025-08-02T08:55:56.164Z,52.2638,160.6697,10.0,4.8,mb,98.0,124.0,1.447,1.02,us,us6000qxlv,2025-08-02T09:15:49.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.22,1.87,0.031,331.0,reviewed,us,us
+2025-08-02T08:48:01.970Z,37.875667572021,-122.25267028809,9.079999923706,1.61,md,35.0,40.0,0.003517,0.07,nc,nc75218222,2025-08-02T09:14:04.705Z,"2 km E of Berkeley, CA",earthquake,0.19,0.340000004,0.13,26.0,automatic,nc,nc
+2025-08-02T08:44:29.017Z,52.1581,160.3677,30.05,4.7,mb,66.0,123.0,1.36,0.67,us,us6000qxlu,2025-08-02T09:20:19.040Z,"155 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.54,5.962,0.078,50.0,reviewed,us,us
+2025-08-02T08:33:57.124Z,49.12,155.5546,66.429,4.6,mb,50.0,169.0,4.216,0.79,us,us6000qxlt,2025-08-02T09:26:32.040Z,"177 km SSW of Severo-Kuril’sk, Russia",earthquake,7.9,8.3,0.051,114.0,reviewed,us,us
