@@ -2248,3 +2248,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T16:20:33.910Z,47.707,-122.6235,25.14,2.92,ml,66.0,28.0,0.0321,0.14,uw,uw62164416,2025-08-02T16:37:21.156Z,"0 km NNW of Keyport, Washington",earthquake,0.18,0.28,0.19442589797008,151.0,reviewed,uw,uw
 2025-08-02T16:44:56.670Z,34.3568333,-116.9045,2.32,0.96,ml,36.0,44.0,0.06433,0.2,ci,ci41251496,2025-08-02T16:48:24.090Z,"11 km SSE of Lucerne Valley, CA",earthquake,0.22,0.72,0.245,21.0,automatic,ci,ci
 2025-08-02T16:44:16.101Z,31.496,-103.415,5.0485,2.0,ml,34.0,117.0,0.0,1.0,tx,tx2025pcgywk,2025-08-02T16:48:10.259Z,"4 km NNW of Barstow, Texas",earthquake,0.0,1.6012226343155,0.2,24.0,automatic,tx,tx
+2025-08-02T17:09:51.914Z,65.192,-150.2738,14.3,1.7,ml,,,,0.41,ak,ak0259u76oev,2025-08-02T17:11:20.607Z,"27 km NE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-02T17:06:10.680Z,33.5285,-116.7336667,6.52,0.3,ml,22.0,48.0,0.03693,0.13,ci,ci41251552,2025-08-02T17:09:51.587Z,"6 km WSW of Anza, CA",earthquake,0.19,0.36,0.16,8.0,automatic,ci,ci
+2025-08-02T16:41:25.121Z,37.53,-23.751,10.0,5.2,mww,214.0,47.0,1.427,0.6,us,us6000qxnx,2025-08-02T17:10:59.290Z,"127 km ESE of Senhora do Rosário, Portugal",earthquake,7.01,1.834,0.058,29.0,reviewed,us,us
