@@ -2287,3 +2287,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T18:20:59.418Z,48.6739,157.3643,10.0,4.7,mb,124.0,131.0,4.43,0.57,us,us6000qxq1,2025-08-02T21:02:11.040Z,"239 km SSE of Severo-Kuril’sk, Russia",earthquake,9.46,1.887,0.037,219.0,reviewed,us,us
 2025-08-02T21:21:52.202Z,38.6789,-97.5132,5.0,3.4,mb_lg,29.0,73.0,0.725,0.58,us,us6000qxqz,2025-08-02T21:37:42.368Z,"7 km E of Assaria, Kansas",earthquake,1.47,1.984,0.045,130.0,reviewed,us,us
 2025-08-02T18:42:51.228Z,52.3025,160.2253,30.636,4.4,mb,49.0,147.0,1.201,0.92,us,us6000qxqb,2025-08-02T21:39:24.040Z,"137 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.51,6.527,0.083,42.0,reviewed,us,us
+2025-08-02T21:11:51.396Z,50.2192,159.0451,10.0,5.1,mb,108.0,120.0,2.819,0.92,us,us6000qxqy,2025-08-02T22:01:59.040Z,"213 km ESE of Severo-Kuril’sk, Russia",earthquake,7.41,1.015,0.025,529.0,reviewed,us,us
