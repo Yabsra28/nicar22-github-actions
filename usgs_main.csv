@@ -2288,3 +2288,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T21:21:52.202Z,38.6789,-97.5132,5.0,3.4,mb_lg,29.0,73.0,0.725,0.58,us,us6000qxqz,2025-08-02T21:37:42.368Z,"7 km E of Assaria, Kansas",earthquake,1.47,1.984,0.045,130.0,reviewed,us,us
 2025-08-02T18:42:51.228Z,52.3025,160.2253,30.636,4.4,mb,49.0,147.0,1.201,0.92,us,us6000qxqb,2025-08-02T21:39:24.040Z,"137 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.51,6.527,0.083,42.0,reviewed,us,us
 2025-08-02T21:11:51.396Z,50.2192,159.0451,10.0,5.1,mb,108.0,120.0,2.819,0.92,us,us6000qxqy,2025-08-02T22:01:59.040Z,"213 km ESE of Severo-Kuril’sk, Russia",earthquake,7.41,1.015,0.025,529.0,reviewed,us,us
+2025-08-02T22:31:14.420Z,40.623664855957,-122.40567016602,18.819999694824,2.42,md,8.0,105.0,0.09621,0.09,nc,nc75218472,2025-08-02T22:32:49.793Z,"6 km NNW of Redding, CA",earthquake,0.56,0.75999999,0.08,9.0,automatic,nc,nc
+2025-08-02T22:26:56.600Z,33.532,-116.719,6.03,1.06,ml,43.0,32.0,0.03665,0.19,ci,ci41251736,2025-08-02T22:30:57.997Z,"5 km WSW of Anza, CA",earthquake,0.17,0.35,0.192,29.0,automatic,ci,ci
+2025-08-02T22:25:03.717Z,38.299,-116.6151,6.2,2.6,ml,24.0,230.59,0.527,0.2297,nn,nn00901990,2025-08-02T22:28:25.585Z,"59 km ENE of Tonopah, Nevada",earthquake,,1.2,0.25,17.0,automatic,nn,nn
+2025-08-02T22:19:12.940Z,36.027,-117.8115,2.01,0.66,ml,9.0,113.0,0.03753,0.03,ci,ci41251728,2025-08-02T22:22:43.019Z,"12 km E of Coso Junction, CA",earthquake,0.15,0.31,0.128,11.0,automatic,ci,ci
+2025-08-02T22:09:53.483Z,31.543,-104.007,7.4495,1.7,ml,12.0,154.0,0.0,0.3,tx,tx2025pcrtiw,2025-08-02T22:12:14.588Z,"32 km NW of Toyah, Texas",earthquake,0.0,2.7559587955475,0.3,5.0,automatic,tx,tx
+2025-08-02T22:07:41.220Z,33.2631667,-116.4225,4.77,1.21,ml,63.0,26.0,0.006724,0.22,ci,ci41251712,2025-08-02T22:18:38.340Z,"4 km W of Borrego Springs, CA",earthquake,0.15,0.33,0.151,26.0,automatic,ci,ci
