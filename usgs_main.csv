@@ -2246,3 +2246,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T16:23:30.361Z,62.9957,-151.571,5.7,1.3,ml,,,,0.51,ak,ak0259u6o764,2025-08-02T16:25:13.250Z,"61 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-02T16:22:26.380Z,34.0516667,-117.284,16.19,1.3,ml,65.0,49.0,0.08619,0.16,ci,ci41251480,2025-08-02T16:33:27.710Z,"2 km W of Loma Linda, CA",earthquake,0.15,0.31,0.155,26.0,automatic,ci,ci
 2025-08-02T16:20:33.910Z,47.707,-122.6235,25.14,2.92,ml,66.0,28.0,0.0321,0.14,uw,uw62164416,2025-08-02T16:37:21.156Z,"0 km NNW of Keyport, Washington",earthquake,0.18,0.28,0.19442589797008,151.0,reviewed,uw,uw
+2025-08-02T16:44:56.670Z,34.3568333,-116.9045,2.32,0.96,ml,36.0,44.0,0.06433,0.2,ci,ci41251496,2025-08-02T16:48:24.090Z,"11 km SSE of Lucerne Valley, CA",earthquake,0.22,0.72,0.245,21.0,automatic,ci,ci
+2025-08-02T16:44:16.101Z,31.496,-103.415,5.0485,2.0,ml,34.0,117.0,0.0,1.0,tx,tx2025pcgywk,2025-08-02T16:48:10.259Z,"4 km NNW of Barstow, Texas",earthquake,0.0,1.6012226343155,0.2,24.0,automatic,tx,tx
