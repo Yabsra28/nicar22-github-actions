@@ -2214,3 +2214,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T12:29:09.047Z,50.3973,159.2934,10.0,4.3,mb,41.0,133.0,2.66,1.19,us,us6000qxmt,2025-08-02T13:03:48.040Z,"226 km E of Severo-Kuril’sk, Russia",earthquake,7.59,1.896,0.095,31.0,reviewed,us,us
 2025-08-02T11:06:55.829Z,36.615,-116.25,6.1,-0.3,ml,15.0,138.86,0.078,0.0683,nn,nn00901959,2025-08-02T13:15:19.775Z,"51 km NNW of Pahrump, Nevada",earthquake,,2.0,0.0,2.0,reviewed,nn,nn
 2025-08-02T07:24:39.061Z,36.7269,-116.3042,8.0,-0.4,ml,20.0,159.66,0.016,0.0673,nn,nn00901958,2025-08-02T12:59:49.976Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.1,4.0,reviewed,nn,nn
+2025-08-02T13:32:54.958Z,54.4909,-160.0158,35.0,3.4,mb,27.0,202.0,0.421,0.99,us,us6000qxmy,2025-08-02T13:46:10.766Z,"99 km SSE of Sand Point, Alaska",earthquake,8.68,2.013,0.346,2.0,reviewed,us,us
