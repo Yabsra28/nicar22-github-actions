@@ -2506,3 +2506,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T19:20:27.528Z,59.4162,-152.6827,77.4,1.2,ml,,,,0.38,ak,ak0259vvz740,2025-08-03T19:30:24.472Z,"43 km W of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-08-03T19:27:09.090Z,51.9753,160.6292,12.578,5.1,mb,81.0,123.0,1.602,0.96,us,us6000qxxr,2025-08-03T19:44:17.040Z,"182 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.3,4.696,0.034,271.0,reviewed,us,us
 2025-08-03T18:56:28.416Z,52.4068,160.55,10.0,4.8,mb,54.0,148.0,1.31,0.51,us,us6000qxxk,2025-08-03T19:40:44.040Z,"149 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.73,1.91,0.057,95.0,reviewed,us,us
+2025-08-03T19:53:29.480Z,32.9633333,-115.8685,8.76,1.37,ml,40.0,38.0,0.03813,0.17,ci,ci41252192,2025-08-03T19:56:56.706Z,"24 km WSW of Westmorland, CA",earthquake,0.17,0.45,0.216,29.0,automatic,ci,ci
+2025-08-03T19:50:29.991Z,36.7772,-116.2458,11.1,-0.2,ml,13.0,79.57,0.044,0.1272,nn,nn00902051,2025-08-03T19:52:19.052Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.24,7.0,automatic,nn,nn
+2025-08-03T19:38:01.435Z,51.4816,159.6145,10.0,5.1,mb,74.0,121.0,1.654,0.93,us,us6000qxxt,2025-08-03T19:55:51.040Z,"181 km SSE of Vilyuchinsk, Russia",earthquake,8.63,1.878,0.036,245.0,reviewed,us,us
