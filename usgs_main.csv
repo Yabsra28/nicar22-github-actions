@@ -2544,3 +2544,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T23:28:19.340Z,33.1651667,-116.1056667,9.64,1.19,ml,55.0,29.0,0.05305,0.23,ci,ci41252288,2025-08-03T23:32:08.336Z,"3 km NE of Ocotillo Wells, CA",earthquake,0.18,0.44,0.142,26.0,automatic,ci,ci
 2025-08-03T23:24:09.920Z,33.228,-116.7435,8.97,1.42,ml,77.0,21.0,0.01506,0.2,ci,ci41252280,2025-08-03T23:34:44.120Z,"2 km SE of Lake Henshaw, CA",earthquake,0.14,0.43,0.241,28.0,automatic,ci,ci
 2025-08-03T23:22:49.920Z,38.813167572021,-122.81266784668,2.789999961853,1.22,md,25.0,48.0,0.01041,0.03,nc,nc75218737,2025-08-03T23:24:27.858Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.439999998,0.16,26.0,automatic,nc,nc
+2025-08-03T23:39:42.634Z,61.2799,-150.5345,65.0,0.9,ml,,,,0.24,ak,ak0259vyh1av,2025-08-03T23:41:40.042Z,"29 km S of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
