@@ -2501,3 +2501,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T18:35:04.421Z,62.0022,-151.3096,81.9,2.1,ml,,,,0.46,ak,ak0259vvgxgq,2025-08-03T18:36:48.348Z,"4 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-03T18:07:33.717Z,52.5606,160.6981,10.0,5.5,mb,107.0,43.0,1.327,0.75,us,us6000qxxc,2025-08-03T18:38:24.121Z,"150 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.53,1.804,0.02,912.0,reviewed,us,us
 2025-08-03T18:16:33.862Z,50.2272,158.949,18.999,4.9,mb,60.0,127.0,2.806,0.48,us,us6000qxxe,2025-08-03T18:49:23.040Z,"206 km ESE of Severo-Kuril’sk, Russia",earthquake,8.71,4.403,0.046,146.0,reviewed,us,us
+2025-08-03T19:14:47.620Z,34.0158333,-116.3995,6.53,1.22,ml,49.0,37.0,0.05393,0.19,ci,ci41252176,2025-08-03T19:18:17.179Z,"11 km ENE of Desert Hot Springs, CA",earthquake,0.17,0.42,0.198,27.0,automatic,ci,ci
+2025-08-03T18:18:55.241Z,51.8189,159.8998,10.0,5.1,mb,50.0,157.0,1.429,0.81,us,us6000qxxf,2025-08-03T19:17:53.040Z,"160 km SE of Vilyuchinsk, Russia",earthquake,8.04,1.897,0.062,85.0,reviewed,us,us
