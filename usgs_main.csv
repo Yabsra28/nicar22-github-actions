@@ -2443,3 +2443,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T12:38:18.061Z,50.2436,159.0717,10.0,5.2,mb,129.0,119.0,2.796,0.99,us,us6000qxv6,2025-08-03T12:58:07.040Z,"214 km ESE of Severo-Kuril’sk, Russia",earthquake,8.36,1.857,0.023,642.0,reviewed,us,us
 2025-08-03T12:18:56.293Z,49.8365,157.251,10.0,4.7,mb,113.0,134.0,3.288,0.68,us,us6000qxv3,2025-08-03T13:28:48.040Z,"123 km SE of Severo-Kuril’sk, Russia",earthquake,9.11,1.873,0.039,200.0,reviewed,us,us
 2025-08-03T11:14:51.190Z,36.153833333333,-91.370166666667,14.62,1.69,md,10.0,130.0,0.194,0.15,nm,nm60503853,2025-08-03T13:29:42.600Z,"10 km NW of Smithville, Arkansas",earthquake,0.42,0.75,0.12213976131938,8.0,reviewed,nm,nm
+2025-08-03T13:28:47.963Z,68.6337,-146.803,0.0,1.5,ml,,,,1.07,ak,ak0259vsgcsc,2025-08-03T13:41:17.427Z,"76 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-03T13:25:27.251Z,50.5055,158.924,42.472,5.2,mb,51.0,144.0,2.527,0.87,us,us6000qxva,2025-08-03T13:39:01.040Z,"198 km E of Severo-Kuril’sk, Russia",earthquake,10.91,7.752,0.029,386.0,reviewed,us,us
