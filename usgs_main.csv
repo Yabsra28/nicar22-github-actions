@@ -2497,3 +2497,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T18:01:00.150Z,38.812168121338,-122.8048324585,2.2000000476837,1.03,md,24.0,41.0,0.008545,0.02,nc,nc75218692,2025-08-03T18:02:36.525Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.28,25.0,automatic,nc,nc
 2025-08-03T17:58:42.137Z,37.2054,-116.3815,4.6,1.0,ml,24.0,161.04,0.041,0.3626,nn,nn00902045,2025-08-03T18:01:21.164Z,"47 km NE of Beatty, Nevada",earthquake,,0.8,0.25,17.0,automatic,nn,nn
 2025-08-03T17:53:42.461Z,59.3288,-152.7286,79.7,1.4,ml,,,,0.5,ak,ak0259vuzfom,2025-08-03T17:55:33.291Z,"46 km W of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-03T18:40:51.400Z,34.5166667,-118.0805,8.78,0.99,ml,19.0,38.0,0.04298,0.13,ci,ci41252168,2025-08-03T18:44:25.454Z,"4 km ENE of Vincent, CA",earthquake,0.23,0.37,0.404,25.0,automatic,ci,ci
+2025-08-03T18:35:04.421Z,62.0022,-151.3096,81.9,2.1,ml,,,,0.46,ak,ak0259vvgxgq,2025-08-03T18:36:48.348Z,"4 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-03T18:07:33.717Z,52.5606,160.6981,10.0,5.5,mb,107.0,43.0,1.327,0.75,us,us6000qxxc,2025-08-03T18:38:24.121Z,"150 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.53,1.804,0.02,912.0,reviewed,us,us
