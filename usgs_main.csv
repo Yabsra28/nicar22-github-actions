@@ -2348,3 +2348,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T02:26:17.590Z,-55.5058,-127.7568,10.0,5.2,mb,30.0,65.0,32.408,1.05,us,us6000qxsd,2025-08-03T02:58:30.040Z,Pacific-Antarctic Ridge,earthquake,15.32,1.172,0.106,29.0,reviewed,us,us
 2025-08-03T01:40:29.580Z,47.4785,-121.629,17.62,1.13,ml,10.0,163.0,0.104,0.07,uw,uw62164876,2025-08-03T04:00:22.330Z,"8 km E of Tanner, Washington",earthquake,0.71,0.52,0.091480793940722,9.0,reviewed,uw,uw
 2025-08-03T01:39:36.088Z,50.601,157.5981,52.385,4.5,mb,45.0,130.0,2.512,0.85,us,us6000qxs6,2025-08-03T03:08:14.040Z,"104 km E of Severo-Kuril’sk, Russia",earthquake,10.02,5.1,0.045,143.0,reviewed,us,us
+2025-08-03T04:50:59.350Z,34.1305008,-117.4101639,4.61,1.15,ml,43.0,44.0,0.03892,0.21,ci,ci41251864,2025-08-03T04:53:19.956Z,"4 km NW of Rialto, CA",earthquake,0.27,0.62,0.26,13.0,automatic,ci,ci
+2025-08-03T04:39:27.670Z,33.4901667,-116.8946667,10.82,0.49,ml,25.0,56.0,0.07327,0.16,ci,ci41251856,2025-08-03T04:43:16.076Z,"6 km NNW of Aguanga, CA",earthquake,0.23,0.44,0.203,16.0,automatic,ci,ci
+2025-08-03T04:34:44.655Z,58.1687,-153.5793,65.3,1.4,ml,,,,0.42,ak,ak0259vn4qdt,2025-08-03T04:36:51.846Z,"41 km WNW of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-08-03T04:31:47.752Z,37.9357,-118.0035,4.0,1.8,ml,27.0,70.36,0.264,0.3678,nn,nn00902000,2025-08-03T04:34:57.284Z,"30 km N of Dyer, Nevada",earthquake,,0.5,0.23,15.0,automatic,nn,nn
+2025-08-03T04:29:09.946Z,51.9853,160.2972,16.602,4.8,mb,31.0,173.0,1.447,1.19,us,us6000qxsq,2025-08-03T04:48:34.040Z,"165 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.64,6.45,0.078,52.0,reviewed,us,us
+2025-08-03T04:24:40.260Z,17.961166666667,-67.092666666667,11.92,2.38,md,12.0,227.0,0.04684,0.09,pr,pr71491403,2025-08-03T04:47:56.810Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.48,0.35,0.083259774962291,3.0,reviewed,pr,pr
+2025-08-03T04:01:27.239Z,50.2351,158.9241,10.0,5.1,mb,55.0,137.0,2.798,0.89,us,us6000qxsm,2025-08-03T04:19:03.040Z,"204 km ESE of Severo-Kuril’sk, Russia",earthquake,10.42,1.895,0.029,375.0,reviewed,us,us
+2025-08-03T03:47:01.784Z,29.7833,92.4799,10.0,4.5,mb,40.0,81.0,11.256,1.1,us,us6000qxsk,2025-08-03T04:09:51.040Z,"134 km E of Lhasa, China",earthquake,12.11,1.897,0.085,41.0,reviewed,us,us
+2025-08-02T23:26:55.540Z,46.873666666667,-121.75633333333,-1.98,0.3,ml,11.0,114.0,0.01672,0.11,uw,uw62164736,2025-08-03T04:17:12.020Z,"24 km ENE of Ashford, Washington",earthquake,0.35,0.42,0.17705076744846,3.0,reviewed,uw,uw
