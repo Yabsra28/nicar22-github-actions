@@ -2412,3 +2412,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T09:32:00.700Z,18.195,-68.0831,99.0,3.62,md,14.0,194.0,0.4367,0.39,pr,pr2025215001,2025-08-03T10:14:58.535Z,"54 km SE of Punta Cana, Dominican Republic",earthquake,3.28,1.87,0.08,5.0,reviewed,pr,pr
 2025-08-03T10:34:14.554Z,61.5621,-147.3579,15.8,1.7,ml,,,,0.15,ak,ak0259vqp9ov,2025-08-03T10:35:29.965Z,"31 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-03T10:25:04.427Z,60.2842,-143.4367,9.8,1.1,ml,,,,0.23,ak,ak0259vqnbgq,2025-08-03T10:27:19.847Z,"131 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T10:45:14.083Z,61.6995,-151.7067,95.7,2.9,ml,,,,0.31,ak,ak0259vqrmke,2025-08-03T10:46:48.155Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-03T10:42:41.467Z,32.015,-103.804,8.8852,1.5,ml,17.0,65.0,0.0,0.5,tx,tx2025pdqses,2025-08-03T10:45:55.330Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,2.8230593204498,0.2,10.0,automatic,tx,tx
+2025-08-03T10:30:41.834Z,54.5949,-159.8904,37.352,3.4,ml,14.0,197.0,0.294,0.36,us,us6000qxub,2025-08-03T10:46:55.040Z,"91 km SSE of Sand Point, Alaska",earthquake,9.8,11.794,0.071,26.0,reviewed,us,us
