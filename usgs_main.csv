@@ -2447,3 +2447,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T13:25:27.251Z,50.5055,158.924,42.472,5.2,mb,51.0,144.0,2.527,0.87,us,us6000qxva,2025-08-03T13:39:01.040Z,"198 km E of Severo-Kuril’sk, Russia",earthquake,10.91,7.752,0.029,386.0,reviewed,us,us
 2025-08-03T14:06:45.310Z,35.6533318,-117.4968338,5.76,1.5,ml,26.0,51.0,0.0607,0.14,ci,ci41252048,2025-08-03T14:08:51.957Z,"15 km SSW of Searles Valley, CA",earthquake,0.27,0.97,0.25,15.0,automatic,ci,ci
 2025-08-03T13:52:02.030Z,63.5037,-145.2451,1.0,1.9,ml,,,,0.36,ak,ak0259vsleff,2025-08-03T13:53:51.368Z,"33 km WSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T14:23:24.350Z,34.3205,-116.4546667,6.79,1.37,ml,48.0,50.0,0.06634,0.16,ci,ci41252064,2025-08-03T14:26:59.331Z,"23 km N of Yucca Valley, CA",earthquake,0.15,0.36,0.142,26.0,automatic,ci,ci
+2025-08-03T14:17:55.448Z,63.3851,-153.4932,8.8,2.6,ml,,,,0.42,ak,ak0259vszg3c,2025-08-03T14:19:36.613Z,"60 km NE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T14:11:15.770Z,33.1881667,-116.0418333,4.18,1.9,ml,73.0,23.0,0.0557,0.22,ci,ci41252056,2025-08-03T14:22:13.420Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.55,0.251,25.0,automatic,ci,ci
+2025-08-03T14:10:02.648Z,61.6758,-150.0427,29.3,1.5,ml,,,,0.43,ak,ak0259vsxu08,2025-08-03T14:11:55.587Z,"7 km S of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
