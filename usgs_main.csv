@@ -2522,3 +2522,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T18:59:22.889Z,19.8628,-68.7945,13.227,3.2,ml,19.0,164.0,0.68,0.51,us,us6000qxxj,2025-08-03T21:19:42.040Z,"92 km NE of Samaná, Dominican Republic",earthquake,3.54,8.78,0.061,35.0,reviewed,us,us
 2025-08-03T17:29:16.862Z,51.5485,159.2002,46.882,4.5,mb,28.0,165.0,1.515,1.16,us,us6000qxxs,2025-08-03T21:01:37.040Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,10.38,8.351,0.091,35.0,reviewed,us,us
 2025-08-03T20:52:06.127Z,52.7433,159.2692,67.112,4.8,mb,78.0,119.0,0.469,0.87,us,us6000qxy7,2025-08-03T21:27:19.040Z,"56 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.38,6.047,0.028,408.0,reviewed,us,us
+2025-08-03T22:10:54.890Z,35.6935,-117.523,10.51,1.01,ml,31.0,47.0,0.08566,0.13,ci,ci41252256,2025-08-03T22:14:24.007Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.36,0.106,18.0,automatic,ci,ci
+2025-08-03T22:05:52.246Z,32.109,-101.927,3.5068,1.0,ml,23.0,47.0,0.1,0.6,tx,tx2025peniwc,2025-08-03T22:09:48.673Z,"13 km W of Stanton, Texas",earthquake,0.0,1.0818905830383,0.2,13.0,automatic,tx,tx
+2025-08-03T21:55:10.118Z,48.825,155.3379,35.0,5.2,mb,57.0,130.0,4.541,0.68,us,us6000qxyg,2025-08-03T22:11:05.040Z,"213 km SSW of Severo-Kuril’sk, Russia",earthquake,10.23,1.912,0.025,518.0,reviewed,us,us
+2025-08-03T21:52:22.175Z,31.679,-104.441,3.6841,1.6,ml,20.0,96.0,0.0,0.7,tx,tx2025pemxfv,2025-08-03T22:03:09.795Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.2233616113663,0.3,14.0,automatic,tx,tx
+2025-08-03T21:51:20.262Z,31.631,-104.434,2.6808,2.0,ml,27.0,94.0,0.0,0.5,tx,tx2025pemwgu,2025-08-03T21:54:37.864Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.3052921295166,0.2,19.0,automatic,tx,tx
