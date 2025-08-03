@@ -2400,3 +2400,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T08:41:31.390Z,33.4483333,-116.5656667,10.09,0.58,ml,32.0,46.0,0.05542,0.16,ci,ci41251936,2025-08-03T08:45:00.385Z,"16 km SE of Anza, CA",earthquake,0.19,0.37,0.138,14.0,automatic,ci,ci
 2025-08-03T08:37:37.394Z,67.3263,-156.2485,11.144,2.7,ml,35.0,65.0,0.402,0.41,us,us6000qxu0,2025-08-03T08:48:40.040Z,"54 km NNE of Kobuk, Alaska",earthquake,5.53,7.654,0.045,66.0,reviewed,us,us
 2025-08-03T08:34:40.614Z,50.65,158.1797,24.671,4.7,mb,61.0,130.0,2.395,1.45,us,us6000qxu1,2025-08-03T08:57:45.040Z,"145 km E of Severo-Kuril’sk, Russia",earthquake,9.63,5.599,0.055,101.0,reviewed,us,us
+2025-08-03T09:04:58.731Z,50.9458,160.2477,10.0,4.5,mb,92.0,182.0,2.303,0.51,us,us6000qxu6,2025-08-03T09:26:04.040Z,"254 km SSE of Vilyuchinsk, Russia",earthquake,10.77,1.93,0.04,183.0,reviewed,us,us
+2025-08-03T08:59:13.690Z,33.8476667,-116.1898333,7.8,0.9,ml,39.0,61.0,0.0572,0.16,ci,ci41251960,2025-08-03T09:02:42.321Z,"14 km N of Indio, CA",earthquake,0.21,0.59,0.141,20.0,automatic,ci,ci
