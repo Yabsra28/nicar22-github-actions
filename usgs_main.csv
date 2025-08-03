@@ -2538,3 +2538,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T22:35:56.889Z,38.6412,-97.545,5.0,3.3,mb_lg,26.0,74.0,0.68,0.94,us,us6000qxyj,2025-08-03T22:48:46.292Z,"6 km SE of Assaria, Kansas",earthquake,1.75,1.922,0.142,13.0,reviewed,us,us
 2025-08-03T01:17:50.710Z,38.792,-122.75366666667,1.09,0.21,md,11.0,123.0,0.009823,0.02,nc,nc75218487,2025-08-03T22:45:23.048Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.43,0.18,9.0,reviewed,nc,nc
 2025-08-03T00:11:07.520Z,38.829166666667,-122.81333333333,2.08,0.38,md,14.0,59.0,0.006301,0.02,nc,nc75218477,2025-08-03T22:51:55.940Z,"8 km NNW of The Geysers, CA",earthquake,0.36,0.62,0.163,14.0,reviewed,nc,nc
+2025-08-03T22:58:46.211Z,60.0777,-152.7047,94.3,1.0,ml,,,,0.24,ak,ak0259vxzokt,2025-08-03T23:00:38.705Z,"56 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
