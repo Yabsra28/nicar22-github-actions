@@ -2410,3 +2410,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T10:16:18.710Z,38.825164794922,-122.80466461182,2.8499999046326,0.76,md,14.0,73.0,0.00458,0.02,nc,nc75218582,2025-08-03T10:17:56.569Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.689999998,0.11,14.0,automatic,nc,nc
 2025-08-03T10:01:49.044Z,60.0044,-151.8694,57.7,1.4,ml,,,,0.51,ak,ak0259vqi9q0,2025-08-03T10:06:15.285Z,"9 km NW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-03T09:32:00.700Z,18.195,-68.0831,99.0,3.62,md,14.0,194.0,0.4367,0.39,pr,pr2025215001,2025-08-03T10:14:58.535Z,"54 km SE of Punta Cana, Dominican Republic",earthquake,3.28,1.87,0.08,5.0,reviewed,pr,pr
+2025-08-03T10:34:14.554Z,61.5621,-147.3579,15.8,1.7,ml,,,,0.15,ak,ak0259vqp9ov,2025-08-03T10:35:29.965Z,"31 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T10:25:04.427Z,60.2842,-143.4367,9.8,1.1,ml,,,,0.23,ak,ak0259vqnbgq,2025-08-03T10:27:19.847Z,"131 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
