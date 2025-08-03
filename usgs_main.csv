@@ -2516,3 +2516,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T20:31:42.790Z,38.84400177002,-122.75416564941,7.6599998474121,0.36,md,7.0,160.0,0.01742,0.05,nc,nc75218717,2025-08-03T20:33:17.296Z,"4 km NW of Cobb, CA",earthquake,1.25,1.71000004,0.24,7.0,automatic,nc,nc
 2025-08-03T20:08:45.182Z,49.746,157.426,10.0,5.2,mb,57.0,115.0,3.37,1.04,us,us6000qxxz,2025-08-03T20:40:11.040Z,"138 km SE of Severo-Kuril’sk, Russia",earthquake,8.35,1.542,0.024,559.0,reviewed,us,us
 2025-08-03T19:47:39.123Z,49.9661,159.5993,10.0,5.1,mb,76.0,88.0,3.119,1.14,us,us6000qxxv,2025-08-03T20:32:53.040Z,"259 km ESE of Severo-Kuril’sk, Russia",earthquake,8.65,1.81,0.027,430.0,reviewed,us,us
+2025-08-03T20:48:54.638Z,59.9475,-151.4329,19.9,1.4,ml,,,,0.56,ak,ak0259vwqouv,2025-08-03T20:51:43.592Z,"16 km E of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
