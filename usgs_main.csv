@@ -2417,3 +2417,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T10:30:41.834Z,54.5949,-159.8904,37.352,3.4,ml,14.0,197.0,0.294,0.36,us,us6000qxub,2025-08-03T10:46:55.040Z,"91 km SSE of Sand Point, Alaska",earthquake,9.8,11.794,0.071,26.0,reviewed,us,us
 2025-08-03T10:46:19.989Z,54.3997,-159.9062,49.5,2.9,ml,,,,0.46,ak,ak0259vqruq0,2025-08-03T10:59:53.683Z,"110 km SSE of Sand Point, Alaska",earthquake,,9.5,,,automatic,ak,ak
 2025-08-03T06:10:45.144Z,32.407,-101.916,4.7859,1.1,mlv,23.0,44.0,0.0,0.5,tx,tx2025pdhrvq,2025-08-03T11:15:44.199Z,"23 km SW of Ackerly, Texas",earthquake,0.0,1.0311139822006,0.3,18.0,automatic,tx,tx
+2025-08-03T11:17:27.590Z,33.1586667,-116.4401667,6.49,0.39,ml,32.0,111.0,0.08116,0.2,ci,ci41251984,2025-08-03T11:20:58.173Z,"12 km SSW of Borrego Springs, CA",earthquake,0.3,0.71,0.08,9.0,automatic,ci,ci
+2025-08-03T11:16:12.874Z,32.413,-102.022,4.1347,1.9,ml,65.0,65.0,0.1,0.4,tx,tx2025pdrvbd,2025-08-03T11:22:12.262Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,0.68135696649551,0.2,41.0,automatic,tx,tx
+2025-08-03T11:15:19.160Z,33.2765,-116.8586667,11.18,0.66,ml,44.0,30.0,0.07698,0.14,ci,ci41251976,2025-08-03T11:18:51.554Z,"9 km S of Palomar Observatory, CA",earthquake,0.13,0.35,0.13,17.0,automatic,ci,ci
+2025-08-03T10:46:20.287Z,54.4416,-159.8369,35.0,3.0,ml,24.0,205.0,0.416,0.69,us,us6000qxug,2025-08-03T11:21:49.040Z,"108 km SSE of Sand Point, Alaska",earthquake,7.84,2.021,0.085,18.0,reviewed,us,us
