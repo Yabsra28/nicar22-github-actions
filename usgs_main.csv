@@ -2424,3 +2424,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T11:33:32.770Z,36.1246667,-118.261,12.9,1.17,ml,29.0,71.0,0.05032,0.17,ci,ci41251992,2025-08-03T11:37:05.783Z,"29 km SW of Olancha, CA",earthquake,0.22,0.6,0.244,19.0,automatic,ci,ci
 2025-08-03T11:10:39.679Z,50.3801,158.5647,10.0,4.3,mb,47.0,170.0,2.648,0.67,us,us6000qxuk,2025-08-03T11:35:48.040Z,"175 km ESE of Severo-Kuril’sk, Russia",earthquake,11.6,1.955,0.063,71.0,reviewed,us,us
 2025-08-03T10:47:12.480Z,18.520333333333,-66.744333333333,124.99,3.24,md,24.0,190.0,0.2084,0.24,pr,pr71491433,2025-08-03T11:37:53.360Z,"6 km NNW of Arecibo, Puerto Rico",earthquake,1.72,0.83,0.12167570037251,11.0,reviewed,pr,pr
+2025-08-03T11:49:26.850Z,33.471,-116.4631667,2.91,0.92,ml,60.0,30.0,0.1186,0.21,ci,ci41252008,2025-08-03T11:53:05.119Z,"22 km ESE of Anza, CA",earthquake,0.16,0.79,0.163,26.0,automatic,ci,ci
+2025-08-03T11:47:35.680Z,34.147,-117.4191667,5.69,1.47,ml,103.0,20.0,0.046,0.21,ci,ci41252000,2025-08-03T11:51:25.279Z,"6 km NW of Rialto, CA",earthquake,0.13,0.38,0.138,26.0,automatic,ci,ci
