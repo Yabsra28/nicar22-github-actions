@@ -2421,3 +2421,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T11:16:12.874Z,32.413,-102.022,4.1347,1.9,ml,65.0,65.0,0.1,0.4,tx,tx2025pdrvbd,2025-08-03T11:22:12.262Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,0.68135696649551,0.2,41.0,automatic,tx,tx
 2025-08-03T11:15:19.160Z,33.2765,-116.8586667,11.18,0.66,ml,44.0,30.0,0.07698,0.14,ci,ci41251976,2025-08-03T11:18:51.554Z,"9 km S of Palomar Observatory, CA",earthquake,0.13,0.35,0.13,17.0,automatic,ci,ci
 2025-08-03T10:46:20.287Z,54.4416,-159.8369,35.0,3.0,ml,24.0,205.0,0.416,0.69,us,us6000qxug,2025-08-03T11:21:49.040Z,"108 km SSE of Sand Point, Alaska",earthquake,7.84,2.021,0.085,18.0,reviewed,us,us
+2025-08-03T11:33:32.770Z,36.1246667,-118.261,12.9,1.17,ml,29.0,71.0,0.05032,0.17,ci,ci41251992,2025-08-03T11:37:05.783Z,"29 km SW of Olancha, CA",earthquake,0.22,0.6,0.244,19.0,automatic,ci,ci
+2025-08-03T11:10:39.679Z,50.3801,158.5647,10.0,4.3,mb,47.0,170.0,2.648,0.67,us,us6000qxuk,2025-08-03T11:35:48.040Z,"175 km ESE of Severo-Kuril’sk, Russia",earthquake,11.6,1.955,0.063,71.0,reviewed,us,us
+2025-08-03T10:47:12.480Z,18.520333333333,-66.744333333333,124.99,3.24,md,24.0,190.0,0.2084,0.24,pr,pr71491433,2025-08-03T11:37:53.360Z,"6 km NNW of Arecibo, Puerto Rico",earthquake,1.72,0.83,0.12167570037251,11.0,reviewed,pr,pr
