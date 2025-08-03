@@ -2390,3 +2390,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T07:57:41.931Z,62.408,-151.1291,13.0,1.2,ml,,,,0.39,ak,ak0259vp1ygh,2025-08-03T08:00:28.043Z,"21 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-03T07:36:22.335Z,51.5881,159.5691,33.5,4.9,mb,57.0,123.0,1.544,1.31,us,us6000qxtv,2025-08-03T08:09:40.040Z,"169 km SSE of Vilyuchinsk, Russia",earthquake,9.23,5.714,0.062,80.0,reviewed,us,us
 2025-08-03T07:33:57.543Z,50.6337,157.8897,35.0,4.7,mb,55.0,135.0,2.439,0.8,us,us6000qxtt,2025-08-03T07:55:44.040Z,"124 km E of Severo-Kuril’sk, Russia",earthquake,10.86,1.928,0.04,190.0,reviewed,us,us
+2025-08-03T08:32:11.430Z,34.1438333,-117.4168333,6.2,1.2,ml,87.0,19.0,0.04775,0.2,ci,ci41251928,2025-08-03T08:38:31.866Z,"6 km NW of Rialto, CA",earthquake,0.13,0.35,0.208,28.0,automatic,ci,ci
+2025-08-03T08:22:59.170Z,33.2821667,-116.7638333,16.63,0.59,ml,33.0,27.0,0.04626,0.13,ci,ci41251920,2025-08-03T08:26:30.484Z,"4 km N of Lake Henshaw, CA",earthquake,0.18,0.41,0.141,12.0,automatic,ci,ci
+2025-08-03T08:19:04.850Z,33.1581667,-115.6321667,2.55,1.2,ml,39.0,65.0,0.02372,0.18,ci,ci41251912,2025-08-03T08:22:32.444Z,"12 km WNW of Calipatria, CA",earthquake,0.17,0.22,0.168,24.0,automatic,ci,ci
+2025-08-03T07:43:30.008Z,60.7431,-150.7714,57.121,2.7,ml,53.0,53.0,0.189,0.68,us,us6000qxtu,2025-08-03T08:18:25.040Z,"20 km SSW of Point Possession, Alaska",earthquake,4.01,10.606,0.036,100.0,reviewed,us,us
