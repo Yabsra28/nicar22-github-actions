@@ -2489,3 +2489,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T17:04:57.520Z,32.039,-116.363,11.78,2.02,ml,19.0,83.0,0.2884,0.16,ci,ci41252144,2025-08-03T17:14:44.074Z,"31 km NE of Ensenada, B.C., MX",earthquake,0.37,2.45,0.216,26.0,automatic,ci,ci
 2025-08-03T17:00:25.090Z,33.227,-116.7446667,8.88,2.47,ml,103.0,13.0,0.01482,0.21,ci,ci41252136,2025-08-03T17:11:24.330Z,"2 km SE of Lake Henshaw, CA",earthquake,0.12,0.38,0.265,25.0,automatic,ci,ci
 2025-08-03T16:39:55.719Z,53.3603,161.5199,35.0,4.6,mb,36.0,145.0,1.759,0.9,us,us6000qxx3,2025-08-03T17:06:19.040Z,"196 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.97,1.939,0.067,66.0,reviewed,us,us
+2025-08-03T17:30:35.754Z,60.1914,-152.6693,105.1,3.1,ml,,,,0.31,ak,ak0259vuuhqi,2025-08-03T17:35:56.573Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-03T17:21:44.984Z,61.5214,-147.0256,38.5,1.1,ml,,,,0.8,ak,ak0259vuskyq,2025-08-03T17:23:36.737Z,"46 km SE of Glacier View, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-03T16:47:52.886Z,52.3752,160.9249,35.0,4.6,mb,40.0,206.0,1.529,0.88,us,us6000qxx4,2025-08-03T17:15:22.040Z,"173 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.22,1.998,0.046,143.0,reviewed,us,us
