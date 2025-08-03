@@ -2517,3 +2517,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T20:08:45.182Z,49.746,157.426,10.0,5.2,mb,57.0,115.0,3.37,1.04,us,us6000qxxz,2025-08-03T20:40:11.040Z,"138 km SE of Severo-Kuril’sk, Russia",earthquake,8.35,1.542,0.024,559.0,reviewed,us,us
 2025-08-03T19:47:39.123Z,49.9661,159.5993,10.0,5.1,mb,76.0,88.0,3.119,1.14,us,us6000qxxv,2025-08-03T20:32:53.040Z,"259 km ESE of Severo-Kuril’sk, Russia",earthquake,8.65,1.81,0.027,430.0,reviewed,us,us
 2025-08-03T20:48:54.638Z,59.9475,-151.4329,19.9,1.4,ml,,,,0.56,ak,ak0259vwqouv,2025-08-03T20:51:43.592Z,"16 km E of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-03T21:11:05.881Z,31.265,-103.381,7.3724,1.6,ml,29.0,40.0,0.1,0.6,tx,tx2025pelnrq,2025-08-03T21:16:05.598Z,"18 km SE of Lindsay, Texas",earthquake,0.0,1.8503334522247,0.2,18.0,automatic,tx,tx
+2025-08-03T20:57:26.312Z,61.3273,-146.6188,30.2,1.2,ml,,,,0.51,ak,ak0259vwsk47,2025-08-03T20:59:12.125Z,"26 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T18:59:22.889Z,19.8628,-68.7945,13.227,3.2,ml,19.0,164.0,0.68,0.51,us,us6000qxxj,2025-08-03T21:19:42.040Z,"92 km NE of Samaná, Dominican Republic",earthquake,3.54,8.78,0.061,35.0,reviewed,us,us
+2025-08-03T17:29:16.862Z,51.5485,159.2002,46.882,4.5,mb,28.0,165.0,1.515,1.16,us,us6000qxxs,2025-08-03T21:01:37.040Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,10.38,8.351,0.091,35.0,reviewed,us,us
