@@ -2415,3 +2415,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T10:45:14.083Z,61.6995,-151.7067,95.7,2.9,ml,,,,0.31,ak,ak0259vqrmke,2025-08-03T10:46:48.155Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-03T10:42:41.467Z,32.015,-103.804,8.8852,1.5,ml,17.0,65.0,0.0,0.5,tx,tx2025pdqses,2025-08-03T10:45:55.330Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,2.8230593204498,0.2,10.0,automatic,tx,tx
 2025-08-03T10:30:41.834Z,54.5949,-159.8904,37.352,3.4,ml,14.0,197.0,0.294,0.36,us,us6000qxub,2025-08-03T10:46:55.040Z,"91 km SSE of Sand Point, Alaska",earthquake,9.8,11.794,0.071,26.0,reviewed,us,us
+2025-08-03T10:46:19.989Z,54.3997,-159.9062,49.5,2.9,ml,,,,0.46,ak,ak0259vqruq0,2025-08-03T10:59:53.683Z,"110 km SSE of Sand Point, Alaska",earthquake,,9.5,,,automatic,ak,ak
+2025-08-03T06:10:45.144Z,32.407,-101.916,4.7859,1.1,mlv,23.0,44.0,0.0,0.5,tx,tx2025pdhrvq,2025-08-03T11:15:44.199Z,"23 km SW of Ackerly, Texas",earthquake,0.0,1.0311139822006,0.3,18.0,automatic,tx,tx
