@@ -2357,3 +2357,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T04:01:27.239Z,50.2351,158.9241,10.0,5.1,mb,55.0,137.0,2.798,0.89,us,us6000qxsm,2025-08-03T04:19:03.040Z,"204 km ESE of Severo-Kuril’sk, Russia",earthquake,10.42,1.895,0.029,375.0,reviewed,us,us
 2025-08-03T03:47:01.784Z,29.7833,92.4799,10.0,4.5,mb,40.0,81.0,11.256,1.1,us,us6000qxsk,2025-08-03T04:09:51.040Z,"134 km E of Lhasa, China",earthquake,12.11,1.897,0.085,41.0,reviewed,us,us
 2025-08-02T23:26:55.540Z,46.873666666667,-121.75633333333,-1.98,0.3,ml,11.0,114.0,0.01672,0.11,uw,uw62164736,2025-08-03T04:17:12.020Z,"24 km ENE of Ashford, Washington",earthquake,0.35,0.42,0.17705076744846,3.0,reviewed,uw,uw
+2025-08-03T05:10:12.565Z,62.3044,-148.7483,20.0,1.2,ml,,,,0.25,ak,ak0259vnkybs,2025-08-03T05:11:46.849Z,"58 km NNW of Chickaloon, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-08-03T04:57:10.588Z,-55.2484,-128.5742,10.0,6.4,mww,55.0,41.0,30.39,0.85,us,us6000qxsv,2025-08-03T05:23:16.231Z,Pacific-Antarctic Ridge,earthquake,12.23,1.865,0.075,17.0,reviewed,us,us
+2025-08-03T04:51:51.213Z,60.1638,-153.3429,152.4,1.7,ml,,,,0.81,ak,ak0259vn8e1h,2025-08-03T04:55:31.802Z,"54 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-02T19:10:28.370Z,33.2573,73.2727,10.0,4.9,mb,71.0,59.0,3.663,0.99,us,us6000qxqh,2025-08-03T05:24:17.580Z,"2 km W of Gujar Khan, Pakistan",earthquake,8.11,1.841,0.05,128.0,reviewed,us,us
+2025-08-02T17:44:51.330Z,48.7355,-120.9565,9.79,2.08,ml,17.0,140.0,0.4715,0.38,uw,uw62164451,2025-08-03T05:11:11.220Z,"43 km ENE of Marblemount, Washington",earthquake,0.89,32.75,0.074114905856647,11.0,reviewed,uw,uw
