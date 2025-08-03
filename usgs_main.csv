@@ -2493,3 +2493,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T17:21:44.984Z,61.5214,-147.0256,38.5,1.1,ml,,,,0.8,ak,ak0259vuskyq,2025-08-03T17:23:36.737Z,"46 km SE of Glacier View, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-03T16:47:52.886Z,52.3752,160.9249,35.0,4.6,mb,40.0,206.0,1.529,0.88,us,us6000qxx4,2025-08-03T17:15:22.040Z,"173 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.22,1.998,0.046,143.0,reviewed,us,us
 2025-08-03T17:45:50.090Z,35.6286667,-117.4628333,8.91,1.27,ml,42.0,50.0,0.04835,0.15,ci,ci41252152,2025-08-03T17:49:20.243Z,"16 km SSW of Searles Valley, CA",earthquake,0.14,0.38,0.156,23.0,automatic,ci,ci
+2025-08-03T18:15:07.187Z,31.557,-104.194,4.5865,2.0,ml,32.0,98.0,0.1,0.2,tx,tx2025pefsam,2025-08-03T18:18:59.869Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.1769149303436,0.2,21.0,automatic,tx,tx
+2025-08-03T18:01:00.150Z,38.812168121338,-122.8048324585,2.2000000476837,1.03,md,24.0,41.0,0.008545,0.02,nc,nc75218692,2025-08-03T18:02:36.525Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.28,25.0,automatic,nc,nc
+2025-08-03T17:58:42.137Z,37.2054,-116.3815,4.6,1.0,ml,24.0,161.04,0.041,0.3626,nn,nn00902045,2025-08-03T18:01:21.164Z,"47 km NE of Beatty, Nevada",earthquake,,0.8,0.25,17.0,automatic,nn,nn
+2025-08-03T17:53:42.461Z,59.3288,-152.7286,79.7,1.4,ml,,,,0.5,ak,ak0259vuzfom,2025-08-03T17:55:33.291Z,"46 km W of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
