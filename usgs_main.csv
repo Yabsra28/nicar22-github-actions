@@ -2819,3 +2819,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T21:40:34.140Z,35.6758333,-117.534,4.53,0.9,ml,25.0,48.0,0.09044,0.21,ci,ci41252976,2025-08-04T21:43:55.788Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.66,0.19,11.0,automatic,ci,ci
 2025-08-04T04:23:31.670Z,61.31,-152.49483333333,3.89,-0.46,ml,7.0,136.0,0.04801,0.1,av,av93701343,2025-08-04T21:39:45.350Z,"77 km WNW of Tyonek, Alaska",earthquake,0.56,0.45,0.21934858517576,7.0,reviewed,av,av
 2025-08-04T02:34:02.607Z,51.6251,159.4717,23.666,4.6,mb,51.0,69.0,1.489,0.96,us,us6000qxzk,2025-08-04T21:32:19.040Z,"162 km SSE of Vilyuchinsk, Russia",earthquake,5.37,5.701,0.082,47.0,reviewed,us,us
+2025-08-04T21:49:51.060Z,46.464832305908,-122.3004989624,15.390000343323,1.6758766174316,ml,59.0,76.0,,0.0799999982,uw,uw62166016,2025-08-04T21:52:10.210Z,"10 km S of Morton, Washington",earthquake,0.21,0.730000019,0.28702881932259,38.0,automatic,uw,uw
+2025-08-04T21:47:49.993Z,62.9095,-148.3187,14.9,1.4,ml,,,,0.37,ak,ak0259xkv8vr,2025-08-04T21:50:01.380Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-04T03:18:36.147Z,51.5006,159.5958,26.653,4.8,mb,37.0,127.0,1.632,1.11,us,us6000qxzs,2025-08-04T21:46:23.040Z,"178 km SSE of Vilyuchinsk, Russia",earthquake,9.09,6.059,0.092,36.0,reviewed,us,us
