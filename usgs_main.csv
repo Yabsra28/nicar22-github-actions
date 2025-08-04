@@ -2805,3 +2805,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T01:22:33.730Z,52.128166666667,-176.22683333333,5.64,0.73,ml,6.0,309.0,0.04611,0.36,av,av93047769,2025-08-04T20:15:45.670Z,"39 km NE of Adak, Alaska",earthquake,2.14,1.76,0.38435699117053,6.0,reviewed,av,av
 2025-08-04T00:41:27.140Z,53.513166666667,-166.89666666667,4.39,0.62,ml,7.0,313.0,0.281,0.28,av,av93047764,2025-08-04T20:04:07.050Z,"46 km SSW of Unalaska, Alaska",earthquake,1.21,1.91,0.195986486116,7.0,reviewed,av,av
 2025-08-04T00:05:32.890Z,58.474,-154.38833333333,0.66,-0.04,ml,6.0,234.0,0.08549,0.12,av,av93701088,2025-08-04T19:59:50.730Z,"98 km WNW of Aleneva, Alaska",earthquake,0.59,1.21,0.13326826925672,6.0,reviewed,av,av
+2025-08-04T20:46:00.090Z,33.2283325,-116.7351685,11.97,1.08,ml,29.0,33.0,0.02119,0.19,ci,ci41252928,2025-08-04T20:48:27.998Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.33,0.92,0.368,5.0,automatic,ci,ci
+2025-08-04T20:40:28.016Z,60.1709,-153.263,102.0,1.6,ml,,,,0.16,ak,ak0259xk89kh,2025-08-04T20:41:39.648Z,"58 km E of Port Alsworth, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-08-04T20:39:57.170Z,63.9729,-147.3586,9.8,1.2,ml,,,,0.42,ak,ak0259xk843p,2025-08-04T20:41:45.317Z,"57 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-04T20:34:10.070Z,33.0881667,-117.0195,9.76,1.97,ml,9.0,181.0,0.3543,0.21,ci,ci41252920,2025-08-04T20:38:35.937Z,"6 km W of San Pasqual, CA",earthquake,0.84,2.9,0.371,22.0,automatic,ci,ci
+2025-08-04T17:47:53.803Z,51.2926,158.6847,35.0,4.3,mb,24.0,199.0,1.734,0.79,us,us6000qy2s,2025-08-04T20:36:12.040Z,"153 km E of Ozernovskiy, Russia",earthquake,13.87,1.981,0.106,25.0,reviewed,us,us
