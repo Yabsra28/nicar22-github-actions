@@ -2816,3 +2816,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T21:13:46.151Z,60.8422,-150.439,33.1,1.4,ml,,,,0.6,ak,ak0259xkny8n,2025-08-04T21:15:50.303Z,"16 km ESE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-04T21:06:20.604Z,50.9614,158.3776,35.0,4.7,mb,42.0,123.0,2.072,0.74,us,us6000qy3s,2025-08-04T21:20:50.040Z,"143 km ESE of Ozernovskiy, Russia",earthquake,8.24,1.916,0.042,175.0,reviewed,us,us
 2025-08-04T03:38:53.520Z,57.761333333333,-155.82483333333,9.62,0.41,ml,9.0,196.0,0.2497,0.17,av,av93701293,2025-08-04T21:26:51.610Z,"84 km WNW of Karluk, Alaska",earthquake,1.06,1.98,0.22118190570131,9.0,reviewed,av,av
+2025-08-04T21:40:34.140Z,35.6758333,-117.534,4.53,0.9,ml,25.0,48.0,0.09044,0.21,ci,ci41252976,2025-08-04T21:43:55.788Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.66,0.19,11.0,automatic,ci,ci
+2025-08-04T04:23:31.670Z,61.31,-152.49483333333,3.89,-0.46,ml,7.0,136.0,0.04801,0.1,av,av93701343,2025-08-04T21:39:45.350Z,"77 km WNW of Tyonek, Alaska",earthquake,0.56,0.45,0.21934858517576,7.0,reviewed,av,av
+2025-08-04T02:34:02.607Z,51.6251,159.4717,23.666,4.6,mb,51.0,69.0,1.489,0.96,us,us6000qxzk,2025-08-04T21:32:19.040Z,"162 km SSE of Vilyuchinsk, Russia",earthquake,5.37,5.701,0.082,47.0,reviewed,us,us
