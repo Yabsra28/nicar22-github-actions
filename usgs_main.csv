@@ -2730,3 +2730,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T05:47:24.352Z,51.6323,-173.4575,23.5,3.8,ml,,,,1.01,ak,ak0259xbc9mh,2025-08-04T15:35:08.673Z,"80 km SE of Atka, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2025-08-04T05:35:49.024Z,28.829,-98.948,7.9104,1.6,ml,20.0,81.0,0.2,0.3,tx,tx2025pfcgqk,2025-08-04T15:34:43.442Z,"15 km ESE of Pearsall, Texas",earthquake,1.6060175094519,0.92969421346804,0.1,11.0,reviewed,tx,tx
 2025-08-04T04:24:27.295Z,53.767,-164.466,26.9,4.0,ml,,,,0.56,ak,ak0259xalwgn,2025-08-04T15:28:14.663Z,"95 km ESE of Akutan, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2025-08-04T15:54:51.001Z,36.8736,-117.8413,1.9,1.4,ml,18.0,171.46,0.399,0.2848,nn,nn00902076,2025-08-04T15:57:35.401Z,"32 km ENE of Independence, California",earthquake,,10.3,0.42,14.0,automatic,nn,nn
+2025-08-04T15:51:09.620Z,33.2721667,-116.422,4.17,0.59,ml,28.0,73.0,0.005665,0.16,ci,ci41252736,2025-08-04T15:55:06.698Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.31,0.084,13.0,automatic,ci,ci
+2025-08-04T15:43:58.444Z,61.1412,-151.4189,62.5,1.1,ml,,,,0.07,ak,ak0259xh9t1g,2025-08-04T15:45:04.823Z,"17 km WNW of Tyonek, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2025-08-03T20:04:25.780Z,54.110833333333,-165.97116666667,12.5,-0.25,ml,5.0,159.0,0.01966,0.09,av,av93700833,2025-08-04T15:57:41.200Z,"13 km WSW of Akutan, Alaska",earthquake,1.44,0.73,0.25103700367881,5.0,reviewed,av,av
+2025-08-03T20:01:08.160Z,54.150666666667,-165.99366666667,9.29,0.01,ml,5.0,256.0,0.05988,0.13,av,av93047759,2025-08-04T15:54:04.960Z,"14 km W of Akutan, Alaska",earthquake,1.12,1.14,0.31837493022219,5.0,reviewed,av,av
+2025-08-03T20:00:59.590Z,54.124,-165.96583333333,11.5,0.41,ml,6.0,142.0,0.0326,0.1,av,av93700828,2025-08-04T15:54:30.210Z,"12 km W of Akutan, Alaska",earthquake,0.56,0.64,0.36709775257863,6.0,reviewed,av,av
+2025-08-03T16:48:56.690Z,41.305333333333,-111.71316666667,6.75,0.99,md,16.0,83.0,0.1644,0.16,uu,uu80004348,2025-08-04T15:55:46.270Z,"6 km NE of Huntsville, Utah",earthquake,0.32,2.46,0.18881396890974,12.0,reviewed,uu,uu
