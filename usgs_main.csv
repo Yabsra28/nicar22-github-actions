@@ -2645,3 +2645,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T08:13:52.341Z,61.5591,-146.4382,31.4,2.9,ml,,,,0.37,ak,ak0259xcxbuq,2025-08-04T08:15:10.701Z,"47 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-04T08:01:39.400Z,33.849,-116.1913333,8.04,0.8,ml,34.0,76.0,0.05783,0.14,ci,ci41252520,2025-08-04T08:05:09.407Z,"14 km N of Indio, CA",earthquake,0.17,0.5,0.168,18.0,automatic,ci,ci
 2025-08-04T08:00:20.980Z,34.143,-117.4176667,6.04,0.86,ml,53.0,38.0,0.04672,0.2,ci,ci41252512,2025-08-04T08:04:06.216Z,"6 km NW of Rialto, CA",earthquake,0.2,0.46,0.15,28.0,automatic,ci,ci
+2025-08-04T08:51:21.299Z,62.3721,-148.2932,38.0,1.9,ml,,,,0.17,ak,ak0259xd5eo1,2025-08-04T08:52:28.988Z,"64 km N of Chickaloon, Alaska",earthquake,,2.7,,,automatic,ak,ak
