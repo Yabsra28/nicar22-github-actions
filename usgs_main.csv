@@ -2812,3 +2812,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T17:47:53.803Z,51.2926,158.6847,35.0,4.3,mb,24.0,199.0,1.734,0.79,us,us6000qy2s,2025-08-04T20:36:12.040Z,"153 km E of Ozernovskiy, Russia",earthquake,13.87,1.981,0.106,25.0,reviewed,us,us
 2025-08-04T20:48:21.744Z,32.107,-101.932,4.1994,1.0,ml,20.0,55.0,0.1,0.5,tx,tx2025pggmzk,2025-08-04T20:50:31.941Z,"13 km W of Stanton, Texas",earthquake,0.0,1.3618890047073,0.2,12.0,automatic,tx,tx
 2025-08-04T02:22:34.260Z,61.3075,-152.50433333333,3.84,0.1,ml,8.0,134.0,0.04317,0.08,av,av93701198,2025-08-04T20:50:05.610Z,"78 km WNW of Tyonek, Alaska",earthquake,0.38,0.36,0.17341312776633,9.0,reviewed,av,av
+2025-08-04T21:14:20.230Z,33.8448333,-117.4941667,2.49,1.91,ml,75.0,31.0,0.04921,0.22,ci,ci41252952,2025-08-04T21:25:26.570Z,"4 km SSE of Home Gardens, CA",earthquake,0.17,0.3,0.139,28.0,automatic,ci,ci
+2025-08-04T21:13:46.151Z,60.8422,-150.439,33.1,1.4,ml,,,,0.6,ak,ak0259xkny8n,2025-08-04T21:15:50.303Z,"16 km ESE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-04T21:06:20.604Z,50.9614,158.3776,35.0,4.7,mb,42.0,123.0,2.072,0.74,us,us6000qy3s,2025-08-04T21:20:50.040Z,"143 km ESE of Ozernovskiy, Russia",earthquake,8.24,1.916,0.042,175.0,reviewed,us,us
+2025-08-04T03:38:53.520Z,57.761333333333,-155.82483333333,9.62,0.41,ml,9.0,196.0,0.2497,0.17,av,av93701293,2025-08-04T21:26:51.610Z,"84 km WNW of Karluk, Alaska",earthquake,1.06,1.98,0.22118190570131,9.0,reviewed,av,av
