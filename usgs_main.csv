@@ -2675,3 +2675,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T11:39:52.660Z,38.818500518799,-122.82133483887,2.0599999427795,1.26,md,20.0,49.0,0.01006,0.02,nc,nc75218982,2025-08-04T11:41:30.667Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.2,21.0,automatic,nc,nc
 2025-08-04T11:35:02.996Z,38.4845,-116.4726,7.0,1.2,ml,8.0,198.99,1.066,0.2046,nn,nn00902067,2025-08-04T11:38:02.538Z,"80 km NE of Tonopah, Nevada",earthquake,,1.6,0.31,3.0,automatic,nn,nn
 2025-08-04T11:30:50.222Z,50.2112,158.6118,10.0,4.7,mb,37.0,70.0,2.816,0.77,us,us6000qy1b,2025-08-04T11:48:05.040Z,"183 km ESE of Severo-Kuril’sk, Russia",earthquake,7.88,1.846,0.102,29.0,reviewed,us,us
+2025-08-04T12:20:43.729Z,31.583,-104.329,3.481,1.7,ml,27.0,85.0,0.1,0.5,tx,tx2025pfprnv,2025-08-04T12:22:41.286Z,"58 km WNW of Toyah, Texas",earthquake,0.0,1.2066935300827,0.2,13.0,automatic,tx,tx
+2025-08-04T12:18:07.178Z,62.6062,-149.5223,18.9,1.1,ml,,,,0.13,ak,ak0259xfc1d9,2025-08-04T12:20:43.178Z,"34 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-04T12:13:48.320Z,33.2776667,-116.4295,4.8,0.61,ml,31.0,70.0,0.014,0.2,ci,ci41252608,2025-08-04T12:17:13.557Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.36,0.094,13.0,automatic,ci,ci
+2025-08-04T12:07:30.846Z,31.703,-104.17,4.31,1.3,ml,28.0,60.0,0.1,0.4,tx,tx2025pfpgcr,2025-08-04T12:11:09.212Z,"54 km W of Mentone, Texas",earthquake,0.0,0.95605325698853,0.3,21.0,automatic,tx,tx
+2025-08-04T11:37:31.290Z,51.7359,159.2485,35.0,5.0,mb,96.0,160.0,1.341,1.39,us,us6000qy1c,2025-08-04T12:00:10.040Z,"144 km SSE of Vilyuchinsk, Russia",earthquake,9.39,1.944,0.045,157.0,reviewed,us,us
+2025-08-04T11:16:19.806Z,15.5373,-94.6726,36.153,4.2,mb,46.0,139.0,2.549,0.49,us,us6000qy18,2025-08-04T12:21:30.040Z,"76 km S of San Francisco del Mar Viejo, Mexico",earthquake,11.79,8.276,0.07,56.0,reviewed,us,us
