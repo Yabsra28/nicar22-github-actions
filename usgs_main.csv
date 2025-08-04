@@ -2653,3 +2653,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T09:09:18.370Z,38.828834533691,-122.85483551025,2.4300000667572,0.76,md,12.0,86.0,0.002047,0.01,nc,nc75218952,2025-08-04T09:10:54.489Z,"10 km NW of The Geysers, CA",earthquake,0.46,0.629999995,0.36,13.0,automatic,nc,nc
 2025-08-04T08:58:44.540Z,33.6501667,-116.717,16.07,0.47,ml,30.0,62.0,0.04059,0.16,ci,ci41252536,2025-08-04T09:02:11.943Z,"10 km S of Idyllwild, CA",earthquake,0.27,0.42,0.235,8.0,automatic,ci,ci
 2025-08-04T08:56:14.940Z,17.954,-66.919166666667,11.57,2.45,md,12.0,205.0,0.02069,0.12,pr,pr71491523,2025-08-04T09:12:32.090Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.46,0.34,0.058966688582668,3.0,reviewed,pr,pr
+2025-08-04T09:53:12.855Z,63.1464,-147.6739,8.1,1.8,ml,,,,0.51,ak,ak0259xdr91x,2025-08-04T09:55:01.370Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-04T09:26:02.364Z,-10.4872,162.3937,56.842,4.8,mb,26.0,116.0,2.625,1.13,us,us6000qy0x,2025-08-04T09:53:31.040Z,"51 km E of Kirakira, Solomon Islands",earthquake,10.49,7.201,0.092,36.0,reviewed,us,us
+2025-08-04T09:21:24.216Z,51.7215,160.1946,10.0,4.6,mb,27.0,191.0,1.612,1.18,us,us6000qy0w,2025-08-04T09:48:54.040Z,"181 km SE of Vilyuchinsk, Russia",earthquake,12.73,1.979,0.088,38.0,reviewed,us,us
