@@ -2669,3 +2669,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T10:54:52.720Z,31.635,-104.277,4.2153,1.5,ml,25.0,69.0,0.0,0.4,tx,tx2025pfmvnf,2025-08-04T10:57:19.455Z,"58 km NW of Toyah, Texas",earthquake,0.0,1.1280370950699,0.2,19.0,automatic,tx,tx
 2025-08-04T01:56:22.909Z,31.654,-104.253,7.1765,1.4,ml,37.0,85.0,0.0,0.2,tx,tx2025peuzmn,2025-08-04T11:07:21.879Z,"57 km NW of Toyah, Texas",earthquake,0.65621708678762,0.65882639579225,0.2,17.0,reviewed,tx,tx
 2025-08-03T11:36:27.622Z,31.463,-103.989,1.8958,1.5,ml,27.0,74.0,0.1,0.2,tx,tx2025pdsmkj,2025-08-04T11:14:30.929Z,"24 km NW of Toyah, Texas",earthquake,0.66361688103146,0.70561598552659,0.2,15.0,reviewed,tx,tx
+2025-08-04T11:32:39.350Z,33.4233333,-116.3925,11.2,1.46,ml,80.0,21.0,0.09223,0.23,ci,ci41252592,2025-08-04T11:37:10.069Z,"19 km N of Borrego Springs, CA",earthquake,0.16,0.32,0.198,26.0,automatic,ci,ci
+2025-08-04T11:32:29.660Z,33.4225,-116.3806667,12.22,0.82,ml,25.0,115.0,0.09618,0.13,ci,ci41252584,2025-08-04T11:35:58.061Z,"18 km N of Borrego Springs, CA",earthquake,0.24,0.61,0.187,23.0,automatic,ci,ci
