@@ -2986,3 +2986,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T10:15:51.561Z,49.5751,160.067,10.0,5.0,mb,66.0,130.0,3.566,0.62,us,us6000qy83,2025-08-05T10:36:51.040Z,east of the Kuril Islands,earthquake,9.45,1.882,0.026,479.0,reviewed,us,us
 2025-08-05T09:23:51.280Z,18.1665,-68.3226,168.0,5.7,ml,29.0,184.0,0.3523,0.46,pr,pr2025217000,2025-08-05T10:45:28.778Z,"38 km SE of Boca de Yuma, Dominican Republic",earthquake,4.76,1.86,0.12,23.0,reviewed,pr,pr
 2025-08-04T14:22:21.221Z,31.995,-102.001,6.958,0.6,ml,14.0,64.0,0.0,0.2,tx,tx2025pftshn,2025-08-05T10:41:49.577Z,"7 km E of Midland, Texas",earthquake,0.88676798894765,1.6847726479993,0.1,9.0,reviewed,tx,tx
+2025-08-05T10:52:20.910Z,38.834499359131,-122.80200195312,1.7400000095367,0.7,md,15.0,66.0,0.009906,0.01,nc,nc75219487,2025-08-05T10:53:57.830Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.460000008,0.09,15.0,automatic,nc,nc
+2025-08-05T10:28:51.597Z,51.0605,158.744,35.0,4.9,mb,62.0,123.0,1.967,0.75,us,us6000qy86,2025-08-05T10:57:31.040Z,"163 km ESE of Ozernovskiy, Russia",earthquake,8.24,1.912,0.034,272.0,reviewed,us,us
+2025-08-05T08:14:11.594Z,50.5413,158.2799,10.0,4.9,mb,79.0,125.0,2.496,0.78,us,us6000qy7b,2025-08-05T10:54:06.040Z,"153 km E of Severo-Kuril’sk, Russia",earthquake,8.35,1.882,0.035,260.0,reviewed,us,us
