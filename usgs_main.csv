@@ -3132,3 +3132,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T21:17:42.084Z,62.6371,-151.5282,118.2,1.8,ml,,,,0.46,ak,ak0259z8859t,2025-08-05T21:19:29.126Z,"42 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-05T20:57:00.929Z,52.1464,160.2932,25.303,4.9,mb,114.0,123.0,1.333,0.63,us,us6000qyev,2025-08-05T21:31:26.040Z,"152 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.54,5.425,0.052,116.0,reviewed,us,us
 2025-08-05T00:00:18.880Z,51.930666666667,178.37116666667,14.76,1.03,ml,4.0,337.0,0.08854,0.15,av,av93702458,2025-08-05T21:32:14.090Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.59,2.35,0.39745580977011,3.0,reviewed,av,av
+2025-08-05T00:43:03.850Z,61.311833333333,-152.49116666667,2.97,0.0,ml,9.0,120.0,0.05055,0.09,av,av93047829,2025-08-05T21:47:19.660Z,"77 km WNW of Tyonek, Alaska",earthquake,0.41,0.45,0.26954774199789,10.0,reviewed,av,av
+2025-08-05T00:42:47.150Z,61.311166666667,-152.49533333333,3.34,-0.26,ml,8.0,119.0,0.04875,0.12,av,av93702513,2025-08-05T21:43:37.520Z,"77 km WNW of Tyonek, Alaska",earthquake,0.62,0.71,0.25621440971117,9.0,reviewed,av,av
