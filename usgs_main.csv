@@ -2998,3 +2998,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T09:01:48.960Z,17.976,-66.848833333333,16.06,2.56,md,24.0,153.0,0.01888,0.16,pr,pr71491563,2025-08-05T11:09:31.950Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.42,0.37,0.098917150044202,10.0,reviewed,pr,pr
 2025-08-04T19:41:51.391Z,31.957,-103.884,7.4329,1.0,ml,19.0,51.0,0.1,0.2,tx,tx2025pgehrh,2025-08-05T11:08:15.733Z,"34 km SSE of Malaga, New Mexico",earthquake,1.0882651189704,1.0269585747399,0.2,9.0,reviewed,tx,tx
 2025-08-04T13:23:41.115Z,32.672,-100.655,7.3975,1.0,ml,12.0,85.0,0.1,0.2,tx,tx2025pfrtud,2025-08-05T11:13:49.787Z,"10 km ENE of Hermleigh, Texas",earthquake,1.1551412892113,1.2343470344142,0.1,6.0,reviewed,tx,tx
+2025-08-05T11:37:41.827Z,61.7085,-149.8927,34.3,1.1,ml,,,,0.6,ak,ak0259z2e3ja,2025-08-05T11:39:29.041Z,"8 km ESE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-05T11:26:57.566Z,61.6897,-150.8781,53.8,1.6,ml,,,,0.33,ak,ak0259z2brvg,2025-08-05T11:28:41.898Z,"25 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
