@@ -3102,3 +3102,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T18:57:13.250Z,33.2973333,-116.1571667,2.88,1.85,ml,75.0,26.0,0.1322,0.2,ci,ci41253888,2025-08-05T19:07:41.630Z,"17 km N of Ocotillo Wells, CA",earthquake,0.12,0.31,0.142,26.0,automatic,ci,ci
 2025-08-05T18:55:52.040Z,44.738833333333,-110.779,4.94,1.53,ml,19.0,77.0,0.04965,0.2,uu,uu80113316,2025-08-05T19:18:06.180Z,"27 km SSW of Mammoth, Wyoming",earthquake,0.32,0.64,0.53115385281484,4.0,reviewed,uu,uu
 2025-08-05T17:43:30.120Z,56.5693,-149.3597,10.0,3.1,ml,21.0,281.0,2.136,0.35,us,us6000qydd,2025-08-05T19:07:22.040Z,"211 km SE of Chiniak, Alaska",earthquake,11.9,2.023,0.055,44.0,reviewed,us,us
+2025-08-05T19:22:55.250Z,36.490333557129,-121.05982971191,8.0100002288818,1.82,md,21.0,126.0,0.03501,0.07,nc,nc75219692,2025-08-05T19:24:31.177Z,"9 km SE of Pinnacles, CA",earthquake,0.47,0.839999974,0.25,23.0,automatic,nc,nc
