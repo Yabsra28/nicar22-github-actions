@@ -3127,3 +3127,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T20:53:20.621Z,62.3893,-151.0747,72.7,1.2,ml,,,,0.56,ak,ak0259z7udsu,2025-08-05T20:55:38.662Z,"19 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-04T23:29:21.340Z,57.117666666667,-135.76983333333,5.34,-0.03,ml,4.0,312.0,0.05535,0.14,av,av93047824,2025-08-05T21:09:22.890Z,"27 km WNW of Sitka, Alaska",earthquake,1.12,1.6,0.20128979258329,4.0,reviewed,av,av
 2025-08-04T23:11:35.770Z,58.502166666667,-154.43966666667,4.49,0.43,ml,6.0,212.0,0.05682,0.12,av,av93702423,2025-08-05T20:56:59.450Z,"102 km WNW of Aleneva, Alaska",earthquake,0.65,0.52,0.1789945242587,6.0,reviewed,av,av
+2025-08-05T21:35:49.449Z,62.2888,-150.8142,66.4,1.7,ml,,,,0.21,ak,ak0259z8c0qo,2025-08-05T21:37:14.735Z,"23 km S of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-05T21:32:38.422Z,59.8728,-152.1495,69.3,1.2,ml,,,,0.57,ak,ak0259z8bcqq,2025-08-05T21:34:08.848Z,"20 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-05T21:17:42.084Z,62.6371,-151.5282,118.2,1.8,ml,,,,0.46,ak,ak0259z8859t,2025-08-05T21:19:29.126Z,"42 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-05T20:57:00.929Z,52.1464,160.2932,25.303,4.9,mb,114.0,123.0,1.333,0.63,us,us6000qyev,2025-08-05T21:31:26.040Z,"152 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.54,5.425,0.052,116.0,reviewed,us,us
+2025-08-05T00:00:18.880Z,51.930666666667,178.37116666667,14.76,1.03,ml,4.0,337.0,0.08854,0.15,av,av93702458,2025-08-05T21:32:14.090Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.59,2.35,0.39745580977011,3.0,reviewed,av,av
