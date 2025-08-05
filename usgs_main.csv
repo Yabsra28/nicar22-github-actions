@@ -3070,3 +3070,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T16:43:54.800Z,17.985,-66.858,18.16,1.86,md,6.0,147.0,0.01592,0.04,pr,pr71491653,2025-08-05T16:54:55.840Z,"3 km ENE of Maria Antonia, Puerto Rico",earthquake,1.39,0.37,0.1437868227486,5.0,reviewed,pr,pr
 2025-08-05T16:32:58.745Z,31.827,-104.508,1.7641,1.5,ml,7.0,243.0,0.1,0.9,tx,tx2025phttub,2025-08-05T17:00:37.492Z,"40 km SSW of Whites City, New Mexico",earthquake,0.0,2.7257008552551,0.2,7.0,automatic,tx,tx
 2025-08-05T16:18:07.130Z,18.0175,-66.744833333333,7.98,1.9,md,7.0,180.0,0.1258,0.16,pr,pr71491648,2025-08-05T16:52:25.520Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.59,12.53,0.11592096245812,6.0,reviewed,pr,pr
+2025-08-05T17:26:44.865Z,60.458,-147.3978,18.8,1.4,ml,,,,0.37,ak,ak0259z5wciu,2025-08-05T17:28:57.317Z,"55 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-05T17:18:00.956Z,62.5821,-151.2666,79.8,1.4,ml,,,,0.76,ak,ak0259z5ujen,2025-08-05T17:20:37.900Z,"27 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-05T17:16:58.510Z,38.811832427979,-122.81916809082,2.8099999427795,0.43,md,10.0,86.0,0.008362,0.02,nc,nc75219612,2025-08-05T17:18:35.037Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.99000001,0.2,11.0,automatic,nc,nc
+2025-08-05T17:14:34.520Z,35.8618333,-117.6641667,6.35,0.52,ml,17.0,52.0,0.07106,0.13,ci,ci41253776,2025-08-05T17:18:04.957Z,"23 km ESE of Little Lake, CA",earthquake,0.21,0.55,0.1,10.0,automatic,ci,ci
+2025-08-05T17:12:48.980Z,38.762832641602,-122.72966766357,1.7200000286102,0.8,md,9.0,97.0,0.003956,0.02,nc,nc75219607,2025-08-05T17:14:25.106Z,"3 km SE of The Geysers, CA",earthquake,0.43,0.730000019,0.18,8.0,automatic,nc,nc
+2025-08-05T16:42:47.330Z,46.162,-123.42816666667,-0.49,1.95,ml,20.0,65.0,0.1228,0.39,uw,uw62166311,2025-08-05T17:12:13.634Z,"5 km NW of Westport, Oregon",explosion,0.78,31.61,0.15124105815896,12.0,reviewed,uw,uw
+2025-08-05T16:03:11.410Z,48.497,-122.02916666667,8.04,1.38,ml,8.0,123.0,0.04505,0.05,uw,uw62166286,2025-08-05T17:14:50.720Z,"4 km SW of Hamilton, Washington",earthquake,0.3,0.56,0.18414934000527,7.0,reviewed,uw,uw
+2025-08-05T15:32:50.063Z,52.6507,159.0904,72.728,4.7,mb,157.0,118.0,0.459,0.68,us,us6000qycr,2025-08-05T17:19:51.040Z,"55 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.84,5.965,0.038,209.0,reviewed,us,us
+2025-08-04T23:15:56.650Z,33.1921667,-116.0366667,5.79,0.73,ml,16.0,53.0,0.05281,0.15,ci,ci37737916,2025-08-05T17:33:26.810Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.23,0.49,0.353,6.0,reviewed,ci,ci
