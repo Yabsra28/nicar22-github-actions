@@ -3143,3 +3143,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T01:35:20.790Z,57.042666666667,-135.64133333333,6.85,-0.28,ml,4.0,187.0,0.0371,0.15,av,av93702568,2025-08-05T21:53:05.580Z,"18 km W of Sitka, Alaska",earthquake,1.76,1.09,0.2351171406867,4.0,reviewed,av,av
 2025-08-05T22:00:38.190Z,17.941833333333,-66.9895,12.3,2.09,md,6.0,223.0,0.05888,0.05,pr,pr71491683,2025-08-05T22:26:30.110Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.28,0.46,0.035672892221431,4.0,reviewed,pr,pr
 2025-08-05T02:56:57.200Z,60.044833333333,-153.08216666667,2.94,-0.31,ml,5.0,99.0,0.01564,0.18,av,av93702643,2025-08-05T22:18:38.490Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.89,1.57,0.3449036826099,5.0,reviewed,av,av
+2025-08-05T22:40:57.309Z,32.004,-103.834,4.7258,1.6,ml,21.0,51.0,0.0,0.3,tx,tx2025pifyxb,2025-08-05T22:45:19.170Z,"33 km SE of Malaga, New Mexico",earthquake,0.0,1.1767588853836,0.2,15.0,automatic,tx,tx
+2025-08-05T22:39:01.564Z,61.2978,-152.5112,9.5,1.1,ml,,,,0.9,ak,ak0259z8y7ik,2025-08-05T22:41:59.128Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
