@@ -3017,3 +3017,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T12:24:53.958Z,32.271,-101.928,6.8604,1.0,ml,34.0,31.0,0.0,0.1,tx,tx2025phlkxy,2025-08-05T13:20:20.251Z,"20 km NW of Stanton, Texas",earthquake,0.33395632075259,0.67684231011555,0.1,18.0,reviewed,tx,tx
 2025-08-05T10:48:39.004Z,17.3073,-63.1642,120.692,4.4,mb,56.0,73.0,0.254,0.54,us,us6000qy87,2025-08-05T13:22:32.040Z,"27 km SW of Oranjestad, Bonaire, Saint Eustatius and Saba ",earthquake,6.39,4.919,0.098,30.0,reviewed,us,us
 2025-08-05T02:27:52.650Z,44.662333333333,-110.45633333333,3.94,1.4,ml,17.0,116.0,0.06392,0.15,uu,uu80113291,2025-08-05T13:20:35.190Z,"39 km SSE of Mammoth, Wyoming",earthquake,0.32,0.72,0.050809322427968,5.0,reviewed,uu,uu
+2025-08-05T13:37:06.465Z,63.4948,-150.1184,134.1,1.4,ml,,,,0.24,ak,ak0259z3kvxf,2025-08-05T13:38:45.671Z,"59 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-05T13:36:48.280Z,36.1833333,-118.1186667,12.9,0.68,ml,19.0,68.0,0.1605,0.22,ci,ci41253616,2025-08-05T13:40:09.968Z,"15 km SW of Olancha, CA",earthquake,0.41,0.99,0.171,7.0,automatic,ci,ci
+2025-08-05T13:36:24.880Z,32.9156667,-115.5161667,11.63,1.6,ml,30.0,72.0,0.04006,0.28,ci,ci41253608,2025-08-05T13:40:07.969Z,"7 km S of Brawley, CA",earthquake,0.38,0.62,0.263,28.0,automatic,ci,ci
+2025-08-05T13:33:59.498Z,32.135,-101.629,3.3807,1.6,ml,29.0,65.0,0.0,0.5,tx,tx2025phnvnz,2025-08-05T13:37:42.556Z,"15 km E of Stanton, Texas",earthquake,0.0,1.0194948911667,0.2,21.0,automatic,tx,tx
+2025-08-05T12:47:58.768Z,36.618,-116.0525,6.7,-0.4,ml,15.0,246.13,0.085,0.0377,nn,nn00902126,2025-08-05T13:47:39.695Z,"34 km W of Indian Springs, Nevada",earthquake,,2.0,0.02,3.0,reviewed,nn,nn
+2025-08-05T11:33:07.975Z,36.6172,-116.0513,6.8,-0.3,ml,13.0,246.94,0.084,0.0405,nn,nn00902125,2025-08-05T13:41:29.459Z,"34 km W of Indian Springs, Nevada",earthquake,,2.2,0.16,3.0,reviewed,nn,nn
+2025-08-05T03:43:12.294Z,36.7725,-116.2511,9.0,-0.4,ml,17.0,74.0,0.038,0.0662,nn,nn00902123,2025-08-05T13:35:19.249Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.06,3.0,reviewed,nn,nn
