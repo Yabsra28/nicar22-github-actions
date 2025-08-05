@@ -3063,3 +3063,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T11:57:49.750Z,33.1816667,-115.6285,6.1,1.25,ml,14.0,124.0,0.005183,0.25,ci,ci41253568,2025-08-05T16:14:18.224Z,"12 km WSW of Niland, CA",earthquake,0.64,0.48,0.279,7.0,reviewed,ci,ci
 2025-08-05T11:56:20.820Z,32.8408333,-116.1913333,12.44,0.77,ml,19.0,131.0,0.09313,0.18,ci,ci37550165,2025-08-05T16:08:25.222Z,"22 km WNW of Ocotillo, CA",earthquake,0.34,0.88,0.17,13.0,reviewed,ci,ci
 2025-08-05T11:56:16.320Z,32.9118333,-115.5196667,11.15,1.4,ml,23.0,72.0,0.03604,0.23,ci,ci41253560,2025-08-05T16:00:00.218Z,"8 km S of Brawley, CA",earthquake,0.34,0.57,0.215,25.0,reviewed,ci,ci
+2025-08-05T16:46:56.030Z,38.823501586914,-122.81199645996,2.6900000572205,0.72,md,12.0,122.0,0.001505,0.01,nc,nc75219602,2025-08-05T16:48:29.973Z,"7 km NNW of The Geysers, CA",earthquake,0.4,1.00999999,0.27,14.0,automatic,nc,nc
+2025-08-05T16:45:46.988Z,61.3056,-152.5191,7.2,1.9,ml,,,,0.89,ak,ak0259z5ezoq,2025-08-05T16:47:07.961Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-05T16:44:15.876Z,65.9607,-150.9158,13.2,1.4,ml,,,,0.62,ak,ak0259z5epkj,2025-08-05T16:46:20.092Z,"61 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-05T16:31:05.540Z,36.1931648,-117.8126678,7.11,1.72,ml,25.0,65.0,0.0828,0.16,ci,ci41253744,2025-08-05T16:42:04.340Z,"20 km ESE of Olancha, CA",earthquake,0.34,1.1,0.312,20.0,automatic,ci,ci
