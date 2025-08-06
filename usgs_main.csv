@@ -3257,3 +3257,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T07:12:08.975Z,60.1979,-152.4581,88.5,1.5,ml,,,,0.27,ak,ak025a0nea69,2025-08-06T07:13:38.966Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-06T07:10:13.110Z,33.5006667,-116.779,6.9,0.07,ml,16.0,51.0,0.0247,0.1,ci,ci41254376,2025-08-06T07:14:05.710Z,"10 km NE of Aguanga, CA",earthquake,0.18,0.29,0.179,4.0,automatic,ci,ci
 2025-08-06T06:35:20.130Z,51.6108,160.6127,10.0,4.6,mb,60.0,124.0,1.858,0.69,us,us6000qyh4,2025-08-06T07:20:34.040Z,"210 km SE of Vilyuchinsk, Russia",earthquake,10.18,1.906,0.047,134.0,reviewed,us,us
+2025-08-06T07:04:10.861Z,40.7445,145.1346,10.0,4.6,mb,57.0,136.0,1.956,0.6,us,us6000qyhb,2025-08-06T07:44:47.040Z,"229 km SE of Hiroo, Japan",earthquake,9.19,1.894,0.09,37.0,reviewed,us,us
