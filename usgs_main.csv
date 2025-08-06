@@ -3403,3 +3403,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T19:20:57.370Z,34.2905,-116.8555,1.81,1.17,ml,41.0,37.0,0.06092,0.19,ci,ci41255032,2025-08-06T19:24:44.511Z,"3 km NNW of Big Bear City, CA",earthquake,0.16,0.27,0.19,32.0,automatic,ci,ci
 2025-08-06T19:08:53.900Z,34.854,-118.7883333,0.33,1.43,ml,24.0,83.0,0.07785,0.17,ci,ci41255024,2025-08-06T19:16:41.531Z,"7 km E of Lebec, CA",earthquake,0.26,0.49,0.225,38.0,automatic,ci,ci
 2025-08-06T18:48:50.940Z,17.929166666667,-66.912666666667,11.61,1.71,md,7.0,244.0,0.04297,0.09,pr,pr71491798,2025-08-06T19:11:56.960Z,"4 km S of Guánica, Puerto Rico",earthquake,0.88,0.26,0.0077267896059084,2.0,reviewed,pr,pr
+2025-08-06T19:39:54.740Z,35.8943333,-117.741,8.26,0.97,ml,18.0,70.0,0.08303,0.09,ci,ci41255040,2025-08-06T19:43:29.701Z,"16 km ESE of Little Lake, CA",earthquake,0.14,0.39,0.217,9.0,reviewed,ci,ci
+2025-08-06T18:30:18.660Z,-6.7794,116.0899,564.755,4.4,mb,23.0,51.0,2.552,0.88,us,us6000qyph,2025-08-06T19:34:06.040Z,"173 km N of Gili Trawangan, Indonesia",earthquake,14.13,11.551,0.203,7.0,reviewed,us,us
+2025-08-06T15:59:00.479Z,36.709,-116.0591,4.4,-0.5,ml,10.0,175.81,0.034,0.0288,nn,nn00902215,2025-08-06T19:44:14.771Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.03,2.0,reviewed,nn,nn
+2025-08-06T15:57:16.217Z,36.7092,-116.0596,4.5,-0.5,ml,11.0,174.97,0.034,0.0343,nn,nn00902211,2025-08-06T19:35:01.022Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.8,0.03,2.0,reviewed,nn,nn
+2025-08-06T02:09:25.550Z,53.9495,-166.5355,9.78,0.1,ml,10.0,133.0,0.08812,0.22,av,av93704083,2025-08-06T19:36:35.220Z,"6 km N of Dutch Harbor, Alaska",earthquake,0.59,0.63,0.29098073994719,10.0,reviewed,av,av
