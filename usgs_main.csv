@@ -3251,3 +3251,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T06:49:47.460Z,35.8076667,-117.6248333,6.87,0.54,ml,15.0,69.0,0.02362,0.13,ci,ci41254360,2025-08-06T06:53:16.346Z,"20 km WNW of Searles Valley, CA",earthquake,0.24,0.45,0.166,8.0,automatic,ci,ci
 2025-08-06T06:49:22.033Z,36.6457,71.465,110.522,4.4,mb,32.0,138.0,1.851,0.76,us,us6000qyh6,2025-08-06T07:07:11.040Z,"7 km SW of Ashkāsham, Afghanistan",earthquake,7.84,9.22,0.114,22.0,reviewed,us,us
 2025-08-06T06:36:19.519Z,51.6162,159.8505,10.0,5.3,mww,69.0,120.0,1.59,1.19,us,us6000qyh2,2025-08-06T06:54:27.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.67,1.88,0.089,12.0,reviewed,us,us
+2025-08-06T07:38:47.718Z,60.7306,-150.6773,55.0,1.8,ml,,,,0.32,ak,ak025a0njxs3,2025-08-06T07:40:01.403Z,"21 km S of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-06T07:27:49.590Z,38.852001190185,-122.82917022705,-0.18000000715256,1.08,md,12.0,155.0,0.005264,0.15,nc,nc75219907,2025-08-06T07:29:28.784Z,"10 km WNW of Cobb, CA",earthquake,1.19,1.22000003,0.12,13.0,automatic,nc,nc
+2025-08-06T07:26:06.386Z,38.4124,-116.546,3.0,2.0,ml,18.0,176.65,0.629,0.2351,nn,nn00902168,2025-08-06T07:29:05.961Z,"71 km ENE of Tonopah, Nevada",earthquake,,1.5,0.28,14.0,automatic,nn,nn
+2025-08-06T07:12:08.975Z,60.1979,-152.4581,88.5,1.5,ml,,,,0.27,ak,ak025a0nea69,2025-08-06T07:13:38.966Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-06T07:10:13.110Z,33.5006667,-116.779,6.9,0.07,ml,16.0,51.0,0.0247,0.1,ci,ci41254376,2025-08-06T07:14:05.710Z,"10 km NE of Aguanga, CA",earthquake,0.18,0.29,0.179,4.0,automatic,ci,ci
+2025-08-06T06:35:20.130Z,51.6108,160.6127,10.0,4.6,mb,60.0,124.0,1.858,0.69,us,us6000qyh4,2025-08-06T07:20:34.040Z,"210 km SE of Vilyuchinsk, Russia",earthquake,10.18,1.906,0.047,134.0,reviewed,us,us
