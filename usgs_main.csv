@@ -3447,3 +3447,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T22:20:07.842Z,63.2809,-148.444,52.6,1.7,ml,,,,1.38,ak,ak025a0wdhw0,2025-08-06T22:22:42.193Z,"28 km ESE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-06T22:18:01.958Z,32.097,-101.935,5.7088,1.1,ml,13.0,114.0,0.1,0.6,tx,tx2025pkaxzu,2025-08-06T22:20:11.500Z,"14 km WSW of Stanton, Texas",earthquake,0.0,2.6813702583313,0.2,6.0,automatic,tx,tx
 2025-08-06T22:08:20.192Z,-19.344,-173.8353,35.0,5.2,mb,34.0,122.0,7.068,1.22,us,us6000qyqz,2025-08-06T22:26:06.040Z,"68 km NE of Fangale’ounga, Tonga",earthquake,13.29,1.915,0.057,106.0,reviewed,us,us
+2025-08-06T22:42:11.355Z,32.033,-101.395,3.2814,1.7,ml,12.0,114.0,0.2,0.3,tx,tx2025pkbsvm,2025-08-06T22:45:51.802Z,"8 km SSW of Forsan, Texas",earthquake,0.0,1.7741639614105,0.2,9.0,automatic,tx,tx
+2025-08-06T22:41:37.012Z,32.02,-101.398,3.6678,1.6,ml,10.0,95.0,0.2,0.2,tx,tx2025pkbsgy,2025-08-06T22:44:14.591Z,"10 km SSW of Forsan, Texas",earthquake,0.0,2.1950621604919,0.2,7.0,automatic,tx,tx
+2025-08-06T16:40:42.480Z,-23.9806,-66.6872,204.332,4.5,mb,28.0,58.0,1.71,0.71,us,us6000qymz,2025-08-06T22:43:54.040Z,"45 km NW of San Antonio de los Cobres, Argentina",earthquake,8.99,3.866,0.125,19.0,reviewed,us,us
