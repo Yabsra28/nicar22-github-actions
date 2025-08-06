@@ -3408,3 +3408,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T15:59:00.479Z,36.709,-116.0591,4.4,-0.5,ml,10.0,175.81,0.034,0.0288,nn,nn00902215,2025-08-06T19:44:14.771Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.03,2.0,reviewed,nn,nn
 2025-08-06T15:57:16.217Z,36.7092,-116.0596,4.5,-0.5,ml,11.0,174.97,0.034,0.0343,nn,nn00902211,2025-08-06T19:35:01.022Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.8,0.03,2.0,reviewed,nn,nn
 2025-08-06T02:09:25.550Z,53.9495,-166.5355,9.78,0.1,ml,10.0,133.0,0.08812,0.22,av,av93704083,2025-08-06T19:36:35.220Z,"6 km N of Dutch Harbor, Alaska",earthquake,0.59,0.63,0.29098073994719,10.0,reviewed,av,av
+2025-08-06T19:50:02.630Z,38.838665008545,-122.82483673096,1.7300000190735,0.76,md,8.0,91.0,0.01601,0.03,nc,nc75220177,2025-08-06T19:51:39.768Z,"9 km WNW of Cobb, CA",earthquake,0.41,0.850000024,0.42,9.0,automatic,nc,nc
+2025-08-06T19:18:52.844Z,51.4397,159.5445,32.411,4.5,mb,28.0,197.0,1.679,0.64,us,us6000qypy,2025-08-06T19:47:17.040Z,"183 km SSE of Vilyuchinsk, Russia",earthquake,14.83,8.916,0.094,33.0,reviewed,us,us
+2025-08-06T16:00:16.152Z,36.71,-116.0589,4.2,-0.3,ml,14.0,173.57,0.035,0.0378,nn,nn00902219,2025-08-06T19:53:39.932Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.04,2.0,reviewed,nn,nn
+2025-08-06T15:59:54.501Z,36.709,-116.0597,4.3,-0.4,ml,12.0,175.16,0.034,0.0445,nn,nn00902218,2025-08-06T19:50:32.302Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.0,1.0,reviewed,nn,nn
