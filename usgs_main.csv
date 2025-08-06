@@ -3244,3 +3244,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T06:07:43.095Z,57.1104,-155.6456,49.3,1.9,ml,,,,0.42,ak,ak025a0mrvgx,2025-08-06T06:45:55.462Z,"88 km SW of Karluk, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2025-08-06T05:56:28.972Z,60.1594,-152.6897,91.7,2.1,ml,,,,0.47,ak,ak025a0mgw04,2025-08-06T06:20:04.040Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-05T16:58:22.790Z,47.795666666667,-122.839,22.02,0.35,ml,6.0,174.0,0.0408,0.16,uw,uw62166316,2025-08-06T06:00:37.810Z,"4 km SE of Quilcene, Washington",earthquake,1.83,1.27,0.09514841871892,3.0,reviewed,uw,uw
+2025-08-06T07:07:09.958Z,61.9134,-147.1537,40.3,2.1,ml,,,,0.39,ak,ak025a0nd7o3,2025-08-06T07:08:27.678Z,"2 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-06T07:00:50.990Z,33.9346667,-116.877,2.5,0.41,ml,28.0,46.0,0.1156,0.19,ci,ci41254368,2025-08-06T07:04:23.509Z,"1 km N of Banning, CA",earthquake,0.24,1.13,0.13,10.0,automatic,ci,ci
+2025-08-06T06:57:12.886Z,34.51957703,-97.65620422,5.196006298,1.71,ml,13.0,163.4189148,0.1666868925,0.5108787259,ok,ok2025pgzy,2025-08-06T07:02:18.330Z,"6 km NNE of Velma, Oklahoma",earthquake,4.581644795,3.729667985,0.28,7.0,automatic,ok,ok
+2025-08-06T06:56:09.606Z,61.7378,-152.0113,110.9,1.6,ml,,,,0.56,ak,ak025a0n2a4g,2025-08-06T06:58:45.246Z,"42 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-06T06:49:47.460Z,35.8076667,-117.6248333,6.87,0.54,ml,15.0,69.0,0.02362,0.13,ci,ci41254360,2025-08-06T06:53:16.346Z,"20 km WNW of Searles Valley, CA",earthquake,0.24,0.45,0.166,8.0,automatic,ci,ci
+2025-08-06T06:49:22.033Z,36.6457,71.465,110.522,4.4,mb,32.0,138.0,1.851,0.76,us,us6000qyh6,2025-08-06T07:07:11.040Z,"7 km SW of Ashkāsham, Afghanistan",earthquake,7.84,9.22,0.114,22.0,reviewed,us,us
+2025-08-06T06:36:19.519Z,51.6162,159.8505,10.0,5.3,mww,69.0,120.0,1.59,1.19,us,us6000qyh2,2025-08-06T06:54:27.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.67,1.88,0.089,12.0,reviewed,us,us
