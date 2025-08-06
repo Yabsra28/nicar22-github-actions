@@ -3276,3 +3276,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T08:34:03.066Z,61.2248,-147.6226,0.0,1.2,ml,,,,1.14,ak,ak025a0o4f2q,2025-08-06T08:36:32.311Z,"64 km NW of Tatitlek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-06T08:08:28.164Z,-18.1679,168.0058,35.0,4.6,mb,14.0,105.0,2.813,1.0,us,us6000qyhm,2025-08-06T08:46:57.843Z,"57 km SW of Port-Vila, Vanuatu",earthquake,8.77,1.976,0.207,7.0,reviewed,us,us
 2025-08-06T02:18:23.867Z,32.099,-101.122,8.7646,1.5,ml,27.0,51.0,0.2,0.2,tx,tx2025pineck,2025-08-06T08:41:24.365Z,"23 km E of Forsan, Texas",earthquake,0.75971385026298,1.7098167950531,0.2,12.0,reviewed,tx,tx
+2025-08-06T09:31:12.731Z,61.1803,-147.0076,0.0,1.4,ml,,,,0.85,ak,ak025a0op8a1,2025-08-06T09:33:07.562Z,"35 km W of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-06T09:31:12.540Z,35.9386673,-118.5333328,6.55,1.19,ml,18.0,108.0,0.1831,0.15,ci,ci41254472,2025-08-06T09:33:21.348Z,"23 km NNW of Kernville, CA",earthquake,0.57,2.52,0.319,6.0,automatic,ci,ci
+2025-08-06T09:11:59.206Z,63.495,-149.1214,13.7,1.0,ml,,,,0.37,ak,ak025a0ol1jk,2025-08-06T09:14:45.913Z,"14 km NW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-06T09:11:45.350Z,34.3085,-117.4896667,11.94,2.13,ml,121.0,29.0,0.06557,0.21,ci,ci41254464,2025-08-06T09:30:30.356Z,"6 km N of Lytle Creek, CA",earthquake,0.12,0.33,0.214,26.0,automatic,ci,ci
+2025-08-06T09:00:49.630Z,34.3116684,-117.4919968,10.63,3.66,mw,102.0,46.0,0.06897,0.24,ci,ci41254448,2025-08-06T09:31:09.141Z,"6 km N of Lytle Creek, CA",earthquake,0.27,0.57,,6.0,reviewed,ci,ci
+2025-08-06T08:54:46.582Z,37.409,-117.8786,1.8,0.9,ml,10.0,225.4,0.085,0.2325,nn,nn00902178,2025-08-06T08:57:33.601Z,"33 km SSE of Dyer, Nevada",earthquake,,3.1,0.48,6.0,automatic,nn,nn
