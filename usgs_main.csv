@@ -3652,3 +3652,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T15:34:14.030Z,36.0218333,-117.8826667,2.26,0.82,ml,23.0,57.0,0.0154,0.13,ci,ci41255544,2025-08-07T15:38:00.245Z,"6 km ESE of Coso Junction, CA",earthquake,0.15,0.1,0.195,11.0,automatic,ci,ci
 2025-08-07T15:29:00.072Z,1.2563,98.8101,101.913,5.3,mb,55.0,112.0,1.235,0.82,us,us6000qywa,2025-08-07T15:44:04.040Z,"53 km WSW of Padangsidempuan, Indonesia",earthquake,6.35,8.097,0.056,109.0,reviewed,us,us
 2025-08-07T00:41:58.690Z,44.658,-110.47166666667,2.54,0.8,md,6.0,161.0,0.06161,0.19,uu,uu80113406,2025-08-07T15:48:41.540Z,"39 km SSE of Mammoth, Wyoming",earthquake,1.38,31.61,0.49875590858665,3.0,reviewed,uu,uu
+2025-08-07T15:56:16.080Z,34.4036667,-116.4478333,12.46,1.2,ml,27.0,54.0,0.1243,0.17,ci,ci41255568,2025-08-07T15:59:46.276Z,"32 km N of Yucca Valley, CA",earthquake,0.23,0.67,0.164,22.0,automatic,ci,ci
+2025-08-07T03:05:10.520Z,44.4815,-111.07166666667,12.0,0.5,md,13.0,137.0,0.1261,0.16,uu,uu80113411,2025-08-07T15:52:34.100Z,"20 km S of West Yellowstone, Montana",earthquake,0.66,0.54,0.19448143656358,7.0,reviewed,uu,uu
