@@ -3741,3 +3741,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T14:14:47.986Z,66.2391,-135.5126,30.0,3.5,ml,,,,0.63,ak,ak025a2f46qb,2025-08-07T22:39:44.742Z,"248 km SSW of Inuvik, Canada",earthquake,,6.7,,,reviewed,ak,ak
 2025-08-07T07:58:38.584Z,55.3419,-160.4124,17.2,2.2,ml,,,,0.79,ak,ak025a2b7ki6,2025-08-07T22:31:03.797Z,"5 km E of Sand Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-08-07T06:35:17.670Z,61.301166666667,-152.36633333333,-2.7,-0.43,ml,11.0,119.0,0.04231,0.25,av,av93047924,2025-08-07T22:12:55.500Z,"71 km WNW of Tyonek, Alaska",earthquake,0.6,3.15,0.14694886635217,10.0,reviewed,av,av
+2025-08-07T22:52:32.410Z,36.0233345,-117.7791672,1.76,2.01,ml,29.0,64.0,0.01143,0.15,ci,ci41255944,2025-08-07T22:54:38.758Z,"15 km NE of Little Lake, CA",earthquake,0.26,0.25,0.287,25.0,automatic,ci,ci
+2025-08-07T22:44:43.210Z,36.026,-117.7768333,2.18,0.88,ml,18.0,112.0,0.009415,0.15,ci,ci41255936,2025-08-07T22:48:15.444Z,"15 km NE of Little Lake, CA",earthquake,0.2,0.13,0.223,12.0,automatic,ci,ci
+2025-08-07T22:43:08.825Z,38.382,-116.5176,5.0,1.9,ml,13.0,144.34,1.181,0.3304,nn,nn00902279,2025-08-07T22:46:07.398Z,"71 km ENE of Tonopah, Nevada",earthquake,,1.6,0.29,11.0,automatic,nn,nn
+2025-08-07T09:40:40.880Z,61.312333333333,-152.48566666667,2.99,0.22,ml,8.0,150.0,0.07653,0.08,av,av93706713,2025-08-07T22:44:31.670Z,"77 km WNW of Tyonek, Alaska",earthquake,0.44,0.42,0.23342616473879,9.0,reviewed,av,av
