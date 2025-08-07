@@ -3755,3 +3755,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T10:00:43.590Z,61.310333333333,-152.49116666667,3.05,-0.17,ml,9.0,118.0,0.04942,0.08,av,av93706738,2025-08-07T23:10:02.890Z,"77 km WNW of Tyonek, Alaska",earthquake,0.37,0.39,0.25915142105546,10.0,reviewed,av,av
 2025-08-07T23:23:41.645Z,61.4349,-147.5362,32.1,2.9,ml,,,,0.31,ak,ak025a2kizqs,2025-08-07T23:25:06.274Z,"42 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-07T12:28:34.140Z,61.330666666667,-152.25216666667,-2.81,-0.07,ml,9.0,154.0,0.06859,0.32,av,av93706878,2025-08-07T23:33:50.830Z,"66 km WNW of Beluga, Alaska",earthquake,0.8,3.28,0.25030015429238,9.0,reviewed,av,av
+2025-08-07T23:45:24.103Z,60.0035,-151.3393,41.8,4.1,ml,,,,0.54,ak,ak025a2kno5b,2025-08-07T23:47:08.022Z,"19 km ESE of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-08-07T23:01:46.950Z,17.959,-66.814,17.94,1.81,md,5.0,211.0,0.06413,0.02,pr,pr71492008,2025-08-07T23:41:13.030Z,"3 km S of Indios, Puerto Rico",earthquake,1.1,0.41,0.074636449825425,4.0,reviewed,pr,pr
