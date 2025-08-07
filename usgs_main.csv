@@ -3581,3 +3581,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T08:51:22.218Z,58.1766,-155.5116,116.1,1.6,ml,,,,0.14,ak,ak025a2brg7x,2025-08-07T08:53:13.624Z,"88 km SE of King Salmon, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-08-07T02:13:54.497Z,31.928,-103.408,5.2155,1.1,ml,14.0,59.0,0.0,0.1,tx,tx2025pkitgj,2025-08-07T09:03:37.210Z,"28 km SW of Jal, New Mexico",earthquake,0.50940882901583,0.5026492938471,0.2,6.0,reviewed,tx,tx
 2025-08-07T01:07:42.184Z,31.928,-103.402,5.1385,1.0,ml,17.0,68.0,0.0,0.2,tx,tx2025pkgofe,2025-08-07T09:13:22.301Z,"28 km SW of Jal, New Mexico",earthquake,0.48971695485304,0.4252100757401,0.1,9.0,reviewed,tx,tx
+2025-08-07T09:43:17.240Z,38.837833404541,-122.79083251953,1.539999961853,0.29,md,7.0,100.0,0.0006899,0.01,nc,nc75220342,2025-08-07T09:44:52.408Z,"6 km WNW of Cobb, CA",earthquake,0.46,1.20000005,0.17,8.0,automatic,nc,nc
+2025-08-07T09:39:16.280Z,36.47240829,-98.74268341,4.673267841,2.08,ml,20.0,57.62840271,0.03877864033,0.3274280209,ok,ok2025pjat,2025-08-07T09:44:42.544Z,"17 km SE of Waynoka, Oklahoma",earthquake,2.550310708,1.90502428,0.34,13.0,automatic,ok,ok
+2025-08-07T09:38:38.816Z,61.3034,-152.5299,5.9,1.8,ml,,,,0.21,ak,ak025a2ca4sp,2025-08-07T09:39:44.752Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-07T09:37:46.425Z,61.8762,-150.9137,15.2,1.3,ml,,,,0.12,ak,ak025a2c9xo2,2025-08-07T09:39:06.564Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-07T04:33:25.094Z,32.138,-101.628,5.8838,0.8,ml,12.0,81.0,0.0,0.2,tx,tx2025pknjlh,2025-08-07T09:27:38.385Z,"15 km E of Stanton, Texas",earthquake,0.75143225131915,1.0658440288277,0.1,7.0,reviewed,tx,tx
+2025-08-06T23:58:57.990Z,32.13,-102.216,5.3467,0.7,ml,18.0,87.0,0.0,0.2,tx,tx2025pkegzc,2025-08-07T09:43:53.301Z,"19 km NW of Midland, Texas",earthquake,0.61318269222825,0.99418260651399,0.2,13.0,reviewed,tx,tx
