@@ -3735,3 +3735,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T21:52:18.750Z,36.600166320801,-121.07183074951,12.800000190735,0.79,md,4.0,153.0,0.0338,0.0,nc,nc75220547,2025-08-07T21:53:54.177Z,"10 km NE of Pinnacles, CA",earthquake,2.32,4.53999996,0.04,4.0,automatic,nc,nc
 2025-08-07T21:51:32.359Z,62.9168,-149.2654,77.0,1.2,ml,,,,0.33,ak,ak025a2ji3v7,2025-08-07T21:53:06.393Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-07T06:33:30.430Z,61.464666666667,-151.90466666667,1.44,0.27,ml,5.0,148.0,0.04747,0.1,av,av93706483,2025-08-07T22:04:53.060Z,"56 km NW of Beluga, Alaska",earthquake,1.42,2.21,0.17135249057521,6.0,reviewed,av,av
+2025-08-07T22:30:51.041Z,32.407,-101.922,4.1042,1.5,ml,36.0,65.0,0.0,0.5,tx,tx2025plxaeq,2025-08-07T22:34:34.959Z,"23 km SW of Ackerly, Texas",earthquake,0.0,0.83871310949326,0.2,24.0,automatic,tx,tx
+2025-08-07T22:29:44.320Z,36.021,-117.776,2.2,1.03,ml,20.0,93.0,0.009667,0.12,ci,ci41255904,2025-08-07T22:33:09.531Z,"15 km NE of Little Lake, CA",earthquake,0.18,0.13,0.294,19.0,automatic,ci,ci
+2025-08-07T22:07:40.750Z,50.4159,158.8592,10.0,5.1,mb,91.0,125.0,2.615,0.88,us,us6000qyzg,2025-08-07T22:39:27.040Z,"195 km E of Severo-Kuril’sk, Russia",earthquake,8.14,1.873,0.028,401.0,reviewed,us,us
+2025-08-07T14:14:47.986Z,66.2391,-135.5126,30.0,3.5,ml,,,,0.63,ak,ak025a2f46qb,2025-08-07T22:39:44.742Z,"248 km SSW of Inuvik, Canada",earthquake,,6.7,,,reviewed,ak,ak
+2025-08-07T07:58:38.584Z,55.3419,-160.4124,17.2,2.2,ml,,,,0.79,ak,ak025a2b7ki6,2025-08-07T22:31:03.797Z,"5 km E of Sand Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-08-07T06:35:17.670Z,61.301166666667,-152.36633333333,-2.7,-0.43,ml,11.0,119.0,0.04231,0.25,av,av93047924,2025-08-07T22:12:55.500Z,"71 km WNW of Tyonek, Alaska",earthquake,0.6,3.15,0.14694886635217,10.0,reviewed,av,av
