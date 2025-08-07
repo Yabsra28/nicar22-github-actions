@@ -3667,3 +3667,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T16:40:29.711Z,55.6474,-158.5234,40.0,2.2,ml,,,,1.11,ak,ak025a2ggkrf,2025-08-07T16:42:26.205Z,"48 km SE of Perryville, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2025-08-07T16:33:58.305Z,-4.2625,152.9554,8.43,6.0,mww,45.0,92.0,0.793,1.14,us,us6000qywk,2025-08-07T16:54:27.040Z,"76 km E of Kokopo, Papua New Guinea",earthquake,6.51,5.41,0.055,32.0,reviewed,us,us
 2025-08-07T08:32:35.210Z,44.6075,-110.43733333333,5.83,0.49,md,13.0,105.0,0.05,0.1,uu,uu80113421,2025-08-07T16:41:21.040Z,"46 km SSE of Mammoth, Wyoming",earthquake,0.39,0.92,0.31084580698353,8.0,reviewed,uu,uu
+2025-08-07T17:23:40.688Z,61.5632,-146.457,28.6,1.8,ml,,,,0.72,ak,ak025a2gye1g,2025-08-07T17:25:38.182Z,"48 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-07T17:14:08.940Z,41.4296,-126.9622,10.0,2.6,ml,22.0,275.0,2.231,0.52,us,us6000qywu,2025-08-07T17:29:13.040Z,"232 km W of Crescent City, California",earthquake,4.4,2.022,0.044,67.0,reviewed,us,us
+2025-08-07T17:12:27.869Z,19.862,-64.0753,10.0,3.1,ml,15.0,230.0,1.524,0.41,us,us6000qywt,2025-08-07T17:23:22.040Z,"185 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.25,2.0,0.07,27.0,reviewed,us,us
+2025-08-07T17:04:35.360Z,38.820667266846,-122.80666351318,3.6800000667572,0.76,md,8.0,98.0,0.01548,0.01,nc,nc75220432,2025-08-07T17:06:09.760Z,"6 km NNW of The Geysers, CA",earthquake,0.55,2.94000006,0.06,8.0,automatic,nc,nc
+2025-08-07T16:54:26.725Z,51.0066,157.5045,70.967,4.8,mb,38.0,122.0,2.108,0.61,us,us6000qywr,2025-08-07T17:09:06.040Z,"88 km SE of Ozernovskiy, Russia",earthquake,10.87,8.176,0.045,153.0,reviewed,us,us
+2025-08-07T07:41:47.540Z,46.248,-122.06366666667,11.11,0.33,ml,11.0,242.0,0.05079,0.15,uw,uw62167091,2025-08-07T17:17:41.510Z,"38 km SSE of Morton, Washington",earthquake,0.73,0.66,0.15510438492086,5.0,reviewed,uw,uw
+2025-08-07T04:41:07.620Z,47.332666666667,-122.01616666667,21.51,1.0,ml,17.0,172.0,0.1458,0.06,uw,uw62167076,2025-08-07T17:29:04.650Z,"2 km NNW of Black Diamond, Washington",earthquake,0.42,0.53,0.076112221268,6.0,reviewed,uw,uw
