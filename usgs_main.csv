@@ -3548,3 +3548,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T05:13:48.720Z,33.4673333,-116.3993333,10.81,0.91,ml,55.0,34.0,0.1288,0.18,ci,ci41255304,2025-08-07T05:17:23.546Z,"23 km SSW of La Quinta, CA",earthquake,0.17,0.34,0.11,27.0,automatic,ci,ci
 2025-08-07T05:06:36.112Z,60.0019,-151.8379,67.4,1.6,ml,,,,0.64,ak,ak025a29pj97,2025-08-07T05:08:32.931Z,"8 km NW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-07T05:05:26.940Z,34.0833333,-118.1953333,10.5,1.38,ml,50.0,47.0,0.04833,0.18,ci,ci41255296,2025-08-07T05:16:22.710Z,"4 km S of Highland Park, CA",earthquake,0.19,0.31,0.208,28.0,automatic,ci,ci
+2025-08-07T05:55:03.612Z,62.112,-147.3837,31.2,1.4,ml,,,,0.73,ak,ak025a29zyu1,2025-08-07T05:56:44.629Z,"22 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-07T05:26:40.823Z,51.7739,161.3441,10.0,5.2,mb,93.0,108.0,2.071,0.53,us,us6000qyss,2025-08-07T05:41:52.040Z,"233 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.53,1.87,0.026,485.0,reviewed,us,us
