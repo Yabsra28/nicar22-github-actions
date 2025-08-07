@@ -3594,3 +3594,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T10:31:25.802Z,31.715,-104.172,4.7019,2.0,ml,35.0,67.0,0.0,0.4,tx,tx2025pkzfyj,2025-08-07T10:34:41.747Z,"54 km W of Mentone, Texas",earthquake,0.0,0.8856263756752,0.2,27.0,automatic,tx,tx
 2025-08-07T09:35:58.610Z,17.980333333333,-66.813,13.02,2.32,md,11.0,158.0,0.06328,0.12,pr,pr71491923,2025-08-07T10:44:22.920Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.54,0.58,0.12288660409357,10.0,reviewed,pr,pr
 2025-08-07T11:02:40.740Z,31.717,-104.173,4.0363,1.6,ml,30.0,68.0,0.0,0.4,tx,tx2025plagon,2025-08-07T11:05:45.643Z,"54 km SSE of Whites City, New Mexico",earthquake,0.0,0.93638890981674,0.2,24.0,automatic,tx,tx
+2025-08-07T11:30:36.090Z,35.7761667,-117.6001667,7.12,0.94,ml,26.0,60.0,0.03955,0.16,ci,ci41255384,2025-08-07T11:33:57.303Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.37,0.201,18.0,automatic,ci,ci
+2025-08-07T11:24:38.920Z,35.7708321,-117.5938339,7.43,1.32,ml,21.0,112.0,0.04491,0.14,ci,ci41255376,2025-08-07T11:26:45.411Z,"17 km W of Searles Valley, CA",earthquake,0.37,0.79,0.226,10.0,automatic,ci,ci
+2025-08-07T11:16:57.074Z,57.6801,-156.2255,149.0,1.8,ml,,,,0.86,ak,ak025a2dcbnv,2025-08-07T11:19:29.797Z,"72 km ENE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
