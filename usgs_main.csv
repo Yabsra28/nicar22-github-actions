@@ -3642,3 +3642,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T14:49:56.400Z,62.6757,-148.9755,53.8,1.2,ml,,,,0.47,ak,ak025a2fbp20,2025-08-07T14:51:33.212Z,"63 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-07T14:42:45.501Z,61.9224,-150.7471,59.4,1.6,ml,,,,0.33,ak,ak025a2fa67a,2025-08-07T14:45:12.354Z,"34 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-07T14:42:02.400Z,34.1456667,-116.9606667,2.69,1.04,ml,35.0,70.0,0.05591,0.23,ci,ci41255488,2025-08-07T14:46:11.684Z,"12 km SSW of Big Bear Lake, CA",earthquake,0.28,0.67,0.188,31.0,automatic,ci,ci
+2025-08-07T15:23:45.180Z,38.814834594727,-122.81999969482,2.5999999046326,0.75,md,9.0,66.0,0.009323,0.02,nc,nc75220387,2025-08-07T15:25:24.185Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.769999981,0.05,12.0,automatic,nc,nc
+2025-08-07T15:23:17.380Z,39.336833953857,-123.25066375732,3.6199998855591,1.76,md,18.0,77.0,0.1019,0.08,nc,nc75220392,2025-08-07T15:26:08.969Z,"9 km NNW of Redwood Valley, CA",earthquake,0.23,2.16000009,0.13,12.0,automatic,nc,nc
+2025-08-07T15:13:05.912Z,63.6358,-150.8948,16.0,2.4,ml,,,,0.75,ak,ak025a2fpazj,2025-08-07T15:32:47.040Z,"42 km ENE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-07T15:04:21.880Z,38.043998718262,-118.79316711426,14.260000228882,2.6,md,37.0,105.0,0.2739,0.17,nc,nc75220377,2025-08-07T15:27:19.575Z,"27 km SE of Bodie, CA",earthquake,0.42,1.5,0.13,25.0,automatic,nc,nc
+2025-08-07T14:52:21.832Z,32.067,-103.724,7.6379,1.6,ml,24.0,53.0,0.0,0.1,tx,tx2025plhwuv,2025-08-07T15:31:53.128Z,"37 km ESE of Malaga, New Mexico",earthquake,0.42111780487657,0.69705070979805,0.1,8.0,reviewed,tx,tx
+2025-08-07T14:31:00.278Z,20.2084,96.2045,14.384,4.4,mb,36.0,152.0,1.561,0.98,us,us6000qyul,2025-08-07T15:16:02.040Z,"25 km SSE of Yamethin, Burma (Myanmar)",earthquake,7.41,5.55,0.11,24.0,reviewed,us,us
