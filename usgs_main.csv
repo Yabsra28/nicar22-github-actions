@@ -3717,3 +3717,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T20:01:23.950Z,33.6601667,-116.7613333,16.38,0.78,ml,26.0,89.0,0.07352,0.14,ci,ci41255752,2025-08-07T20:05:57.525Z,"10 km SSW of Idyllwild, CA",earthquake,0.22,0.38,0.183,28.0,automatic,ci,ci
 2025-08-07T19:09:44.047Z,38.1422,72.8893,139.962,4.3,mb,36.0,138.0,0.361,0.45,us,us6000qyyj,2025-08-07T20:06:42.040Z,"94 km W of Murghob, Tajikistan",earthquake,5.84,5.444,0.111,23.0,reviewed,us,us
 2025-08-07T18:59:07.276Z,52.2203,161.7033,10.0,4.7,mb,63.0,117.0,2.028,1.09,us,us6000qyyi,2025-08-07T20:00:22.040Z,"228 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.17,1.868,0.044,159.0,reviewed,us,us
+2025-08-07T20:14:54.479Z,31.5338,66.9861,10.0,4.4,mb,39.0,180.0,3.478,0.65,us,us6000qyyw,2025-08-07T20:39:24.040Z,"63 km S of Qalāt, Afghanistan",earthquake,11.9,1.961,0.107,25.0,reviewed,us,us
+2025-08-07T15:16:49.510Z,45.173833333333,-112.41733333333,-2.0,0.6,ml,9.0,87.0,0.1239,0.17,mb,mb90106183,2025-08-07T20:36:43.870Z,"17 km ESE of Dillon, Montana",quarry blast,0.41,31.61,0.13869897333479,7.0,reviewed,mb,mb
