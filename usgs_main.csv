@@ -3560,3 +3560,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T06:56:50.440Z,33.45,-116.8828333,10.43,0.32,ml,28.0,36.0,0.0397,0.17,ci,ci41255328,2025-08-07T07:00:17.405Z,"2 km WNW of Aguanga, CA",earthquake,0.22,0.54,0.139,10.0,automatic,ci,ci
 2025-08-07T06:33:15.110Z,17.9073,-68.149,75.0,3.52,md,13.0,222.0,0.6496,0.35,pr,pr2025219001,2025-08-07T06:54:18.423Z,"71 km SE of Boca de Yuma, Dominican Republic",earthquake,2.85,3.22,0.14,6.0,reviewed,pr,pr
 2025-08-07T05:44:08.142Z,51.3824,160.7552,10.0,4.5,mb,45.0,122.0,2.093,0.81,us,us6000qyst,2025-08-07T07:06:17.040Z,"235 km SE of Vilyuchinsk, Russia",earthquake,10.29,1.909,0.079,47.0,reviewed,us,us
+2025-08-07T07:23:05.720Z,35.721668243408,-121.11583709717,10.35000038147,1.39,md,10.0,95.0,0.04993,0.09,nc,nc75220322,2025-08-07T07:24:42.300Z,"11 km NE of San Simeon, CA",earthquake,0.44,0.889999986,0.08,7.0,automatic,nc,nc
+2025-08-07T06:29:55.829Z,51.2321,160.99,10.0,4.7,mb,90.0,123.0,2.302,0.51,us,us6000qyt0,2025-08-07T07:23:07.040Z,"259 km SE of Vilyuchinsk, Russia",earthquake,10.31,1.906,0.058,90.0,reviewed,us,us
+2025-08-07T01:01:39.155Z,32.405,-102.021,6.4209,0.6,ml,26.0,64.0,0.0,0.2,tx,tx2025pkgixq,2025-08-07T07:16:47.553Z,"31 km WSW of Ackerly, Texas",earthquake,0.33896532065076,0.6268299202944,0.1,13.0,reviewed,tx,tx
+2025-08-06T13:48:34.248Z,32.118,-101.92,7.8857,0.8,ml,20.0,86.0,0.1,0.1,tx,tx2025pjkazl,2025-08-07T07:23:38.525Z,"12 km W of Stanton, Texas",earthquake,0.39532829349326,0.72999015897633,0.2,12.0,reviewed,tx,tx
