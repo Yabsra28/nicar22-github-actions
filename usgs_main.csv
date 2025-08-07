@@ -3597,3 +3597,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T11:30:36.090Z,35.7761667,-117.6001667,7.12,0.94,ml,26.0,60.0,0.03955,0.16,ci,ci41255384,2025-08-07T11:33:57.303Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.37,0.201,18.0,automatic,ci,ci
 2025-08-07T11:24:38.920Z,35.7708321,-117.5938339,7.43,1.32,ml,21.0,112.0,0.04491,0.14,ci,ci41255376,2025-08-07T11:26:45.411Z,"17 km W of Searles Valley, CA",earthquake,0.37,0.79,0.226,10.0,automatic,ci,ci
 2025-08-07T11:16:57.074Z,57.6801,-156.2255,149.0,1.8,ml,,,,0.86,ak,ak025a2dcbnv,2025-08-07T11:19:29.797Z,"72 km ENE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-07T11:54:42.983Z,36.7793,-116.2507,8.5,1.1,ml,27.0,39.88,0.06,0.3124,nn,nn00902245,2025-08-07T11:56:35.349Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.24,19.0,automatic,nn,nn
+2025-08-07T02:43:49.005Z,32.408,-101.925,8.6426,0.7,ml,27.0,49.0,0.0,0.1,tx,tx2025pkjtaq,2025-08-07T11:51:35.900Z,"23 km SW of Ackerly, Texas",earthquake,0.32738203517992,0.62491241094027,0.1,12.0,reviewed,tx,tx
