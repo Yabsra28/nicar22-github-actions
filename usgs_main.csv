@@ -3565,3 +3565,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T01:01:39.155Z,32.405,-102.021,6.4209,0.6,ml,26.0,64.0,0.0,0.2,tx,tx2025pkgixq,2025-08-07T07:16:47.553Z,"31 km WSW of Ackerly, Texas",earthquake,0.33896532065076,0.6268299202944,0.1,13.0,reviewed,tx,tx
 2025-08-06T13:48:34.248Z,32.118,-101.92,7.8857,0.8,ml,20.0,86.0,0.1,0.1,tx,tx2025pjkazl,2025-08-07T07:23:38.525Z,"12 km W of Stanton, Texas",earthquake,0.39532829349326,0.72999015897633,0.2,12.0,reviewed,tx,tx
 2025-08-07T07:38:57.490Z,34.3881667,-119.3415,0.56,1.29,ml,25.0,94.0,0.01957,0.19,ci,ci41255336,2025-08-07T07:43:00.498Z,"11 km SW of Ojai, CA",earthquake,0.23,0.54,0.267,26.0,automatic,ci,ci
+2025-08-07T08:12:48.280Z,17.972333333333,-66.878833333333,16.21,2.41,md,13.0,195.0,0.002735,0.15,pr,pr71491913,2025-08-07T08:21:19.150Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.47,0.55,0.057579861632998,5.0,reviewed,pr,pr
+2025-08-07T08:07:21.510Z,32.6115,-115.3055,14.44,1.45,ml,22.0,56.0,0.08604,0.25,ci,ci41255344,2025-08-07T08:10:57.703Z,"7 km NE of Puebla, B.C., MX",earthquake,0.38,0.78,0.234,14.0,automatic,ci,ci
+2025-08-07T07:57:39.291Z,64.328,-152.4881,0.0,2.0,ml,,,,0.91,ak,ak025a2b7c89,2025-08-07T07:59:31.633Z,"50 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-07T07:45:04.603Z,24.634,122.9969,108.521,5.9,mb,127.0,23.0,0.167,0.91,us,us6000qyt7,2025-08-07T08:18:13.771Z,"18 km N of Yonakuni, Japan",earthquake,5.23,3.894,0.027,513.0,reviewed,us,us
