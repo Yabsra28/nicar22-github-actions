@@ -3719,3 +3719,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T18:59:07.276Z,52.2203,161.7033,10.0,4.7,mb,63.0,117.0,2.028,1.09,us,us6000qyyi,2025-08-07T20:00:22.040Z,"228 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.17,1.868,0.044,159.0,reviewed,us,us
 2025-08-07T20:14:54.479Z,31.5338,66.9861,10.0,4.4,mb,39.0,180.0,3.478,0.65,us,us6000qyyw,2025-08-07T20:39:24.040Z,"63 km S of Qalāt, Afghanistan",earthquake,11.9,1.961,0.107,25.0,reviewed,us,us
 2025-08-07T15:16:49.510Z,45.173833333333,-112.41733333333,-2.0,0.6,ml,9.0,87.0,0.1239,0.17,mb,mb90106183,2025-08-07T20:36:43.870Z,"17 km ESE of Dillon, Montana",quarry blast,0.41,31.61,0.13869897333479,7.0,reviewed,mb,mb
+2025-08-07T20:49:09.430Z,33.655,-116.7611667,16.14,0.91,ml,35.0,66.0,0.07418,0.14,ci,ci41255808,2025-08-07T20:53:37.651Z,"10 km SSW of Idyllwild, CA",earthquake,0.17,0.31,0.2,27.0,automatic,ci,ci
+2025-08-07T20:48:12.640Z,33.6598333,-116.7566667,16.44,1.03,ml,29.0,65.0,0.0697,0.13,ci,ci41255800,2025-08-07T20:52:51.647Z,"10 km SSW of Idyllwild, CA",earthquake,0.22,0.39,0.353,8.0,automatic,ci,ci
+2025-08-07T19:01:36.860Z,34.9876667,-118.1945,-0.91,1.4,ml,20.0,77.0,0.1121,0.17,ci,ci41255672,2025-08-07T20:52:26.184Z,"7 km SSW of Mojave, CA",quarry blast,0.36,31.61,0.178,14.0,reviewed,ci,ci
