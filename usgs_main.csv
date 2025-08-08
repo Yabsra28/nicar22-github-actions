@@ -3895,3 +3895,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T11:10:48.940Z,60.843,-150.9852,48.2,1.6,ml,,,,0.38,ak,ak025a40ud8e,2025-08-08T11:12:36.927Z,"18 km WSW of Point Possession, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-08T11:07:51.849Z,31.523,-104.014,4.5848,1.9,ml,37.0,89.0,0.0,0.3,tx,tx2025pmwdgc,2025-08-08T11:13:19.564Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.014416217804,0.2,26.0,automatic,tx,tx
 2025-08-08T10:29:19.994Z,36.4616,141.6041,35.711,4.7,mb,86.0,121.0,2.737,0.55,us,us6000qz2l,2025-08-08T11:16:08.040Z,"84 km ESE of Takahagi, Japan",earthquake,7.49,6.97,0.069,65.0,reviewed,us,us
+2025-08-08T11:33:27.041Z,61.8655,-147.0792,24.4,3.2,ml,,,,0.73,ak,ak025a40z908,2025-08-08T11:35:00.532Z,"9 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-08T11:33:08.720Z,35.2456667,-118.5241667,6.67,1.57,ml,44.0,34.0,0.09607,0.13,ci,ci41256280,2025-08-08T11:37:06.229Z,"14 km NNW of Tehachapi, CA",earthquake,0.13,0.48,0.176,26.0,automatic,ci,ci
+2025-08-08T11:28:45.749Z,63.2655,-150.4369,30.0,1.5,ml,,,,1.36,ak,ak025a40y7vi,2025-08-08T11:31:12.301Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2025-08-08T11:15:56.994Z,51.4035,157.5984,87.748,4.4,mb,81.0,133.0,1.709,0.56,us,us6000qz2p,2025-08-08T11:38:53.040Z,"76 km E of Ozernovskiy, Russia",earthquake,10.04,7.346,0.047,132.0,reviewed,us,us
