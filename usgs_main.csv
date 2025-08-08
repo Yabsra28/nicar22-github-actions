@@ -3982,3 +3982,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T17:41:03.304Z,61.7528,-150.1776,35.4,1.6,ml,,,,0.74,ak,ak025a44lije,2025-08-08T17:43:09.405Z,"7 km W of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-08-08T17:36:30.645Z,63.3001,-150.4189,127.4,1.5,ml,,,,0.46,ak,ak025a44ki2g,2025-08-08T17:38:28.388Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-08T17:32:20.539Z,35.58733333,-95.1,0.0,1.53,ml,37.0,76.0,0.2465516182,0.34,ok,ok2025pllx,2025-08-08T17:45:49.056Z,"1 km NNW of Notiechtown, Oklahoma",quarry blast,,0.4,0.21,10.0,reviewed,ok,ok
+2025-08-08T17:46:03.120Z,35.3173333,-117.8138333,7.72,1.12,ml,41.0,66.0,0.05625,0.2,ci,ci41256560,2025-08-08T17:49:29.357Z,"17 km WSW of Johannesburg, CA",earthquake,0.21,0.56,0.17,25.0,automatic,ci,ci
+2025-08-08T17:23:39.950Z,17.924,-66.562666666667,7.73,2.24,md,13.0,139.0,0.05078,0.04,pr,pr71492158,2025-08-08T17:54:27.250Z,"10 km SW of Potala Pastillo, Puerto Rico",earthquake,0.29,0.14,0.085550371508891,8.0,reviewed,pr,pr
+2025-08-07T19:13:25.680Z,37.553666666667,-118.83066666667,3.75,0.54,md,9.0,287.0,0.03632,0.03,nc,nc75220477,2025-08-08T17:52:22.284Z,"13 km W of Toms Place, CA",earthquake,1.12,0.66,0.089,8.0,reviewed,nc,nc
