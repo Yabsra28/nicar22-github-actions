@@ -3900,3 +3900,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T11:28:45.749Z,63.2655,-150.4369,30.0,1.5,ml,,,,1.36,ak,ak025a40y7vi,2025-08-08T11:31:12.301Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-08-08T11:15:56.994Z,51.4035,157.5984,87.748,4.4,mb,81.0,133.0,1.709,0.56,us,us6000qz2p,2025-08-08T11:38:53.040Z,"76 km E of Ozernovskiy, Russia",earthquake,10.04,7.346,0.047,132.0,reviewed,us,us
 2025-08-08T11:49:45.091Z,31.532,-104.015,6.4821,1.5,ml,33.0,87.0,0.0,0.3,tx,tx2025pmxnhu,2025-08-08T11:52:44.706Z,"32 km NW of Toyah, Texas",earthquake,0.0,2.3393762111664,0.2,24.0,automatic,tx,tx
+2025-08-08T12:30:08.770Z,35.7091667,-117.5575,7.42,1.26,ml,38.0,46.0,0.1112,0.13,ci,ci41256312,2025-08-08T12:33:32.129Z,"14 km NE of Ridgecrest, CA",earthquake,0.13,0.6,0.184,26.0,automatic,ci,ci
+2025-08-08T12:09:53.390Z,38.825668334961,-122.79850006103,2.5099999904633,1.1,md,20.0,59.0,0.01423,0.03,nc,nc75220712,2025-08-08T12:11:32.257Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.419999987,0.17,24.0,automatic,nc,nc
+2025-08-08T12:08:04.700Z,34.2661667,-116.451,8.37,0.91,ml,33.0,39.0,0.06204,0.15,ci,ci41256288,2025-08-08T12:11:30.502Z,"17 km N of Yucca Valley, CA",earthquake,0.18,0.41,0.114,19.0,automatic,ci,ci
+2025-08-08T12:00:39.073Z,-9.105,123.8465,98.803,4.7,mb,38.0,63.0,0.768,0.9,us,us6000qz2u,2025-08-08T12:18:39.040Z,"55 km N of Naisano Dua, Indonesia",earthquake,8.17,7.89,0.093,35.0,reviewed,us,us
+2025-08-08T09:16:56.383Z,32.407,-101.924,8.96,0.8,ml,16.0,71.0,0.0,0.1,tx,tx2025pmsmrj,2025-08-08T12:32:11.085Z,"23 km SW of Ackerly, Texas",earthquake,0.43542020042356,0.74700387099246,0.1,14.0,reviewed,tx,tx
+2025-08-08T08:10:15.554Z,31.612,-103.984,6.7279,1.5,ml,43.0,61.0,0.0,0.2,tx,tx2025pmqhft,2025-08-08T12:11:16.375Z,"37 km NNW of Toyah, Texas",earthquake,0.45408275965053,0.41200783949146,0.1,21.0,reviewed,tx,tx
