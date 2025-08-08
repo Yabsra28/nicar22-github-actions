@@ -4031,3 +4031,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T11:09:34.681Z,31.525,-104.012,7.843,1.2,ml,23.0,67.0,0.0,0.1,tx,tx2025pmwfti,2025-08-08T20:16:26.079Z,"31 km NW of Toyah, Texas",earthquake,0.81961631579262,0.70814573927581,0.2,25.0,reviewed,tx,tx
 2025-08-08T05:15:55.030Z,61.307166666667,-152.49433333333,3.13,-0.35,ml,9.0,117.0,0.04604,0.07,av,av93707748,2025-08-08T20:20:33.910Z,"77 km WNW of Tyonek, Alaska",earthquake,0.46,0.43,0.19967004963247,10.0,reviewed,av,av
 2025-08-07T22:38:24.204Z,31.519,-103.879,6.1255,1.3,ml,14.0,67.0,0.1,0.1,tx,tx2025plxilo,2025-08-08T20:25:25.125Z,"24 km NNW of Toyah, Texas",earthquake,0.96531751730793,2.9085395885529,0.2,15.0,reviewed,tx,tx
+2025-08-08T21:05:46.138Z,57.6946,-154.6548,53.6,1.6,ml,,,,0.19,ak,ak025a46rmhh,2025-08-08T21:07:25.482Z,"18 km NW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-08T20:56:55.020Z,38.318500518799,-122.80300140381,-0.059999998658895,1.66,md,12.0,127.0,0.0351,0.07,nc,nc75220852,2025-08-08T21:00:57.658Z,"8 km W of Cotati, CA",earthquake,0.3,1.15999997,0.24,9.0,automatic,nc,nc
+2025-08-08T20:54:13.038Z,62.7278,-151.7857,0.0,1.5,ml,,,,0.58,ak,ak025a46gmev,2025-08-08T20:56:13.359Z,"58 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-08T20:49:36.788Z,31.553,-103.891,4.6814,1.6,ml,6.0,165.0,0.1,0.6,tx,tx2025pnplnt,2025-08-08T20:53:31.361Z,"27 km NNW of Toyah, Texas",earthquake,0.0,2.2951545715332,0.2,5.0,automatic,tx,tx
