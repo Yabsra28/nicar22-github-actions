@@ -3974,3 +3974,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T16:59:59.680Z,17.925,-66.8735,14.34,1.82,md,4.0,271.0,0.05008,0.03,pr,pr71492153,2025-08-08T17:12:14.530Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,1.05,0.42,0.03040402502195,3.0,reviewed,pr,pr
 2025-08-08T16:58:29.050Z,17.886,-66.864333333333,15.76,2.17,md,9.0,239.0,0.086,0.08,pr,pr71492148,2025-08-08T17:08:33.580Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.76,0.55,0.045574520629652,6.0,reviewed,pr,pr
 2025-08-08T16:57:55.480Z,17.9225,-66.873666666667,14.84,1.9,md,5.0,226.0,0.05254,0.2,pr,pr71492143,2025-08-08T17:04:17.560Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,1.38,1.03,0.10298262937596,5.0,reviewed,pr,pr
+2025-08-08T17:28:59.760Z,38.821998596191,-122.811668396,2.829999923706,1.04,md,22.0,61.0,0.00187,0.02,nc,nc75220772,2025-08-08T17:30:37.729Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.50999999,0.19,23.0,automatic,nc,nc
+2025-08-08T17:23:33.875Z,60.185,-141.4868,19.5,1.4,ml,,,,0.31,ak,ak025a44hq0b,2025-08-08T17:25:18.063Z,"121 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-07T22:52:43.590Z,36.029,-117.778,2.2,1.26,ml,5.0,213.0,0.011,0.05,ci,ci37738236,2025-08-08T17:26:02.152Z,"15 km E of Coso Junction, CA",earthquake,0.25,0.31,0.052,6.0,reviewed,ci,ci
