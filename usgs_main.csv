@@ -4035,3 +4035,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T20:56:55.020Z,38.318500518799,-122.80300140381,-0.059999998658895,1.66,md,12.0,127.0,0.0351,0.07,nc,nc75220852,2025-08-08T21:00:57.658Z,"8 km W of Cotati, CA",earthquake,0.3,1.15999997,0.24,9.0,automatic,nc,nc
 2025-08-08T20:54:13.038Z,62.7278,-151.7857,0.0,1.5,ml,,,,0.58,ak,ak025a46gmev,2025-08-08T20:56:13.359Z,"58 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-08T20:49:36.788Z,31.553,-103.891,4.6814,1.6,ml,6.0,165.0,0.1,0.6,tx,tx2025pnplnt,2025-08-08T20:53:31.361Z,"27 km NNW of Toyah, Texas",earthquake,0.0,2.2951545715332,0.2,5.0,automatic,tx,tx
+2025-08-08T21:24:13.290Z,33.2306667,-116.7401667,10.77,0.71,ml,26.0,34.0,0.01646,0.17,ci,ci41256800,2025-08-08T21:27:48.435Z,"2 km ESE of Lake Henshaw, CA",earthquake,0.22,0.4,0.182,13.0,automatic,ci,ci
+2025-08-08T21:14:38.941Z,38.4792,-116.4882,0.6,2.0,ml,11.0,148.95,1.057,0.2301,nn,nn00902308,2025-08-08T21:17:42.401Z,"79 km NE of Tonopah, Nevada",earthquake,,6.1,0.21,7.0,automatic,nn,nn
