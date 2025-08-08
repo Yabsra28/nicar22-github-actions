@@ -3890,3 +3890,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T07:38:36.419Z,32.414,-102.098,8.8135,0.5,ml,21.0,63.0,0.0,0.1,tx,tx2025pmpfyd,2025-08-08T10:43:29.842Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.51558957379556,0.53073215959375,0.2,12.0,reviewed,tx,tx
 2025-08-08T04:48:21.738Z,32.011,-101.746,7.6416,0.6,ml,11.0,79.0,0.1,0.1,tx,tx2025pmjpft,2025-08-08T10:31:31.761Z,"13 km SSE of Stanton, Texas",earthquake,0.90307039440761,1.1861789884311,0.2,7.0,reviewed,tx,tx
 2025-08-08T03:09:46.736Z,32.126,-102.208,7.2754,0.6,ml,22.0,85.0,0.0,0.2,tx,tx2025pmgics,2025-08-08T10:22:16.895Z,"18 km NW of Midland, Texas",earthquake,0.89101644433241,0.85019268340609,0.1,13.0,reviewed,tx,tx
+2025-08-08T04:56:18.947Z,32.009,-101.741,7.0801,0.8,ml,17.0,71.0,0.1,0.1,tx,tx2025pmjwcc,2025-08-08T10:52:14.875Z,"14 km SSE of Stanton, Texas",earthquake,0.6726843116441,1.3955043876886,0.1,6.0,reviewed,tx,tx
