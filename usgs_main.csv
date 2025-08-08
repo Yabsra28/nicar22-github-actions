@@ -3906,3 +3906,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T12:00:39.073Z,-9.105,123.8465,98.803,4.7,mb,38.0,63.0,0.768,0.9,us,us6000qz2u,2025-08-08T12:18:39.040Z,"55 km N of Naisano Dua, Indonesia",earthquake,8.17,7.89,0.093,35.0,reviewed,us,us
 2025-08-08T09:16:56.383Z,32.407,-101.924,8.96,0.8,ml,16.0,71.0,0.0,0.1,tx,tx2025pmsmrj,2025-08-08T12:32:11.085Z,"23 km SW of Ackerly, Texas",earthquake,0.43542020042356,0.74700387099246,0.1,14.0,reviewed,tx,tx
 2025-08-08T08:10:15.554Z,31.612,-103.984,6.7279,1.5,ml,43.0,61.0,0.0,0.2,tx,tx2025pmqhft,2025-08-08T12:11:16.375Z,"37 km NNW of Toyah, Texas",earthquake,0.45408275965053,0.41200783949146,0.1,21.0,reviewed,tx,tx
+2025-08-08T13:05:04.992Z,52.0933,158.3389,85.401,5.0,mb,50.0,163.0,0.951,0.78,us,us6000qz30,2025-08-08T13:20:14.040Z,"93 km S of Vilyuchinsk, Russia",earthquake,9.85,7.53,0.027,436.0,reviewed,us,us
+2025-08-08T13:02:56.113Z,62.2069,-150.1433,9.8,1.6,ml,,,,0.36,ak,ak025a41zj9n,2025-08-08T13:04:28.838Z,"13 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-08T12:53:28.206Z,31.694,-104.511,3.6466,1.1,ml,9.0,212.0,0.0,0.4,tx,tx2025pmzrfp,2025-08-08T13:01:22.349Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,2.5569407939911,0.1,6.0,automatic,tx,tx
+2025-08-08T12:44:49.354Z,51.8794,160.3927,10.0,4.4,mb,36.0,128.0,1.565,0.95,us,us6000qz2x,2025-08-08T13:12:01.040Z,"178 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.76,1.921,0.098,30.0,reviewed,us,us
+2025-08-08T12:42:05.596Z,51.3091,159.3892,10.0,4.7,mb,27.0,217.0,1.776,0.71,us,us6000qz2w,2025-08-08T13:02:56.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,10.95,1.959,0.108,26.0,reviewed,us,us
+2025-08-08T12:22:13.670Z,1.7682,127.0787,110.023,5.3,mb,127.0,24.0,1.031,0.86,us,us6000qz2v,2025-08-08T12:38:43.040Z,"103 km W of Tobelo, Indonesia",earthquake,5.77,6.047,0.05,132.0,reviewed,us,us
+2025-08-08T11:47:35.370Z,18.066666666667,-65.960666666667,9.28,1.78,md,3.0,179.0,0.07591,0.08,pr,pr71492123,2025-08-08T12:48:54.890Z,"5 km W of Rosa Sanchez, Puerto Rico",earthquake,10.61,1.31,0.1611336948216,3.0,reviewed,pr,pr
+2025-08-08T11:03:19.307Z,32.411,-101.92,8.1787,0.7,ml,18.0,74.0,0.0,0.2,tx,tx2025pmwait,2025-08-08T12:52:52.558Z,"23 km SW of Ackerly, Texas",earthquake,0.4741788638786,1.5022629208113,0.2,14.0,reviewed,tx,tx
+2025-08-08T06:09:40.791Z,32.121,-101.043,10.1807,1.1,ml,15.0,51.0,0.2,0.2,tx,tx2025pmmhhw,2025-08-08T12:44:14.014Z,"26 km S of Westbrook, Texas",earthquake,0.7500496145862,1.81184850082,0.2,7.0,reviewed,tx,tx
+2025-08-08T02:27:24.426Z,32.354,-102.074,6.2744,0.5,ml,17.0,69.0,0.0,0.1,tx,tx2025pmexrq,2025-08-08T12:36:54.973Z,"36 km NW of Stanton, Texas",earthquake,0.59933617844056,0.91419418601391,0.2,9.0,reviewed,tx,tx
