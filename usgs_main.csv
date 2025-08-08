@@ -3977,3 +3977,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T17:28:59.760Z,38.821998596191,-122.811668396,2.829999923706,1.04,md,22.0,61.0,0.00187,0.02,nc,nc75220772,2025-08-08T17:30:37.729Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.50999999,0.19,23.0,automatic,nc,nc
 2025-08-08T17:23:33.875Z,60.185,-141.4868,19.5,1.4,ml,,,,0.31,ak,ak025a44hq0b,2025-08-08T17:25:18.063Z,"121 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-07T22:52:43.590Z,36.029,-117.778,2.2,1.26,ml,5.0,213.0,0.011,0.05,ci,ci37738236,2025-08-08T17:26:02.152Z,"15 km E of Coso Junction, CA",earthquake,0.25,0.31,0.052,6.0,reviewed,ci,ci
+2025-08-08T17:43:53.390Z,33.4831667,-116.9266667,5.9,0.55,ml,20.0,42.0,0.01283,0.2,ci,ci41256552,2025-08-08T17:47:24.355Z,"7 km NW of Aguanga, CA",earthquake,0.28,0.59,0.119,14.0,automatic,ci,ci
+2025-08-08T17:42:45.820Z,33.2301667,-116.7391667,10.69,0.88,ml,35.0,34.0,0.01742,0.15,ci,ci41256536,2025-08-08T17:46:16.339Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.17,0.28,0.151,24.0,automatic,ci,ci
+2025-08-08T17:41:03.304Z,61.7528,-150.1776,35.4,1.6,ml,,,,0.74,ak,ak025a44lije,2025-08-08T17:43:09.405Z,"7 km W of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
+2025-08-08T17:36:30.645Z,63.3001,-150.4189,127.4,1.5,ml,,,,0.46,ak,ak025a44ki2g,2025-08-08T17:38:28.388Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-08T17:32:20.539Z,35.58733333,-95.1,0.0,1.53,ml,37.0,76.0,0.2465516182,0.34,ok,ok2025pllx,2025-08-08T17:45:49.056Z,"1 km NNW of Notiechtown, Oklahoma",quarry blast,,0.4,0.21,10.0,reviewed,ok,ok
