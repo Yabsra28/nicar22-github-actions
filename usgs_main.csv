@@ -4135,3 +4135,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T05:32:38.950Z,35.873,-117.7006667,9.96,0.76,ml,18.0,61.0,0.08281,0.09,ci,ci41257024,2025-08-09T05:36:02.455Z,"20 km ESE of Little Lake, CA",earthquake,0.14,0.33,0.125,13.0,automatic,ci,ci
 2025-08-09T05:08:23.743Z,47.5302,-70.0304,26.365,2.2,mb_lg,16.0,126.0,0.201,0.46,us,us6000qzf0,2025-08-09T05:28:51.040Z,"15 km NNW of Saint-Pacôme, Canada",earthquake,3.79,8.117,0.208,6.0,reviewed,us,us
 2025-08-08T22:21:34.230Z,48.519333333333,-123.46183333333,20.51,0.5,ml,6.0,142.0,0.1306,0.07,uw,uw62168221,2025-08-09T05:23:15.740Z,"6 km N of Six Mile, Canada",earthquake,0.48,0.66,0.10707431421568,2.0,reviewed,uw,uw
+2025-08-09T05:47:36.830Z,33.5368333,-116.7215,5.71,0.5,ml,23.0,40.0,0.0314,0.12,ci,ci41257040,2025-08-09T05:51:09.130Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.17,16.0,automatic,ci,ci
