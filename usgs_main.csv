@@ -4311,3 +4311,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T20:35:48.500Z,38.827499389648,-122.75833129883,0.33000001311302,0.99,md,7.0,144.0,0.00952,0.01,nc,nc75221212,2025-08-09T20:37:23.581Z,"3 km WNW of Cobb, CA",earthquake,0.37,0.790000021,0.29,8.0,automatic,nc,nc
 2025-08-09T09:04:28.381Z,-57.7012,157.5475,10.0,4.9,mb,28.0,106.0,3.304,0.76,us,us6000qzic,2025-08-09T20:38:23.040Z,Macquarie Island region,earthquake,11.27,1.882,0.115,24.0,reviewed,us,us
 2025-08-09T04:59:58.090Z,61.294,-152.3455,0.38,-0.29,ml,11.0,134.0,0.03733,0.24,av,av93708888,2025-08-09T20:33:50.140Z,"69 km WNW of Tyonek, Alaska",earthquake,0.52,2.4,0.1077047976988,11.0,reviewed,av,av
+2025-08-09T20:45:40.938Z,31.476,-104.232,5.0,1.7,ml,12.0,239.0,0.1,0.6,tx,tx2025pplawb,2025-08-09T20:48:44.407Z,"45 km WNW of Toyah, Texas",earthquake,0.0,,0.2,8.0,automatic,tx,tx
+2025-08-09T20:40:58.448Z,13.5057,-92.4029,10.0,6.0,mww,48.0,165.0,1.331,1.25,us,us6000qzin,2025-08-09T20:57:42.467Z,"102 km SSW of Champerico, Guatemala",earthquake,6.4,1.943,0.032,91.0,reviewed,us,us
+2025-08-09T05:32:49.650Z,61.309333333333,-152.3025,0.27,0.32,ml,11.0,122.0,0.05538,0.08,av,av93708908,2025-08-09T20:55:11.190Z,"68 km WNW of Beluga, Alaska",earthquake,0.18,1.17,0.22756621965692,13.0,reviewed,av,av
