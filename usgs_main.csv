@@ -4270,3 +4270,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T16:20:22.320Z,49.4926,155.891,35.0,4.4,mb,31.0,231.0,3.794,0.83,us,us6000qzhu,2025-08-09T17:13:16.040Z,"132 km S of Severo-Kuril’sk, Russia",earthquake,14.93,1.973,0.101,28.0,reviewed,us,us
 2025-08-09T15:17:53.538Z,52.3544,158.9413,68.101,4.4,mb,92.0,132.0,0.693,0.75,us,us6000qzhl,2025-08-09T17:10:52.040Z,"73 km SSE of Vilyuchinsk, Russia",earthquake,7.8,3.398,0.059,85.0,reviewed,us,us
 2025-08-09T08:39:39.905Z,31.7,-104.496,4.6061,1.3,mlv,16.0,117.0,0.0,0.3,tx,tx2025pomzks,2025-08-09T17:08:40.646Z,"53 km SSW of Whites City, New Mexico",earthquake,0.0,1.3100092411041,0.3,13.0,automatic,tx,tx
+2025-08-09T17:29:27.136Z,31.512,-103.874,7.1571,1.8,ml,12.0,136.0,0.1,0.2,tx,tx2025ppenyp,2025-08-09T17:32:15.781Z,"23 km NNW of Toyah, Texas",earthquake,0.0,2.8064529895782,0.1,6.0,automatic,tx,tx
+2025-08-09T17:27:03.267Z,61.4145,-147.2425,16.7,2.8,ml,,,,0.62,ak,ak025a5s1v00,2025-08-09T17:28:33.904Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
