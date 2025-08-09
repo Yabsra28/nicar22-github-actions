@@ -4127,3 +4127,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T20:00:21.810Z,46.750166666667,-121.92383333333,0.47,0.97,ml,26.0,84.0,0.01113,0.11,uw,uw62168126,2025-08-09T04:10:42.040Z,"8 km E of Ashford, Washington",earthquake,0.24,1.02,0.10071158493304,17.0,reviewed,uw,uw
 2025-08-09T04:46:54.339Z,31.867,-101.507,5.0,1.2,ml,8.0,152.0,0.2,0.5,tx,tx2025pofgui,2025-08-09T04:48:53.860Z,"2 km W of Garden City, Texas",earthquake,0.0,,0.2,6.0,automatic,tx,tx
 2025-08-09T04:43:02.480Z,17.9595,-66.922166666667,10.09,2.37,md,9.0,200.0,0.01804,0.11,pr,pr71492218,2025-08-09T04:52:11.890Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.67,0.52,0.14307077127312,6.0,reviewed,pr,pr
+2025-08-09T04:44:09.149Z,-7.5949,-74.6511,158.82,4.5,mb,26.0,111.0,1.934,0.88,us,us6000qzex,2025-08-09T05:18:53.040Z,"49 km SE of Contamana, Peru",earthquake,9.33,10.097,0.113,23.0,reviewed,us,us
+2025-08-09T04:29:42.689Z,-16.8349,-69.9131,192.493,4.3,mb,22.0,129.0,1.581,0.66,us,us6000qzew,2025-08-09T05:10:48.040Z,"23 km WSW of Mazo Cruz, Peru",earthquake,11.01,11.377,0.202,7.0,reviewed,us,us
