@@ -4297,3 +4297,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T18:02:58.600Z,36.330666666667,-120.40933333333,8.83,1.47,md,28.0,130.0,0.03283,0.12,nc,nc75221162,2025-08-09T19:38:57.830Z,"21 km SW of Cantua Creek, CA",earthquake,0.66,0.46,0.295,14.0,reviewed,nc,nc
 2025-08-09T19:39:36.257Z,61.9511,-148.5693,20.7,0.9,ml,,,,0.79,ak,ak025a5tbdcp,2025-08-09T19:41:46.325Z,"18 km NNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-09T19:21:35.884Z,52.3792,160.2087,35.0,4.8,mb,56.0,137.0,1.147,0.71,us,us6000qzig,2025-08-09T19:50:50.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.33,1.86,0.061,84.0,reviewed,us,us
+2025-08-09T20:08:44.440Z,33.9931679,-116.644165,5.1,2.91,ml,123.0,19.0,0.07927,0.18,ci,ci41257504,2025-08-09T20:10:52.094Z,"8 km SW of Morongo Valley, CA",earthquake,0.16,0.88,0.234,4.0,automatic,ci,ci
+2025-08-09T20:04:42.130Z,33.9933333,-116.6426667,6.69,1.36,ml,73.0,21.0,0.04529,0.21,ci,ci41257496,2025-08-09T20:08:14.984Z,"8 km SW of Morongo Valley, CA",earthquake,0.14,0.38,0.184,27.0,automatic,ci,ci
+2025-08-09T12:25:41.000Z,51.72,-179.06266666667,10.59,1.04,ml,6.0,281.0,0.1405,0.09,av,av93709243,2025-08-09T19:57:14.670Z,"168 km W of Adak, Alaska",earthquake,0.7,1.91,0.32766844072899,6.0,reviewed,av,av
+2025-08-09T04:15:18.020Z,51.626666666667,-178.77783333333,14.92,1.29,ml,6.0,192.0,0.07677,0.21,av,av93708833,2025-08-09T19:53:17.560Z,"150 km WSW of Adak, Alaska",earthquake,3.16,1.77,0.16734907101169,6.0,reviewed,av,av
