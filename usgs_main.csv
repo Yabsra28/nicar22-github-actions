@@ -4295,3 +4295,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T19:20:00.550Z,34.2653333,-118.618,7.51,1.27,ml,33.0,48.0,0.05056,0.22,ci,ci41257472,2025-08-09T19:24:10.760Z,"2 km NW of Chatsworth, CA",earthquake,0.27,0.54,0.231,31.0,automatic,ci,ci
 2025-08-09T19:34:49.770Z,38.827667236328,-122.79716491699,2.7000000476837,0.82,md,16.0,63.0,0.01095,0.02,nc,nc75221187,2025-08-09T19:36:24.221Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.529999971,0.26,17.0,automatic,nc,nc
 2025-08-09T18:02:58.600Z,36.330666666667,-120.40933333333,8.83,1.47,md,28.0,130.0,0.03283,0.12,nc,nc75221162,2025-08-09T19:38:57.830Z,"21 km SW of Cantua Creek, CA",earthquake,0.66,0.46,0.295,14.0,reviewed,nc,nc
+2025-08-09T19:39:36.257Z,61.9511,-148.5693,20.7,0.9,ml,,,,0.79,ak,ak025a5tbdcp,2025-08-09T19:41:46.325Z,"18 km NNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-09T19:21:35.884Z,52.3792,160.2087,35.0,4.8,mb,56.0,137.0,1.147,0.71,us,us6000qzig,2025-08-09T19:50:50.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.33,1.86,0.061,84.0,reviewed,us,us
