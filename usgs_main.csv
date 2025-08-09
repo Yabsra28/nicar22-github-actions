@@ -4258,3 +4258,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T15:39:49.420Z,33.3240013,-116.2798309,11.46,1.0,ml,25.0,54.0,0.04566,0.2,ci,ci41257288,2025-08-09T15:41:54.899Z,"12 km NE of Borrego Springs, CA",earthquake,0.41,0.57,0.362,6.0,automatic,ci,ci
 2025-08-09T15:33:59.830Z,36.5625,-121.17199707031,2.75,1.24,md,7.0,76.0,0.01417,0.19,nc,nc75221122,2025-08-09T15:35:37.137Z,"4 km NNW of Pinnacles, CA",earthquake,0.79,1.19000006,0.27,5.0,automatic,nc,nc
 2025-08-08T18:59:20.631Z,54.6289,-159.1496,27.245,3.8,ml,54.0,154.0,0.326,0.74,us,us6000qz7u,2025-08-09T15:31:12.040Z,"116 km SE of Sand Point, Alaska",earthquake,5.31,6.649,0.064,32.0,reviewed,us,us
+2025-08-09T16:32:11.771Z,36.977,-114.8105,7.5,1.1,ml,11.0,337.44,0.972,0.2605,nn,nn00902342,2025-08-09T16:34:47.009Z,"37 km NNW of Moapa Town, Nevada",earthquake,,3.9,0.15,8.0,automatic,nn,nn
+2025-08-08T20:18:13.837Z,-5.6878,68.4155,10.0,4.6,mb,74.0,73.0,4.361,0.57,us,us6000qz87,2025-08-09T16:19:37.040Z,Chagos Archipelago region,earthquake,9.39,1.865,0.07,66.0,reviewed,us,us
