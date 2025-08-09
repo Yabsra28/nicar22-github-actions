@@ -4235,3 +4235,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T13:17:19.400Z,35.149333333333,-82.9475,0.04,1.75,md,8.0,107.0,0.08193,0.16,se,se60503898,2025-08-09T13:35:26.789Z,"11 km W of Rosman, North Carolina",earthquake,1.01,3.25,0.081428612744611,8.0,reviewed,se,se
 2025-08-09T12:48:24.158Z,53.2249,159.7957,60.264,4.6,mb,43.0,113.0,0.719,0.92,us,us6000qzh1,2025-08-09T13:18:30.040Z,"80 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.95,7.568,0.078,49.0,reviewed,us,us
 2025-08-09T10:55:29.800Z,35.146166666667,-82.927666666667,0.24,2.06,md,8.0,108.0,0.07245,0.12,se,se60503893,2025-08-09T13:21:42.310Z,"9 km W of Rosman, North Carolina",earthquake,0.75,1.91,0.063432481361608,8.0,reviewed,se,se
+2025-08-09T13:55:31.659Z,62.8667,-150.742,90.4,1.9,ml,,,,0.29,ak,ak025a5pu6tp,2025-08-09T13:57:23.565Z,"41 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-08-09T13:54:36.549Z,59.6498,-152.9097,96.8,1.6,ml,,,,0.31,ak,ak025a5ptzhn,2025-08-09T13:57:03.722Z,"62 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-09T05:04:14.230Z,46.914833333333,-112.54683333333,14.64,1.58,ml,20.0,85.0,0.08511,0.12,mb,mb90106663,2025-08-09T14:05:36.250Z,"11 km ESE of Lincoln, Montana",earthquake,0.31,0.34,0.2967690593585,23.0,reviewed,mb,mb
