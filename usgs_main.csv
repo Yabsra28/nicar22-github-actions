@@ -4327,3 +4327,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T00:04:38.304Z,49.8053,155.7771,63.173,4.5,mb,54.0,137.0,3.519,0.6,us,us6000qzec,2025-08-09T21:46:21.040Z,"99 km SSW of Severo-Kuril’sk, Russia",earthquake,12.14,7.387,0.063,78.0,reviewed,us,us
 2025-08-09T21:53:36.900Z,36.46533203125,-121.05850219727,3.9800000190735,2.69,md,45.0,38.0,0.01004,0.23,nc,nc75221232,2025-08-09T21:58:25.761Z,"11 km SE of Pinnacles, CA",earthquake,0.33,0.899999976,0.16,50.0,automatic,nc,nc
 2025-08-09T18:00:38.959Z,50.6628,159.9778,10.0,4.3,mb,53.0,125.0,2.503,0.7,us,us6000qzi6,2025-08-09T21:57:05.040Z,"260 km ESE of Ozernovskiy, Russia",earthquake,8.12,1.901,0.082,42.0,reviewed,us,us
+2025-08-09T22:17:08.690Z,34.1435,-117.4205,3.28,1.07,ml,45.0,50.0,0.04636,0.21,ci,ci41257552,2025-08-09T22:20:54.399Z,"6 km NE of Fontana, CA",earthquake,0.21,0.48,0.327,5.0,automatic,ci,ci
+2025-08-09T22:14:33.630Z,63.1163,-151.3483,0.0,1.2,ml,,,,0.78,ak,ak025a5uyb2b,2025-08-09T22:16:51.455Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-09T22:12:45.930Z,34.1423333,-117.4238333,3.96,1.28,ml,66.0,34.0,0.04442,0.2,ci,ci41257544,2025-08-09T22:23:49.040Z,"6 km NNE of Fontana, CA",earthquake,0.16,0.4,0.136,28.0,automatic,ci,ci
+2025-08-09T22:00:21.120Z,31.676,-104.36,4.3732,1.4,ml,22.0,93.0,0.1,0.5,tx,tx2025ppnnke,2025-08-09T22:04:14.388Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.189673781395,0.2,15.0,automatic,tx,tx
+2025-08-09T18:30:48.784Z,49.6786,157.6462,10.0,4.5,mb,83.0,134.0,3.408,0.8,us,us6000qzi7,2025-08-09T22:09:14.040Z,"155 km SE of Severo-Kuril’sk, Russia",earthquake,9.5,1.882,0.056,92.0,reviewed,us,us
+2025-08-09T12:06:06.190Z,61.312333333333,-152.49983333333,3.41,0.75,ml,10.0,119.0,0.04835,0.09,av,av93709213,2025-08-09T22:24:01.910Z,"78 km WNW of Tyonek, Alaska",earthquake,0.4,0.4,0.16162218727441,12.0,reviewed,av,av
