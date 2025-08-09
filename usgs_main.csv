@@ -4161,3 +4161,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T07:40:41.202Z,65.8553,-149.9392,5.0,2.0,ml,,,,0.56,ak,ak025a5m6e6w,2025-08-09T07:42:43.138Z,"40 km NNE of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-09T07:36:44.030Z,19.454166412354,-155.23182678223,2.8399999141693,2.05,ml,16.0,224.0,0.04326,0.270000011,hv,hv74746977,2025-08-09T07:39:39.870Z,"1 km N of Volcano, Hawaii",earthquake,0.95,1.65999997,0.21,14.0,automatic,hv,hv
 2025-08-09T07:56:45.724Z,37.1309,-116.5724,1.7,-0.4,ml,8.0,179.52,0.104,0.2759,nn,nn00902320,2025-08-09T07:59:02.247Z,"29 km NE of Beatty, Nevada",earthquake,,6.2,0.55,6.0,automatic,nn,nn
+2025-08-09T08:37:30.905Z,64.8369,-147.7657,0.3,1.7,ml,,,,0.84,ak,ak025a5mr5uq,2025-08-09T08:39:35.786Z,"2 km W of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-09T08:21:29.670Z,33.9931667,-118.3518333,9.67,1.63,ml,48.0,38.0,0.02284,0.24,ci,ci41257096,2025-08-09T08:25:17.137Z,"0 km SW of View Park-Windsor Hills, CA",earthquake,0.27,0.51,0.218,27.0,automatic,ci,ci
+2025-08-09T08:17:29.174Z,59.2843,-153.5217,97.0,1.2,ml,,,,0.27,ak,ak025a5mmved,2025-08-09T08:19:19.027Z,"62 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-09T08:14:38.324Z,62.6566,-148.8526,51.7,1.0,ml,,,,0.61,ak,ak025a5mm8yg,2025-08-09T08:16:58.439Z,"68 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-09T08:01:39.815Z,51.6323,158.2418,64.156,5.2,mww,124.0,115.0,1.416,0.66,us,us6000qzfl,2025-08-09T08:18:03.040Z,"121 km E of Ozernovskiy, Russia",earthquake,4.77,6.291,0.098,10.0,reviewed,us,us
+2025-08-09T00:12:56.150Z,37.175833333333,-121.57283333333,3.77,0.94,md,20.0,70.0,0.04457,0.07,nc,nc75220917,2025-08-09T08:33:31.344Z,"9 km ENE of Morgan Hill, CA",earthquake,0.26,0.38,0.279,17.0,reviewed,nc,nc
