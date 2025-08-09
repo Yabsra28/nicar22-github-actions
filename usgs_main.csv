@@ -4260,3 +4260,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T18:59:20.631Z,54.6289,-159.1496,27.245,3.8,ml,54.0,154.0,0.326,0.74,us,us6000qz7u,2025-08-09T15:31:12.040Z,"116 km SE of Sand Point, Alaska",earthquake,5.31,6.649,0.064,32.0,reviewed,us,us
 2025-08-09T16:32:11.771Z,36.977,-114.8105,7.5,1.1,ml,11.0,337.44,0.972,0.2605,nn,nn00902342,2025-08-09T16:34:47.009Z,"37 km NNW of Moapa Town, Nevada",earthquake,,3.9,0.15,8.0,automatic,nn,nn
 2025-08-08T20:18:13.837Z,-5.6878,68.4155,10.0,4.6,mb,74.0,73.0,4.361,0.57,us,us6000qz87,2025-08-09T16:19:37.040Z,Chagos Archipelago region,earthquake,9.39,1.865,0.07,66.0,reviewed,us,us
+2025-08-09T16:47:16.130Z,38.848331451416,-122.81883239746,1.6599999666214,0.61,md,8.0,98.0,0.007237,0.01,nc,nc75221132,2025-08-09T16:48:52.640Z,"9 km WNW of Cobb, CA",earthquake,0.38,1.00999999,0.29,9.0,automatic,nc,nc
+2025-08-09T16:31:44.210Z,37.558666666667,-113.058,10.49,2.31,ml,16.0,74.0,0.04354,0.14,uu,uu80113551,2025-08-09T16:46:31.530Z,"11 km E of Kanarraville, Utah",earthquake,0.37,0.99,0.17569813804828,13.0,reviewed,uu,uu
