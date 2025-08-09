@@ -4167,3 +4167,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T08:14:38.324Z,62.6566,-148.8526,51.7,1.0,ml,,,,0.61,ak,ak025a5mm8yg,2025-08-09T08:16:58.439Z,"68 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-09T08:01:39.815Z,51.6323,158.2418,64.156,5.2,mww,124.0,115.0,1.416,0.66,us,us6000qzfl,2025-08-09T08:18:03.040Z,"121 km E of Ozernovskiy, Russia",earthquake,4.77,6.291,0.098,10.0,reviewed,us,us
 2025-08-09T00:12:56.150Z,37.175833333333,-121.57283333333,3.77,0.94,md,20.0,70.0,0.04457,0.07,nc,nc75220917,2025-08-09T08:33:31.344Z,"9 km ENE of Morgan Hill, CA",earthquake,0.26,0.38,0.279,17.0,reviewed,nc,nc
+2025-08-09T08:39:36.214Z,64.8327,-147.7514,6.5,0.8,ml,,,,0.87,ak,ak025a5mrlp1,2025-08-09T08:41:12.111Z,"1 km WSW of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-09T08:37:03.617Z,28.505,-99.013,4.2094,1.7,ml,7.0,156.0,0.4,0.3,tx,tx2025pomxew,2025-08-09T08:42:41.466Z,"19 km E of Gardendale, Texas",earthquake,0.0,5.0039587020874,0.4,7.0,automatic,tx,tx
