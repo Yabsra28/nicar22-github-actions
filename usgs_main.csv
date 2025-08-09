@@ -4181,3 +4181,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T03:04:35.290Z,37.501333333333,-118.86316666667,3.56,0.19,md,8.0,205.0,0.09258,0.02,nc,nc75220967,2025-08-09T09:32:20.474Z,"17 km WSW of Toms Place, CA",earthquake,1.13,3.08,0.204,6.0,reviewed,nc,nc
 2025-08-09T09:43:36.522Z,37.0176,-116.3687,6.7,-0.4,ml,8.0,116.86,0.036,0.2326,nn,nn00902326,2025-08-09T09:45:42.595Z,"36 km ENE of Beatty, Nevada",earthquake,,1.0,0.65,5.0,automatic,nn,nn
 2025-08-09T09:40:23.714Z,39.1264,-119.0966,0.0,0.8,ml,14.0,117.22,0.18,0.1872,nn,nn00902324,2025-08-09T09:42:44.333Z,"16 km NNE of Yerington, Nevada",earthquake,,9.2,0.22,7.0,automatic,nn,nn
+2025-08-09T09:54:25.670Z,34.1365,-117.0138333,7.5,1.15,ml,63.0,37.0,0.07615,0.15,ci,ci41257112,2025-08-09T09:58:11.771Z,"12 km NNE of Yucaipa, CA",earthquake,0.13,0.31,0.243,27.0,automatic,ci,ci
+2025-08-09T09:53:18.161Z,64.7064,-147.555,13.2,0.4,ml,,,,0.41,ak,ak025a5nfzxk,2025-08-09T09:55:04.180Z,"10 km S of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-09T09:40:54.851Z,52.3318,160.2598,35.0,5.0,mb,83.0,110.0,1.2,1.11,us,us6000qzg3,2025-08-09T09:57:44.040Z,"137 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.08,1.898,0.035,265.0,reviewed,us,us
