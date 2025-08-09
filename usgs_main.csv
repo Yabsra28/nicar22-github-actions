@@ -4179,3 +4179,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T09:24:55.877Z,61.5438,-153.5511,242.6,1.7,ml,,,,1.09,ak,ak025a5n9v2r,2025-08-09T09:27:23.008Z,"102 km E of Lime Village, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-08-09T09:20:02.875Z,64.7764,-149.2975,18.1,0.9,ml,,,,0.88,ak,ak025a5n8w4f,2025-08-09T09:22:11.893Z,"21 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-09T03:04:35.290Z,37.501333333333,-118.86316666667,3.56,0.19,md,8.0,205.0,0.09258,0.02,nc,nc75220967,2025-08-09T09:32:20.474Z,"17 km WSW of Toms Place, CA",earthquake,1.13,3.08,0.204,6.0,reviewed,nc,nc
+2025-08-09T09:43:36.522Z,37.0176,-116.3687,6.7,-0.4,ml,8.0,116.86,0.036,0.2326,nn,nn00902326,2025-08-09T09:45:42.595Z,"36 km ENE of Beatty, Nevada",earthquake,,1.0,0.65,5.0,automatic,nn,nn
+2025-08-09T09:40:23.714Z,39.1264,-119.0966,0.0,0.8,ml,14.0,117.22,0.18,0.1872,nn,nn00902324,2025-08-09T09:42:44.333Z,"16 km NNE of Yerington, Nevada",earthquake,,9.2,0.22,7.0,automatic,nn,nn
