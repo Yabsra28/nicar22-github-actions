@@ -4247,3 +4247,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T18:55:17.123Z,3.4832,122.745,536.791,4.2,mb,73.0,38.0,2.912,0.66,us,us6000qz7t,2025-08-09T14:23:56.040Z,"296 km SSE of Tabiauan, Philippines",earthquake,5.61,8.164,0.069,60.0,reviewed,us,us
 2025-08-09T14:41:46.560Z,64.0032,-150.8776,40.0,1.8,ml,,,,1.53,ak,ak025a5qcnk0,2025-08-09T14:44:17.824Z,"66 km NE of Denali National Park, Alaska",earthquake,,13.1,,,automatic,ak,ak
 2025-08-09T13:47:05.464Z,51.0835,157.8227,59.255,4.2,mb,24.0,128.0,2.009,0.48,us,us6000qzh7,2025-08-09T14:37:12.040Z,"102 km ESE of Ozernovskiy, Russia",earthquake,11.42,9.041,0.089,35.0,reviewed,us,us
+2025-08-09T14:54:41.009Z,59.2631,-153.0514,79.3,1.9,ml,,,,1.01,ak,ak025a5qfffo,2025-08-09T14:57:18.594Z,"65 km W of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-09T14:48:23.336Z,58.4983,-154.364,4.2,1.2,ml,,,,0.59,ak,ak025a5qe3rx,2025-08-09T14:49:46.636Z,"98 km WNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-09T13:00:02.600Z,44.427666666667,-115.19133333333,9.77,2.02,ml,16.0,73.0,0.1785,0.14,mb,mb90106688,2025-08-09T14:48:47.740Z,"30 km NW of Stanley, Idaho",earthquake,0.37,1.01,0.17212071061834,35.0,reviewed,mb,mb
+2025-08-09T07:52:06.280Z,46.977333333333,-114.4865,12.64,1.04,ml,13.0,120.0,0.06025,0.13,mb,mb90106673,2025-08-09T14:55:44.680Z,"2 km SSW of Alberton, Montana",earthquake,0.46,0.8,0.3277204011022,3.0,reviewed,mb,mb
