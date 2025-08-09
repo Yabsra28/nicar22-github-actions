@@ -4189,3 +4189,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T09:55:44.704Z,52.367,160.1806,33.301,4.9,mb,64.0,62.0,1.14,0.68,us,us6000qzg9,2025-08-09T10:14:09.040Z,"130 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,5.232,0.04,199.0,reviewed,us,us
 2025-08-09T09:52:26.756Z,50.1254,158.648,10.0,4.6,mb,44.0,134.0,2.902,0.96,us,us6000qzg8,2025-08-09T10:28:52.040Z,"189 km ESE of Severo-Kuril’sk, Russia",earthquake,9.82,1.905,0.063,74.0,reviewed,us,us
 2025-08-09T09:47:21.350Z,18.6458,-66.2358,102.0,3.63,md,24.0,191.0,0.3387,0.15,pr,pr2025221001,2025-08-09T10:15:12.299Z,"20 km N of Dorado, Puerto Rico",earthquake,1.31,0.91,0.13,23.0,reviewed,pr,pr
+2025-08-09T10:40:19.260Z,33.5395,-116.7175,5.98,0.31,ml,21.0,76.0,0.03067,0.14,ci,ci41257128,2025-08-09T10:43:51.235Z,"4 km WSW of Anza, CA",earthquake,0.19,0.41,0.11,8.0,automatic,ci,ci
+2025-08-09T10:36:13.870Z,31.6893333,-115.9555,7.15,1.23,ml,7.0,102.0,0.2073,0.08,ci,ci41257120,2025-08-09T10:39:46.007Z,"58 km E of Maneadero, B.C., MX",earthquake,0.26,1.31,0.358,4.0,automatic,ci,ci
+2025-08-09T10:33:29.390Z,37.299167633057,-117.94899749756,3.8499999046326,1.88,md,9.0,179.0,0.2751,0.06,nc,nc75221067,2025-08-09T10:36:28.585Z,"9 km S of Deep Springs, CA",earthquake,0.76,4.57000017,0.13,4.0,automatic,nc,nc
