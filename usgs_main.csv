@@ -4184,3 +4184,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T09:54:25.670Z,34.1365,-117.0138333,7.5,1.15,ml,63.0,37.0,0.07615,0.15,ci,ci41257112,2025-08-09T09:58:11.771Z,"12 km NNE of Yucaipa, CA",earthquake,0.13,0.31,0.243,27.0,automatic,ci,ci
 2025-08-09T09:53:18.161Z,64.7064,-147.555,13.2,0.4,ml,,,,0.41,ak,ak025a5nfzxk,2025-08-09T09:55:04.180Z,"10 km S of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-09T09:40:54.851Z,52.3318,160.2598,35.0,5.0,mb,83.0,110.0,1.2,1.11,us,us6000qzg3,2025-08-09T09:57:44.040Z,"137 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.08,1.898,0.035,265.0,reviewed,us,us
+2025-08-09T10:26:53.358Z,37.0158,-116.3679,7.9,-0.3,ml,9.0,90.99,0.036,0.1649,nn,nn00902327,2025-08-09T10:28:42.960Z,"36 km ENE of Beatty, Nevada",earthquake,,1.0,0.6,6.0,automatic,nn,nn
+2025-08-09T10:04:29.162Z,48.8919,156.2036,37.544,4.5,mb,45.0,185.0,4.326,0.61,us,us6000qzga,2025-08-09T10:23:26.040Z,"198 km S of Severo-Kuril’sk, Russia",earthquake,10.09,8.229,0.077,49.0,reviewed,us,us
+2025-08-09T09:55:44.704Z,52.367,160.1806,33.301,4.9,mb,64.0,62.0,1.14,0.68,us,us6000qzg9,2025-08-09T10:14:09.040Z,"130 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,5.232,0.04,199.0,reviewed,us,us
+2025-08-09T09:52:26.756Z,50.1254,158.648,10.0,4.6,mb,44.0,134.0,2.902,0.96,us,us6000qzg8,2025-08-09T10:28:52.040Z,"189 km ESE of Severo-Kuril’sk, Russia",earthquake,9.82,1.905,0.063,74.0,reviewed,us,us
+2025-08-09T09:47:21.350Z,18.6458,-66.2358,102.0,3.63,md,24.0,191.0,0.3387,0.15,pr,pr2025221001,2025-08-09T10:15:12.299Z,"20 km N of Dorado, Puerto Rico",earthquake,1.31,0.91,0.13,23.0,reviewed,pr,pr
