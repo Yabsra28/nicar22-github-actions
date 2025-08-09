@@ -4199,3 +4199,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T11:05:36.240Z,33.2328333,-116.7356667,11.2,0.21,ml,35.0,33.0,0.01961,0.15,ci,ci41257152,2025-08-09T11:09:07.429Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.18,0.47,0.158,4.0,automatic,ci,ci
 2025-08-09T11:01:12.490Z,34.2771667,-117.021,5.5,1.16,ml,63.0,51.0,0.02403,0.14,ci,ci41257144,2025-08-09T11:11:47.630Z,"11 km WNW of Big Bear Lake, CA",earthquake,0.12,0.28,0.159,29.0,automatic,ci,ci
 2025-08-09T11:00:43.506Z,31.929,-103.35,14.1744,1.7,ml,7.0,166.0,0.0,0.8,tx,tx2025porond,2025-08-09T11:04:02.448Z,"25 km SW of Jal, New Mexico",earthquake,0.0,3.6661322116852,0.1,5.0,automatic,tx,tx
+2025-08-09T11:29:12.850Z,38.832668304443,-122.87783050537,2.8900001049042,1.08,md,18.0,126.0,0.007074,0.02,nc,nc75221082,2025-08-09T11:30:48.137Z,"12 km NW of The Geysers, CA",earthquake,0.33,0.569999993,0.19,18.0,automatic,nc,nc
+2025-08-09T11:23:03.103Z,60.3108,-152.715,111.6,1.4,ml,,,,0.45,ak,ak025a5ogehy,2025-08-09T11:24:42.600Z,"64 km WNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-09T11:22:22.129Z,63.1578,-147.6704,4.5,2.2,ml,,,,0.8,ak,ak025a5og88x,2025-08-09T11:24:30.480Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
