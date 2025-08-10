@@ -4526,3 +4526,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T22:34:27.432Z,39.1987,-119.6299,2.3,1.1,ml,14.0,105.99,0.098,0.0931,nn,nn00902389,2025-08-10T22:36:45.029Z,"5 km SW of Dayton, Nevada",earthquake,,0.8,0.26,11.0,automatic,nn,nn
 2025-08-10T22:30:57.417Z,64.8825,-148.7308,22.7,0.7,ml,,,,0.23,ak,ak025a7il4ul,2025-08-10T22:32:40.481Z,"34 km W of Ester, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-10T19:24:01.940Z,47.934833333333,-123.19766666667,43.84,2.84,ml,66.0,31.0,0.04764,0.19,uw,uw62168906,2025-08-10T22:55:02.672Z,"15 km SSW of River Road, Washington",earthquake,0.24,0.51,0.18030155859442,49.0,reviewed,uw,uw
+2025-08-10T23:17:31.225Z,59.9305,-140.6756,15.7,1.7,ml,,,,0.41,ak,ak025a7j3q4i,2025-08-10T23:19:40.332Z,"68 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-10T23:16:47.023Z,63.1478,-147.6729,1.0,1.8,ml,,,,0.75,ak,ak025a7j3jmm,2025-08-10T23:18:47.106Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-10T23:11:16.790Z,38.82816696167,-122.80266571045,2.3800001144409,0.75,md,9.0,101.0,0.007496,0.01,nc,nc75221532,2025-08-10T23:12:53.469Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.07000005,0.07,12.0,automatic,nc,nc
+2025-08-10T17:47:32.116Z,32.006,-101.341,3.4541,1.9,mlv,45.0,60.0,0.2,0.5,tx,tx2025prawle,2025-08-10T23:18:04.480Z,"11 km SSE of Forsan, Texas",earthquake,0.0,0.94935548305511,0.2,30.0,automatic,tx,tx
