@@ -4405,3 +4405,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T06:03:35.971Z,23.7445,121.5793,20.846,4.8,mwr,46.0,73.0,0.427,0.87,us,us6000qzkq,2025-08-10T06:44:38.066Z,"25 km S of Hualien City, Taiwan",earthquake,3.77,5.032,0.057,30.0,reviewed,us,us
 2025-08-10T05:57:29.508Z,13.0951,145.5205,10.0,5.4,mb,62.0,120.0,0.803,1.03,us,us6000qzkp,2025-08-10T06:37:36.828Z,"84 km SE of Yigo Village, Guam",earthquake,8.43,1.886,0.03,373.0,reviewed,us,us
 2025-08-09T14:54:57.330Z,58.492666666667,-154.41966666667,3.86,0.79,ml,7.0,221.0,0.0667,0.11,av,av93709368,2025-08-10T06:36:05.600Z,"100 km WNW of Aleneva, Alaska",earthquake,1.05,0.85,0.17081135826476,7.0,reviewed,av,av
+2025-08-10T06:59:34.391Z,51.497,159.6335,10.0,5.2,mb,74.0,114.0,1.644,1.06,us,us6000qzkx,2025-08-10T07:16:53.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,8.31,1.864,0.034,292.0,reviewed,us,us
+2025-08-09T22:31:48.086Z,56.7258,-154.7413,26.5,1.5,ml,,,,0.62,ak,ak025a5v1ydd,2025-08-10T07:03:01.744Z,"42 km SW of Akhiok, Alaska",earthquake,,1.1,,,reviewed,ak,ak
