@@ -4430,3 +4430,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T09:37:27.740Z,33.1058333,-116.0453333,9.53,0.82,ml,38.0,41.0,0.08814,0.19,ci,ci41257800,2025-08-10T09:40:55.471Z,"9 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.62,0.2,14.0,automatic,ci,ci
 2025-08-10T09:33:21.440Z,38.838165283203,-122.79599761963,1.5900000333786,0.76,md,9.0,76.0,0.004422,0.02,nc,nc75221382,2025-08-10T09:34:55.558Z,"7 km WNW of Cobb, CA",earthquake,0.34,1.0,0.37,10.0,automatic,nc,nc
 2025-08-10T09:32:37.100Z,33.5826667,-116.7243333,11.89,0.58,ml,31.0,40.0,0.02034,0.15,ci,ci41257792,2025-08-10T09:36:06.418Z,"6 km WNW of Anza, CA",earthquake,0.21,0.36,0.188,15.0,automatic,ci,ci
+2025-08-10T09:47:41.066Z,63.4762,-148.4634,6.4,1.7,ml,,,,0.67,ak,ak025a7ay3wa,2025-08-10T09:50:06.706Z,"26 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-10T09:29:13.211Z,52.1506,160.417,10.0,5.0,mb,110.0,118.0,1.388,0.78,us,us6000qzli,2025-08-10T09:48:03.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.63,1.877,0.036,242.0,reviewed,us,us
