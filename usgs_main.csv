@@ -4447,3 +4447,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T11:14:36.367Z,31.557,-104.194,4.1931,1.7,ml,28.0,98.0,0.1,0.2,tx,tx2025pqnvvo,2025-08-10T11:18:15.331Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.2156358957291,0.3,19.0,automatic,tx,tx
 2025-08-10T09:43:56.088Z,32.108,-101.048,1.9329,1.5,mlv,20.0,97.0,0.2,0.4,tx,tx2025pqkvrj,2025-08-10T11:17:35.274Z,"27 km S of Westbrook, Texas",earthquake,0.0,1.3327026367188,0.2,16.0,automatic,tx,tx
 2025-08-10T11:19:17.934Z,51.2567,157.5972,70.918,5.3,mb,123.0,105.0,1.856,0.92,us,us6000qzls,2025-08-10T11:39:30.040Z,"80 km ESE of Ozernovskiy, Russia",earthquake,9.05,6.324,0.02,810.0,reviewed,us,us
+2025-08-10T12:27:43.761Z,67.825,-156.7643,0.0,2.1,ml,,,,0.67,ak,ak025a7cm4lk,2025-08-10T12:30:46.034Z,"94 km NNE of Ambler, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-10T12:24:09.949Z,61.5693,-146.4312,37.2,1.1,ml,,,,0.91,ak,ak025a7cleua,2025-08-10T12:26:13.083Z,"49 km N of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-10T12:23:50.524Z,31.702,-104.513,5.4777,1.6,ml,21.0,102.0,0.0,0.3,tx,tx2025pqqccc,2025-08-10T12:26:41.169Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,2.4015064239502,0.1,12.0,automatic,tx,tx
+2025-08-10T12:18:32.883Z,63.506,-146.6282,0.0,2.3,ml,,,,0.82,ak,ak025a7ck6a9,2025-08-10T12:20:13.916Z,"68 km NW of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-10T11:57:53.642Z,63.5216,-145.0079,15.9,3.1,ml,,,,0.98,ak,ak025a7c752b,2025-08-10T12:11:45.040Z,"22 km SW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
