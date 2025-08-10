@@ -4501,3 +4501,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T18:02:19.822Z,65.174,-149.9072,12.5,1.6,ml,,,,0.4,ak,ak025a7g1bha,2025-08-10T18:04:23.022Z,"26 km W of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-10T18:01:23.480Z,38.814666748047,-122.82033538818,2.0499999523163,1.48,md,28.0,51.0,0.009014,0.04,nc,nc75221462,2025-08-10T18:04:44.820Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.319999993,0.09,27.0,automatic,nc,nc
 2025-08-10T17:57:22.320Z,19.261833190918,-155.35633850098,29.920000076294,1.81,ml,50.0,141.0,0.0458,0.129999995,hv,hv74748532,2025-08-10T18:00:38.030Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.4,0.419999987,0.3,7.0,automatic,hv,hv
+2025-08-10T18:03:00.171Z,52.332,160.6188,10.0,4.4,mb,39.0,151.0,1.384,0.94,us,us6000qznw,2025-08-10T18:48:42.040Z,"157 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.16,1.95,0.088,37.0,reviewed,us,us
