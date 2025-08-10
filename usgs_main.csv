@@ -4427,3 +4427,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T09:30:00.310Z,40.308166503906,-124.39916992188,9.6099996566772,1.81,md,15.0,282.0,0.04755,0.06,nc,nc75221377,2025-08-10T09:31:35.647Z,"10 km W of Petrolia, CA",earthquake,1.48,0.550000012,0.12,12.0,automatic,nc,nc
 2025-08-10T09:20:28.568Z,61.3013,-152.5291,6.5,1.5,ml,,,,0.89,ak,ak025a7asalk,2025-08-10T09:21:45.236Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-10T09:11:52.647Z,61.301,-152.5097,2.8,1.7,ml,,,,0.41,ak,ak025a7aqf0g,2025-08-10T09:13:46.663Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-10T09:37:27.740Z,33.1058333,-116.0453333,9.53,0.82,ml,38.0,41.0,0.08814,0.19,ci,ci41257800,2025-08-10T09:40:55.471Z,"9 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.62,0.2,14.0,automatic,ci,ci
+2025-08-10T09:33:21.440Z,38.838165283203,-122.79599761963,1.5900000333786,0.76,md,9.0,76.0,0.004422,0.02,nc,nc75221382,2025-08-10T09:34:55.558Z,"7 km WNW of Cobb, CA",earthquake,0.34,1.0,0.37,10.0,automatic,nc,nc
+2025-08-10T09:32:37.100Z,33.5826667,-116.7243333,11.89,0.58,ml,31.0,40.0,0.02034,0.15,ci,ci41257792,2025-08-10T09:36:06.418Z,"6 km WNW of Anza, CA",earthquake,0.21,0.36,0.188,15.0,automatic,ci,ci
