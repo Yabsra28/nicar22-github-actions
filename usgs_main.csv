@@ -4509,3 +4509,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T19:12:27.754Z,52.0373,160.9367,10.0,4.5,mb,26.0,167.0,1.711,0.89,us,us6000qzp5,2025-08-10T19:43:05.040Z,"193 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.58,1.973,0.127,18.0,reviewed,us,us
 2025-08-10T19:57:00.330Z,33.5328331,-116.7181702,5.97,1.05,ml,30.0,68.0,0.0362,0.13,ci,ci41258024,2025-08-10T19:59:21.573Z,"5 km WSW of Anza, CA",earthquake,0.29,0.56,0.21,15.0,automatic,ci,ci
 2025-08-10T19:52:05.290Z,62.162,-147.6794,31.8,1.1,ml,,,,0.76,ak,ak025a7gxfrl,2025-08-10T19:54:03.609Z,"36 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-10T20:10:35.767Z,32.055,-103.741,9.5733,1.8,ml,18.0,63.0,0.1,0.6,tx,tx2025prfpsm,2025-08-10T20:15:05.317Z,"36 km ESE of Malaga, New Mexico",earthquake,0.0,3.3302066326141,0.2,9.0,automatic,tx,tx
+2025-08-10T20:06:38.130Z,34.0145,-116.7001667,10.46,1.08,ml,54.0,28.0,0.04955,0.18,ci,ci41258040,2025-08-10T20:10:02.659Z,"12 km WSW of Morongo Valley, CA",earthquake,0.16,0.34,0.164,26.0,automatic,ci,ci
