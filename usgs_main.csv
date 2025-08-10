@@ -4465,3 +4465,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T14:21:27.510Z,33.4696667,-116.4601667,3.53,0.46,ml,21.0,69.0,0.1213,0.15,ci,ci41257864,2025-08-10T14:25:34.580Z,"22 km ESE of Anza, CA",earthquake,0.17,0.78,0.092,9.0,automatic,ci,ci
 2025-08-10T13:42:08.751Z,51.8685,161.0206,45.299,4.4,mb,43.0,174.0,1.856,0.72,us,us6000qzmv,2025-08-10T14:31:18.040Z,"210 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.94,9.433,0.06,81.0,reviewed,us,us
 2025-08-09T19:56:50.420Z,44.7685,-111.68716666667,13.9,0.77,ml,12.0,95.0,0.04158,0.16,mb,mb90106718,2025-08-10T14:22:50.160Z,"39 km W of Hebgen Lake Estates, Montana",earthquake,0.44,1.11,0.093498519411259,6.0,reviewed,mb,mb
+2025-08-10T14:46:07.270Z,33.5763321,-116.7180023,12.76,1.12,ml,16.0,95.0,0.01945,0.14,ci,ci41257896,2025-08-10T14:48:11.761Z,"5 km WNW of Anza, CA",earthquake,0.51,1.1,0.205,11.0,automatic,ci,ci
+2025-08-10T14:37:16.950Z,36.088,-117.8518333,2.57,0.58,ml,17.0,76.0,0.02962,0.1,ci,ci41257880,2025-08-10T14:40:42.763Z,"10 km ENE of Coso Junction, CA",earthquake,0.15,0.18,0.161,9.0,automatic,ci,ci
