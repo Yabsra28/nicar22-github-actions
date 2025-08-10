@@ -4407,3 +4407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T14:54:57.330Z,58.492666666667,-154.41966666667,3.86,0.79,ml,7.0,221.0,0.0667,0.11,av,av93709368,2025-08-10T06:36:05.600Z,"100 km WNW of Aleneva, Alaska",earthquake,1.05,0.85,0.17081135826476,7.0,reviewed,av,av
 2025-08-10T06:59:34.391Z,51.497,159.6335,10.0,5.2,mb,74.0,114.0,1.644,1.06,us,us6000qzkx,2025-08-10T07:16:53.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,8.31,1.864,0.034,292.0,reviewed,us,us
 2025-08-09T22:31:48.086Z,56.7258,-154.7413,26.5,1.5,ml,,,,0.62,ak,ak025a5v1ydd,2025-08-10T07:03:01.744Z,"42 km SW of Akhiok, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2025-08-10T07:28:32.190Z,33.2688333,-116.4111667,5.59,0.6,ml,29.0,77.0,0.005061,0.17,ci,ci41257752,2025-08-10T07:32:02.558Z,"4 km WNW of Borrego Springs, CA",earthquake,0.22,0.44,0.115,3.0,automatic,ci,ci
