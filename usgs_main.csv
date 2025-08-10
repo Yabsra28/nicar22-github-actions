@@ -4457,3 +4457,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T12:48:46.400Z,19.182832717896,-155.45733642578,31.39999961853,2.0,md,56.0,124.0,0.02765,0.129999995,hv,hv74748147,2025-08-10T12:52:33.510Z,"3 km SE of Pāhala, Hawaii",earthquake,0.44,0.479999989,0.0399999991,3.0,automatic,hv,hv
 2025-08-10T12:44:05.949Z,51.7493,158.484,51.264,4.3,mb,48.0,151.0,1.28,0.58,us,us6000qzml,2025-08-10T13:00:49.040Z,"131 km S of Vilyuchinsk, Russia",earthquake,10.46,9.332,0.062,73.0,reviewed,us,us
 2025-08-10T11:58:00.776Z,-4.4537,138.2953,167.24,4.1,mb,25.0,119.0,0.743,1.23,us,us6000qzmd,2025-08-10T12:41:52.040Z,"121 km N of Agats, Indonesia",earthquake,7.02,3.459,0.112,22.0,reviewed,us,us
+2025-08-10T13:49:53.500Z,36.3698349,-117.5093307,0.15,1.5,ml,19.0,187.0,0.1188,0.21,ci,ci41257856,2025-08-10T13:51:59.234Z,"41 km SW of Stovepipe Wells, CA",earthquake,0.92,0.66,0.254,3.0,automatic,ci,ci
