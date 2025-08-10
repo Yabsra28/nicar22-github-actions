@@ -4506,3 +4506,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T19:29:43.250Z,33.3751667,-116.3881667,6.13,1.23,ml,72.0,17.0,0.05141,0.21,ci,ci41258008,2025-08-10T19:33:10.874Z,"13 km N of Borrego Springs, CA",earthquake,0.14,0.46,0.157,26.0,automatic,ci,ci
 2025-08-10T19:25:03.780Z,33.51,-116.4555,3.22,0.73,ml,39.0,31.0,0.1235,0.18,ci,ci41258000,2025-08-10T19:28:31.841Z,"21 km ESE of Anza, CA",earthquake,0.17,0.6,0.136,16.0,automatic,ci,ci
 2025-08-10T19:24:01.568Z,47.9391,-123.256,40.477,2.6,ml,35.0,44.0,0.204,0.45,us,us6000qzp6,2025-08-10T19:33:09.932Z,"17 km SSW of River Road, Washington",earthquake,2.66,6.25,0.043,70.0,reviewed,us,us
+2025-08-10T19:12:27.754Z,52.0373,160.9367,10.0,4.5,mb,26.0,167.0,1.711,0.89,us,us6000qzp5,2025-08-10T19:43:05.040Z,"193 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.58,1.973,0.127,18.0,reviewed,us,us
