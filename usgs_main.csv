@@ -4458,3 +4458,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T12:44:05.949Z,51.7493,158.484,51.264,4.3,mb,48.0,151.0,1.28,0.58,us,us6000qzml,2025-08-10T13:00:49.040Z,"131 km S of Vilyuchinsk, Russia",earthquake,10.46,9.332,0.062,73.0,reviewed,us,us
 2025-08-10T11:58:00.776Z,-4.4537,138.2953,167.24,4.1,mb,25.0,119.0,0.743,1.23,us,us6000qzmd,2025-08-10T12:41:52.040Z,"121 km N of Agats, Indonesia",earthquake,7.02,3.459,0.112,22.0,reviewed,us,us
 2025-08-10T13:49:53.500Z,36.3698349,-117.5093307,0.15,1.5,ml,19.0,187.0,0.1188,0.21,ci,ci41257856,2025-08-10T13:51:59.234Z,"41 km SW of Stovepipe Wells, CA",earthquake,0.92,0.66,0.254,3.0,automatic,ci,ci
+2025-08-10T14:09:44.420Z,61.583,-146.3384,42.9,1.1,ml,,,,0.45,ak,ak025a7dp4yy,2025-08-10T14:12:06.447Z,"50 km N of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-10T14:01:11.380Z,37.759166717529,-122.16833496094,7.3299999237061,1.29,md,20.0,92.0,0.0229,0.16,nc,nc75221412,2025-08-10T14:02:46.717Z,"4 km  of San Leandro, CA",earthquake,0.42,1.08000004,0.24,15.0,automatic,nc,nc
