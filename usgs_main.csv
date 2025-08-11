@@ -4686,3 +4686,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T14:05:55.556Z,54.4022,-159.7812,32.681,2.9,ml,13.0,207.0,0.444,0.28,us,us6000qzt5,2025-08-11T15:30:25.040Z,"113 km SSE of Sand Point, Alaska",earthquake,8.79,12.551,0.069,28.0,reviewed,us,us
 2025-08-11T13:17:48.782Z,51.4982,157.4788,92.689,4.2,mb,70.0,171.0,1.618,0.44,us,us6000qzt2,2025-08-11T15:27:03.040Z,"67 km E of Ozernovskiy, Russia",earthquake,11.25,7.996,0.068,60.0,reviewed,us,us
 2025-08-11T03:16:46.380Z,44.530166666667,-112.94466666667,4.41,1.07,ml,15.0,79.0,0.1999,0.17,mb,mb90106808,2025-08-11T15:32:08.060Z,"30 km WSW of Lima, Montana",earthquake,0.51,8.25,0.1065483667983,13.0,reviewed,mb,mb
+2025-08-11T15:50:53.440Z,38.836498260498,-122.79566955566,1.8500000238419,0.71,md,13.0,68.0,0.004576,0.02,nc,nc75221827,2025-08-11T15:52:27.308Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.5,0.14,13.0,automatic,nc,nc
+2025-08-11T15:06:40.617Z,53.3198,161.6619,10.0,4.5,mb,42.0,112.0,1.837,1.11,us,us6000qztq,2025-08-11T15:47:28.040Z,"204 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.27,1.712,0.096,32.0,reviewed,us,us
