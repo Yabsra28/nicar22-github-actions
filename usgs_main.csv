@@ -4607,3 +4607,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T08:03:01.380Z,40.429164886475,-125.24516296387,0.62000000476837,2.97,md,46.0,275.0,0.7039,0.25,nc,nc75221647,2025-08-11T08:27:16.223Z,"82 km WNW of Petrolia, CA",earthquake,2.48,17.4799995,0.12,24.0,automatic,nc,nc
 2025-08-11T08:53:35.330Z,33.4783333,-116.5866667,10.62,0.62,ml,40.0,44.0,0.02086,0.15,ci,ci41258288,2025-08-11T08:57:04.363Z,"12 km SE of Anza, CA",earthquake,0.16,0.25,0.135,13.0,automatic,ci,ci
 2025-08-11T08:39:32.140Z,38.831001281738,-122.81449890137,2.7000000476837,0.44,md,8.0,79.0,0.008345,0.01,nc,nc75221662,2025-08-11T08:41:09.811Z,"8 km NNW of The Geysers, CA",earthquake,0.51,1.74000001,0.28,9.0,automatic,nc,nc
+2025-08-11T09:29:33.186Z,31.558,-104.196,4.7965,1.8,ml,32.0,121.0,0.1,0.3,tx,tx2025psgcee,2025-08-11T09:33:12.530Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.1799184083939,0.3,21.0,automatic,tx,tx
+2025-08-11T09:20:40.990Z,33.9143333,-117.0593333,13.66,1.07,ml,68.0,26.0,0.06587,0.18,ci,ci41258296,2025-08-11T09:24:06.567Z,"8 km WSW of Beaumont, CA",earthquake,0.14,0.41,0.167,27.0,automatic,ci,ci
+2025-08-11T09:20:12.556Z,61.5179,-151.1579,0.0,1.2,ml,,,,1.32,ak,ak025a8ybluv,2025-08-11T09:22:36.975Z,"34 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-11T08:59:33.727Z,61.0287,-148.804,28.2,2.1,ml,,,,0.39,ak,ak025a8xykt8,2025-08-11T09:00:59.830Z,"21 km ENE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
