@@ -4628,3 +4628,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T10:53:34.371Z,62.8163,-149.3391,60.1,1.7,ml,,,,0.36,ak,ak025a8z45rx,2025-08-11T10:55:28.916Z,"56 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-11T10:51:16.260Z,61.8036,-149.6184,30.6,1.9,ml,,,,0.58,ak,ak025a8z3oy2,2025-08-11T10:52:50.331Z,"19 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-11T09:53:44.347Z,50.705,157.1458,68.372,4.9,mb,72.0,111.0,2.431,1.23,us,us6000qzrz,2025-08-11T10:47:35.040Z,"72 km E of Severo-Kuril’sk, Russia",earthquake,9.16,6.044,0.031,366.0,reviewed,us,us
+2025-08-11T11:18:34.484Z,61.2994,-152.5136,0.2,1.8,ml,,,,0.79,ak,ak025a8zi3bs,2025-08-11T11:20:11.994Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-11T11:15:48.580Z,34.057,-117.1366667,10.13,0.86,ml,55.0,28.0,0.02944,0.16,ci,ci41258336,2025-08-11T11:19:27.481Z,"2 km S of Mentone, CA",earthquake,0.14,0.25,0.184,29.0,automatic,ci,ci
+2025-08-11T11:12:49.110Z,32.6443333,-115.7481667,5.96,1.26,ml,25.0,67.0,0.01904,0.19,ci,ci41258344,2025-08-11T11:19:59.637Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.27,0.57,0.399,11.0,automatic,ci,ci
+2025-08-11T09:01:50.100Z,32.359,-102.065,4.4117,1.1,mlv,25.0,47.0,0.0,0.5,tx,tx2025psfehy,2025-08-11T11:14:04.301Z,"36 km NW of Stanton, Texas",earthquake,0.0,0.98901528120041,0.2,15.0,automatic,tx,tx
+2025-08-11T07:56:18.092Z,32.458,-102.026,4.2422,1.0,mlv,24.0,91.0,0.1,0.4,tx,tx2025psczvj,2025-08-11T11:13:20.649Z,"30 km WSW of Ackerly, Texas",earthquake,0.0,1.027095913887,0.2,16.0,automatic,tx,tx
+2025-08-11T05:44:52.689Z,32.358,-102.063,4.5526,1.1,mlv,29.0,58.0,0.0,0.4,tx,tx2025pryqou,2025-08-11T11:12:51.194Z,"36 km NW of Stanton, Texas",earthquake,0.0,0.9868112206459,0.3,19.0,automatic,tx,tx
