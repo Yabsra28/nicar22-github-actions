@@ -4596,3 +4596,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T07:04:57.328Z,63.3101,-147.3413,218.4,1.7,ml,,,,0.56,ak,ak025a8x1en8,2025-08-11T07:08:00.416Z,"81 km E of Cantwell, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-08-11T07:02:48.770Z,36.030166625977,-120.60516357422,-0.62999999523163,1.29,md,9.0,121.0,0.03924,0.14,nc,nc75221627,2025-08-11T07:04:24.142Z,"21 km NW of Parkfield, CA",earthquake,1.46,8.02000046,0.09,2.0,automatic,nc,nc
 2025-08-11T06:53:04.260Z,-18.6731,-174.687,88.066,4.8,mb,54.0,59.0,4.525,0.75,us,us6000qzrh,2025-08-11T07:19:07.040Z,"74 km W of Neiafu, Tonga",earthquake,9.66,7.558,0.062,79.0,reviewed,us,us
+2025-08-11T07:37:20.360Z,33.478,-116.5898333,10.38,0.61,ml,39.0,66.0,0.0196,0.17,ci,ci41258248,2025-08-11T07:41:03.078Z,"12 km SE of Anza, CA",earthquake,0.18,0.3,0.21,17.0,automatic,ci,ci
