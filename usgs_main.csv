@@ -4743,3 +4743,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T19:30:01.918Z,31.625,-104.469,3.0946,2.1,ml,29.0,104.0,0.0,0.3,tx,tx2025pszzpu,2025-08-11T19:33:22.539Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.2746102809906,0.1,20.0,automatic,tx,tx
 2025-08-11T18:44:50.936Z,31.652,-104.449,7.1765,1.0,ml,13.0,89.0,0.0,0.1,tx,tx2025psymrh,2025-08-11T19:33:33.533Z,"58 km S of Whites City, New Mexico",earthquake,1.1158428002325,0.76397508527382,0.1,13.0,reviewed,tx,tx
 2025-08-11T01:49:52.340Z,56.889166666667,-158.14916666667,12.64,-0.48,ml,5.0,142.0,0.01462,0.06,av,av93048069,2025-08-11T19:32:01.800Z,"68 km NNE of Chignik, Alaska",earthquake,0.72,0.79,0.20943206586531,5.0,reviewed,av,av
+2025-08-11T19:09:50.650Z,42.042833333333,-112.51383333333,6.58,1.91,ml,17.0,142.0,0.1045,0.15,uu,uu80113646,2025-08-11T19:43:31.490Z,"18 km ENE of Snowville, Utah",earthquake,0.37,0.73,0.10470638627309,4.0,reviewed,uu,uu
+2025-08-11T17:47:37.054Z,31.685,-104.349,6.7407,1.4,ml,16.0,84.0,0.1,0.1,tx,tx2025pswpjo,2025-08-11T19:49:51.565Z,"54 km S of Whites City, New Mexico",earthquake,0.82371207146358,0.76682028414356,0.2,26.0,reviewed,tx,tx
