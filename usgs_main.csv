@@ -4572,3 +4572,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T03:59:42.670Z,19.139999389648,-155.49884033203,22.799999237061,2.34,ml,14.0,233.0,0.1523,0.129999995,hv,hv74749187,2025-08-11T04:02:46.770Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.25,2.21000004,0.24,6.0,automatic,hv,hv
 2025-08-11T03:58:30.730Z,35.7218333,-117.5746667,8.12,0.91,ml,30.0,48.0,0.09553,0.18,ci,ci41258144,2025-08-11T04:02:08.575Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.66,0.195,17.0,automatic,ci,ci
 2025-08-11T00:36:23.165Z,53.1635,161.0038,35.0,4.6,mb,47.0,163.0,1.426,0.42,us,us6000qzqd,2025-08-11T04:06:35.040Z,"159 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.98,1.942,0.057,91.0,reviewed,us,us
+2025-08-11T04:38:19.998Z,61.0382,-147.5097,3.3,1.3,ml,,,,0.51,ak,ak025a8vgban,2025-08-11T04:40:01.370Z,"49 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-11T04:10:57.512Z,-34.3658,-179.7507,35.0,4.7,mb,27.0,162.0,3.558,0.76,us,us6000qzr1,2025-08-11T04:39:02.040Z,south of the Kermadec Islands,earthquake,12.4,1.954,0.117,22.0,reviewed,us,us
