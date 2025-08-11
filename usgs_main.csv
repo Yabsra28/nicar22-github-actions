@@ -4587,3 +4587,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T06:00:47.621Z,60.2512,-152.5151,105.3,1.7,ml,,,,0.27,ak,ak025a8wf3fe,2025-08-11T06:02:35.226Z,"52 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-11T05:58:12.310Z,33.5261667,-116.5175,14.75,0.55,ml,21.0,83.0,0.07741,0.12,ci,ci41258216,2025-08-11T06:01:43.994Z,"15 km ESE of Anza, CA",earthquake,0.2,0.45,0.263,9.0,automatic,ci,ci
 2025-08-11T05:52:03.763Z,53.544,-163.5864,10.0,4.5,mb,103.0,95.0,1.163,0.97,us,us6000qzra,2025-08-11T06:12:17.040Z,"146 km S of False Pass, Alaska",earthquake,5.32,1.902,0.033,267.0,reviewed,us,us
+2025-08-11T06:56:37.330Z,38.826499938965,-122.80466461182,2.2400000095367,0.86,md,8.0,108.0,0.005241,0.01,nc,nc75221622,2025-08-11T06:58:15.057Z,"7 km NNW of The Geysers, CA",earthquake,0.42,0.75,0.16,8.0,automatic,nc,nc
+2025-08-11T06:39:28.130Z,33.001,-116.4555,9.29,1.07,ml,48.0,39.0,0.04763,0.17,ci,ci41258224,2025-08-11T06:50:05.590Z,"16 km ESE of Julian, CA",earthquake,0.15,0.37,0.181,30.0,automatic,ci,ci
+2025-08-11T06:37:41.939Z,-16.7863,-173.8916,139.268,5.1,mb,74.0,32.0,4.082,1.27,us,us6000qzrg,2025-08-11T06:57:20.040Z,"92 km S of Hihifo, Tonga",earthquake,9.19,6.732,0.024,558.0,reviewed,us,us
+2025-08-10T20:41:47.000Z,37.324666666667,-122.2225,10.6,0.51,md,12.0,117.0,0.04178,0.07,nc,nc75221502,2025-08-11T06:53:51.403Z,"7 km S of Portola Valley, CA",earthquake,0.41,0.49,0.406,8.0,reviewed,nc,nc
