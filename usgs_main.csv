@@ -4653,3 +4653,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T06:14:02.940Z,35.897,-97.354,7.59,1.3,ml,89.0,24.0,0.1673671569,0.21,ok,ok2025pqca,2025-08-11T12:12:11.699Z,"6 km ENE of Guthrie, Oklahoma",earthquake,,0.4,0.24,37.0,reviewed,ok,ok
 2025-08-10T20:48:10.345Z,32.308,-101.845,5.2002,0.7,ml,29.0,47.0,0.0,0.2,tx,tx2025prgwbn,2025-08-11T12:37:56.549Z,"20 km NNW of Stanton, Texas",earthquake,0.43193186184663,0.71241870864171,0.2,16.0,reviewed,tx,tx
 2025-08-10T18:00:29.960Z,35.7825,-90.191333333333,10.07,1.34,md,14.0,87.0,0.03608,0.11,nm,nm60612806,2025-08-11T12:48:43.390Z,"7 km NNE of Etowah, Arkansas",earthquake,0.38,0.69,0.082924004830745,9.0,reviewed,nm,nm
+2025-08-11T13:34:55.420Z,36.06,-117.6398333,2.15,1.61,ml,30.0,46.0,0.1074,0.14,ci,ci41258400,2025-08-11T13:38:57.755Z,"28 km ENE of Little Lake, CA",earthquake,0.17,0.26,0.298,26.0,automatic,ci,ci
+2025-08-11T13:25:04.490Z,38.82799911499,-122.81549835205,1.6799999475479,0.25,md,11.0,73.0,0.006252,0.02,nc,nc75221747,2025-08-11T13:26:42.189Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.899999976,0.13,11.0,automatic,nc,nc
+2025-08-11T13:21:42.380Z,38.831001281738,-122.81383514404,2.1900000572205,0.73,md,18.0,48.0,0.008144,0.01,nc,nc75221742,2025-08-11T13:23:17.173Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.49000001,0.23,18.0,automatic,nc,nc
+2025-08-11T13:10:47.404Z,64.7502,-147.2208,10.2,0.9,ml,,,,0.26,ak,ak025a90n9t0,2025-08-11T13:12:45.992Z,"5 km NW of Moose Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-11T13:04:45.986Z,60.8188,-150.7874,20.5,1.2,ml,,,,0.54,ak,ak025a90lzee,2025-08-11T13:07:03.901Z,"12 km SSW of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-11T12:34:59.877Z,51.8835,160.4193,10.0,4.6,mb,58.0,168.0,1.573,0.96,us,us6000qzt0,2025-08-11T13:04:36.040Z,"179 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.97,1.916,0.056,95.0,reviewed,us,us
+2025-08-11T11:54:58.735Z,54.5253,-160.106,30.815,3.5,ml,19.0,195.0,0.429,0.52,us,us6000qzsk,2025-08-11T13:10:11.040Z,"93 km SSE of Sand Point, Alaska",earthquake,7.74,12.912,0.066,30.0,reviewed,us,us
