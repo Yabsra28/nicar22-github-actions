@@ -4804,3 +4804,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T23:13:53.043Z,39.5238,-119.6204,0.0,1.6,ml,5.0,170.21,0.142,0.1013,nn,nn00902444,2025-08-11T23:34:28.700Z,"11 km E of Sparks, Nevada",explosion,,0.0,0.2,4.0,reviewed,nn,nn
 2025-08-11T09:42:49.190Z,60.0365,-153.04233333333,5.33,-0.18,ml,5.0,176.0,0.02348,0.19,av,av93711753,2025-08-11T23:36:57.840Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.78,1.23,0.24291540233666,5.0,reviewed,av,av
 2025-08-11T09:38:10.590Z,60.523166666667,-152.77933333333,1.13,-0.46,ml,4.0,267.0,0.04841,0.12,av,av93711748,2025-08-11T23:33:50.880Z,"80 km W of Salamatof, Alaska",earthquake,0.92,0.64,0.20297828041668,4.0,reviewed,av,av
+2025-08-11T23:50:30.280Z,33.2808333,-116.2778333,3.08,1.65,ml,67.0,29.0,0.08769,0.22,ci,ci41258856,2025-08-11T23:53:59.722Z,"9 km ENE of Borrego Springs, CA",earthquake,0.17,0.36,0.221,26.0,automatic,ci,ci
+2025-08-11T17:31:45.513Z,32.066,-103.727,7.1124,1.2,ml,13.0,66.0,0.0,0.1,tx,tx2025pswalh,2025-08-11T23:49:48.538Z,"37 km ESE of Malaga, New Mexico",earthquake,0.44237116391752,0.75080071361384,0.1,11.0,reviewed,tx,tx
