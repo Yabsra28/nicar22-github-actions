@@ -4700,3 +4700,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T16:30:56.866Z,31.634,-104.471,3.5137,1.5,ml,22.0,104.0,0.0,0.4,tx,tx2025psubhk,2025-08-11T16:35:00.943Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.4294203519821,0.1,16.0,automatic,tx,tx
 2025-08-11T10:01:32.163Z,51.9409,-173.4312,53.0,3.4,ml,,,,0.54,ak,ak025a8yt0fg,2025-08-11T16:30:48.521Z,"59 km ESE of Atka, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2025-08-11T05:13:19.956Z,32.36,-102.178,7.8613,0.6,ml,11.0,71.0,0.0,0.1,tx,tx2025prxpjz,2025-08-11T16:27:55.366Z,"33 km E of McKinney Acres, Texas",earthquake,1.3180215428313,0.70476970840177,0.2,6.0,reviewed,tx,tx
+2025-08-11T16:43:30.110Z,34.4493333,-118.6653333,7.96,1.45,ml,41.0,48.0,0.02527,0.25,ci,ci41258528,2025-08-11T16:54:38.080Z,"6 km SW of Castaic, CA",earthquake,0.27,0.61,0.176,30.0,automatic,ci,ci
