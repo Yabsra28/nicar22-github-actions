@@ -4548,3 +4548,20 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T22:10:33.649Z,12.8294,145.7068,10.0,4.7,mb,54.0,152.0,2.392,0.67,us,us6000qzpq,2025-08-11T01:47:39.745Z,"114 km ESE of Inarajan Village, Guam",earthquake,6.17,1.936,0.079,49.0,reviewed,us,us
 2025-08-10T21:49:45.028Z,13.5297,-92.4021,10.0,4.5,mb,38.0,203.0,1.312,0.92,us,us6000qzpn,2025-08-11T01:34:03.040Z,"99 km SSW of Champerico, Guatemala",earthquake,7.81,1.974,0.041,177.0,reviewed,us,us
 2025-08-10T13:26:44.813Z,57.82,-132.98,0.0,3.3,ml,,,,0.53,ak,ak025a7d7ckh,2025-08-11T01:36:40.539Z,"45 km NNE of Hobart Bay, Alaska",landslide,,0.0,,,reviewed,ak,ak
+2025-08-11T03:41:42.910Z,31.675,-104.347,8.5216,1.7,ml,21.0,86.0,0.1,0.5,tx,tx2025pruolp,2025-08-11T03:46:19.538Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.5120649337769,0.2,14.0,automatic,tx,tx
+2025-08-11T03:35:03.780Z,38.823665618896,-122.80982971191,2.8699998855591,1.06,md,19.0,35.0,0.0003308,0.02,nc,nc75221592,2025-08-11T03:36:38.424Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.579999983,0.33,21.0,automatic,nc,nc
+2025-08-11T03:32:18.593Z,31.562,-104.351,5.3176,1.8,ml,15.0,214.0,0.1,0.8,tx,tx2025prugfc,2025-08-11T03:34:31.978Z,"59 km WNW of Toyah, Texas",earthquake,0.0,5.6692748069763,0.1,9.0,automatic,tx,tx
+2025-08-11T03:17:06.557Z,60.3724,-152.1123,70.1,1.1,ml,,,,0.71,ak,ak025a8uqcm7,2025-08-11T03:19:09.026Z,"42 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-11T03:15:23.630Z,33.995,-116.6435,7.33,1.34,ml,69.0,21.0,0.04357,0.18,ci,ci41258136,2025-08-11T03:26:03.780Z,"8 km SW of Morongo Valley, CA",earthquake,0.13,0.49,0.16,26.0,automatic,ci,ci
+2025-08-11T02:59:59.405Z,56.5971,-156.0678,67.7,2.2,ml,,,,0.52,ak,ak025a8ue15w,2025-08-11T03:02:43.445Z,"122 km WSW of Akhiok, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-11T02:58:36.784Z,60.8577,-150.9454,14.5,1.6,ml,,,,0.28,ak,ak025a8udrpa,2025-08-11T03:00:04.703Z,"15 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-11T02:55:37.584Z,18.0607,121.7024,100.722,4.7,mb,41.0,93.0,4.768,1.33,us,us6000qzqs,2025-08-11T03:11:08.040Z,"2 km NW of Palagao Norte, Philippines",earthquake,11.38,7.769,0.089,38.0,reviewed,us,us
+2025-08-11T02:54:13.810Z,38.810165405273,-122.78416442871,1.039999961853,1.98,md,19.0,46.0,0.004115,0.03,nc,nc75221582,2025-08-11T02:55:49.124Z,"4 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.14,26.0,automatic,nc,nc
+2025-08-11T02:35:35.966Z,63.305,-151.2357,0.0,1.5,ml,,,,2.03,ak,ak025a8u8u64,2025-08-11T02:43:48.897Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-11T02:30:50.650Z,31.707,-104.388,10.818,1.4,ml,11.0,103.0,0.0,0.7,tx,tx2025prsfjz,2025-08-11T02:34:50.599Z,"51 km S of Whites City, New Mexico",earthquake,0.0,3.0955612659454,0.3,6.0,automatic,tx,tx
+2025-08-11T02:21:00.217Z,14.876,-94.3872,9.144,5.8,mww,90.0,140.0,2.58,1.39,us,us6000qzqn,2025-08-11T02:59:02.300Z,"133 km SSW of Doctor Belisario Domínguez (La Barra), Mexico",earthquake,8.49,4.877,0.028,125.0,reviewed,us,us
+2025-08-11T02:11:41.436Z,-9.7869,120.4698,85.956,4.9,mb,48.0,54.0,0.206,0.75,us,us6000qzqm,2025-08-11T02:37:53.776Z,"26 km ESE of Waingapu, Indonesia",earthquake,7.06,3.725,0.112,25.0,reviewed,us,us
+2025-08-11T02:01:58.210Z,35.661,-117.4923333,9.86,0.98,ml,29.0,43.0,0.05603,0.13,ci,ci41258112,2025-08-11T02:06:04.327Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.4,0.187,17.0,automatic,ci,ci
+2025-08-11T01:55:10.637Z,39.2445,28.1807,10.0,4.1,mb,33.0,49.0,1.002,0.71,us,us6000qzqk,2025-08-11T02:09:50.040Z,"0 km NNE of Sındırgı, Turkey",earthquake,3.38,1.868,0.12,19.0,reviewed,us,us
+2025-08-10T23:04:12.057Z,53.8224,153.3171,525.73,4.1,mb,27.0,129.0,12.483,0.95,us,us6000qzq3,2025-08-11T02:34:56.040Z,Sea of Okhotsk,earthquake,12.1,13.169,0.109,23.0,reviewed,us,us
+2025-08-10T22:54:22.074Z,12.9567,145.5933,10.0,4.9,mb,32.0,130.0,0.945,0.74,us,us6000qzpv,2025-08-11T02:18:14.040Z,"98 km ESE of Inarajan Village, Guam",earthquake,7.06,1.919,0.053,111.0,reviewed,us,us
