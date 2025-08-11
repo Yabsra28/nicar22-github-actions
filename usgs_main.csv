@@ -4565,3 +4565,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T01:55:10.637Z,39.2445,28.1807,10.0,4.1,mb,33.0,49.0,1.002,0.71,us,us6000qzqk,2025-08-11T02:09:50.040Z,"0 km NNE of Sındırgı, Turkey",earthquake,3.38,1.868,0.12,19.0,reviewed,us,us
 2025-08-10T23:04:12.057Z,53.8224,153.3171,525.73,4.1,mb,27.0,129.0,12.483,0.95,us,us6000qzq3,2025-08-11T02:34:56.040Z,Sea of Okhotsk,earthquake,12.1,13.169,0.109,23.0,reviewed,us,us
 2025-08-10T22:54:22.074Z,12.9567,145.5933,10.0,4.9,mb,32.0,130.0,0.945,0.74,us,us6000qzpv,2025-08-11T02:18:14.040Z,"98 km ESE of Inarajan Village, Guam",earthquake,7.06,1.919,0.053,111.0,reviewed,us,us
+2025-08-11T04:18:16.510Z,34.3563333,-116.9025,3.87,1.2,ml,54.0,45.0,0.06263,0.16,ci,ci41258152,2025-08-11T04:22:06.429Z,"11 km SSE of Lucerne Valley, CA",earthquake,0.14,0.35,0.214,29.0,automatic,ci,ci
+2025-08-11T04:16:44.456Z,61.1999,-150.9659,8.8,1.5,ml,,,,1.61,ak,ak025a8vbnfh,2025-08-11T04:19:11.690Z,"9 km NE of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-11T04:16:28.090Z,38.826831817627,-122.78616333008,1.8600000143051,1.03,md,14.0,48.0,0.01201,0.02,nc,nc75221597,2025-08-11T04:18:03.843Z,"5 km WNW of Cobb, CA",earthquake,0.28,0.460000008,0.3,13.0,automatic,nc,nc
+2025-08-11T04:07:05.156Z,54.5182,-160.1175,34.548,3.6,mb,20.0,195.0,0.439,0.7,us,us6000qzqy,2025-08-11T04:28:13.040Z,"94 km SSE of Sand Point, Alaska",earthquake,5.97,9.414,0.289,3.0,reviewed,us,us
+2025-08-11T03:59:42.670Z,19.139999389648,-155.49884033203,22.799999237061,2.34,ml,14.0,233.0,0.1523,0.129999995,hv,hv74749187,2025-08-11T04:02:46.770Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.25,2.21000004,0.24,6.0,automatic,hv,hv
+2025-08-11T03:58:30.730Z,35.7218333,-117.5746667,8.12,0.91,ml,30.0,48.0,0.09553,0.18,ci,ci41258144,2025-08-11T04:02:08.575Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.66,0.195,17.0,automatic,ci,ci
+2025-08-11T00:36:23.165Z,53.1635,161.0038,35.0,4.6,mb,47.0,163.0,1.426,0.42,us,us6000qzqd,2025-08-11T04:06:35.040Z,"159 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.98,1.942,0.057,91.0,reviewed,us,us
