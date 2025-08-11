@@ -4641,3 +4641,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T09:57:37.579Z,15.0222,-94.1915,55.143,4.5,mb,53.0,163.0,2.342,1.3,us,us6000qzs2,2025-08-11T11:35:52.040Z,"108 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,9.38,9.344,0.039,190.0,reviewed,us,us
 2025-08-11T11:45:06.416Z,38.7632,-119.7192,7.9,0.9,ml,8.0,170.93,0.156,0.1061,nn,nn00902406,2025-08-11T11:47:46.078Z,"8 km SE of Mesa Vista, California",earthquake,,1.9,0.34,6.0,automatic,nn,nn
 2025-08-11T11:41:25.478Z,-14.6246,-76.656,10.0,4.5,mb,38.0,139.0,2.627,1.22,us,us6000qzsi,2025-08-11T11:57:59.040Z,"93 km SSW of Paracas, Peru",earthquake,8.67,1.821,0.093,34.0,reviewed,us,us
+2025-08-11T12:51:35.360Z,38.777000427246,-122.80300140381,7.8400001525879,1.07,md,14.0,146.0,0.01131,0.37,nc,nc75221727,2025-08-11T12:53:12.954Z,"4 km W of The Geysers, CA",earthquake,1.88,5.59000015,0.17,14.0,automatic,nc,nc
+2025-08-11T12:43:15.872Z,56.5531,-156.2335,13.3,1.8,ml,,,,0.27,ak,ak025a908ueb,2025-08-11T12:46:11.112Z,"128 km SSE of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-08-11T12:25:36.844Z,36.7737,-116.2501,10.5,1.7,ml,31.0,38.57,0.075,0.2411,nn,nn00902407,2025-08-11T12:27:41.041Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.26,22.0,automatic,nn,nn
+2025-08-11T12:22:42.504Z,61.3067,-152.5026,0.4,0.9,ml,,,,0.25,ak,ak025a904eey,2025-08-11T12:23:58.941Z,"78 km WNW of Tyonek, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-08-11T12:20:34.023Z,-36.6937,178.4042,111.621,4.9,mb,31.0,232.0,0.87,1.56,us,us6000qzsy,2025-08-11T12:55:16.040Z,"101 km N of Hicks Bay, New Zealand",earthquake,12.19,9.753,0.128,19.0,reviewed,us,us
+2025-08-11T12:18:28.659Z,60.1132,-140.6701,12.1,2.0,ml,,,,0.66,ak,ak025a903ihd,2025-08-11T12:20:30.767Z,"82 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-11T12:14:17.159Z,-18.2356,168.0125,34.986,4.7,mb,28.0,86.0,2.879,0.68,us,us6000qzst,2025-08-11T12:52:48.983Z,"63 km SSW of Port-Vila, Vanuatu",earthquake,7.73,4.173,0.096,33.0,reviewed,us,us
+2025-08-11T12:10:32.415Z,51.925,160.4814,10.0,4.7,mb,90.0,85.0,1.57,0.72,us,us6000qzsu,2025-08-11T12:47:46.040Z,"178 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.22,1.903,0.042,175.0,reviewed,us,us
+2025-08-11T12:05:12.869Z,51.7929,160.4078,10.0,5.2,mb,125.0,132.0,1.637,0.9,us,us6000qzsp,2025-08-11T12:23:38.040Z,"186 km SE of Vilyuchinsk, Russia",earthquake,10.03,1.883,0.028,431.0,reviewed,us,us
+2025-08-11T06:14:02.940Z,35.897,-97.354,7.59,1.3,ml,89.0,24.0,0.1673671569,0.21,ok,ok2025pqca,2025-08-11T12:12:11.699Z,"6 km ENE of Guthrie, Oklahoma",earthquake,,0.4,0.24,37.0,reviewed,ok,ok
+2025-08-10T20:48:10.345Z,32.308,-101.845,5.2002,0.7,ml,29.0,47.0,0.0,0.2,tx,tx2025prgwbn,2025-08-11T12:37:56.549Z,"20 km NNW of Stanton, Texas",earthquake,0.43193186184663,0.71241870864171,0.2,16.0,reviewed,tx,tx
+2025-08-10T18:00:29.960Z,35.7825,-90.191333333333,10.07,1.34,md,14.0,87.0,0.03608,0.11,nm,nm60612806,2025-08-11T12:48:43.390Z,"7 km NNE of Etowah, Arkansas",earthquake,0.38,0.69,0.082924004830745,9.0,reviewed,nm,nm
