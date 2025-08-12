@@ -4854,3 +4854,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T03:53:14.640Z,33.8158333,-117.6286667,7.29,1.67,ml,19.0,71.0,0.02619,0.2,ci,ci41258920,2025-08-12T03:57:08.110Z,"8 km SW of Corona, CA",earthquake,0.35,0.63,0.261,31.0,automatic,ci,ci
 2025-08-12T04:37:02.310Z,36.549667358398,-121.05100250244,4.3600001335144,1.07,md,8.0,167.0,0.0302,0.18,nc,nc75222127,2025-08-12T04:38:39.408Z,"8 km E of Pinnacles, CA",earthquake,1.37,2.6400001,0.09,5.0,automatic,nc,nc
 2025-08-12T04:31:01.159Z,62.0449,-150.8035,156.4,1.2,ml,,,,0.78,ak,ak025aaiy4bn,2025-08-12T04:38:42.607Z,"31 km E of Skwentna, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-12T03:30:55.845Z,-24.5794,-70.5464,23.543,4.3,mb,19.0,178.0,1.045,1.13,us,us6000r00i,2025-08-12T04:53:20.040Z,"91 km N of Taltal, Chile",earthquake,2.31,7.539,0.168,10.0,reviewed,us,us
