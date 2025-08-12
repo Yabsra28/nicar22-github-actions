@@ -4847,3 +4847,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T03:03:03.213Z,61.6883,-150.33,32.7,1.9,ml,,,,0.4,ak,ak025aai6ott,2025-08-12T03:04:33.246Z,"16 km WSW of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-11T23:38:01.535Z,-26.9327,-71.1682,20.62,4.4,mb,17.0,154.0,0.338,0.75,us,us6000qzzv,2025-08-12T03:04:34.040Z,"95 km WNW of Copiapó, Chile",earthquake,2.81,5.817,0.219,6.0,reviewed,us,us
 2025-08-11T15:52:19.560Z,58.256166666667,-155.1575,5.9,0.33,ml,17.0,74.0,0.03129,0.27,av,av93712238,2025-08-12T03:11:19.270Z,"87 km NNW of Karluk, Alaska",earthquake,0.37,0.72,0.20865495923256,17.0,reviewed,av,av
+2025-08-12T04:06:29.260Z,35.861,-117.6921667,5.6,2.28,ml,40.0,36.0,0.07893,0.17,ci,ci41258928,2025-08-12T04:16:45.170Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.53,0.189,25.0,automatic,ci,ci
+2025-08-12T04:06:02.204Z,63.1279,-147.685,12.1,0.9,ml,,,,0.6,ak,ak025aaisri4,2025-08-12T04:07:49.631Z,"70 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-12T04:01:29.290Z,36.541500091553,-121.06366729736,1.5499999523163,2.25,md,38.0,65.0,0.0417,0.17,nc,nc75222112,2025-08-12T04:07:20.701Z,"7 km E of Pinnacles, CA",earthquake,0.27,1.00999999,0.12,42.0,automatic,nc,nc
+2025-08-12T03:55:30.615Z,57.7626,-153.6801,114.8,1.4,ml,,,,0.89,ak,ak025aaihw6d,2025-08-12T03:57:36.548Z,"30 km NE of Larsen Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-08-12T03:53:14.640Z,33.8158333,-117.6286667,7.29,1.67,ml,19.0,71.0,0.02619,0.2,ci,ci41258920,2025-08-12T03:57:08.110Z,"8 km SW of Corona, CA",earthquake,0.35,0.63,0.261,31.0,automatic,ci,ci
