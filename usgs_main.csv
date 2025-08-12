@@ -4880,3 +4880,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T06:30:51.890Z,35.7806667,-117.672,6.79,0.5,ml,15.0,95.0,0.06994,0.27,ci,ci41258976,2025-08-12T06:34:21.059Z,"18 km N of Ridgecrest, CA",earthquake,0.4,0.86,0.21,11.0,automatic,ci,ci
 2025-08-12T06:22:48.620Z,18.95,-67.464833333333,11.35,3.04,md,11.0,236.0,0.5854,0.2,pr,pr71492543,2025-08-12T06:42:12.220Z,"63 km NW of San Antonio, Puerto Rico",earthquake,1.47,2.36,0.083277035313065,8.0,reviewed,pr,pr
 2025-08-12T04:29:20.017Z,53.5075,-166.5271,63.8,3.0,ml,,,,0.45,ak,ak025aaixqh8,2025-08-12T06:47:38.463Z,"40 km S of Unalaska, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2025-08-12T07:18:38.912Z,31.663,-104.374,5.8849,1.7,ml,26.0,87.0,0.0,0.4,tx,tx2025ptxmgz,2025-08-12T07:22:47.973Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.4428100585938,0.2,17.0,automatic,tx,tx
+2025-08-12T07:16:58.580Z,33.4775,-116.5871667,10.62,0.64,ml,32.0,63.0,0.02126,0.15,ci,ci41258984,2025-08-12T07:21:18.295Z,"12 km SE of Anza, CA",earthquake,0.18,0.25,0.203,18.0,automatic,ci,ci
+2025-08-12T07:10:41.740Z,38.823833465576,-122.79833221435,2.1800000667572,0.74,md,9.0,94.0,0.009182,0.05,nc,nc75222152,2025-08-12T07:12:19.597Z,"6 km NNW of The Geysers, CA",earthquake,0.55,1.41999996,0.5,9.0,automatic,nc,nc
+2025-08-12T06:58:52.338Z,31.671,-104.368,6.0999,3.5,ml,28.0,69.0,0.1,0.2,tx,tx2025ptwvfe,2025-08-12T07:17:45.340Z,"55 km S of Whites City, New Mexico",earthquake,0.8589699448826,0.73374023534074,0.1,17.0,reviewed,tx,tx
+2025-08-12T05:05:13.595Z,31.593,-104.235,7.6892,1.5,ml,31.0,72.0,0.1,0.2,tx,tx2025pttbhj,2025-08-12T07:22:41.976Z,"52 km NW of Toyah, Texas",earthquake,0.94461060043864,0.82451920584047,0.2,13.0,reviewed,tx,tx
