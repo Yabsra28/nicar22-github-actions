@@ -4852,3 +4852,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T04:01:29.290Z,36.541500091553,-121.06366729736,1.5499999523163,2.25,md,38.0,65.0,0.0417,0.17,nc,nc75222112,2025-08-12T04:07:20.701Z,"7 km E of Pinnacles, CA",earthquake,0.27,1.00999999,0.12,42.0,automatic,nc,nc
 2025-08-12T03:55:30.615Z,57.7626,-153.6801,114.8,1.4,ml,,,,0.89,ak,ak025aaihw6d,2025-08-12T03:57:36.548Z,"30 km NE of Larsen Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-08-12T03:53:14.640Z,33.8158333,-117.6286667,7.29,1.67,ml,19.0,71.0,0.02619,0.2,ci,ci41258920,2025-08-12T03:57:08.110Z,"8 km SW of Corona, CA",earthquake,0.35,0.63,0.261,31.0,automatic,ci,ci
+2025-08-12T04:37:02.310Z,36.549667358398,-121.05100250244,4.3600001335144,1.07,md,8.0,167.0,0.0302,0.18,nc,nc75222127,2025-08-12T04:38:39.408Z,"8 km E of Pinnacles, CA",earthquake,1.37,2.6400001,0.09,5.0,automatic,nc,nc
+2025-08-12T04:31:01.159Z,62.0449,-150.8035,156.4,1.2,ml,,,,0.78,ak,ak025aaiy4bn,2025-08-12T04:38:42.607Z,"31 km E of Skwentna, Alaska",earthquake,,1.7,,,automatic,ak,ak
