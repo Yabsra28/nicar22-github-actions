@@ -5004,3 +5004,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T09:14:18.636Z,31.629,-104.153,5.6128,0.7,ml,18.0,65.0,0.1,0.1,tx,tx2025pubhxp,2025-08-12T15:10:28.214Z,"48 km NW of Toyah, Texas",earthquake,0.52820699124022,1.2431409181612,0.2,18.0,reviewed,tx,tx
 2025-08-12T05:47:43.006Z,31.595,-104.23,7.1765,1.4,ml,23.0,77.0,0.1,0.1,tx,tx2025ptulng,2025-08-12T15:19:44.296Z,"51 km NW of Toyah, Texas",earthquake,0.74653935125632,0.86787972597105,0.1,18.0,reviewed,tx,tx
 2025-08-11T19:15:01.610Z,44.800666666667,-111.5225,13.28,-0.07,ml,7.0,105.0,0.02802,0.22,mb,mb90107003,2025-08-12T15:00:29.460Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.65,1.59,0.17405464273453,5.0,reviewed,mb,mb
+2025-08-12T15:37:02.150Z,35.897,-117.6983333,3.5,1.14,ml,30.0,42.0,0.06399,0.16,ci,ci41259208,2025-08-12T15:40:27.570Z,"19 km ESE of Little Lake, CA",earthquake,0.16,0.47,0.194,23.0,automatic,ci,ci
+2025-08-12T15:34:30.903Z,59.4193,-146.4242,13.2,1.6,ml,,,,0.61,ak,ak025aapilf6,2025-08-12T15:36:39.442Z,"114 km SE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-12T15:30:16.098Z,36.9001,-115.4802,1.6,0.7,ml,14.0,204.58,0.432,0.2083,nn,nn00902488,2025-08-12T15:32:24.623Z,"40 km NNE of Indian Springs, Nevada",earthquake,,16.7,0.1,7.0,automatic,nn,nn
+2025-08-12T15:26:08.197Z,61.683,-146.566,33.0,1.8,ml,,,,0.34,ak,ak025aapgtxv,2025-08-12T15:27:27.445Z,"36 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-12T15:20:18.090Z,19.30299949646,-155.38265991211,3.4700000286102,1.87,ml,35.0,95.0,0.03037,0.300000012,hv,hv74750822,2025-08-12T15:23:45.730Z,"14 km NE of Pāhala, Hawaii",earthquake,0.41,1.09000003,0.23,5.0,automatic,hv,hv
+2025-08-12T08:49:08.690Z,35.7665,-84.119666666667,23.39,1.95,md,9.0,117.0,0.1117,0.08,se,se60503908,2025-08-12T15:39:52.870Z,"1 km ENE of Friendsville, Tennessee",earthquake,0.4,0.75,0.10973769375966,8.0,reviewed,se,se
+2025-08-12T08:14:26.410Z,35.1365,-82.858,4.56,1.81,md,6.0,105.0,0.06527,0.09,se,se60503903,2025-08-12T15:35:14.410Z,"3 km WSW of Rosman, North Carolina",earthquake,0.99,0.72,0.068780987192651,5.0,reviewed,se,se
+2025-08-12T03:44:31.679Z,31.546,-104.119,6.0999,0.8,ml,20.0,69.0,0.0,0.1,tx,tx2025ptqjta,2025-08-12T15:26:39.385Z,"40 km NW of Toyah, Texas",earthquake,0.87752905957043,0.73899982962094,0.2,18.0,reviewed,tx,tx
