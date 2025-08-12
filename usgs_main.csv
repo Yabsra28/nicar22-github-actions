@@ -5079,3 +5079,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T21:02:04.991Z,61.3072,-152.5188,8.0,1.5,ml,,,,0.89,ak,ak025aaswa4z,2025-08-12T21:03:12.781Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-12T20:52:19.149Z,32.311,-101.84,3.3485,1.5,ml,53.0,37.0,0.0,0.6,tx,tx2025puylkr,2025-08-12T20:56:56.220Z,"20 km NNW of Stanton, Texas",earthquake,0.0,0.67703431844711,0.2,33.0,automatic,tx,tx
 2025-08-12T08:08:50.800Z,47.818666666667,-122.36683333333,24.72,0.93,ml,9.0,124.0,0.09078,0.09,uw,uw62169716,2025-08-12T21:12:11.270Z,"1 km NE of Edmonds, Washington",earthquake,0.71,0.73,0.23591006067426,3.0,reviewed,uw,uw
+2025-08-12T21:23:16.958Z,39.9916,-119.64,6.8,1.5,ml,12.0,97.32,0.149,0.2137,nn,nn00902502,2025-08-12T21:26:16.800Z,"5 km NW of Sutcliffe, Nevada",earthquake,,1.4,0.21,9.0,automatic,nn,nn
+2025-08-12T21:18:09.146Z,61.3037,-152.5178,8.5,1.4,ml,,,,0.93,ak,ak025aaszpwy,2025-08-12T21:19:24.330Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-12T21:14:08.582Z,34.21057129,-97.15729523,5.0,1.56,ml,11.0,203.9299088,0.30269894,1.325952098,ok,ok2025ptbf,2025-08-12T21:18:47.169Z,"4 km NNW of Ardmore, Oklahoma",earthquake,,0.0,0.69,5.0,automatic,ok,ok
+2025-08-12T20:57:27.510Z,42.163333333333,-124.496,-0.61,1.52,ml,12.0,245.0,0.1511,0.23,uw,uw62169916,2025-08-12T21:32:31.600Z,"15 km SSW of Pistol River, Oregon",earthquake,1.46,1.09,0.077001263477078,2.0,reviewed,uw,uw
+2025-08-12T20:45:17.819Z,-6.8703,125.3251,521.85,4.5,mb,88.0,39.0,3.051,0.46,us,us6000r073,2025-08-12T21:31:34.040Z,"188 km N of Dili, Timor Leste",earthquake,10.8,7.797,0.07,61.0,reviewed,us,us
+2025-08-12T19:39:34.400Z,49.134166666667,-122.1385,-0.71,1.47,ml,11.0,192.0,0.1404,0.16,uw,uw62169856,2025-08-12T21:23:14.020Z,"11 km NE of Abbotsford, Canada",explosion,0.78,31.61,0.055828301366312,5.0,reviewed,uw,uw
+2025-08-12T08:36:36.700Z,47.683666666667,-120.20983333333,-0.6,0.52,ml,6.0,112.0,0.02258,0.21,uw,uw62169726,2025-08-12T21:26:45.110Z,"0 km N of Entiat, Washington",earthquake,0.54,1.61,0.14152296644894,5.0,reviewed,uw,uw
