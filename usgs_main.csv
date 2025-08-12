@@ -4983,3 +4983,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T19:18:09.880Z,35.2745,-95.37766667,0.0,1.55,ml,18.0,108.0,0.1043795172,0.39,ok,ok2025prbx,2025-08-12T14:13:57.871Z,"9 km SSE of Texanna, Oklahoma",quarry blast,,0.7,0.24,6.0,reviewed,ok,ok
 2025-08-11T18:24:18.629Z,34.3695,-96.84516667,0.0,1.0,ml,21.0,142.0,0.2591491461,0.4,ok,ok2025prac,2025-08-12T14:05:35.745Z,"4 km SSW of Mill Creek, Oklahoma",quarry blast,,0.7,0.25,9.0,reviewed,ok,ok
 2025-08-11T17:57:44.119Z,35.798,-96.66066667,7.04,0.85,ml,34.0,67.0,0.1394726307,0.17,ok,ok2025pqzg,2025-08-12T13:57:43.758Z,"5 km N of Stroud, Oklahoma",earthquake,,0.5,0.13,15.0,reviewed,ok,ok
+2025-08-12T14:32:40.740Z,61.8579,-149.8842,0.0,1.0,ml,,,,0.39,ak,ak025aaowr56,2025-08-12T14:34:36.697Z,"14 km NNE of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-12T14:13:09.342Z,61.7886,-148.6995,31.8,0.9,ml,,,,0.45,ak,ak025aaosm46,2025-08-12T14:25:11.918Z,"3 km ENE of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-12T07:48:05.875Z,31.665,-104.373,6.0999,1.5,ml,19.0,66.0,0.0,0.1,tx,tx2025ptyljn,2025-08-12T14:20:56.099Z,"56 km S of Whites City, New Mexico",earthquake,1.1396192423141,1.3442497444845,0.1,27.0,reviewed,tx,tx
+2025-08-12T07:25:13.478Z,31.669,-104.364,6.0999,1.5,ml,23.0,68.0,0.1,0.1,tx,tx2025ptxrxx,2025-08-12T14:36:43.950Z,"56 km S of Whites City, New Mexico",earthquake,1.0609510017921,0.81355991573499,0.2,29.0,reviewed,tx,tx
+2025-08-12T03:27:27.180Z,46.985833333333,-113.24616666667,6.38,0.23,ml,10.0,86.0,0.07164,0.07,mb,mb90106988,2025-08-12T14:33:07.120Z,"9 km WSW of Ovando, Montana",earthquake,0.44,1.42,0.17512981177201,2.0,reviewed,mb,mb
+2025-08-12T01:33:51.915Z,31.56,-104.059,7.2278,1.1,ml,16.0,84.0,0.0,0.1,tx,tx2025ptmbcr,2025-08-12T14:23:30.107Z,"37 km NW of Toyah, Texas",earthquake,1.1029535804191,0.68451400920783,0.2,15.0,reviewed,tx,tx
+2025-08-12T01:29:22.859Z,31.642,-104.307,7.561,1.3,ml,21.0,63.0,0.0,0.1,tx,tx2025ptlwtv,2025-08-12T14:29:18.895Z,"59 km S of Whites City, New Mexico",earthquake,1.1169229734996,1.4419409377456,0.2,22.0,reviewed,tx,tx
+2025-08-11T16:30:37.130Z,47.9035,-113.49266666667,12.1,0.98,ml,15.0,193.0,0.2137,0.09,mb,mb90106983,2025-08-12T14:21:39.140Z,"26 km E of Swan Lake, Montana",earthquake,0.54,0.88,0.17284037602534,7.0,reviewed,mb,mb
