@@ -5034,3 +5034,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T17:44:32.990Z,36.198,-118.4505,5.75,1.11,ml,22.0,93.0,0.1202,0.18,ci,ci41259312,2025-08-12T17:48:15.373Z,"41 km WSW of Olancha, CA",earthquake,0.25,0.86,0.133,14.0,automatic,ci,ci
 2025-08-12T16:00:04.262Z,51.7095,159.3376,30.228,4.6,mb,99.0,115.0,1.382,0.66,us,us6000r04c,2025-08-12T17:34:00.040Z,"150 km SSE of Vilyuchinsk, Russia",earthquake,8.54,5.882,0.053,108.0,reviewed,us,us
 2025-08-12T11:22:03.410Z,46.8545,-121.75666666667,-2.21,0.41,ml,14.0,74.0,0.02337,0.09,uw,uw62169751,2025-08-12T17:38:29.750Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.45,0.27505566276024,9.0,reviewed,uw,uw
+2025-08-12T17:51:08.316Z,61.2276,-147.6212,0.1,1.1,ml,,,,0.78,ak,ak025aaqt227,2025-08-12T17:52:48.584Z,"64 km S of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-12T16:20:52.790Z,47.712833333333,-122.611,23.36,1.49,ml,13.0,80.0,0.06942,0.14,uw,uw62169811,2025-08-12T17:50:17.620Z,"1 km NNE of Keyport, Washington",earthquake,0.57,0.97,0.25443539039733,8.0,reviewed,uw,uw
+2025-08-12T14:48:04.670Z,46.102333333333,-122.10616666667,6.68,0.72,ml,6.0,227.0,0.04423,0.09,uw,uw62169791,2025-08-12T17:56:49.260Z,"33 km NE of Amboy, Washington",earthquake,0.75,1.14,0.10931005244995,4.0,reviewed,uw,uw
+2025-08-12T04:35:29.869Z,32.303,-101.202,5.4443,0.6,ml,8.0,131.0,0.1,0.1,tx,tx2025ptsbrf,2025-08-12T17:54:22.870Z,"9 km E of Coahoma, Texas",earthquake,1.717609242672,1.6377314445217,0.1,4.0,reviewed,tx,tx
