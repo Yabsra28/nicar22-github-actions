@@ -5047,3 +5047,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T18:39:37.310Z,38.803001403809,-122.81416320801,2.8900001049042,0.91,md,15.0,68.0,0.01311,0.02,nc,nc75222362,2025-08-12T18:41:15.269Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.75,0.27,15.0,automatic,nc,nc
 2025-08-12T18:39:06.794Z,63.077,-150.4787,109.9,1.6,ml,,,,0.2,ak,ak025aarbwyf,2025-08-12T18:40:52.301Z,"66 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-12T18:38:20.608Z,63.1744,-152.0594,9.4,1.5,ml,,,,0.91,ak,ak025aarbqb0,2025-08-12T18:41:03.588Z,"44 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-12T19:16:47.960Z,38.786666870117,-122.74283599853,1.6499999761581,0.74,md,7.0,84.0,0.005877,0.01,nc,nc75222382,2025-08-12T19:18:25.637Z,"2 km ENE of The Geysers, CA",earthquake,0.34,0.879999995,0.05,6.0,automatic,nc,nc
+2025-08-12T18:21:01.780Z,47.379833333333,-123.98433333333,30.89,1.98,ml,23.0,95.0,0.02072,0.17,uw,uw62169831,2025-08-12T19:20:19.290Z,"8 km WSW of Neilton, Washington",earthquake,0.45,0.58,0.14504319292956,15.0,reviewed,uw,uw
+2025-08-12T17:22:47.741Z,79.1922,2.5627,10.0,4.4,mb,43.0,40.0,4.007,0.89,us,us6000r05z,2025-08-12T19:18:20.040Z,Greenland Sea,earthquake,9.07,1.839,0.1,29.0,reviewed,us,us
+2025-08-12T12:52:52.260Z,37.837333333333,-121.91166666667,3.67,1.03,md,14.0,74.0,0.05296,0.1,nc,nc75222257,2025-08-12T19:05:03.678Z,"2 km N of Blackhawk, CA",earthquake,0.21,0.63,0.158,8.0,reviewed,nc,nc
