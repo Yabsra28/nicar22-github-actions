@@ -5031,3 +5031,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T16:58:33.673Z,-1.9869,139.0314,13.971,5.1,mb,106.0,19.0,1.043,0.82,us,us6000r04m,2025-08-12T17:32:30.040Z,"190 km WNW of Abepura, Indonesia",earthquake,4.82,3.336,0.054,113.0,reviewed,us,us
 2025-08-12T10:06:07.290Z,31.657,-104.197,2.2034,1.1,ml,17.0,76.0,0.1,0.1,tx,tx2025pudaft,2025-08-12T17:22:33.736Z,"53 km NW of Toyah, Texas",earthquake,0.5232796355891,1.1312360422556,0.2,11.0,reviewed,tx,tx
 2025-08-11T20:57:36.122Z,31.644,-104.317,6.0999,1.5,ml,19.0,63.0,0.1,0.1,tx,tx2025ptcxan,2025-08-12T17:29:03.707Z,"59 km S of Whites City, New Mexico",earthquake,0.91901550152049,1.2318871815894,0.2,24.0,reviewed,tx,tx
+2025-08-12T17:44:32.990Z,36.198,-118.4505,5.75,1.11,ml,22.0,93.0,0.1202,0.18,ci,ci41259312,2025-08-12T17:48:15.373Z,"41 km WSW of Olancha, CA",earthquake,0.25,0.86,0.133,14.0,automatic,ci,ci
+2025-08-12T16:00:04.262Z,51.7095,159.3376,30.228,4.6,mb,99.0,115.0,1.382,0.66,us,us6000r04c,2025-08-12T17:34:00.040Z,"150 km SSE of Vilyuchinsk, Russia",earthquake,8.54,5.882,0.053,108.0,reviewed,us,us
+2025-08-12T11:22:03.410Z,46.8545,-121.75666666667,-2.21,0.41,ml,14.0,74.0,0.02337,0.09,uw,uw62169751,2025-08-12T17:38:29.750Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.45,0.27505566276024,9.0,reviewed,uw,uw
