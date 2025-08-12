@@ -5076,3 +5076,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T22:24:09.420Z,53.843,-166.80633333333,7.62,-0.05,ml,7.0,88.0,0.04837,0.14,av,av93048144,2025-08-12T20:24:59.180Z,"18 km WSW of Dutch Harbor, Alaska",earthquake,0.38,0.89,0.17853839710172,7.0,reviewed,av,av
 2025-08-12T20:43:23.511Z,37.4049,-117.8953,12.3,1.2,ml,12.0,142.99,0.071,0.4881,nn,nn00902500,2025-08-12T20:46:05.981Z,"32 km SSE of Dyer, Nevada",earthquake,,0.5,0.26,8.0,automatic,nn,nn
 2025-08-12T20:24:00.693Z,50.3208,159.2024,10.0,5.2,mb,106.0,114.0,2.728,0.85,us,us6000r06w,2025-08-12T20:43:07.040Z,"221 km ESE of Severo-Kuril’sk, Russia",earthquake,8.9,1.864,0.028,414.0,reviewed,us,us
+2025-08-12T21:02:04.991Z,61.3072,-152.5188,8.0,1.5,ml,,,,0.89,ak,ak025aaswa4z,2025-08-12T21:03:12.781Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-12T20:52:19.149Z,32.311,-101.84,3.3485,1.5,ml,53.0,37.0,0.0,0.6,tx,tx2025puylkr,2025-08-12T20:56:56.220Z,"20 km NNW of Stanton, Texas",earthquake,0.0,0.67703431844711,0.2,33.0,automatic,tx,tx
+2025-08-12T08:08:50.800Z,47.818666666667,-122.36683333333,24.72,0.93,ml,9.0,124.0,0.09078,0.09,uw,uw62169716,2025-08-12T21:12:11.270Z,"1 km NE of Edmonds, Washington",earthquake,0.71,0.73,0.23591006067426,3.0,reviewed,uw,uw
