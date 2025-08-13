@@ -5221,3 +5221,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:42:08.689Z,36.6172,-116.0445,10.0,-0.4,ml,10.0,173.38,0.08,0.0346,nn,nn00902539,2025-08-13T07:43:57.755Z,"33 km W of Indian Springs, Nevada",earthquake,,1.4,0.25,7.0,automatic,nn,nn
 2025-08-13T07:41:58.870Z,34.0565,-117.135,9.62,0.91,ml,61.0,28.0,0.02814,0.17,ci,ci41259728,2025-08-13T07:45:32.016Z,"2 km S of Mentone, CA",earthquake,0.14,0.31,0.19,29.0,automatic,ci,ci
 2025-08-13T07:38:14.910Z,38.77216720581,-122.74433135986,1.2699999809265,1.02,md,9.0,100.0,0.01255,0.02,nc,nc75222592,2025-08-13T07:39:53.206Z,"1 km SE of The Geysers, CA",earthquake,0.36,0.699999988,0.16,9.0,automatic,nc,nc
+2025-08-13T07:54:06.783Z,59.9914,-151.4719,46.0,1.1,ml,,,,0.41,ak,ak025ac8epja,2025-08-13T07:55:56.049Z,"12 km ESE of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-13T07:38:28.026Z,49.9498,159.299,10.0,4.6,mb,57.0,127.0,3.105,0.61,us,us6000r0aa,2025-08-13T07:59:01.040Z,"239 km ESE of Severo-Kuril’sk, Russia",earthquake,10.18,1.902,0.039,199.0,reviewed,us,us
