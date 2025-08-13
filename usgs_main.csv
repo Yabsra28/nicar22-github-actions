@@ -5434,3 +5434,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T23:11:55.334Z,50.1184,158.2915,10.0,4.6,mb,35.0,134.0,2.918,0.71,us,us6000r0ga,2025-08-13T23:40:41.040Z,"165 km ESE of Severo-Kuril’sk, Russia",earthquake,12.53,1.927,0.09,37.0,reviewed,us,us
 2025-08-13T13:49:04.520Z,61.3155,-152.49883333333,2.84,-0.61,ml,5.0,175.0,0.05122,0.04,av,av93714523,2025-08-13T23:34:57.340Z,"78 km WNW of Tyonek, Alaska",earthquake,0.62,1.34,0.25285773102777,5.0,reviewed,av,av
 2025-08-13T13:46:57.410Z,60.020333333333,-152.99,3.73,-0.88,ml,6.0,229.0,0.01488,0.2,av,av93714518,2025-08-13T23:29:30.700Z,"67 km ENE of Pedro Bay, Alaska",earthquake,1.36,1.03,0.25651819432732,6.0,reviewed,av,av
+2025-08-13T23:49:06.060Z,36.905334472656,-121.32350158691,8.4499998092651,1.6,md,17.0,159.0,0.0197,0.07,nc,nc75222882,2025-08-13T23:50:44.005Z,"9 km ENE of Hollister, CA",earthquake,0.38,0.649999976,0.08,12.0,automatic,nc,nc
+2025-08-13T23:43:45.327Z,61.4529,-149.9099,30.2,1.5,ml,,,,0.53,ak,ak025achvdb8,2025-08-13T23:45:40.584Z,"7 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-13T13:48:14.911Z,36.6194,-115.9983,10.0,-0.1,ml,14.0,261.3,0.051,0.0804,nn,nn00902565,2025-08-13T23:47:14.605Z,"29 km W of Indian Springs, Nevada",earthquake,,1.3,0.09,3.0,reviewed,nn,nn
