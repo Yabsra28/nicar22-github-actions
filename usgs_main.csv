@@ -5310,3 +5310,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T14:18:51.885Z,32.017,-101.716,8.6182,1.1,ml,23.0,60.0,0.1,0.2,tx,tx2025pwhdgf,2025-08-13T14:34:37.746Z,"14 km SSE of Stanton, Texas",earthquake,0.55875577247526,0.89146210377457,0.1,11.0,reviewed,tx,tx
 2025-08-13T14:50:47.177Z,63.513,-149.9639,97.2,1.2,ml,,,,3.19,ak,ak025accjz0t,2025-08-13T14:53:20.476Z,"52 km WNW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-13T04:21:11.442Z,31.715,-104.295,6.5613,0.8,ml,15.0,73.0,0.1,0.1,tx,tx2025pvnifw,2025-08-13T14:55:48.527Z,"51 km S of Whites City, New Mexico",earthquake,0.79498389387726,0.72421077925222,0.1,19.0,reviewed,tx,tx
+2025-08-13T15:24:41.120Z,59.7811,-153.4379,123.9,1.2,ml,,,,0.24,ak,ak025accztjk,2025-08-13T15:26:24.840Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-13T15:12:55.010Z,63.4577,-150.1736,96.3,1.3,ml,,,,0.62,ak,ak025accxa0t,2025-08-13T15:15:11.748Z,"61 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-13T15:04:34.310Z,19.222833633423,-155.35932922363,29.090000152588,1.86,ml,47.0,189.0,0.03891,0.150000006,hv,hv74751647,2025-08-13T15:07:53.050Z,"12 km E of Pāhala, Hawaii",earthquake,0.58,0.409999996,0.81,5.0,automatic,hv,hv
+2025-08-13T15:03:01.820Z,33.89,-116.9316667,12.95,1.62,ml,82.0,18.0,0.08716,0.17,ci,ci41260000,2025-08-13T15:06:37.111Z,"6 km SE of Beaumont, CA",earthquake,0.11,0.39,0.148,27.0,automatic,ci,ci
+2025-08-13T04:27:52.680Z,39.533333333333,-111.93766666667,9.06,0.6,md,10.0,88.0,0.09884,0.15,uu,uu80004463,2025-08-13T15:25:10.900Z,"7 km WSW of Levan, Utah",earthquake,0.5,0.94,0.11058770384983,5.0,reviewed,uu,uu
+2025-08-13T00:26:46.480Z,31.714,-104.264,6.0999,0.9,ml,14.0,52.0,0.0,0.1,tx,tx2025pvfofo,2025-08-13T15:03:16.479Z,"52 km SSE of Whites City, New Mexico",earthquake,0.73129962090199,0.70278170908466,0.1,19.0,reviewed,tx,tx
+2025-08-13T00:04:47.510Z,31.603,-103.968,8.5095,1.0,ml,21.0,64.0,0.0,0.1,tx,tx2025pveuxw,2025-08-13T15:10:36.537Z,"36 km NNW of Toyah, Texas",earthquake,0.66731176228653,0.63886429154076,0.1,25.0,reviewed,tx,tx
