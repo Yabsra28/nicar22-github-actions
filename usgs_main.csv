@@ -5191,3 +5191,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T04:50:45.100Z,39.263000488281,-123.52716827393,5.7199997901917,1.68,md,11.0,131.0,0.07272,0.07,nc,nc75222527,2025-08-13T04:52:21.987Z,"22 km E of Navarro Head, CA",earthquake,0.38,0.939999998,0.16,7.0,automatic,nc,nc
 2025-08-13T04:44:42.550Z,38.777500152588,-122.74617004394,2.210000038147,1.15,md,19.0,71.0,0.009344,0.03,nc,nc75222522,2025-08-13T04:46:17.026Z,"1 km E of The Geysers, CA",earthquake,0.28,0.519999981,0.15,19.0,automatic,nc,nc
 2025-08-13T04:35:02.689Z,62.9595,-148.1904,15.2,1.2,ml,,,,0.24,ak,ak025ac6ibss,2025-08-13T04:37:24.541Z,"61 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-13T05:05:27.130Z,38.80933380127,-122.82166290283,2.9800000190735,0.78,md,13.0,61.0,0.00589,0.02,nc,nc75222542,2025-08-13T05:07:01.186Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.829999983,0.13,16.0,automatic,nc,nc
+2025-08-13T05:03:02.529Z,61.5808,-146.3009,29.8,1.2,ml,,,,1.0,ak,ak025ac6wwh8,2025-08-13T05:04:51.578Z,"50 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
