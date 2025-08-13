@@ -5239,3 +5239,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T09:55:40.975Z,59.9612,-141.1891,18.8,1.6,ml,,,,0.38,ak,ak025ac9lv3l,2025-08-13T09:57:05.567Z,"94 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-13T09:50:48.519Z,61.5613,-149.9546,33.7,1.1,ml,,,,0.65,ak,ak025ac9kt3n,2025-08-13T09:52:36.947Z,"4 km N of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-13T09:40:09.010Z,18.1253,-68.32,88.0,3.77,md,19.0,207.0,0.3934,0.23,pr,pr2025225000,2025-08-13T09:56:39.857Z,"41 km SE of Boca de Yuma, Dominican Republic",earthquake,1.84,1.29,0.1,12.0,reviewed,pr,pr
+2025-08-13T10:28:03.500Z,38.835998535156,-122.79000091553,1.5599999427795,0.7,md,9.0,80.0,0.002422,0.02,nc,nc75222622,2025-08-13T10:29:37.959Z,"6 km WNW of Cobb, CA",earthquake,0.4,1.19000006,0.12,11.0,automatic,nc,nc
+2025-08-13T10:22:15.037Z,32.167,-101.71,4.5974,1.1,ml,32.0,42.0,0.0,0.5,tx,tx2025pvzhjf,2025-08-13T10:26:36.153Z,"8 km ENE of Stanton, Texas",earthquake,0.0,0.95836216211319,0.2,20.0,automatic,tx,tx
+2025-08-13T10:19:28.223Z,32.178,-101.697,3.7069,1.5,ml,58.0,40.0,0.0,0.5,tx,tx2025pvzeyv,2025-08-13T10:25:10.792Z,"10 km ENE of Stanton, Texas",earthquake,0.0,0.71978563070297,0.1,37.0,automatic,tx,tx
+2025-08-13T10:12:51.770Z,38.793834686279,-122.75333404541,0.31999999284744,1.31,md,19.0,88.0,0.008415,0.04,nc,nc75222617,2025-08-13T10:14:27.902Z,"2 km NNE of The Geysers, CA",earthquake,0.22,0.409999996,0.2,19.0,automatic,nc,nc
+2025-08-13T10:11:27.677Z,32.175,-101.698,4.1302,1.7,ml,64.0,50.0,0.0,0.5,tx,tx2025pvyybk,2025-08-13T10:15:18.206Z,"9 km ENE of Stanton, Texas",earthquake,0.0,0.68704861402512,0.1,42.0,automatic,tx,tx
+2025-08-13T09:59:05.830Z,35.6756667,-117.4785,9.58,0.56,ml,20.0,69.0,0.04584,0.14,ci,ci41259768,2025-08-13T10:02:37.045Z,"12 km SSW of Searles Valley, CA",earthquake,0.31,0.63,0.176,6.0,automatic,ci,ci
+2025-08-12T22:21:45.822Z,35.9774,-115.1593,11.014,1.9,ml,19.0,53.0,0.526,0.89,us,us6000r07p,2025-08-13T10:16:50.604Z,"9 km SE of Enterprise, Nevada",earthquake,2.24,8.398,0.059,38.0,reviewed,us,us
