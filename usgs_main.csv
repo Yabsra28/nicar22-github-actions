@@ -5391,3 +5391,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T00:30:33.850Z,60.034833333333,-153.05883333333,0.33,-0.72,ml,5.0,138.0,0.02272,0.13,av,av93713983,2025-08-13T20:44:52.400Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.62,1.59,0.38912348645457,5.0,reviewed,av,av
 2025-08-13T21:08:31.882Z,61.2046,-150.1909,20.1,1.2,ml,,,,0.52,ak,ak025acggz04,2025-08-13T21:10:56.765Z,"15 km W of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-13T20:28:43.020Z,50.9476,157.98,43.408,4.3,mb,82.0,98.0,2.12,0.62,us,us6000r0ff,2025-08-13T21:05:53.040Z,"119 km ESE of Ozernovskiy, Russia",earthquake,8.83,6.34,0.063,70.0,reviewed,us,us
+2025-08-13T21:30:44.630Z,32.7680016,-116.8881683,8.81,1.31,ml,17.0,86.0,0.05597,0.27,ci,ci41260304,2025-08-13T21:32:47.151Z,"5 km ENE of Rancho San Diego, CA",earthquake,0.71,1.93,0.214,7.0,automatic,ci,ci
+2025-08-13T02:03:41.760Z,61.465,-151.91183333333,1.8,-0.1,ml,4.0,151.0,0.04973,0.11,av,av93714063,2025-08-13T21:31:21.110Z,"57 km NW of Beluga, Alaska",earthquake,1.92,2.72,0.13143095094675,4.0,reviewed,av,av
+2025-08-13T01:43:16.470Z,52.086833333333,-176.1395,6.34,0.82,ml,6.0,155.0,0.02441,0.33,av,av93714043,2025-08-13T21:17:21.140Z,"41 km NE of Adak, Alaska",earthquake,1.12,1.83,0.19860652299158,6.0,reviewed,av,av
