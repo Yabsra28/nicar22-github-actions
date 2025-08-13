@@ -5224,3 +5224,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:54:06.783Z,59.9914,-151.4719,46.0,1.1,ml,,,,0.41,ak,ak025ac8epja,2025-08-13T07:55:56.049Z,"12 km ESE of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-13T07:38:28.026Z,49.9498,159.299,10.0,4.6,mb,57.0,127.0,3.105,0.61,us,us6000r0aa,2025-08-13T07:59:01.040Z,"239 km ESE of Severo-Kuril’sk, Russia",earthquake,10.18,1.902,0.039,199.0,reviewed,us,us
 2025-08-13T08:07:12.511Z,-5.3699,131.2532,60.98,5.0,mb,48.0,56.0,1.586,1.04,us,us6000r0aj,2025-08-13T08:23:44.040Z,"168 km W of Tual, Indonesia",earthquake,4.89,6.962,0.094,36.0,reviewed,us,us
+2025-08-13T08:50:47.010Z,33.2318333,-116.738,10.66,0.76,ml,42.0,33.0,0.01788,0.16,ci,ci41259744,2025-08-13T08:54:19.754Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.17,0.29,0.145,20.0,automatic,ci,ci
+2025-08-13T07:13:35.971Z,32.374,-102.106,7.3486,0.8,ml,25.0,40.0,0.0,0.2,tx,tx2025pvtaui,2025-08-13T08:56:29.443Z,"40 km WSW of Ackerly, Texas",earthquake,0.44636647349762,0.63534506484401,0.2,13.0,reviewed,tx,tx
