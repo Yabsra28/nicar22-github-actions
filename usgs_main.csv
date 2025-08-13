@@ -5317,3 +5317,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T04:27:52.680Z,39.533333333333,-111.93766666667,9.06,0.6,md,10.0,88.0,0.09884,0.15,uu,uu80004463,2025-08-13T15:25:10.900Z,"7 km WSW of Levan, Utah",earthquake,0.5,0.94,0.11058770384983,5.0,reviewed,uu,uu
 2025-08-13T00:26:46.480Z,31.714,-104.264,6.0999,0.9,ml,14.0,52.0,0.0,0.1,tx,tx2025pvfofo,2025-08-13T15:03:16.479Z,"52 km SSE of Whites City, New Mexico",earthquake,0.73129962090199,0.70278170908466,0.1,19.0,reviewed,tx,tx
 2025-08-13T00:04:47.510Z,31.603,-103.968,8.5095,1.0,ml,21.0,64.0,0.0,0.1,tx,tx2025pveuxw,2025-08-13T15:10:36.537Z,"36 km NNW of Toyah, Texas",earthquake,0.66731176228653,0.63886429154076,0.1,25.0,reviewed,tx,tx
+2025-08-13T15:29:49.490Z,35.7115,-117.5605,6.73,0.88,ml,27.0,65.0,0.1083,0.15,ci,ci41260016,2025-08-13T15:33:21.374Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.57,0.157,17.0,automatic,ci,ci
