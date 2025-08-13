@@ -5248,3 +5248,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T22:21:45.822Z,35.9774,-115.1593,11.014,1.9,ml,19.0,53.0,0.526,0.89,us,us6000r07p,2025-08-13T10:16:50.604Z,"9 km SE of Enterprise, Nevada",earthquake,2.24,8.398,0.059,38.0,reviewed,us,us
 2025-08-13T10:42:34.610Z,35.6755,-117.4793333,9.56,1.1,ml,28.0,43.0,0.04646,0.14,ci,ci41259784,2025-08-13T10:46:03.468Z,"12 km SSW of Searles Valley, CA",earthquake,0.2,0.45,0.24,19.0,automatic,ci,ci
 2025-08-13T10:35:50.050Z,38.826332092285,-122.81449890137,1.9700000286102,1.29,md,27.0,40.0,0.004533,0.03,nc,nc75222627,2025-08-13T10:37:28.869Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.17,28.0,automatic,nc,nc
+2025-08-13T05:49:46.106Z,32.363,-101.032,1.3712,1.0,mlv,5.0,252.0,0.2,0.0,tx,tx2025pvqgof,2025-08-13T11:13:05.568Z,"1 km WNW of Westbrook, Texas",earthquake,0.0,5.8286576271057,0.2,4.0,automatic,tx,tx
+2025-08-12T23:56:31.791Z,32.116,-101.904,7.1993,1.0,mlv,10.0,115.0,0.1,0.5,tx,tx2025pveofe,2025-08-13T11:12:37.406Z,"11 km W of Stanton, Texas",earthquake,0.0,3.9204165935516,0.5,6.0,automatic,tx,tx
