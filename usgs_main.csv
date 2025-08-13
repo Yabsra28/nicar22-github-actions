@@ -5236,3 +5236,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T20:58:47.364Z,32.178,-101.699,6.2256,0.7,ml,19.0,66.0,0.0,0.2,tx,tx2025puyqzn,2025-08-13T09:04:51.485Z,"10 km ENE of Stanton, Texas",earthquake,0.56287604853139,1.3530331933281,0.2,12.0,reviewed,tx,tx
 2025-08-13T09:37:45.209Z,63.1147,-150.5937,1.4,1.8,ml,,,,0.57,ak,ak025ac9i0jc,2025-08-13T09:39:50.686Z,"69 km N of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-13T09:23:45.669Z,13.1254,145.8513,10.0,5.1,mb,97.0,59.0,1.062,0.7,us,us6000r0az,2025-08-13T09:43:54.199Z,"113 km ESE of Yigo Village, Guam",earthquake,6.97,1.867,0.066,74.0,reviewed,us,us
+2025-08-13T09:55:40.975Z,59.9612,-141.1891,18.8,1.6,ml,,,,0.38,ak,ak025ac9lv3l,2025-08-13T09:57:05.567Z,"94 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-13T09:50:48.519Z,61.5613,-149.9546,33.7,1.1,ml,,,,0.65,ak,ak025ac9kt3n,2025-08-13T09:52:36.947Z,"4 km N of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-13T09:40:09.010Z,18.1253,-68.32,88.0,3.77,md,19.0,207.0,0.3934,0.23,pr,pr2025225000,2025-08-13T09:56:39.857Z,"41 km SE of Boca de Yuma, Dominican Republic",earthquake,1.84,1.29,0.1,12.0,reviewed,pr,pr
