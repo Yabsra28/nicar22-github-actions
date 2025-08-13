@@ -5234,3 +5234,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T09:04:21.629Z,-18.5531,-177.4938,409.078,4.5,mb,108.0,121.0,3.635,0.71,us,us6000r0aw,2025-08-13T09:21:17.040Z,Fiji region,earthquake,12.2,8.191,0.048,126.0,reviewed,us,us
 2025-08-13T09:01:56.600Z,34.01,-117.1266667,12.33,1.14,ml,69.0,26.0,0.02803,0.17,ci,ci41259752,2025-08-13T09:05:27.207Z,"7 km S of Mentone, CA",earthquake,0.13,0.35,0.206,26.0,automatic,ci,ci
 2025-08-12T20:58:47.364Z,32.178,-101.699,6.2256,0.7,ml,19.0,66.0,0.0,0.2,tx,tx2025puyqzn,2025-08-13T09:04:51.485Z,"10 km ENE of Stanton, Texas",earthquake,0.56287604853139,1.3530331933281,0.2,12.0,reviewed,tx,tx
+2025-08-13T09:37:45.209Z,63.1147,-150.5937,1.4,1.8,ml,,,,0.57,ak,ak025ac9i0jc,2025-08-13T09:39:50.686Z,"69 km N of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-13T09:23:45.669Z,13.1254,145.8513,10.0,5.1,mb,97.0,59.0,1.062,0.7,us,us6000r0az,2025-08-13T09:43:54.199Z,"113 km ESE of Yigo Village, Guam",earthquake,6.97,1.867,0.066,74.0,reviewed,us,us
