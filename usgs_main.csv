@@ -5328,3 +5328,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T09:38:54.500Z,38.202833333333,-112.55416666667,7.58,1.12,ml,13.0,150.0,0.3332,0.19,uu,uu80004453,2025-08-13T16:07:27.560Z,"11 km SE of Beaver, Utah",earthquake,0.63,2.77,0.12902705788616,4.0,reviewed,uu,uu
 2025-08-13T03:24:25.162Z,31.663,-104.183,6.0999,0.8,ml,21.0,68.0,0.1,0.1,tx,tx2025pvllhz,2025-08-13T16:02:36.251Z,"53 km NW of Toyah, Texas",earthquake,0.66194446244313,1.1698964978911,0.2,22.0,reviewed,tx,tx
 2025-08-13T00:08:23.999Z,31.715,-104.289,6.6125,1.1,ml,16.0,73.0,0.0,0.1,tx,tx2025pveyie,2025-08-13T16:06:45.937Z,"51 km S of Whites City, New Mexico",earthquake,0.86724474137788,0.79272459561559,0.1,19.0,reviewed,tx,tx
+2025-08-13T16:31:30.720Z,33.9875,-116.8375,11.29,0.98,ml,10.0,215.0,0.05356,0.1,ci,ci41260104,2025-08-13T16:35:10.977Z,"8 km NNE of Banning, CA",earthquake,0.87,0.44,0.182,25.0,automatic,ci,ci
+2025-08-13T16:25:52.240Z,62.8831,-150.2786,75.2,1.3,ml,,,,1.14,ak,ak025acdlhq0,2025-08-13T16:27:40.854Z,"49 km N of Chase, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-13T16:19:53.870Z,61.626,-146.3552,25.0,1.4,ml,,,,0.74,ak,ak025acdk7jv,2025-08-13T16:21:50.737Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-13T16:19:23.040Z,38.816333770752,-122.80300140381,0.62000000476837,0.37,md,8.0,152.0,0.008958,0.03,nc,nc75222727,2025-08-13T16:20:59.655Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.709999979,0.17,8.0,automatic,nc,nc
+2025-08-13T16:11:00.389Z,61.422,-151.2583,63.2,1.4,ml,,,,0.41,ak,ak025acdidp2,2025-08-13T16:12:36.067Z,"32 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-13T16:05:41.250Z,18.017333333333,-66.7935,19.19,2.12,md,8.0,162.0,0.09181,0.14,pr,pr71492743,2025-08-13T16:24:58.100Z,"0 km SW of Guayanilla, Puerto Rico",earthquake,0.52,1.13,0.094069750536707,6.0,reviewed,pr,pr
+2025-08-13T16:05:07.170Z,18.006,-66.934666666667,2.95,1.64,md,3.0,209.0,0.06106,0.11,pr,pr71492733,2025-08-13T16:19:06.450Z,"2 km NW of Fuig, Puerto Rico",earthquake,1.38,9.07,0.056452393281378,3.0,reviewed,pr,pr
