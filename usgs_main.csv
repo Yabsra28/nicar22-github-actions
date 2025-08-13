@@ -5250,3 +5250,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T10:35:50.050Z,38.826332092285,-122.81449890137,1.9700000286102,1.29,md,27.0,40.0,0.004533,0.03,nc,nc75222627,2025-08-13T10:37:28.869Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.17,28.0,automatic,nc,nc
 2025-08-13T05:49:46.106Z,32.363,-101.032,1.3712,1.0,mlv,5.0,252.0,0.2,0.0,tx,tx2025pvqgof,2025-08-13T11:13:05.568Z,"1 km WNW of Westbrook, Texas",earthquake,0.0,5.8286576271057,0.2,4.0,automatic,tx,tx
 2025-08-12T23:56:31.791Z,32.116,-101.904,7.1993,1.0,mlv,10.0,115.0,0.1,0.5,tx,tx2025pveofe,2025-08-13T11:12:37.406Z,"11 km W of Stanton, Texas",earthquake,0.0,3.9204165935516,0.5,6.0,automatic,tx,tx
+2025-08-13T11:45:44.190Z,33.21,-115.6253333,3.63,1.61,ml,42.0,43.0,0.0269,0.19,ci,ci41259800,2025-08-13T11:49:12.523Z,"10 km WSW of Niland, CA",earthquake,0.19,0.25,0.133,26.0,automatic,ci,ci
+2025-08-13T11:39:35.750Z,33.9053333,-117.1028333,8.46,0.37,ml,8.0,163.0,0.1301,0.2,ci,ci41259792,2025-08-13T11:43:23.485Z,"10 km SSW of Calimesa, CA",earthquake,0.81,2.27,0.097,7.0,automatic,ci,ci
+2025-08-13T09:52:29.605Z,31.9638,131.9294,38.654,4.4,mb,43.0,98.0,1.337,1.09,us,us6000r0b6,2025-08-13T11:47:09.040Z,"44 km ESE of Takanabe, Japan",earthquake,7.52,8.796,0.107,25.0,reviewed,us,us
