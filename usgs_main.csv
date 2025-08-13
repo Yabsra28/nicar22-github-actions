@@ -5427,3 +5427,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T12:10:22.510Z,58.237333333333,-155.16933333333,3.43,-0.28,ml,7.0,135.0,0.04197,0.09,av,av93714448,2025-08-13T23:23:08.830Z,"85 km NNW of Karluk, Alaska",earthquake,0.26,0.72,0.31970518625383,8.0,reviewed,av,av
 2025-08-13T11:29:31.770Z,60.0415,-153.0445,1.43,-0.81,ml,5.0,183.0,0.01857,0.11,av,av93714408,2025-08-13T23:08:19.430Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.92,0.42,0.40065302426615,5.0,reviewed,av,av
 2025-08-13T11:25:29.640Z,61.298833333333,-152.2985,-2.25,-0.27,ml,8.0,138.0,0.04559,0.11,av,av93714403,2025-08-13T23:15:46.650Z,"67 km WNW of Tyonek, Alaska",earthquake,0.33,1.38,0.21314135240679,8.0,reviewed,av,av
+2025-08-13T23:33:27.321Z,62.5784,-149.824,10.3,1.2,ml,,,,0.44,ak,ak025acht6rg,2025-08-13T23:35:12.325Z,"20 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-13T23:30:09.810Z,33.4964981,-116.4758301,11.92,1.32,ml,20.0,75.0,0.1056,0.17,ci,ci41260384,2025-08-13T23:34:12.774Z,"20 km ESE of Anza, CA",earthquake,0.44,1.23,0.144,12.0,automatic,ci,ci
+2025-08-13T23:28:03.172Z,63.2326,-150.9047,0.0,1.2,ml,,,,1.06,ak,ak025achs2bh,2025-08-13T23:30:25.574Z,"53 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-13T23:23:10.208Z,44.8115,-111.5189,12.506,3.2,ml,57.0,26.0,0.155,0.39,us,us6000r0gc,2025-08-13T23:31:06.040Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,1.08,6.81,0.031,138.0,reviewed,us,us
+2025-08-13T23:11:55.334Z,50.1184,158.2915,10.0,4.6,mb,35.0,134.0,2.918,0.71,us,us6000r0ga,2025-08-13T23:40:41.040Z,"165 km ESE of Severo-Kuril’sk, Russia",earthquake,12.53,1.927,0.09,37.0,reviewed,us,us
+2025-08-13T13:49:04.520Z,61.3155,-152.49883333333,2.84,-0.61,ml,5.0,175.0,0.05122,0.04,av,av93714523,2025-08-13T23:34:57.340Z,"78 km WNW of Tyonek, Alaska",earthquake,0.62,1.34,0.25285773102777,5.0,reviewed,av,av
+2025-08-13T13:46:57.410Z,60.020333333333,-152.99,3.73,-0.88,ml,6.0,229.0,0.01488,0.2,av,av93714518,2025-08-13T23:29:30.700Z,"67 km ENE of Pedro Bay, Alaska",earthquake,1.36,1.03,0.25651819432732,6.0,reviewed,av,av
