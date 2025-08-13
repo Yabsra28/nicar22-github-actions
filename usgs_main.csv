@@ -5308,3 +5308,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T14:44:50.425Z,58.1076,-154.5245,12.4,1.6,ml,,,,0.26,ak,ak025accioz6,2025-08-13T14:46:18.615Z,"60 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-13T14:42:57.909Z,61.4384,-151.5335,65.3,1.2,ml,,,,0.69,ak,ak025accia4e,2025-08-13T14:45:15.682Z,"41 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-13T14:18:51.885Z,32.017,-101.716,8.6182,1.1,ml,23.0,60.0,0.1,0.2,tx,tx2025pwhdgf,2025-08-13T14:34:37.746Z,"14 km SSE of Stanton, Texas",earthquake,0.55875577247526,0.89146210377457,0.1,11.0,reviewed,tx,tx
+2025-08-13T14:50:47.177Z,63.513,-149.9639,97.2,1.2,ml,,,,3.19,ak,ak025accjz0t,2025-08-13T14:53:20.476Z,"52 km WNW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-13T04:21:11.442Z,31.715,-104.295,6.5613,0.8,ml,15.0,73.0,0.1,0.1,tx,tx2025pvnifw,2025-08-13T14:55:48.527Z,"51 km S of Whites City, New Mexico",earthquake,0.79498389387726,0.72421077925222,0.1,19.0,reviewed,tx,tx
