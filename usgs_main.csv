@@ -5223,3 +5223,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:38:14.910Z,38.77216720581,-122.74433135986,1.2699999809265,1.02,md,9.0,100.0,0.01255,0.02,nc,nc75222592,2025-08-13T07:39:53.206Z,"1 km SE of The Geysers, CA",earthquake,0.36,0.699999988,0.16,9.0,automatic,nc,nc
 2025-08-13T07:54:06.783Z,59.9914,-151.4719,46.0,1.1,ml,,,,0.41,ak,ak025ac8epja,2025-08-13T07:55:56.049Z,"12 km ESE of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-13T07:38:28.026Z,49.9498,159.299,10.0,4.6,mb,57.0,127.0,3.105,0.61,us,us6000r0aa,2025-08-13T07:59:01.040Z,"239 km ESE of Severo-Kuril’sk, Russia",earthquake,10.18,1.902,0.039,199.0,reviewed,us,us
+2025-08-13T08:07:12.511Z,-5.3699,131.2532,60.98,5.0,mb,48.0,56.0,1.586,1.04,us,us6000r0aj,2025-08-13T08:23:44.040Z,"168 km W of Tual, Indonesia",earthquake,4.89,6.962,0.094,36.0,reviewed,us,us
