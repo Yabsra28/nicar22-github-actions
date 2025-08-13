@@ -5193,3 +5193,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T04:35:02.689Z,62.9595,-148.1904,15.2,1.2,ml,,,,0.24,ak,ak025ac6ibss,2025-08-13T04:37:24.541Z,"61 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-13T05:05:27.130Z,38.80933380127,-122.82166290283,2.9800000190735,0.78,md,13.0,61.0,0.00589,0.02,nc,nc75222542,2025-08-13T05:07:01.186Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.829999983,0.13,16.0,automatic,nc,nc
 2025-08-13T05:03:02.529Z,61.5808,-146.3009,29.8,1.2,ml,,,,1.0,ak,ak025ac6wwh8,2025-08-13T05:04:51.578Z,"50 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-13T05:28:07.725Z,31.537,-104.176,3.7642,2.4,ml,40.0,101.0,0.1,0.3,tx,tx2025pvpnxr,2025-08-13T05:33:24.587Z,"43 km NW of Toyah, Texas",earthquake,0.0,0.99844604730606,0.2,31.0,automatic,tx,tx
+2025-08-13T05:07:03.150Z,17.984166666667,-66.973333333333,8.3,2.44,md,9.0,163.0,0.06905,0.09,pr,pr71492638,2025-08-13T05:37:28.760Z,"6 km W of Fuig, Puerto Rico",earthquake,0.38,0.86,0.18348910048571,7.0,reviewed,pr,pr
