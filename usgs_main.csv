@@ -5304,3 +5304,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T14:02:51.170Z,34.0596667,-117.1351667,11.4,2.42,ml,115.0,17.0,0.03065,0.17,ci,ci41259936,2025-08-13T14:13:49.440Z,"1 km S of Mentone, CA",earthquake,0.1,0.18,0.173,24.0,automatic,ci,ci
 2025-08-13T08:58:13.150Z,41.885,-112.375,9.81,1.4,ml,18.0,87.0,0.05808,0.13,uu,uu80113751,2025-08-13T14:29:10.110Z,"11 km NNE of Howell, Utah",earthquake,0.3,0.57,0.28954033536746,3.0,reviewed,uu,uu
 2025-08-13T00:49:13.873Z,31.671,-104.42,7.074,1.0,ml,17.0,71.0,0.0,0.1,tx,tx2025pvghoh,2025-08-13T14:08:11.555Z,"56 km S of Whites City, New Mexico",earthquake,0.87461769334357,0.72451217958974,0.2,19.0,reviewed,tx,tx
+2025-08-13T14:45:24.320Z,34.1426667,-117.422,4.54,1.08,ml,42.0,50.0,0.04518,0.17,ci,ci41259984,2025-08-13T14:48:58.000Z,"6 km NNE of Fontana, CA",earthquake,0.18,0.38,0.197,31.0,automatic,ci,ci
+2025-08-13T14:44:50.425Z,58.1076,-154.5245,12.4,1.6,ml,,,,0.26,ak,ak025accioz6,2025-08-13T14:46:18.615Z,"60 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-13T14:42:57.909Z,61.4384,-151.5335,65.3,1.2,ml,,,,0.69,ak,ak025accia4e,2025-08-13T14:45:15.682Z,"41 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-13T14:18:51.885Z,32.017,-101.716,8.6182,1.1,ml,23.0,60.0,0.1,0.2,tx,tx2025pwhdgf,2025-08-13T14:34:37.746Z,"14 km SSE of Stanton, Texas",earthquake,0.55875577247526,0.89146210377457,0.1,11.0,reviewed,tx,tx
