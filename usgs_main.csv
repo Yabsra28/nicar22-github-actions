@@ -5215,3 +5215,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T06:58:41.471Z,39.1323,-119.1054,5.0,1.2,ml,17.0,74.09,0.181,0.1723,nn,nn00902532,2025-08-13T07:01:09.832Z,"17 km NNE of Yerington, Nevada",earthquake,,2.0,0.19,9.0,automatic,nn,nn
 2025-08-13T06:57:04.550Z,38.85933303833,-122.8398361206,1.2599999904633,0.73,md,9.0,140.0,0.01369,0.02,nc,nc75222582,2025-08-13T06:58:42.038Z,"11 km WNW of Cobb, CA",earthquake,0.35,0.75,0.27,9.0,automatic,nc,nc
 2025-08-13T06:38:03.011Z,52.1309,160.5079,10.0,5.0,mb,75.0,111.0,1.444,1.08,us,us6000r09w,2025-08-13T06:54:56.040Z,"164 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,4.09,1.859,0.027,452.0,reviewed,us,us
+2025-08-13T07:22:49.900Z,37.706832885742,-122.54933166504,6.6199998855591,1.16,md,9.0,201.0,0.1115,0.01,nc,nc75222587,2025-08-13T07:24:28.228Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.56,1.36000001,0.3,6.0,automatic,nc,nc
+2025-08-13T07:21:52.105Z,39.1315,-119.1067,5.5,1.3,ml,19.0,74.04,0.179,0.1495,nn,nn00902537,2025-08-13T07:24:20.219Z,"16 km NNE of Yerington, Nevada",earthquake,,1.6,0.34,12.0,automatic,nn,nn
