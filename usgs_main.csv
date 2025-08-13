@@ -5335,3 +5335,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T16:11:00.389Z,61.422,-151.2583,63.2,1.4,ml,,,,0.41,ak,ak025acdidp2,2025-08-13T16:12:36.067Z,"32 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-13T16:05:41.250Z,18.017333333333,-66.7935,19.19,2.12,md,8.0,162.0,0.09181,0.14,pr,pr71492743,2025-08-13T16:24:58.100Z,"0 km SW of Guayanilla, Puerto Rico",earthquake,0.52,1.13,0.094069750536707,6.0,reviewed,pr,pr
 2025-08-13T16:05:07.170Z,18.006,-66.934666666667,2.95,1.64,md,3.0,209.0,0.06106,0.11,pr,pr71492733,2025-08-13T16:19:06.450Z,"2 km NW of Fuig, Puerto Rico",earthquake,1.38,9.07,0.056452393281378,3.0,reviewed,pr,pr
+2025-08-13T15:41:28.250Z,18.0365,-66.800333333333,18.4,1.95,md,16.0,112.0,0.09683,0.18,pr,pr71492703,2025-08-13T16:49:07.720Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.36,0.55,0.19753793318992,9.0,reviewed,pr,pr
