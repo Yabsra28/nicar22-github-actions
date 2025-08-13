@@ -5346,3 +5346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T17:12:14.170Z,34.1403333,-117.4658333,6.87,1.33,ml,60.0,22.0,0.04645,0.19,ci,ci41260160,2025-08-13T17:23:13.960Z,"5 km N of Fontana, CA",earthquake,0.17,0.33,0.269,30.0,automatic,ci,ci
 2025-08-13T17:10:30.340Z,38.833999633789,-122.78050231934,1.7400000095367,1.86,md,40.0,48.0,0.008858,0.05,nc,nc75222752,2025-08-13T17:13:59.900Z,"5 km WNW of Cobb, CA",earthquake,0.18,0.25999999,0.11,38.0,automatic,nc,nc
 2025-08-13T17:07:55.150Z,38.834331512451,-122.78067016602,1.8600000143051,1.76,md,36.0,50.0,0.008582,0.04,nc,nc75222747,2025-08-13T17:10:55.560Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.270000011,0.09,35.0,automatic,nc,nc
+2025-08-13T17:30:22.874Z,63.5073,-150.906,0.0,1.7,ml,,,,0.7,ak,ak025ace7xn3,2025-08-13T17:32:16.135Z,"40 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-13T17:28:19.400Z,59.5599,-152.9981,89.4,1.7,ml,,,,0.22,ak,ak025ace7hxw,2025-08-13T17:30:19.899Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
