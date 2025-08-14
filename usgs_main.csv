@@ -5741,3 +5741,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T16:08:12.770Z,38.801166666667,-122.81833333333,3.24,0.31,md,15.0,63.0,0.01144,0.03,nc,nc75223677,2025-08-14T19:35:02.494Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.46,0.397,15.0,reviewed,nc,nc
 2025-08-14T19:41:31.790Z,38.837333679199,-122.82299804688,0.51999998092651,0.99,md,14.0,82.0,0.009834,0.02,nc,nc75223822,2025-08-14T19:43:07.855Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.660000026,0.29,13.0,automatic,nc,nc
 2025-08-13T22:27:23.213Z,32.455,-102.068,7.9346,0.7,ml,19.0,99.0,0.1,0.2,tx,tx2025pwxifm,2025-08-14T19:42:42.517Z,"32 km SSW of Los Ybanez, Texas",earthquake,0.63432700031781,0.96636959102174,0.1,11.0,reviewed,tx,tx
+2025-08-14T20:10:46.032Z,64.9176,-149.747,19.7,1.7,ml,,,,0.52,ak,ak025ae3fcez,2025-08-14T20:12:24.492Z,"32 km SW of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-14T19:55:26.040Z,33.3571667,-116.2763333,10.04,0.78,ml,30.0,50.0,0.08185,0.17,ci,ci41260888,2025-08-14T19:59:13.300Z,"14 km NE of Borrego Springs, CA",earthquake,0.21,0.54,0.09,9.0,automatic,ci,ci
+2025-08-14T19:25:32.767Z,52.3444,160.5701,10.0,4.7,mb,58.0,163.0,1.352,0.69,us,us6000r0ti,2025-08-14T20:07:02.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.35,1.934,0.061,82.0,reviewed,us,us
+2025-08-14T15:01:57.880Z,42.1625,-122.05666666667,13.85,1.61,ml,10.0,77.0,0.1051,0.14,uw,uw62162892,2025-08-14T19:58:34.520Z,"23 km WSW of Klamath Falls, Oregon",earthquake,0.38,1.04,0.11857542818696,4.0,reviewed,uw,uw
