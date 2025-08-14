@@ -5778,3 +5778,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T23:10:50.960Z,61.629,-147.4983,17.1,2.5,ml,,,,0.79,ak,ak025ae57nl5,2025-08-14T23:12:36.258Z,"21 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-14T23:10:41.412Z,31.68,-104.425,6.4146,3.0,ml,33.0,83.0,0.0,0.1,tx,tx2025pyumjw,2025-08-14T23:29:41.148Z,"55 km S of Whites City, New Mexico",earthquake,0.68845700062637,0.42896407786276,0.2,30.0,reviewed,tx,tx
 2025-08-14T20:32:08.308Z,32.213,-101.173,10.8085,1.7,mlv,9.0,110.0,0.7,0.4,tx,tx2025pypfsv,2025-08-14T23:12:48.999Z,"15 km SE of Coahoma, Texas",earthquake,0.0,18.324378967285,0.2,7.0,automatic,tx,tx
+2025-08-14T23:32:29.860Z,33.71,-117.3418333,1.51,1.44,ml,49.0,43.0,0.03741,0.21,ci,ci41261024,2025-08-14T23:36:10.266Z,"5 km NNW of Lake Elsinore, CA",earthquake,0.2,0.33,0.324,35.0,automatic,ci,ci
+2025-08-14T21:34:48.590Z,34.2341667,-116.4528333,3.61,0.77,ml,7.0,169.0,0.05399,0.07,ci,ci37738900,2025-08-14T23:42:29.878Z,"14 km N of Yucca Valley, CA",earthquake,0.24,0.51,0.088,8.0,reviewed,ci,ci
