@@ -5761,3 +5761,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T20:06:37.060Z,44.801,-110.86166666667,8.31,1.52,ml,17.0,112.0,0.111,0.12,uu,uu80113821,2025-08-14T20:58:54.440Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.33,1.33,0.26131205248433,6.0,reviewed,uu,uu
 2025-08-14T21:04:50.683Z,64.9038,-151.3642,11.3,1.1,ml,,,,0.31,ak,ak025ae3zi30,2025-08-14T21:13:01.210Z,"36 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-14T20:17:12.640Z,46.1935,-122.45566666667,7.18,0.81,ml,15.0,85.0,0.06903,0.11,uw,uw62163102,2025-08-14T21:17:50.740Z,"31 km N of Amboy, Washington",earthquake,0.38,0.84,0.085752403456852,6.0,reviewed,uw,uw
+2025-08-14T21:41:30.881Z,61.7106,-150.479,36.2,1.4,ml,,,,0.38,ak,ak025ae47e1s,2025-08-14T21:42:56.717Z,"18 km N of Susitna, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2025-08-14T21:34:50.800Z,33.517,-116.3953333,4.71,0.81,ml,15.0,72.0,0.1313,0.17,ci,ci41261000,2025-08-14T21:38:27.442Z,"18 km SSW of La Quinta, CA",earthquake,0.28,0.84,0.096,17.0,automatic,ci,ci
+2025-08-14T19:07:54.420Z,47.883333333333,-122.62816666667,18.73,1.65,ml,12.0,96.0,0.04082,0.39,uw,uw62163037,2025-08-14T21:41:06.620Z,"6 km SE of Port Ludlow, Washington",earthquake,1.13,2.13,0.17323885275557,8.0,reviewed,uw,uw
