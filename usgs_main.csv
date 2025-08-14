@@ -5769,3 +5769,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T21:52:01.894Z,49.7924,156.2335,54.384,5.0,mb,61.0,124.0,3.445,0.95,us,us6000r0ul,2025-08-14T22:06:07.040Z,"98 km S of Severo-Kuril’sk, Russia",earthquake,9.51,6.935,0.048,142.0,reviewed,us,us
 2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26.0,48.0,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:56.182Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15.0,automatic,ci,ci
 2025-08-14T22:19:05.962Z,62.4658,-150.0787,25.5,1.8,ml,,,,0.74,ak,ak025ae4o1z8,2025-08-14T22:21:29.261Z,"2 km NNE of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-08-14T22:42:37.795Z,28.735,-98.861,10.4878,2.2,ml,9.0,178.0,0.2,0.4,tx,tx2025pytofm,2025-08-14T22:46:20.833Z,"20 km SW of Charlotte, Texas",earthquake,0.0,10.822651863098,0.1,7.0,automatic,tx,tx
