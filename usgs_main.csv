@@ -5480,3 +5480,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T20:09:43.350Z,45.3695,-121.70016666667,1.41,1.21,ml,10.0,92.0,0.03258,0.08,uw,uw62162262,2025-08-14T04:26:05.000Z,"8 km NNE of Government Camp, Oregon",earthquake,0.27,0.24,0.14459934285447,6.0,reviewed,uw,uw
 2025-08-13T12:43:32.581Z,50.3687,158.8968,10.0,4.6,mb,52.0,128.0,2.663,0.65,us,us6000r0c7,2025-08-14T04:26:09.040Z,"199 km E of Severo-Kuril’sk, Russia",earthquake,9.53,1.892,0.077,50.0,reviewed,us,us
 2025-08-13T12:40:44.957Z,-1.8736,139.1748,38.063,4.2,mb,13.0,198.0,1.215,0.75,us,us6000r0c6,2025-08-14T04:20:13.040Z,"180 km WNW of Abepura, Indonesia",earthquake,3.8,10.592,0.186,8.0,reviewed,us,us
+2025-08-14T04:42:11.476Z,63.4857,-151.0826,0.0,1.6,ml,,,,0.95,ak,ak025adu36zf,2025-08-14T04:49:33.331Z,"32 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-14T04:38:17.000Z,-18.19,-172.066,100.7,5.7,Mi,20.0,136.799989056,,,pt,pt25226000,2025-08-14T04:48:25.196Z,"208 km ENE of Neiafu, Tonga",earthquake,,,,6.0,reviewed,pt,pt
+2025-08-14T04:30:18.626Z,62.9211,-150.722,102.8,1.4,ml,,,,0.28,ak,ak025adu0mxy,2025-08-14T04:50:06.236Z,"47 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-13T23:24:23.820Z,49.08,-122.11333333333,-0.68,1.02,ml,6.0,303.0,0.08385,0.19,uw,uw61504768,2025-08-14T04:48:05.270Z,"10 km ENE of Abbotsford, Canada",explosion,3.15,31.61,0.16745714562218,3.0,reviewed,uw,uw
+2025-08-13T20:09:47.440Z,45.370666666667,-121.69766666667,1.53,1.46,ml,7.0,90.0,0.0318,0.05,uw,uw61504763,2025-08-14T04:30:46.180Z,"8 km NNE of Government Camp, Oregon",earthquake,0.27,0.19,0.17874945760343,4.0,reviewed,uw,uw
