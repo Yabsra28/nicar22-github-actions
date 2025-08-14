@@ -5501,3 +5501,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T06:06:13.850Z,33.8851667,-116.9041667,-0.24,0.99,ml,16.0,131.0,0.07311,0.38,ci,ci41260512,2025-08-14T06:09:55.054Z,"5 km SSW of Banning, CA",earthquake,3.84,11.08,0.422,20.0,automatic,ci,ci
 2025-08-14T05:56:10.847Z,60.1731,-152.5425,109.0,1.8,ml,,,,0.73,ak,ak025adurmkc,2025-08-14T05:59:59.796Z,"50 km WNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-14T05:51:48.897Z,35.8978,-97.3357,11.479,1.8,ml,26.0,47.0,0.163,0.28,us,us6000r0lc,2025-08-14T06:08:04.950Z,"8 km ENE of Guthrie, Oklahoma",earthquake,1.14,7.376,0.06,36.0,reviewed,us,us
+2025-08-14T06:44:30.493Z,63.2813,-151.098,0.0,1.6,ml,,,,0.51,ak,ak025advaj3d,2025-08-14T06:46:40.954Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-14T06:20:53.746Z,61.7661,-151.3223,63.3,1.4,ml,,,,0.48,ak,ak025adv5fpa,2025-08-14T06:22:50.789Z,"25 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-14T06:19:12.280Z,33.0643333,-116.4118333,5.15,0.48,ml,25.0,90.0,0.02564,0.17,ci,ci41260528,2025-08-14T06:22:30.788Z,"18 km E of Julian, CA",earthquake,0.25,0.33,0.072,6.0,automatic,ci,ci
+2025-08-14T06:19:10.560Z,38.834999084473,-122.79716491699,2.079999923706,1.5,md,30.0,43.0,0.006322,0.03,nc,nc75222962,2025-08-14T06:20:46.346Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.300000012,0.16,33.0,automatic,nc,nc
