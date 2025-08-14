@@ -5767,3 +5767,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T20:04:37.580Z,48.459166666667,-120.6895,10.63,0.66,ml,8.0,180.0,0.152,0.24,uw,uw62163092,2025-08-14T21:47:14.080Z,"37 km W of Winthrop, Washington",earthquake,0.62,1.68,0.12466716722195,4.0,reviewed,uw,uw
 2025-08-14T22:07:09.923Z,65.0182,-149.3748,21.5,1.0,ml,,,,0.6,ak,ak025ae4lhow,2025-08-14T22:09:32.808Z,"14 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-14T21:52:01.894Z,49.7924,156.2335,54.384,5.0,mb,61.0,124.0,3.445,0.95,us,us6000r0ul,2025-08-14T22:06:07.040Z,"98 km S of Severo-Kuril’sk, Russia",earthquake,9.51,6.935,0.048,142.0,reviewed,us,us
+2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26.0,48.0,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:56.182Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15.0,automatic,ci,ci
+2025-08-14T22:19:05.962Z,62.4658,-150.0787,25.5,1.8,ml,,,,0.74,ak,ak025ae4o1z8,2025-08-14T22:21:29.261Z,"2 km NNE of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
