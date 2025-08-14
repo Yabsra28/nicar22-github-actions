@@ -5705,3 +5705,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T21:52:12.411Z,59.8629,-152.916,92.8,0.5,ml,,,,0.23,ak,ak025acgqd09,2025-08-14T17:35:58.534Z,"61 km W of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-08-14T11:04:29.254Z,58.3042,-154.5116,9.2,1.0,ml,,,,0.29,ak,ak025ady14dp,2025-08-14T17:57:17.587Z,"81 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-14T07:12:18.506Z,60.0864,-152.8462,95.6,0.6,ml,,,,0.34,ak,ak025advp2uy,2025-08-14T17:51:12.902Z,"64 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-14T18:25:34.730Z,38.808498382568,-122.8176651001,3.039999961853,0.74,md,11.0,96.0,0.009003,0.01,nc,nc75223772,2025-08-14T18:27:11.210Z,"6 km NW of The Geysers, CA",earthquake,0.43,0.860000014,0.08,12.0,automatic,nc,nc
+2025-08-14T18:17:52.520Z,35.329,-97.90933333,5.21,1.63,ml,64.0,49.0,0.06118799283,0.41,ok,ok2025pwmk,2025-08-14T18:29:44.163Z,"3 km ENE of Minco, Oklahoma",earthquake,,0.7,0.21,29.0,reviewed,ok,ok
+2025-08-14T18:16:35.204Z,31.764,-104.239,5.0,1.5,ml,10.0,123.0,0.2,0.7,tx,tx2025pykten,2025-08-14T18:19:52.326Z,"47 km SSE of Whites City, New Mexico",earthquake,0.0,,0.4,7.0,automatic,tx,tx
+2025-08-14T18:15:47.403Z,32.137,-101.63,2.9368,2.6,ml,83.0,43.0,0.0,0.5,tx,tx2025pyksht,2025-08-14T18:37:04.040Z,"14 km E of Stanton, Texas",earthquake,0.0,0.63914579153061,0.1,50.0,automatic,tx,tx
+2025-08-14T18:02:43.270Z,38.837833404541,-122.82416534424,1.0,0.26,md,8.0,89.0,0.008874,0.01,nc,nc75223752,2025-08-14T18:04:22.219Z,"9 km WNW of Cobb, CA",earthquake,0.53,1.35000002,0.13,8.0,automatic,nc,nc
+2025-08-14T18:00:59.681Z,52.0304,-170.1307,35.0,5.2,mb,94.0,131.0,1.224,0.76,us,us6000r0sy,2025-08-14T18:21:15.132Z,"132 km SW of Nikolski, Alaska",earthquake,7.39,1.912,0.03,364.0,reviewed,us,us
+2025-08-14T17:59:53.161Z,52.0464,-170.1346,35.0,4.7,mb,74.0,173.0,1.213,0.6,us,us6000r0st,2025-08-14T18:26:09.040Z,"131 km SW of Nikolski, Alaska",earthquake,7.97,1.934,0.04,187.0,reviewed,us,us
+2025-08-14T10:53:32.780Z,44.283333333333,-124.57333333333,0.39,1.77,ml,12.0,159.0,0.5011,0.23,uw,uw62162847,2025-08-14T18:33:11.870Z,"37 km W of Yachats, Oregon",earthquake,0.51,0.37,0.011324521301443,3.0,reviewed,uw,uw
+2025-08-14T06:24:06.112Z,61.916,-149.001,22.8,0.5,ml,,,,0.67,ak,ak025adv62zx,2025-08-14T17:58:00.010Z,"19 km NW of Sutton-Alpine, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-08-14T06:19:41.550Z,47.732833333333,-121.991,2.26,0.89,ml,9.0,97.0,0.03654,0.17,uw,uw62162812,2025-08-14T18:11:56.300Z,"1 km SSW of Duvall, Washington",earthquake,0.37,0.57,0.1072417111791,2.0,reviewed,uw,uw
+2025-08-13T23:16:41.720Z,33.3173333,-116.1598333,-0.09,0.64,ml,12.0,67.0,0.1472,0.18,ci,ci37738884,2025-08-14T18:37:42.951Z,"18 km SSW of Oasis, CA",earthquake,0.29,0.61,0.089,7.0,reviewed,ci,ci
+2025-08-13T21:25:49.060Z,32.072,-116.357,9.26,1.81,ml,23.0,99.0,0.3064,0.19,ci,ci41260296,2025-08-14T18:15:52.708Z,"34 km NE of Ensenada, B.C., MX",earthquake,0.35,31.61,0.316,17.0,reviewed,ci,ci
