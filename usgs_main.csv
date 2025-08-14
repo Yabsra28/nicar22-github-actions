@@ -5703,3 +5703,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T08:27:32.190Z,39.640166666667,-111.28066666667,-3.39,1.19,ml,22.0,63.0,0.05933,0.17,uu,uu80004478,2025-08-14T17:34:46.100Z,"11 km W of Clear Creek, Utah",earthquake,0.54,0.71,0.098602521437767,3.0,reviewed,uu,uu
 2025-08-13T23:06:37.416Z,56.4157,-158.7586,56.0,2.3,ml,,,,1.09,ak,ak025achnf7h,2025-08-14T17:38:30.624Z,"17 km N of Chignik Lake, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-13T21:52:12.411Z,59.8629,-152.916,92.8,0.5,ml,,,,0.23,ak,ak025acgqd09,2025-08-14T17:35:58.534Z,"61 km W of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2025-08-14T11:04:29.254Z,58.3042,-154.5116,9.2,1.0,ml,,,,0.29,ak,ak025ady14dp,2025-08-14T17:57:17.587Z,"81 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-14T07:12:18.506Z,60.0864,-152.8462,95.6,0.6,ml,,,,0.34,ak,ak025advp2uy,2025-08-14T17:51:12.902Z,"64 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
