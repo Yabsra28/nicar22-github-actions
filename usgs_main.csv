@@ -5770,3 +5770,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26.0,48.0,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:56.182Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15.0,automatic,ci,ci
 2025-08-14T22:19:05.962Z,62.4658,-150.0787,25.5,1.8,ml,,,,0.74,ak,ak025ae4o1z8,2025-08-14T22:21:29.261Z,"2 km NNE of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-08-14T22:42:37.795Z,28.735,-98.861,10.4878,2.2,ml,9.0,178.0,0.2,0.4,tx,tx2025pytofm,2025-08-14T22:46:20.833Z,"20 km SW of Charlotte, Texas",earthquake,0.0,10.822651863098,0.1,7.0,automatic,tx,tx
+2025-08-14T22:54:52.010Z,38.818000793457,-122.81199645996,2.7400000095367,0.89,md,12.0,109.0,0.005592,0.01,nc,nc75223872,2025-08-14T22:56:28.552Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.709999979,0.33,14.0,automatic,nc,nc
+2025-08-14T19:45:15.020Z,34.6373333,-117.119,-1.29,1.7,mh,17.0,63.0,0.2031,0.15,ci,ci41260880,2025-08-14T22:52:58.553Z,"16 km NNE of Apple Valley, CA",quarry blast,0.35,31.61,,0.0,reviewed,ci,ci
