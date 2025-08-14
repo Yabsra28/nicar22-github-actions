@@ -5492,3 +5492,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T04:54:39.738Z,62.3398,-148.1805,37.5,1.1,ml,,,,1.04,ak,ak025adu5tr9,2025-08-14T04:56:45.856Z,"62 km NNE of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-14T04:38:14.224Z,-18.3716,-172.5278,10.0,5.6,mww,110.0,32.0,2.562,0.99,us,us6000r0l4,2025-08-14T05:07:48.272Z,"156 km ENE of Neiafu, Tonga",earthquake,9.64,1.714,0.103,9.0,reviewed,us,us
 2025-08-13T20:12:38.830Z,45.369666666667,-121.69733333333,1.09,1.0,ml,9.0,91.0,0.03283,0.07,uw,uw62162267,2025-08-14T05:00:18.380Z,"8 km NNE of Government Camp, Oregon",earthquake,0.21,0.17,0.2834497893075,4.0,reviewed,uw,uw
+2025-08-14T05:35:26.792Z,61.3734,-149.7354,22.4,1.7,ml,,,,0.72,ak,ak025adun5rb,2025-08-14T05:37:44.860Z,"9 km S of Knik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-14T04:37:33.015Z,62.2923,-149.7853,35.0,3.1,ml,80.0,24.0,0.515,1.18,us,us6000r0l1,2025-08-14T05:26:20.288Z,"14 km NNE of Susitna North, Alaska",earthquake,2.56,1.991,0.031,140.0,reviewed,us,us
+2025-08-13T19:58:44.260Z,44.289666666667,-123.59666666667,-0.54,1.69,ml,8.0,205.0,0.01092,0.13,uw,uw62162242,2025-08-14T05:18:02.520Z,"10 km S of Alsea, Oregon",explosion,0.65,31.61,0.15418852133547,4.0,reviewed,uw,uw
