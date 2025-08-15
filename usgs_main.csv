@@ -5882,3 +5882,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T09:28:24.960Z,35.0946667,-119.1246667,10.7,1.52,ml,35.0,35.0,0.2298,0.26,ci,ci41261248,2025-08-15T09:31:56.676Z,"24 km NW of Grapevine, CA",earthquake,0.3,0.86,0.133,26.0,automatic,ci,ci
 2025-08-15T09:13:19.220Z,34.0073333,-117.1195,18.3,0.93,ml,33.0,65.0,0.02868,0.16,ci,ci41261240,2025-08-15T09:16:52.861Z,"6 km WNW of Calimesa, CA",earthquake,0.19,0.49,0.282,25.0,automatic,ci,ci
 2025-08-15T07:14:30.675Z,-65.0219,177.8694,10.0,5.4,mww,27.0,119.0,13.321,0.52,us,us6000r0y7,2025-08-15T09:31:16.040Z,Balleny Islands region,earthquake,13.85,1.536,0.078,16.0,reviewed,us,us
+2025-08-15T09:36:38.340Z,38.820331573486,-122.84449768066,2.1600000858307,1.05,md,10.0,113.0,0.007901,0.01,nc,nc75224057,2025-08-15T09:38:16.482Z,"9 km NW of The Geysers, CA",earthquake,0.56,0.529999971,0.25,12.0,automatic,nc,nc
