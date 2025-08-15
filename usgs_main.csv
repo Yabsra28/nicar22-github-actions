@@ -5969,3 +5969,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T18:45:16.232Z,63.1065,-151.3551,0.0,1.2,ml,,,,0.54,ak,ak025afpz9gn,2025-08-15T18:47:02.977Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-15T18:39:13.050Z,34.061,-117.2573333,13.78,1.54,ml,70.0,25.0,0.04909,0.18,ci,ci40399562,2025-08-15T18:49:43.470Z,"2 km NNE of Loma Linda, CA",earthquake,0.14,0.31,0.212,30.0,automatic,ci,ci
 2025-08-15T18:36:30.300Z,19.243999481201,-155.38066101074,33.369998931885,2.19,ml,60.0,142.0,0.01717,0.150000006,hv,hv74753247,2025-08-15T18:40:01.160Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.46,0.439999998,0.29,29.0,automatic,hv,hv
+2025-08-15T19:04:36.310Z,33.8626667,-117.5108333,9.5,1.08,ml,30.0,55.0,0.04378,0.36,ci,ci40399578,2025-08-15T19:08:08.333Z,"2 km SSE of Home Gardens, CA",earthquake,0.61,1.08,0.238,27.0,automatic,ci,ci
+2025-08-15T13:53:59.340Z,54.7515,-163.9845,-0.2,0.34,ml,5.0,94.0,0.04277,0.14,av,av93717278,2025-08-15T19:12:53.780Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.45,0.28415679134648,5.0,reviewed,av,av
