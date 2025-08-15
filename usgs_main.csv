@@ -5844,3 +5844,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T04:56:31.602Z,61.1167,-151.6429,108.3,0.5,ml,,,,0.68,ak,ak025afhpl20,2025-08-15T04:58:20.563Z,"27 km W of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-15T04:55:47.601Z,61.2382,-149.176,17.6,0.9,ml,,,,0.18,ak,ak025afhpeko,2025-08-15T04:57:08.450Z,"22 km ESE of Eagle River, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-14T22:03:19.045Z,-57.1844,-67.8729,10.0,4.5,mb,17.0,152.0,2.262,0.67,us,us6000r0uw,2025-08-15T05:18:24.040Z,"265 km S of Ushuaia, Argentina",earthquake,11.27,1.965,0.163,11.0,reviewed,us,us
+2025-08-15T05:36:16.538Z,60.9967,-147.0601,20.1,1.2,ml,,,,0.39,ak,ak025afi6p6d,2025-08-15T05:37:48.471Z,"25 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-15T05:21:05.947Z,58.2478,-138.0123,0.1,2.6,ml,,,,0.96,ak,ak025afi3gma,2025-08-15T05:23:11.693Z,"98 km W of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-15T03:31:58.352Z,1.0714,125.5968,75.386,4.3,mb,25.0,82.0,0.842,0.92,us,us6000r0wd,2025-08-15T05:40:15.040Z,"66 km SE of Bitung, Indonesia",earthquake,3.59,7.919,0.148,13.0,reviewed,us,us
+2025-08-14T23:12:39.005Z,50.6948,157.9305,35.0,4.9,mb,45.0,93.0,2.374,0.74,us,us6000r0v9,2025-08-15T05:32:47.040Z,"127 km E of Severo-Kuril’sk, Russia",earthquake,5.0,1.895,0.057,97.0,reviewed,us,us
