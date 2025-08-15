@@ -5896,3 +5896,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T11:24:51.937Z,60.9343,-145.2573,29.9,0.7,ml,,,,0.35,ak,ak025aflosy1,2025-08-15T11:26:47.835Z,"51 km NNE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-15T11:19:09.982Z,31.713,-104.3,3.9268,1.9,ml,30.0,76.0,0.1,0.3,tx,tx2025pzsqdj,2025-08-15T11:21:57.502Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.0079575777054,0.2,19.0,automatic,tx,tx
 2025-08-14T21:41:44.128Z,32.352,-102.076,6.665,0.7,ml,12.0,69.0,0.0,0.2,tx,tx2025pyrntp,2025-08-15T11:22:10.493Z,"36 km NW of Stanton, Texas",earthquake,0.76818504140217,1.220361169617,0.1,7.0,reviewed,tx,tx
+2025-08-15T10:30:45.940Z,17.956333333333,-67.0075,11.36,2.37,md,16.0,210.0,0.0373,0.15,pr,pr71492933,2025-08-15T11:39:05.720Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.38,0.19616511220337,10.0,reviewed,pr,pr
