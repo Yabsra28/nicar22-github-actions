@@ -5934,3 +5934,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T15:14:37.880Z,35.6961667,-117.5128333,4.37,0.84,ml,25.0,69.0,0.0789,0.14,ci,ci41261440,2025-08-15T15:18:06.844Z,"13 km SW of Searles Valley, CA",earthquake,0.2,0.62,0.15,16.0,automatic,ci,ci
 2025-08-15T15:38:34.075Z,63.796,-147.6404,0.0,1.0,ml,,,,0.56,ak,ak025afo5i0f,2025-08-15T15:40:28.216Z,"63 km E of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-15T00:06:22.758Z,31.885,-101.716,6.665,0.8,ml,8.0,86.0,0.0,0.2,tx,tx2025pywijl,2025-08-15T15:38:04.258Z,"22 km W of Garden City, Texas",earthquake,1.2076072234291,2.0972730323239,0.1,6.0,reviewed,tx,tx
+2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T15:54:28.965Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-15T15:49:53.646Z,61.3056,-152.5256,7.2,1.8,ml,,,,0.26,ak,ak025afo7wec,2025-08-15T15:51:02.831Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
