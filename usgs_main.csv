@@ -5936,3 +5936,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T00:06:22.758Z,31.885,-101.716,6.665,0.8,ml,8.0,86.0,0.0,0.2,tx,tx2025pywijl,2025-08-15T15:38:04.258Z,"22 km W of Garden City, Texas",earthquake,1.2076072234291,2.0972730323239,0.1,6.0,reviewed,tx,tx
 2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T15:54:28.965Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-15T15:49:53.646Z,61.3056,-152.5256,7.2,1.8,ml,,,,0.26,ak,ak025afo7wec,2025-08-15T15:51:02.831Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-15T16:31:05.580Z,34.1469994,-117.418663,5.79,2.81,ml,129.0,15.0,0.04607,0.23,ci,ci41261504,2025-08-15T16:33:34.432Z,"6 km NW of Rialto, CA",earthquake,0.19,0.56,0.241,20.0,automatic,ci,ci
+2025-08-15T16:09:15.750Z,33.4626667,-116.4356667,12.35,2.06,ml,84.0,23.0,0.1472,0.2,ci,ci41261488,2025-08-15T16:20:07.560Z,"24 km NNW of Borrego Springs, CA",earthquake,0.13,0.54,0.171,26.0,automatic,ci,ci
+2025-08-15T16:00:14.110Z,33.4633333,-116.433,11.6,1.38,ml,61.0,24.0,0.147,0.2,ci,ci41261480,2025-08-15T16:04:04.255Z,"24 km NNW of Borrego Springs, CA",earthquake,0.16,0.69,0.203,26.0,automatic,ci,ci
+2025-08-15T15:56:16.342Z,59.8106,-152.0675,49.5,1.6,ml,,,,0.52,ak,ak025afo9bj6,2025-08-15T15:58:21.618Z,"13 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2025-08-15T15:50:19.798Z,45.6945,153.834,25.221,5.1,mww,45.0,128.0,7.77,0.57,us,us6000r0zd,2025-08-15T16:07:15.040Z,east of the Kuril Islands,earthquake,10.33,6.706,0.073,18.0,reviewed,us,us
+2025-08-15T14:55:51.650Z,37.458333333333,-113.63933333333,0.78,0.9,md,4.0,155.0,0.1732,0.14,uu,uu80113861,2025-08-15T16:05:15.110Z,"4 km NNW of Central, Utah",earthquake,0.9,31.61,0.21362341577008,4.0,reviewed,uu,uu
+2025-08-15T03:14:48.470Z,38.862833333333,-111.46733333333,14.21,0.71,ml,10.0,131.0,0.08948,0.22,uu,uu80004498,2025-08-15T16:08:13.240Z,"20 km WSW of Emery, Utah",earthquake,0.9,1.74,0.28088290647131,3.0,reviewed,uu,uu
