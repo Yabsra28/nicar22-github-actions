@@ -5929,3 +5929,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T14:48:05.820Z,62.1044,-150.2416,13.1,1.1,ml,,,,0.69,ak,ak025afnm5dy,2025-08-15T14:50:08.673Z,"21 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-15T14:43:00.220Z,35.7693333,-117.5956667,7.72,0.69,ml,27.0,54.0,0.04633,0.15,ci,ci41261392,2025-08-15T14:46:22.795Z,"17 km W of Searles Valley, CA",earthquake,0.19,0.55,0.174,13.0,automatic,ci,ci
 2025-08-15T14:56:16.020Z,33.3206667,-116.292,9.75,1.03,ml,46.0,30.0,0.0632,0.22,ci,ci41261408,2025-08-15T14:59:46.874Z,"11 km NE of Borrego Springs, CA",earthquake,0.22,0.49,0.158,18.0,automatic,ci,ci
+2025-08-15T15:31:32.210Z,40.318000793457,-124.48366546631,18.760000228882,1.84,md,9.0,297.0,0.1313,0.07,nc,nc75224122,2025-08-15T15:33:07.134Z,"17 km W of Petrolia, CA",earthquake,4.61,2.07999992,0.22,6.0,automatic,nc,nc
+2025-08-15T15:17:17.285Z,31.646,-104.377,4.247,1.6,ml,26.0,89.0,0.0,0.4,tx,tx2025qaanhi,2025-08-15T15:20:20.361Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1004571914673,0.2,20.0,automatic,tx,tx
+2025-08-15T15:14:37.880Z,35.6961667,-117.5128333,4.37,0.84,ml,25.0,69.0,0.0789,0.14,ci,ci41261440,2025-08-15T15:18:06.844Z,"13 km SW of Searles Valley, CA",earthquake,0.2,0.62,0.15,16.0,automatic,ci,ci
