@@ -5871,3 +5871,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T08:19:32.711Z,37.0581,-116.2971,2.7,0.4,ml,15.0,95.66,0.116,0.2132,nn,nn00902616,2025-08-15T08:21:51.970Z,"44 km ENE of Beatty, Nevada",earthquake,,0.8,0.31,8.0,automatic,nn,nn
 2025-08-15T08:19:03.221Z,39.4214,-119.7255,6.3,0.4,ml,8.0,176.97,0.097,0.1084,nn,nn00902615,2025-08-15T08:21:10.656Z,"12 km S of Sparks, Nevada",earthquake,,1.3,0.56,4.0,automatic,nn,nn
 2025-08-15T08:11:25.820Z,34.006,-117.1155,17.95,2.65,ml,130.0,15.0,0.02951,0.18,ci,ci41261216,2025-08-15T08:26:04.552Z,"6 km WNW of Calimesa, CA",earthquake,0.11,0.24,0.306,18.0,automatic,ci,ci
+2025-08-15T08:47:33.620Z,38.773166656494,-122.72216796875,1.4099999666214,1.02,md,9.0,99.0,0.01518,0.02,nc,nc75224032,2025-08-15T08:49:11.275Z,"3 km W of Anderson Springs, CA",earthquake,0.31,0.300000012,0.17,9.0,automatic,nc,nc
+2025-08-15T08:40:54.256Z,60.0348,-141.6503,14.8,1.6,ml,,,,0.56,ak,ak025afjzxrl,2025-08-15T08:43:14.924Z,"120 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-15T08:35:41.730Z,32.3623352,-115.453331,1.56,3.07,ml,54.0,54.0,0.1378,0.25,ci,ci41261224,2025-08-15T08:46:17.420Z,"24 km SSW of Puebla, B.C., MX",earthquake,0.21,0.63,0.302,18.0,automatic,ci,ci
