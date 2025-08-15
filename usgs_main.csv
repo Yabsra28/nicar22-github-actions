@@ -5983,3 +5983,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T20:16:37.111Z,60.5014,-143.9176,1.5,1.1,ml,,,,0.5,ak,ak025afqzyin,2025-08-15T20:18:28.752Z,"101 km E of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-15T16:48:57.130Z,58.298,-154.9655,2.86,0.3,ml,8.0,152.0,0.05199,0.11,av,av93717413,2025-08-15T20:17:08.110Z,"86 km NNW of Karluk, Alaska",earthquake,0.33,0.84,0.25905625466209,8.0,reviewed,av,av
 2025-08-15T16:45:31.910Z,60.055833333333,-153.10566666667,3.37,-0.36,ml,4.0,163.0,0.01696,0.28,av,av93717408,2025-08-15T20:13:31.010Z,"63 km ENE of Pedro Bay, Alaska",earthquake,1.6,2.08,0.43697806524827,4.0,reviewed,av,av
+2025-08-15T16:45:20.750Z,19.2655,-155.342,30.73,1.79,md,35.0,162.0,0.04471,0.11,hv,hv74753187,2025-08-15T20:43:37.380Z,"15 km ENE of Pāhala, Hawaii",earthquake,0.66,0.5,0.13607873965979,11.0,reviewed,hv,hv
