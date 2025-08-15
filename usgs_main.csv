@@ -5837,3 +5837,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T03:57:24.260Z,33.3738333,-116.2748333,12.46,1.99,ml,78.0,32.0,0.09042,0.2,ci,ci41261152,2025-08-15T04:13:21.746Z,"16 km NE of Borrego Springs, CA",earthquake,0.14,0.58,0.164,26.0,automatic,ci,ci
 2025-08-15T02:02:56.860Z,54.808666666667,-164.06683333333,21.05,0.49,ml,4.0,222.0,0.03957,0.34,av,av93716668,2025-08-15T04:01:36.620Z,"42 km W of False Pass, Alaska",earthquake,2.73,1.46,0.25583367955882,4.0,reviewed,av,av
 2025-08-15T04:42:59.600Z,35.775,-117.5615,6.23,0.66,ml,20.0,118.0,0.0501,0.13,ci,ci41261176,2025-08-15T04:46:29.994Z,"14 km W of Searles Valley, CA",earthquake,0.22,0.47,0.122,13.0,automatic,ci,ci
+2025-08-15T05:17:27.402Z,60.4164,-152.0006,78.7,1.4,ml,,,,0.3,ak,ak025afi2nes,2025-08-15T05:19:31.575Z,"38 km W of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-15T05:03:08.350Z,38.807666778565,-122.81700134277,3.170000076294,0.66,md,11.0,109.0,0.009589,0.01,nc,nc75223987,2025-08-15T05:04:45.362Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.75999999,0.36,13.0,automatic,nc,nc
+2025-08-15T04:57:58.090Z,38.813167572021,-122.8184967041,2.5999999046326,1.07,md,15.0,59.0,0.009385,0.02,nc,nc75223982,2025-08-15T04:59:36.385Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.800000012,0.32,17.0,automatic,nc,nc
+2025-08-15T04:57:45.019Z,60.9829,-147.0719,19.9,2.3,ml,,,,0.37,ak,ak025afhptt1,2025-08-15T04:59:19.853Z,"25 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-15T04:56:31.602Z,61.1167,-151.6429,108.3,0.5,ml,,,,0.68,ak,ak025afhpl20,2025-08-15T04:58:20.563Z,"27 km W of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-15T04:55:47.601Z,61.2382,-149.176,17.6,0.9,ml,,,,0.18,ak,ak025afhpeko,2025-08-15T04:57:08.450Z,"22 km ESE of Eagle River, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-14T22:03:19.045Z,-57.1844,-67.8729,10.0,4.5,mb,17.0,152.0,2.262,0.67,us,us6000r0uw,2025-08-15T05:18:24.040Z,"265 km S of Ushuaia, Argentina",earthquake,11.27,1.965,0.163,11.0,reviewed,us,us
