@@ -5858,3 +5858,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T06:03:10.814Z,65.4467,-148.1775,4.5,1.9,ml,,,,0.27,ak,ak025afil1pl,2025-08-15T06:05:13.569Z,"19 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-14T20:57:23.151Z,60.303,-143.1083,11.7,0.7,ml,,,,0.49,ak,ak025ae3pch5,2025-08-15T06:23:34.567Z,"126 km S of McCarthy, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2025-08-15T06:45:39.480Z,33.6816667,-116.795,16.73,1.01,ml,45.0,31.0,0.09262,0.2,ci,ci41261200,2025-08-15T06:49:12.665Z,"10 km SW of Idyllwild, CA",earthquake,0.19,0.41,0.2,29.0,automatic,ci,ci
+2025-08-15T07:12:20.750Z,38.80933380127,-122.81449890137,3.5599999427795,0.75,md,12.0,68.0,0.01148,0.02,nc,nc75224012,2025-08-15T07:13:55.694Z,"6 km NW of The Geysers, CA",earthquake,0.44,1.10000002,0.28,13.0,automatic,nc,nc
+2025-08-15T07:04:04.040Z,38.808166503906,-122.81416320801,3.3699998855591,1.07,md,12.0,71.0,0.01175,0.01,nc,nc75224007,2025-08-15T07:05:41.236Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.730000019,0.32,14.0,automatic,nc,nc
+2025-08-15T06:27:44.831Z,51.5465,159.7399,35.0,4.6,mb,49.0,127.0,1.624,1.33,us,us6000r0xi,2025-08-15T06:55:51.040Z,"179 km SSE of Vilyuchinsk, Russia",earthquake,9.34,1.915,0.076,52.0,reviewed,us,us
+2025-08-15T06:24:19.193Z,59.8124,-136.8403,10.556,2.6,ml,18.0,106.0,0.432,0.58,us,us6000r0xe,2025-08-15T07:01:02.040Z,"52 km NW of Mosquito Lake, Alaska",earthquake,2.41,6.585,0.06,36.0,reviewed,us,us
+2025-08-14T11:36:21.870Z,37.538833333333,-118.84183333333,6.74,0.02,md,14.0,186.0,0.0521,0.06,nc,nc75223037,2025-08-15T07:13:50.462Z,"14 km W of Toms Place, CA",earthquake,0.53,0.97,0.27,10.0,reviewed,nc,nc
