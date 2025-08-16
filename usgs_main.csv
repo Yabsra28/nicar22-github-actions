@@ -6100,3 +6100,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T06:16:50.186Z,49.4883,155.4107,77.358,4.3,mb,39.0,135.0,3.899,0.53,us,us6000r1ka,2025-08-16T09:13:56.040Z,"141 km SSW of Severo-Kuril’sk, Russia",earthquake,6.11,8.802,0.091,34.0,reviewed,us,us
 2025-08-16T06:16:01.451Z,13.3065,-92.547,10.0,4.4,mb,61.0,244.0,1.574,0.79,us,us6000r1jy,2025-08-16T09:11:40.040Z,"128 km SSW of Champerico, Guatemala",earthquake,11.83,2.015,0.069,60.0,reviewed,us,us
 2025-08-16T05:56:59.660Z,49.9586,158.4876,34.036,4.5,mb,71.0,227.0,3.071,0.54,us,us6000r1jw,2025-08-16T09:06:41.040Z,"186 km ESE of Severo-Kuril’sk, Russia",earthquake,13.77,7.304,0.063,73.0,reviewed,us,us
+2025-08-16T09:28:31.348Z,32.085,-101.483,2.4305,1.1,ml,13.0,72.0,0.1,0.4,tx,tx2025qbkrrx,2025-08-16T09:31:13.227Z,"11 km WSW of Forsan, Texas",earthquake,0.0,1.5803370475769,0.2,8.0,automatic,tx,tx
+2025-08-16T09:24:11.860Z,33.7121667,-116.7411667,18.35,0.6,ml,26.0,67.0,0.04037,0.15,ci,ci40400122,2025-08-16T09:28:30.977Z,"4 km SSW of Idyllwild, CA",earthquake,0.24,0.45,0.083,12.0,automatic,ci,ci
+2025-08-16T08:46:24.146Z,40.0364,113.4664,10.0,4.5,mb,42.0,123.0,2.077,0.35,us,us6000r1kp,2025-08-16T09:26:29.040Z,"16 km ESE of Datong, China",earthquake,8.47,1.926,0.087,39.0,reviewed,us,us
+2025-08-16T08:33:56.341Z,51.4743,159.7178,26.077,4.5,mb,27.0,127.0,1.685,0.74,us,us6000r1kl,2025-08-16T09:24:12.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,10.52,6.152,0.105,27.0,reviewed,us,us
+2025-08-16T08:08:29.763Z,-20.2248,-68.5922,136.001,4.3,mb,13.0,94.0,0.534,0.16,us,us6000r1kf,2025-08-16T09:20:56.040Z,"105 km S of Colchane, Chile",earthquake,7.48,6.662,0.2,7.0,reviewed,us,us
