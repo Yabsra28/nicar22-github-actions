@@ -6143,3 +6143,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T13:48:48.285Z,58.3235,-154.9334,7.9,1.7,ml,,,,0.92,ak,ak025ahak5jw,2025-08-16T13:50:14.324Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-16T14:06:15.012Z,62.4839,-152.4309,0.0,1.5,ml,,,,1.43,ak,ak025ahawiil,2025-08-16T14:08:16.187Z,"76 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-15T19:06:42.879Z,49.1665,156.2778,31.914,4.5,mb,103.0,155.0,4.141,0.74,us,us6000r1hq,2025-08-16T14:53:51.040Z,"168 km S of Severo-Kuril’sk, Russia",earthquake,11.77,6.05,0.057,97.0,reviewed,us,us
+2025-08-16T15:01:12.461Z,60.6051,-148.5366,16.1,1.9,ml,,,,0.64,ak,ak025ahbgvce,2025-08-16T15:03:08.593Z,"20 km SSE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-16T15:00:57.510Z,36.1689987,-118.0373306,1.37,1.38,ml,19.0,87.0,0.1564,0.22,ci,ci40400434,2025-08-16T15:04:28.062Z,"13 km SSW of Olancha, CA",earthquake,0.45,2.3,0.28,8.0,automatic,ci,ci
+2025-08-16T08:40:06.285Z,36.7939,-116.2503,5.4,-0.4,ml,9.0,107.0,0.063,0.0431,nn,nn00902656,2025-08-16T15:08:06.945Z,"47 km ESE of Beatty, Nevada",earthquake,,2.3,0.0,2.0,reviewed,nn,nn
