@@ -6086,3 +6086,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T07:32:56.512Z,62.691,-149.1745,57.5,1.6,ml,,,,0.87,ak,ak025ah6w53n,2025-08-16T07:34:54.729Z,"54 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-16T08:05:47.308Z,61.289,-148.6874,28.8,2.3,ml,,,,0.4,ak,ak025ah7brnu,2025-08-16T08:07:19.017Z,"22 km SSE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-08-16T08:03:55.480Z,32.6645,-115.7655,7.35,1.06,ml,25.0,52.0,0.0363,0.17,ci,ci40400082,2025-08-16T08:07:25.316Z,"19 km WNW of Progreso, B.C., MX",earthquake,0.23,0.47,0.107,6.0,automatic,ci,ci
+2025-08-16T08:35:08.530Z,40.340831756592,-125.08616638184,-0.27000001072884,2.41,md,19.0,309.0,0.571,0.25,nc,nc75224487,2025-08-16T08:36:43.464Z,"68 km WNW of Petrolia, CA",earthquake,7.68,11.5500002,0.05,15.0,automatic,nc,nc
+2025-08-16T08:24:59.890Z,34.0066667,-117.23,16.05,0.78,ml,39.0,59.0,0.1215,0.18,ci,ci40400090,2025-08-16T08:28:27.437Z,"5 km SSE of Loma Linda, CA",earthquake,0.21,0.6,0.258,19.0,automatic,ci,ci
+2025-08-16T08:20:52.710Z,40.308334350586,-124.68949890137,-0.34000000357628,2.64,md,21.0,292.0,0.2661,0.4,nc,nc75224482,2025-08-16T08:27:18.162Z,"34 km W of Petrolia, CA",earthquake,8.74,14.3000002,0.13,14.0,automatic,nc,nc
+2025-08-16T08:20:44.090Z,50.4259,156.5541,79.198,4.8,mb,71.0,133.0,2.779,0.54,us,us6000r1ki,2025-08-16T08:38:34.040Z,"41 km SE of Severo-Kuril’sk, Russia",earthquake,10.51,7.197,0.029,372.0,reviewed,us,us
