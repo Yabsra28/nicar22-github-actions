@@ -6090,3 +6090,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T08:24:59.890Z,34.0066667,-117.23,16.05,0.78,ml,39.0,59.0,0.1215,0.18,ci,ci40400090,2025-08-16T08:28:27.437Z,"5 km SSE of Loma Linda, CA",earthquake,0.21,0.6,0.258,19.0,automatic,ci,ci
 2025-08-16T08:20:52.710Z,40.308334350586,-124.68949890137,-0.34000000357628,2.64,md,21.0,292.0,0.2661,0.4,nc,nc75224482,2025-08-16T08:27:18.162Z,"34 km W of Petrolia, CA",earthquake,8.74,14.3000002,0.13,14.0,automatic,nc,nc
 2025-08-16T08:20:44.090Z,50.4259,156.5541,79.198,4.8,mb,71.0,133.0,2.779,0.54,us,us6000r1ki,2025-08-16T08:38:34.040Z,"41 km SE of Severo-Kuril’sk, Russia",earthquake,10.51,7.197,0.029,372.0,reviewed,us,us
+2025-08-16T08:52:17.942Z,61.6223,-149.6935,31.8,1.2,ml,,,,0.29,ak,ak025ah7ls1u,2025-08-16T08:54:38.378Z,"4 km W of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-16T08:52:11.639Z,36.7963,-116.241,1.1,-0.1,ml,13.0,65.27,0.072,0.1908,nn,nn00902649,2025-08-16T08:53:58.025Z,"47 km ESE of Beatty, Nevada",earthquake,,3.3,0.19,10.0,automatic,nn,nn
+2025-08-16T08:51:46.289Z,31.635,-104.487,3.8139,1.6,ml,26.0,106.0,0.0,0.5,tx,tx2025qbjmay,2025-08-16T08:54:18.433Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.314101934433,0.1,19.0,automatic,tx,tx
+2025-08-16T08:45:04.821Z,36.808,-116.2175,1.7,-0.4,ml,12.0,123.37,0.08,0.2345,nn,nn00902648,2025-08-16T08:47:17.432Z,"49 km ESE of Beatty, Nevada",earthquake,,4.3,0.14,8.0,automatic,nn,nn
