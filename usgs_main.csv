@@ -6174,3 +6174,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T06:13:33.072Z,39.4157,-119.7224,9.3,0.6,ml,10.0,176.9,0.042,0.098,nn,nn00902660,2025-08-16T18:32:43.617Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.0,0.34,6.0,reviewed,nn,nn
 2025-08-16T18:40:59.330Z,38.799499511719,-122.81116485596,3.2599999904633,1.1,md,23.0,69.0,0.01283,0.02,nc,nc75224682,2025-08-16T18:42:38.193Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.460000008,0.17,23.0,automatic,nc,nc
 2025-08-16T09:15:14.712Z,39.4157,-119.7231,8.7,0.3,ml,6.0,198.57,0.041,0.0768,nn,nn00902661,2025-08-16T18:35:49.213Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.6,0.36,4.0,reviewed,nn,nn
+2025-08-16T18:57:52.660Z,36.0775,-117.698,0.33,1.92,ml,32.0,51.0,0.07546,0.18,ci,ci40400602,2025-08-16T19:01:21.952Z,"23 km E of Coso Junction, CA",earthquake,0.21,0.31,0.188,25.0,automatic,ci,ci
+2025-08-16T18:57:13.227Z,61.3893,-147.145,31.7,1.4,ml,,,,0.18,ak,ak025ahdl6be,2025-08-16T18:58:35.119Z,"51 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-16T15:10:40.011Z,19.1956,-155.6096,11.76,3.1,ml,28.0,88.0,0.05,0.52,us,us6000r1lk,2025-08-16T18:54:43.902Z,"13 km W of Pāhala, Hawaii",earthquake,1.25,2.17,0.049,54.0,reviewed,us,us
