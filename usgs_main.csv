@@ -6083,3 +6083,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T06:59:13.390Z,38.841167449951,-122.83916473389,1.9400000572205,0.72,md,10.0,134.0,0.01828,0.01,nc,nc75224477,2025-08-16T07:00:48.781Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.779999971,0.12,11.0,automatic,nc,nc
 2025-08-16T07:25:34.840Z,57.6805,-154.9719,0.0,1.7,ml,,,,0.74,ak,ak025ah6ulf0,2025-08-16T07:27:54.363Z,"33 km WNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-16T07:23:30.990Z,33.0038333,-116.4528333,8.62,0.99,ml,46.0,54.0,0.04772,0.17,ci,ci40400074,2025-08-16T07:27:09.923Z,"16 km ESE of Julian, CA",earthquake,0.17,0.44,0.109,18.0,automatic,ci,ci
+2025-08-16T07:32:56.512Z,62.691,-149.1745,57.5,1.6,ml,,,,0.87,ak,ak025ah6w53n,2025-08-16T07:34:54.729Z,"54 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
