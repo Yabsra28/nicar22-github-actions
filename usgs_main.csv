@@ -6140,3 +6140,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T12:43:21.102Z,64.4766,-146.9609,6.0,0.9,ml,,,,0.33,ak,ak025ah9xl9q,2025-08-16T12:45:34.827Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-16T11:09:16.295Z,32.108,-101.056,8.9111,1.5,ml,23.0,52.0,0.2,0.2,tx,tx2025qboakq,2025-08-16T12:47:33.294Z,"27 km S of Westbrook, Texas",earthquake,0.77046145828594,1.8414227841747,0.2,8.0,reviewed,tx,tx
 2025-08-16T10:02:18.830Z,32.119,-101.921,9.3262,1.0,ml,28.0,54.0,0.1,0.1,tx,tx2025qbluuz,2025-08-16T12:30:50.157Z,"12 km W of Stanton, Texas",earthquake,0.32907692874023,0.93184041873931,0.2,22.0,reviewed,tx,tx
+2025-08-16T13:48:48.285Z,58.3235,-154.9334,7.9,1.7,ml,,,,0.92,ak,ak025ahak5jw,2025-08-16T13:50:14.324Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
