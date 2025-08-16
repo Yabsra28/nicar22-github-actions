@@ -6117,3 +6117,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T10:38:37.590Z,33.1315,-116.035,4.57,0.79,ml,34.0,83.0,0.06372,0.22,ci,ci40400234,2025-08-16T10:42:03.375Z,"9 km E of Ocotillo Wells, CA",earthquake,0.23,0.73,0.164,7.0,automatic,ci,ci
 2025-08-16T10:54:49.381Z,31.229,-103.505,11.2886,1.6,ml,12.0,76.0,0.1,0.2,tx,tx2025qbnnrc,2025-08-16T11:00:30.352Z,"15 km SSE of Lindsay, Texas",earthquake,0.0,4.2614750862122,0.2,9.0,automatic,tx,tx
 2025-08-16T10:47:48.420Z,33.5383333,-116.7161667,6.24,0.12,ml,18.0,76.0,0.03225,0.11,ci,ci40400250,2025-08-16T10:51:21.265Z,"4 km WSW of Anza, CA",earthquake,0.18,0.33,0.107,7.0,automatic,ci,ci
+2025-08-16T11:18:28.660Z,32.6653328,-115.758667,7.37,1.21,ml,27.0,71.0,0.03157,0.2,ci,ci40400258,2025-08-16T11:20:31.861Z,"19 km WNW of Progreso, B.C., MX",earthquake,0.39,0.82,0.253,10.0,automatic,ci,ci
+2025-08-16T11:01:34.366Z,37.5566,-117.3331,4.4,1.2,ml,13.0,202.19,0.263,0.4208,nn,nn00902652,2025-08-16T11:04:18.848Z,"18 km SSW of Goldfield, Nevada",earthquake,,4.1,0.36,9.0,automatic,nn,nn
+2025-08-16T10:57:14.400Z,32.093,-101.488,2.9689,1.2,mlv,17.0,72.0,0.1,0.5,tx,tx2025qbnqdq,2025-08-16T11:17:36.785Z,"11 km W of Forsan, Texas",earthquake,0.0,1.3205859661102,0.3,11.0,automatic,tx,tx
+2025-08-16T10:47:02.343Z,-0.5696,-78.3309,10.0,4.6,mb,47.0,96.0,0.176,0.81,us,us6000r1kx,2025-08-16T11:14:04.392Z,"27 km ESE of Machachi, Ecuador",earthquake,6.94,1.886,0.048,129.0,reviewed,us,us
+2025-08-16T10:43:01.880Z,18.149833333333,-66.752,19.92,1.97,md,13.0,88.0,0.1068,0.1,pr,pr71492953,2025-08-16T11:13:33.140Z,"3 km WSW of Adjuntas, Puerto Rico",earthquake,0.26,0.69,0.067951381029424,6.0,reviewed,pr,pr
+2025-08-16T05:23:44.201Z,31.876,-101.75,6.6357,1.0,mlv,11.0,58.0,0.0,0.4,tx,tx2025qbcoqx,2025-08-16T11:17:30.780Z,"25 km W of Garden City, Texas",earthquake,0.0,2.4173693656921,0.3,9.0,automatic,tx,tx
+2025-08-16T00:06:02.065Z,31.884,-101.741,3.7047,2.5,mlv,90.0,48.0,0.0,0.4,tx,tx2025qasbdg,2025-08-16T11:17:27.759Z,"24 km W of Garden City, Texas",earthquake,0.0,0.64869427680969,0.2,62.0,automatic,tx,tx
