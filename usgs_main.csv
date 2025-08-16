@@ -6172,3 +6172,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T17:35:07.746Z,37.1119,71.3427,108.298,4.7,mb,147.0,75.0,1.503,0.87,us,us6000r1m2,2025-08-16T18:08:45.111Z,"45 km SSW of Khorugh, Tajikistan",earthquake,6.3,5.475,0.044,162.0,reviewed,us,us
 2025-08-16T15:59:21.193Z,49.1722,156.2691,22.683,4.8,mb,139.0,50.0,4.043,0.9,us,us6000r1lp,2025-08-16T18:32:15.040Z,"167 km S of Severo-Kuril’sk, Russia",earthquake,8.66,4.472,0.043,164.0,reviewed,us,us
 2025-08-16T06:13:33.072Z,39.4157,-119.7224,9.3,0.6,ml,10.0,176.9,0.042,0.098,nn,nn00902660,2025-08-16T18:32:43.617Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.0,0.34,6.0,reviewed,nn,nn
+2025-08-16T18:40:59.330Z,38.799499511719,-122.81116485596,3.2599999904633,1.1,md,23.0,69.0,0.01283,0.02,nc,nc75224682,2025-08-16T18:42:38.193Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.460000008,0.17,23.0,automatic,nc,nc
+2025-08-16T09:15:14.712Z,39.4157,-119.7231,8.7,0.3,ml,6.0,198.57,0.041,0.0768,nn,nn00902661,2025-08-16T18:35:49.213Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.6,0.36,4.0,reviewed,nn,nn
