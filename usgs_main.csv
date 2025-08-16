@@ -6105,3 +6105,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T08:46:24.146Z,40.0364,113.4664,10.0,4.5,mb,42.0,123.0,2.077,0.35,us,us6000r1kp,2025-08-16T09:26:29.040Z,"16 km ESE of Datong, China",earthquake,8.47,1.926,0.087,39.0,reviewed,us,us
 2025-08-16T08:33:56.341Z,51.4743,159.7178,26.077,4.5,mb,27.0,127.0,1.685,0.74,us,us6000r1kl,2025-08-16T09:24:12.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,10.52,6.152,0.105,27.0,reviewed,us,us
 2025-08-16T08:08:29.763Z,-20.2248,-68.5922,136.001,4.3,mb,13.0,94.0,0.534,0.16,us,us6000r1kf,2025-08-16T09:20:56.040Z,"105 km S of Colchane, Chile",earthquake,7.48,6.662,0.2,7.0,reviewed,us,us
+2025-08-16T09:37:51.330Z,36.650501251221,-121.30699920654,2.9100000858307,1.2,md,9.0,93.0,0.04003,0.18,nc,nc75224497,2025-08-16T09:39:29.214Z,"16 km S of Tres Pinos, CA",earthquake,0.71,1.63999999,0.25,8.0,automatic,nc,nc
