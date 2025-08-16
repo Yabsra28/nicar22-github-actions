@@ -6142,3 +6142,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T10:02:18.830Z,32.119,-101.921,9.3262,1.0,ml,28.0,54.0,0.1,0.1,tx,tx2025qbluuz,2025-08-16T12:30:50.157Z,"12 km W of Stanton, Texas",earthquake,0.32907692874023,0.93184041873931,0.2,22.0,reviewed,tx,tx
 2025-08-16T13:48:48.285Z,58.3235,-154.9334,7.9,1.7,ml,,,,0.92,ak,ak025ahak5jw,2025-08-16T13:50:14.324Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-16T14:06:15.012Z,62.4839,-152.4309,0.0,1.5,ml,,,,1.43,ak,ak025ahawiil,2025-08-16T14:08:16.187Z,"76 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-15T19:06:42.879Z,49.1665,156.2778,31.914,4.5,mb,103.0,155.0,4.141,0.74,us,us6000r1hq,2025-08-16T14:53:51.040Z,"168 km S of Severo-Kuril’sk, Russia",earthquake,11.77,6.05,0.057,97.0,reviewed,us,us
