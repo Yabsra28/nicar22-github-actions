@@ -6057,3 +6057,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T04:21:02.798Z,53.9036,-163.0109,35.0,3.6,ml,17.0,209.0,1.166,1.02,us,us6000r1jp,2025-08-16T04:29:15.040Z,"108 km SSE of False Pass, Alaska",earthquake,5.52,2.015,0.091,16.0,reviewed,us,us
 2025-08-16T01:13:52.110Z,48.088,-120.20866666667,8.84,1.62,ml,18.0,61.0,0.0883,0.23,uw,uw62163842,2025-08-16T04:43:26.630Z,"15 km WSW of Methow, Washington",earthquake,0.36,0.94,0.1373723955416,16.0,reviewed,uw,uw
 2025-08-15T04:49:26.970Z,60.018833333333,-153.102,0.25,-0.6,ml,5.0,126.0,0.04114,0.15,av,av93716828,2025-08-16T04:40:17.050Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.35,2.06,0.23388067656247,5.0,reviewed,av,av
+2025-08-16T04:46:31.322Z,62.4466,-148.1037,63.7,1.2,ml,,,,0.46,ak,ak025ah56sd8,2025-08-16T04:48:35.514Z,"74 km NW of Eureka Roadhouse, Alaska",earthquake,,1.0,,,automatic,ak,ak
