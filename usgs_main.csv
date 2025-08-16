@@ -6156,3 +6156,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T11:27:43.389Z,64.4707,-147.3921,5.0,0.3,ml,,,,0.61,ak,ak025ah98plr,2025-08-16T16:33:34.802Z,"24 km WSW of Salcha, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2025-08-15T20:29:15.214Z,-18.3539,-69.7404,149.029,4.4,mb,28.0,77.0,0.571,0.9,us,us6000r1i9,2025-08-16T16:46:07.040Z,"60 km ENE of Arica, Chile",earthquake,5.87,6.076,0.123,19.0,reviewed,us,us
 2025-08-16T16:55:00.350Z,40.301498413086,-124.60050201416,20.620000839233,3.6,ml,54.0,240.0,0.1977,0.34,nc,nc75224637,2025-08-16T16:57:05.358Z,"27 km W of Petrolia, CA",earthquake,3.05,0.699999988,0.426,7.0,automatic,nc,nc
+2025-08-16T17:18:01.820Z,32.8071667,-116.1461667,11.1,1.09,ml,35.0,54.0,0.044,0.2,ci,ci40400538,2025-08-16T17:21:31.039Z,"16 km WNW of Ocotillo, CA",earthquake,0.23,0.55,0.206,16.0,automatic,ci,ci
+2025-08-16T17:12:52.694Z,32.121,-101.917,4.1749,2.0,ml,69.0,39.0,0.1,0.4,tx,tx2025qcabvv,2025-08-16T17:16:34.459Z,"12 km W of Stanton, Texas",earthquake,0.0,0.66983157396317,0.2,41.0,automatic,tx,tx
+2025-08-16T17:07:41.820Z,35.6695,-117.4748333,7.81,1.32,ml,39.0,38.0,0.04186,0.14,ci,ci40400530,2025-08-16T17:11:08.971Z,"13 km SSW of Searles Valley, CA",earthquake,0.14,0.48,0.169,26.0,automatic,ci,ci
+2025-08-16T15:51:12.006Z,49.0947,156.2231,25.719,4.9,mb,241.0,42.0,4.125,0.54,us,us6000r1ln,2025-08-16T17:17:52.040Z,"175 km S of Severo-Kuril’sk, Russia",earthquake,8.21,4.214,0.032,303.0,reviewed,us,us
+2025-08-16T13:42:54.404Z,49.3765,155.414,76.898,4.5,mb,50.0,176.0,4.003,0.67,us,us6000r1le,2025-08-16T17:03:10.040Z,"153 km SSW of Severo-Kuril’sk, Russia",earthquake,12.03,9.232,0.053,104.0,reviewed,us,us
