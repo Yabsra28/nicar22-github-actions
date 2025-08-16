@@ -6052,3 +6052,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T01:21:07.724Z,60.3153,-143.5448,10.0,1.0,ml,,,,1.12,ak,ak025ah392r8,2025-08-16T02:59:36.508Z,"124 km ESE of Cordova, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2025-08-15T22:03:12.340Z,64.4661,-147.2066,10.0,0.7,ml,,,,0.46,ak,ak025afs3v4d,2025-08-16T02:43:07.706Z,"15 km WSW of Salcha, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2025-08-15T17:03:56.169Z,53.3753,-165.9527,49.2,1.4,ml,,,,0.73,ak,ak025afp4vbq,2025-08-16T02:28:18.882Z,"67 km SE of Unalaska, Alaska",earthquake,,5.0,,,reviewed,ak,ak
+2025-08-16T01:36:50.649Z,-23.4703,179.0571,571.99,4.6,mb,24.0,171.0,5.773,0.57,us,us6000r1jf,2025-08-16T03:34:50.040Z,south of the Fiji Islands,earthquake,15.57,9.206,0.146,15.0,reviewed,us,us
