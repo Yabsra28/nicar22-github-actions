@@ -6124,3 +6124,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T10:43:01.880Z,18.149833333333,-66.752,19.92,1.97,md,13.0,88.0,0.1068,0.1,pr,pr71492953,2025-08-16T11:13:33.140Z,"3 km WSW of Adjuntas, Puerto Rico",earthquake,0.26,0.69,0.067951381029424,6.0,reviewed,pr,pr
 2025-08-16T05:23:44.201Z,31.876,-101.75,6.6357,1.0,mlv,11.0,58.0,0.0,0.4,tx,tx2025qbcoqx,2025-08-16T11:17:30.780Z,"25 km W of Garden City, Texas",earthquake,0.0,2.4173693656921,0.3,9.0,automatic,tx,tx
 2025-08-16T00:06:02.065Z,31.884,-101.741,3.7047,2.5,mlv,90.0,48.0,0.0,0.4,tx,tx2025qasbdg,2025-08-16T11:17:27.759Z,"24 km W of Garden City, Texas",earthquake,0.0,0.64869427680969,0.2,62.0,automatic,tx,tx
+2025-08-16T11:26:46.700Z,32.8761667,-116.1636667,10.87,0.72,ml,25.0,52.0,0.101,0.18,ci,ci40400266,2025-08-16T11:30:13.291Z,"22 km NW of Ocotillo, CA",earthquake,0.25,0.64,0.259,8.0,automatic,ci,ci
