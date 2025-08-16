@@ -6136,3 +6136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T11:42:11.740Z,18.6455,-66.221666666667,63.32,2.65,md,15.0,247.0,0.3366,0.18,pr,pr71492963,2025-08-16T12:04:57.250Z,"21 km NNE of Dorado, Puerto Rico",earthquake,1.68,2.07,0.074847376880222,5.0,reviewed,pr,pr
 2025-08-16T04:04:41.013Z,32.119,-101.921,8.8379,0.9,ml,25.0,54.0,0.1,0.1,tx,tx2025qazyqj,2025-08-16T12:26:41.267Z,"12 km W of Stanton, Texas",earthquake,0.35789733004683,0.86928109085031,0.2,19.0,reviewed,tx,tx
 2025-08-16T00:06:02.934Z,31.8926,-101.758,8.283,2.7,mb_lg,56.0,25.0,0.064,0.47,us,us6000r1j6,2025-08-16T12:09:31.000Z,"26 km W of Garden City, Texas",earthquake,1.22,5.479,0.069,56.0,reviewed,us,us
+2025-08-16T12:59:21.272Z,63.2949,-145.1903,5.6,1.0,ml,,,,0.87,ak,ak025aha10qn,2025-08-16T13:04:45.008Z,"31 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-16T12:43:21.102Z,64.4766,-146.9609,6.0,0.9,ml,,,,0.33,ak,ak025ah9xl9q,2025-08-16T12:45:34.827Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-16T11:09:16.295Z,32.108,-101.056,8.9111,1.5,ml,23.0,52.0,0.2,0.2,tx,tx2025qboakq,2025-08-16T12:47:33.294Z,"27 km S of Westbrook, Texas",earthquake,0.77046145828594,1.8414227841747,0.2,8.0,reviewed,tx,tx
+2025-08-16T10:02:18.830Z,32.119,-101.921,9.3262,1.0,ml,28.0,54.0,0.1,0.1,tx,tx2025qbluuz,2025-08-16T12:30:50.157Z,"12 km W of Stanton, Texas",earthquake,0.32907692874023,0.93184041873931,0.2,22.0,reviewed,tx,tx
