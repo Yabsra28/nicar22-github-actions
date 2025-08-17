@@ -6365,3 +6365,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T21:46:58.092Z,31.656,-104.373,4.2975,1.6,ml,17.0,160.0,0.1,0.3,tx,tx2025qeewxs,2025-08-17T21:52:39.923Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.6488538980484,0.2,7.0,automatic,tx,tx
 2025-08-17T22:37:04.380Z,38.83150100708,-122.78350067139,-0.69999998807907,1.02,md,9.0,71.0,0.008726,0.02,nc,nc75225157,2025-08-17T22:38:41.647Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.779999971,0.08,10.0,automatic,nc,nc
 2025-08-17T22:28:26.609Z,31.709,-101.724,3.0681,1.8,ml,54.0,59.0,0.1,0.5,tx,tx2025qeggle,2025-08-17T22:32:47.506Z,"28 km SW of Garden City, Texas",earthquake,0.0,0.91980123519897,0.2,31.0,automatic,tx,tx
+2025-08-17T23:08:03.460Z,38.759166717529,-122.71966552734,1.6499999761581,1.17,md,14.0,115.0,0.00473,0.03,nc,nc75225167,2025-08-17T23:09:40.777Z,"3 km WSW of Anderson Springs, CA",earthquake,0.39,0.289999992,0.12,14.0,automatic,nc,nc
+2025-08-17T22:39:33.490Z,18.9015,-65.3213,51.0,3.52,md,12.0,235.0,0.8369,0.23,pr,pr2025229000,2025-08-17T23:17:00.815Z,"66 km N of Culebra, Puerto Rico",earthquake,2.009,4.6,0.06,8.0,reviewed,pr,pr
