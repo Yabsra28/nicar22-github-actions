@@ -6289,3 +6289,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T09:58:39.234Z,37.4334,-116.9569,0.0,0.8,ml,14.0,131.93,0.276,0.4416,nn,nn00902699,2025-08-17T10:01:05.406Z,"39 km SE of Goldfield, Nevada",earthquake,,37.5,0.28,9.0,automatic,nn,nn
 2025-08-17T09:57:10.740Z,34.0398333,-117.1918333,12.45,0.6,ml,43.0,29.0,0.1023,0.18,ci,ci40401066,2025-08-17T10:00:53.465Z,"2 km SSW of Redlands, CA",earthquake,0.18,0.54,0.175,19.0,automatic,ci,ci
 2025-08-17T10:27:50.300Z,33.6725,-116.7711667,14.41,0.88,ml,43.0,39.0,0.0767,0.16,ci,ci40401082,2025-08-17T10:31:20.640Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.28,0.193,30.0,automatic,ci,ci
+2025-08-17T10:48:13.884Z,-57.3474,-66.9371,10.0,4.5,mb,40.0,143.0,2.452,0.51,us,us6000r1q2,2025-08-17T11:06:36.040Z,"295 km SSE of Ushuaia, Argentina",earthquake,13.46,1.927,0.088,38.0,reviewed,us,us
