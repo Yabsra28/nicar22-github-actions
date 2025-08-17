@@ -6328,3 +6328,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T16:04:17.312Z,65.7821,-148.6512,36.1,1.8,ml,,,,1.43,ak,ak025aizmaxz,2025-08-17T16:13:30.564Z,"29 km N of Livengood, Alaska",earthquake,,6.0,,,automatic,ak,ak
 2025-08-17T16:00:52.860Z,38.812999725342,-122.79983520508,3.670000076294,0.76,md,15.0,63.0,0.006147,0.02,nc,nc75225067,2025-08-17T16:02:30.434Z,"5 km NNW of The Geysers, CA",earthquake,0.41,0.680000007,0.09,14.0,automatic,nc,nc
 2025-08-17T13:59:23.605Z,50.385,159.7979,35.0,4.5,mb,31.0,227.0,2.737,0.99,us,us6000r1qb,2025-08-17T16:17:15.040Z,"262 km E of Severo-Kuril’sk, Russia",earthquake,11.49,1.98,0.098,31.0,reviewed,us,us
+2025-08-17T16:36:12.210Z,38.83150100708,-122.79582977295,2.4100000858307,0.33,md,7.0,161.0,0.00812,0.01,nc,nc75225077,2025-08-17T16:37:50.786Z,"6 km WNW of Cobb, CA",earthquake,0.66,0.899999976,0.12,8.0,automatic,nc,nc
