@@ -6279,3 +6279,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T08:30:36.416Z,28.95,-98.116,12.282,1.8,ml,9.0,86.0,0.1,0.3,tx,tx2025qdemrq,2025-08-17T08:32:51.233Z,"10 km WSW of Falls City, Texas",earthquake,0.0,5.1322498321533,0.1,7.0,automatic,tx,tx
 2025-08-17T07:55:59.468Z,25.9669,-110.3073,10.0,4.9,mww,48.0,167.0,2.193,1.1,us,us6000r1pq,2025-08-17T08:23:09.040Z,"97 km W of Las Grullas Margen Derecha, Mexico",earthquake,9.78,1.927,0.06,27.0,reviewed,us,us
 2025-08-17T08:39:40.016Z,32.137,-101.633,3.9483,1.9,ml,43.0,61.0,0.0,0.3,tx,tx2025qdeumh,2025-08-17T08:44:49.952Z,"14 km E of Stanton, Texas",earthquake,0.0,0.84738057851791,0.1,31.0,automatic,tx,tx
+2025-08-17T09:07:01.550Z,38.792835235596,-122.74933624268,3.1900000572205,0.76,md,8.0,90.0,0.01375,0.02,nc,nc75224982,2025-08-17T09:08:40.042Z,"2 km NNE of The Geysers, CA",earthquake,0.44,1.63999999,0.05,7.0,automatic,nc,nc
