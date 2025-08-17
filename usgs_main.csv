@@ -6254,3 +6254,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T22:48:39.100Z,46.109833333333,-122.091,6.85,0.5,ml,7.0,244.0,0.03197,0.14,uw,uw62172406,2025-08-17T05:42:56.580Z,"35 km NE of Amboy, Washington",earthquake,1.58,1.08,0.044374450044524,5.0,reviewed,uw,uw
 2025-08-17T05:49:24.480Z,28.962,-98.112,7.4817,1.4,ml,13.0,90.0,0.1,0.4,tx,tx2025qczdth,2025-08-17T05:53:18.841Z,"9 km WSW of Falls City, Texas",earthquake,0.0,3.1549298763275,0.1,10.0,automatic,tx,tx
 2025-08-17T05:45:00.160Z,33.2303333,-116.7385,11.06,0.81,ml,43.0,30.0,0.01789,0.16,ci,ci40400978,2025-08-17T05:48:20.876Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.16,0.35,0.181,26.0,automatic,ci,ci
+2025-08-17T06:20:18.980Z,38.80683517456,-122.77500152588,10.159999847412,0.79,md,5.0,159.0,0.007801,0.07,nc,nc75224942,2025-08-17T06:21:54.793Z,"4 km NNW of The Geysers, CA",earthquake,1.75,8.10000038,0.08,8.0,automatic,nc,nc
+2025-08-17T06:09:39.810Z,33.0305,-116.0001667,8.98,1.04,ml,38.0,41.0,0.1438,0.18,ci,ci40400986,2025-08-17T06:13:04.011Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.21,0.81,0.372,16.0,automatic,ci,ci
+2025-08-17T06:04:06.051Z,28.825,-97.973,2.9831,1.5,ml,6.0,139.0,0.1,0.5,tx,tx2025qczqkt,2025-08-17T06:06:38.724Z,"9 km SW of Karnes City, Texas",earthquake,0.0,3.4881348609924,0.3,6.0,automatic,tx,tx
+2025-08-17T06:00:56.215Z,63.2876,-151.092,8.3,1.5,ml,,,,0.73,ak,ak025aitn71x,2025-08-17T06:04:44.747Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-17T05:59:51.531Z,13.2167,-91.0754,10.0,5.4,mww,63.0,150.0,1.415,1.25,us,us6000r1p8,2025-08-17T06:24:15.577Z,"83 km SSW of Puerto San José, Guatemala",earthquake,6.61,1.881,0.04,60.0,reviewed,us,us
+2025-08-17T05:56:27.319Z,63.4703,-149.7055,105.3,1.4,ml,,,,0.34,ak,ak025aitdpbf,2025-08-17T05:59:07.121Z,"38 km WNW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
