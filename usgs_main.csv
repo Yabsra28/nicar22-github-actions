@@ -6310,3 +6310,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T14:36:34.021Z,31.704,-104.184,4.1064,2.5,ml,42.0,59.0,0.1,0.3,tx,tx2025qdqpry,2025-08-17T14:42:44.993Z,"55 km SSE of Whites City, New Mexico",earthquake,0.0,0.85758072137833,0.2,28.0,automatic,tx,tx
 2025-08-17T14:54:10.990Z,36.648,-116.3308,4.0,0.5,ml,23.0,81.38,0.007,0.2352,nn,nn00902712,2025-08-17T14:56:27.533Z,"47 km SE of Beatty, Nevada",earthquake,,0.4,0.27,17.0,automatic,nn,nn
 2025-08-17T14:48:24.056Z,60.2247,-152.4658,87.2,1.4,ml,,,,0.66,ak,ak025aiyovs5,2025-08-17T14:51:14.025Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-17T15:03:15.995Z,2.1339,127.0196,48.21,5.5,mww,51.0,92.0,1.397,0.88,us,us6000r1qp,2025-08-17T15:21:54.040Z,"118 km WNW of Tobelo, Indonesia",earthquake,6.51,6.674,0.098,10.0,reviewed,us,us
+2025-08-17T14:54:05.551Z,31.773,-104.157,4.4023,1.5,ml,34.0,94.0,0.0,0.3,tx,tx2025qdrfdd,2025-08-17T14:57:33.037Z,"49 km SSE of Whites City, New Mexico",earthquake,0.0,0.90990173816681,0.2,24.0,automatic,tx,tx
