@@ -6303,3 +6303,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T01:02:23.340Z,46.565,-112.36383333333,6.95,2.27,ml,34.0,47.0,0.09985,0.1,mb,mb90107558,2025-08-17T13:48:35.920Z,"5 km E of Elliston, Montana",earthquake,0.18,1.1,0.22368258672347,45.0,reviewed,mb,mb
 2025-08-17T13:51:25.809Z,32.028,-101.785,5.0,1.0,ml,7.0,169.0,0.1,0.3,tx,tx2025qdpddh,2025-08-17T14:00:09.131Z,"11 km S of Stanton, Texas",earthquake,0.0,,0.3,7.0,automatic,tx,tx
 2025-08-16T23:57:46.310Z,44.6285,-112.0785,3.14,1.26,ml,20.0,81.0,0.1926,0.14,mb,mb90107543,2025-08-17T14:05:35.560Z,"31 km NNE of Spencer, Idaho",earthquake,0.31,0.86,0.16712164234751,18.0,reviewed,mb,mb
+2025-08-17T14:19:22.000Z,33.6866667,-116.7365,15.26,0.54,ml,21.0,94.0,0.06215,0.13,ci,ci40401178,2025-08-17T14:33:24.482Z,"6 km SSW of Idyllwild, CA",earthquake,0.32,0.53,0.156,13.0,reviewed,ci,ci
+2025-08-17T14:17:44.026Z,37.5982,-117.7136,11.2,2.4,ml,36.0,67.85,0.308,0.3028,nn,nn00902709,2025-08-17T14:22:11.841Z,"18 km SSW of Silver Peak, Nevada",earthquake,,0.4,0.36,24.0,automatic,nn,nn
+2025-08-17T03:01:47.680Z,39.4184,-119.7177,8.3,0.2,ml,6.0,232.56,0.046,0.0655,nn,nn00902707,2025-08-17T14:14:51.727Z,"13 km SSE of Sparks, Nevada",earthquake,,1.8,0.21,3.0,reviewed,nn,nn
