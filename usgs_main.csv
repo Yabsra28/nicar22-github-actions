@@ -6252,3 +6252,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T09:49:18.064Z,51.7985,-176.452,98.984,3.7,ml,14.0,188.0,0.383,0.31,us,us6000r1ks,2025-08-17T05:04:57.040Z,"15 km SE of Adak, Alaska",earthquake,7.03,5.886,0.081,20.0,reviewed,us,us
 2025-08-17T05:39:56.381Z,28.949,-98.095,6.4361,1.5,ml,9.0,84.0,0.1,0.5,tx,tx2025qcyvpj,2025-08-17T05:43:17.093Z,"8 km WSW of Falls City, Texas",earthquake,0.0,3.2607223987579,0.2,6.0,automatic,tx,tx
 2025-08-16T22:48:39.100Z,46.109833333333,-122.091,6.85,0.5,ml,7.0,244.0,0.03197,0.14,uw,uw62172406,2025-08-17T05:42:56.580Z,"35 km NE of Amboy, Washington",earthquake,1.58,1.08,0.044374450044524,5.0,reviewed,uw,uw
+2025-08-17T05:49:24.480Z,28.962,-98.112,7.4817,1.4,ml,13.0,90.0,0.1,0.4,tx,tx2025qczdth,2025-08-17T05:53:18.841Z,"9 km WSW of Falls City, Texas",earthquake,0.0,3.1549298763275,0.1,10.0,automatic,tx,tx
+2025-08-17T05:45:00.160Z,33.2303333,-116.7385,11.06,0.81,ml,43.0,30.0,0.01789,0.16,ci,ci40400978,2025-08-17T05:48:20.876Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.16,0.35,0.181,26.0,automatic,ci,ci
