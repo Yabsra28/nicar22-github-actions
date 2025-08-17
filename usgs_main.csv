@@ -6291,3 +6291,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T10:27:50.300Z,33.6725,-116.7711667,14.41,0.88,ml,43.0,39.0,0.0767,0.16,ci,ci40401082,2025-08-17T10:31:20.640Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.28,0.193,30.0,automatic,ci,ci
 2025-08-17T10:48:13.884Z,-57.3474,-66.9371,10.0,4.5,mb,40.0,143.0,2.452,0.51,us,us6000r1q2,2025-08-17T11:06:36.040Z,"295 km SSE of Ushuaia, Argentina",earthquake,13.46,1.927,0.088,38.0,reviewed,us,us
 2025-08-17T08:58:55.406Z,31.704,-101.712,3.3399,1.3,mlv,18.0,60.0,0.1,0.5,tx,tx2025qdflbn,2025-08-17T11:14:37.186Z,"28 km SW of Garden City, Texas",earthquake,0.0,1.3571650981903,0.2,13.0,automatic,tx,tx
+2025-08-17T11:23:32.910Z,33.2855,-116.2711667,4.24,0.56,ml,36.0,53.0,0.09028,0.21,ci,ci40401090,2025-08-17T11:26:59.497Z,"10 km ENE of Borrego Springs, CA",earthquake,0.26,0.69,0.163,9.0,automatic,ci,ci
