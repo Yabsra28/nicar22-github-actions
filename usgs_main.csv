@@ -6312,3 +6312,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T14:48:24.056Z,60.2247,-152.4658,87.2,1.4,ml,,,,0.66,ak,ak025aiyovs5,2025-08-17T14:51:14.025Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-17T15:03:15.995Z,2.1339,127.0196,48.21,5.5,mww,51.0,92.0,1.397,0.88,us,us6000r1qp,2025-08-17T15:21:54.040Z,"118 km WNW of Tobelo, Indonesia",earthquake,6.51,6.674,0.098,10.0,reviewed,us,us
 2025-08-17T14:54:05.551Z,31.773,-104.157,4.4023,1.5,ml,34.0,94.0,0.0,0.3,tx,tx2025qdrfdd,2025-08-17T14:57:33.037Z,"49 km SSE of Whites City, New Mexico",earthquake,0.0,0.90990173816681,0.2,24.0,automatic,tx,tx
+2025-08-17T15:33:39.980Z,37.636665344238,-119.00566864014,0.68000000715256,0.58,md,8.0,124.0,0.009715,0.01,nc,nc75225047,2025-08-17T15:35:15.075Z,"2 km W of Mammoth Lakes, CA",earthquake,0.63,0.529999971,0.12,6.0,automatic,nc,nc
+2025-08-17T15:32:34.821Z,36.7722,-116.251,9.2,-0.3,ml,10.0,214.25,0.054,0.0475,nn,nn00902715,2025-08-17T15:34:34.958Z,"47 km ESE of Beatty, Nevada",earthquake,,1.6,0.09,7.0,automatic,nn,nn
+2025-08-17T15:27:39.650Z,33.8236667,-116.965,10.3,2.62,ml,134.0,14.0,0.0158,0.22,ci,ci40401226,2025-08-17T15:38:27.180Z,"4 km N of San Jacinto, CA",earthquake,0.11,0.26,0.217,25.0,automatic,ci,ci
+2025-08-17T15:26:12.970Z,19.161666870117,-155.51600646973,31.370000839233,2.02,ml,50.0,123.0,0.05132,0.140000001,hv,hv74754397,2025-08-17T15:29:52.700Z,"6 km SW of Pāhala, Hawaii",earthquake,0.39,0.5,0.87,4.0,automatic,hv,hv
+2025-08-17T14:46:30.272Z,51.7146,-173.4637,35.0,3.8,mb,15.0,204.0,0.666,0.61,us,us6000r1qk,2025-08-17T15:33:56.040Z,"73 km SE of Atka, Alaska",earthquake,5.36,1.952,0.101,25.0,reviewed,us,us
