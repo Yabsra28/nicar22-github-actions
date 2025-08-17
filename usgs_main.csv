@@ -6280,3 +6280,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T07:55:59.468Z,25.9669,-110.3073,10.0,4.9,mww,48.0,167.0,2.193,1.1,us,us6000r1pq,2025-08-17T08:23:09.040Z,"97 km W of Las Grullas Margen Derecha, Mexico",earthquake,9.78,1.927,0.06,27.0,reviewed,us,us
 2025-08-17T08:39:40.016Z,32.137,-101.633,3.9483,1.9,ml,43.0,61.0,0.0,0.3,tx,tx2025qdeumh,2025-08-17T08:44:49.952Z,"14 km E of Stanton, Texas",earthquake,0.0,0.84738057851791,0.1,31.0,automatic,tx,tx
 2025-08-17T09:07:01.550Z,38.792835235596,-122.74933624268,3.1900000572205,0.76,md,8.0,90.0,0.01375,0.02,nc,nc75224982,2025-08-17T09:08:40.042Z,"2 km NNE of The Geysers, CA",earthquake,0.44,1.63999999,0.05,7.0,automatic,nc,nc
+2025-08-17T09:24:02.400Z,40.295501708984,-124.41916656494,10.64999961853,2.02,md,20.0,262.0,0.059,0.1,nc,nc75224992,2025-08-17T09:25:40.195Z,"12 km W of Petrolia, CA",earthquake,1.47,0.560000002,0.08,14.0,automatic,nc,nc
+2025-08-17T09:01:20.185Z,-47.8695,116.1014,10.0,4.8,mb,31.0,75.0,14.95,0.44,us,us6000r1pw,2025-08-17T09:20:09.040Z,western Indian-Antarctic Ridge,earthquake,12.39,1.882,0.104,29.0,reviewed,us,us
