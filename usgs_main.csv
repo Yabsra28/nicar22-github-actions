@@ -6346,3 +6346,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T18:19:40.047Z,14.3125,120.5827,166.864,4.5,mb,42.0,89.0,8.472,0.93,us,us6000r1rb,2025-08-17T18:34:19.040Z,"14 km W of Ternate, Philippines",earthquake,12.51,8.203,0.091,35.0,reviewed,us,us
 2025-08-17T18:35:39.684Z,-6.1639,151.4739,10.0,5.0,mb,56.0,59.0,2.077,1.08,us,us6000r1rf,2025-08-17T18:54:09.040Z,"162 km ESE of Kimbe, Papua New Guinea",earthquake,7.52,1.826,0.052,116.0,reviewed,us,us
 2025-08-17T18:30:06.108Z,-21.7046,-179.4062,605.074,4.5,mb,36.0,191.0,4.609,0.63,us,us6000r1re,2025-08-17T18:50:15.040Z,Fiji region,earthquake,17.99,11.799,0.096,32.0,reviewed,us,us
+2025-08-17T19:09:39.346Z,-22.789,-66.3936,265.221,5.0,mww,33.0,57.0,1.654,1.54,us,us6000r1ri,2025-08-17T19:18:45.040Z,"71 km W of Abra Pampa, Argentina",earthquake,8.09,10.154,0.071,19.0,reviewed,us,us
+2025-08-17T19:04:00.630Z,60.009,-153.1827,119.0,1.1,ml,,,,0.45,ak,ak025aj1ekhr,2025-08-17T19:05:55.583Z,"57 km ENE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-17T19:03:11.701Z,60.3341,-145.6563,21.6,1.4,ml,,,,0.67,ak,ak025aj1edmq,2025-08-17T19:04:46.967Z,"23 km SSE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-17T19:00:21.535Z,36.4881,-116.5987,10.1,0.8,ml,12.0,112.62,0.105,0.217,nn,nn00902717,2025-08-17T19:02:26.445Z,"23 km E of Furnace Creek, California",earthquake,,1.4,0.26,11.0,automatic,nn,nn
