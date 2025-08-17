@@ -6350,3 +6350,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T19:04:00.630Z,60.009,-153.1827,119.0,1.1,ml,,,,0.45,ak,ak025aj1ekhr,2025-08-17T19:05:55.583Z,"57 km ENE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-17T19:03:11.701Z,60.3341,-145.6563,21.6,1.4,ml,,,,0.67,ak,ak025aj1edmq,2025-08-17T19:04:46.967Z,"23 km SSE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-17T19:00:21.535Z,36.4881,-116.5987,10.1,0.8,ml,12.0,112.62,0.105,0.217,nn,nn00902717,2025-08-17T19:02:26.445Z,"23 km E of Furnace Creek, California",earthquake,,1.4,0.26,11.0,automatic,nn,nn
+2025-08-17T19:11:01.290Z,34.2858,7.4178,10.0,5.1,mww,79.0,65.0,6.03,0.99,us,us6000r1rj,2025-08-17T19:26:27.040Z,"47 km W of Chebika, Tunisia",earthquake,8.55,1.865,0.045,47.0,reviewed,us,us
