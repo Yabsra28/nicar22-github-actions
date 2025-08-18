@@ -6581,3 +6581,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T21:12:28.153Z,62.1005,-150.2236,8.8,0.9,ml,,,,0.73,ak,ak025akq6k1r,2025-08-18T21:14:47.181Z,"20 km WSW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-18T21:07:00.091Z,58.7774,-153.4194,21.4,1.1,ml,,,,0.72,ak,ak025akq5fax,2025-08-18T21:09:03.792Z,"85 km NNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-18T19:55:47.293Z,24.1225,121.8548,29.751,4.2,mwr,41.0,57.0,0.243,0.69,us,us6000r1xn,2025-08-18T21:03:25.040Z,"30 km ENE of Hualien City, Taiwan",earthquake,3.64,5.05,0.066,22.0,reviewed,us,us
+2025-08-18T21:46:15.560Z,39.34033203125,-123.25583648682,3.170000076294,1.32,md,7.0,124.0,0.1045,0.04,nc,nc75225562,2025-08-18T21:54:00.846Z,"9 km NNW of Redwood Valley, CA",earthquake,0.37,6.61000013,0.22,5.0,automatic,nc,nc
