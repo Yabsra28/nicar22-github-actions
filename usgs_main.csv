@@ -6530,3 +6530,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T19:48:31.915Z,31.987,-103.886,4.895,0.9,ml,11.0,73.0,0.0,0.1,tx,tx2025qeaytd,2025-08-18T15:28:51.288Z,"31 km SE of Malaga, New Mexico",earthquake,0.59301642170931,1.5195386413322,0.2,9.0,reviewed,tx,tx
 2025-08-18T15:42:34.110Z,34.096,-117.2088333,4.18,1.35,ml,70.0,31.0,0.02658,0.2,ci,ci40401970,2025-08-18T15:53:19.690Z,"4 km S of Highland, CA",earthquake,0.14,0.39,0.171,27.0,automatic,ci,ci
 2025-08-18T15:10:57.856Z,49.9288,157.3654,29.892,4.6,mb,103.0,75.0,3.201,0.7,us,us6000r1w5,2025-08-18T15:50:49.040Z,"121 km SE of Severo-Kuril’sk, Russia",earthquake,9.19,5.276,0.052,109.0,reviewed,us,us
+2025-08-18T16:13:03.440Z,38.84049987793,-122.80416870117,8.6999998092651,0.27,md,8.0,102.0,0.011,0.05,nc,nc75225462,2025-08-18T16:14:40.723Z,"7 km WNW of Cobb, CA",earthquake,1.31,0.74000001,0.06,5.0,automatic,nc,nc
+2025-08-18T15:58:32.671Z,32.3592,76.742,10.0,4.2,mb,43.0,173.0,6.277,1.23,us,us6000r1wg,2025-08-18T16:28:01.815Z,"32 km NNE of Pālampur, India",earthquake,11.24,1.936,0.112,22.0,reviewed,us,us
+2025-08-18T09:06:20.373Z,32.427,-102.121,6.665,0.5,ml,9.0,74.0,0.0,0.2,tx,tx2025qfbkiu,2025-08-18T16:05:53.586Z,"37 km SSW of Los Ybanez, Texas",earthquake,2.1062891820162,1.3083762813488,0.2,13.0,reviewed,tx,tx
+2025-08-18T06:10:40.765Z,51.0579,-178.8152,20.4,4.0,ml,,,,0.65,ak,ak025akh8nax,2025-08-18T16:27:09.161Z,"176 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
