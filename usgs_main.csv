@@ -6516,3 +6516,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T23:22:06.820Z,36.1145,-117.9146667,5.3,1.68,ml,25.0,61.0,0.03424,0.17,ci,ci37551157,2025-08-18T14:26:31.174Z,"8 km NNE of Coso Junction, CA",earthquake,0.22,0.47,0.102,18.0,reviewed,ci,ci
 2025-08-17T21:45:42.240Z,33.683,-117.4133333,7.56,-0.29,ml,5.0,121.0,0.03546,0.18,ci,ci40401434,2025-08-18T14:34:52.768Z,"8 km NW of Lakeland Village, CA",earthquake,0.78,1.0,0.052,3.0,reviewed,ci,ci
 2025-08-17T16:50:42.940Z,46.563666666667,-112.3555,6.56,0.46,ml,8.0,79.0,0.1045,0.11,mb,mb90107613,2025-08-18T14:15:22.160Z,"5 km E of Elliston, Montana",earthquake,0.31,1.4,0.21478100828374,3.0,reviewed,mb,mb
+2025-08-18T14:50:47.159Z,58.6952,-154.0694,83.9,1.4,ml,,,,0.18,ak,ak025akm8phn,2025-08-18T14:52:02.369Z,"92 km SSE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-08-18T14:45:53.800Z,31.606,-104.291,4.0772,1.7,ml,32.0,93.0,0.1,0.3,tx,tx2025qfmqyq,2025-08-18T14:50:30.896Z,"57 km NW of Toyah, Texas",earthquake,0.0,1.1414493322372,0.2,19.0,automatic,tx,tx
