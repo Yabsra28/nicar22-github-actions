@@ -6528,3 +6528,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T15:15:41.255Z,1.1002,125.5663,75.151,4.7,mb,71.0,65.0,0.802,0.79,us,us6000r1w6,2025-08-18T15:32:40.040Z,"61 km SE of Bitung, Indonesia",earthquake,5.36,5.233,0.063,77.0,reviewed,us,us
 2025-08-18T07:28:58.080Z,39.707333333333,-110.72466666667,-2.91,0.14,md,5.0,144.0,0.02668,0.07,uu,uu80004503,2025-08-18T15:26:20.620Z,"7 km ENE of Kenilworth, Utah",earthquake,0.86,0.61,0.17996471175774,3.0,reviewed,uu,uu
 2025-08-17T19:48:31.915Z,31.987,-103.886,4.895,0.9,ml,11.0,73.0,0.0,0.1,tx,tx2025qeaytd,2025-08-18T15:28:51.288Z,"31 km SE of Malaga, New Mexico",earthquake,0.59301642170931,1.5195386413322,0.2,9.0,reviewed,tx,tx
+2025-08-18T15:42:34.110Z,34.096,-117.2088333,4.18,1.35,ml,70.0,31.0,0.02658,0.2,ci,ci40401970,2025-08-18T15:53:19.690Z,"4 km S of Highland, CA",earthquake,0.14,0.39,0.171,27.0,automatic,ci,ci
+2025-08-18T15:10:57.856Z,49.9288,157.3654,29.892,4.6,mb,103.0,75.0,3.201,0.7,us,us6000r1w5,2025-08-18T15:50:49.040Z,"121 km SE of Severo-Kuril’sk, Russia",earthquake,9.19,5.276,0.052,109.0,reviewed,us,us
