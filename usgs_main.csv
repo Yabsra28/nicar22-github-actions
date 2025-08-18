@@ -6566,3 +6566,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T19:38:28.549Z,39.1539,22.0413,18.41,4.3,mb,44.0,52.0,0.265,0.63,us,us6000r1xh,2025-08-18T19:50:16.040Z,"6 km SW of Anávra, Greece",earthquake,4.11,5.045,0.114,22.0,reviewed,us,us
 2025-08-18T19:17:26.840Z,46.791166666667,-122.645,-0.38,1.14,ml,9.0,66.0,0.1247,0.32,uw,uw62173046,2025-08-18T19:46:21.550Z,"11 km SSE of Rainier, Washington",explosion,0.6,31.61,0.035634496976817,5.0,reviewed,uw,uw
 2025-08-18T09:08:18.690Z,37.323833333333,-122.11933333333,5.23,0.59,md,12.0,94.0,0.02371,0.1,nc,nc75225357,2025-08-18T19:48:22.093Z,"3 km SW of Loyola, CA",earthquake,0.25,0.48,0.401,10.0,reviewed,nc,nc
+2025-08-18T12:09:03.540Z,37.686833333333,-122.23416666667,13.39,1.22,md,28.0,69.0,0.09844,0.08,nc,nc75225412,2025-08-18T20:05:28.346Z,"8 km WSW of San Leandro, CA",earthquake,0.19,0.48,0.201,21.0,reviewed,nc,nc
