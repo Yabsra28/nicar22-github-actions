@@ -6494,3 +6494,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T12:47:02.344Z,-15.8782,-72.5659,92.165,4.9,mb,44.0,122.0,3.266,0.91,us,us6000r1vl,2025-08-18T13:05:31.040Z,"6 km ESE of Iray, Peru",earthquake,9.35,7.641,0.069,66.0,reviewed,us,us
 2025-08-18T12:11:51.583Z,35.3083,23.1762,46.265,4.2,mb,67.0,203.0,2.123,1.13,us,us6000r1vh,2025-08-18T13:15:23.040Z,"46 km W of Palaióchora, Greece",earthquake,8.4,9.808,0.086,38.0,reviewed,us,us
 2025-08-17T15:48:26.554Z,32.152,-101.047,8.2764,1.4,ml,18.0,76.0,0.2,0.1,tx,tx2025qdszxo,2025-08-18T13:02:20.981Z,"22 km S of Westbrook, Texas",earthquake,0.71738658711751,2.2487632999287,0.2,14.0,reviewed,tx,tx
+2025-08-18T13:46:32.101Z,61.363,-150.9241,58.2,1.9,ml,,,,0.38,ak,ak025aklmduy,2025-08-18T13:48:06.919Z,"26 km NNE of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-18T13:40:53.860Z,38.789333343506,-122.77116394043,3.3800001144409,1.15,md,21.0,79.0,0.01364,0.03,nc,nc75225432,2025-08-18T13:42:31.630Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.649999976,0.15,21.0,automatic,nc,nc
+2025-08-18T13:39:32.450Z,33.0066667,-115.576,10.27,1.24,ml,26.0,63.0,0.09837,0.22,ci,ci40401850,2025-08-18T13:42:58.715Z,"5 km NW of Brawley, CA",earthquake,0.29,0.65,0.166,15.0,automatic,ci,ci
+2025-08-18T13:25:03.913Z,62.1908,-151.0563,98.1,0.8,ml,,,,0.85,ak,ak025aklhtnb,2025-08-18T13:27:39.001Z,"28 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-18T09:50:52.532Z,32.418,-102.147,8.2764,0.9,ml,12.0,83.0,0.0,0.1,tx,tx2025qfcwra,2025-08-18T13:29:40.206Z,"38 km ENE of McKinney Acres, Texas",earthquake,1.1655657414569,1.2279785234095,0.2,10.0,reviewed,tx,tx
+2025-08-18T08:28:11.712Z,32.404,-102.088,9.8145,0.6,ml,8.0,69.0,0.0,0.1,tx,tx2025qfadla,2025-08-18T13:49:16.472Z,"37 km WSW of Ackerly, Texas",earthquake,1.0843401016818,0.77091668351734,0.1,13.0,reviewed,tx,tx
+2025-08-17T14:24:54.370Z,35.870833333333,-89.989333333333,14.15,2.2,md,33.0,69.0,0.06257,0.06,nm,nm60613031,2025-08-18T13:41:38.820Z,"5 km ENE of Dell, Arkansas",earthquake,0.46,0.58,0.11694449666689,24.0,reviewed,nm,nm
