@@ -6570,3 +6570,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T20:21:54.805Z,37.3848,-116.5607,0.0,0.6,ml,9.0,178.93,0.326,0.2894,nn,nn00902759,2025-08-18T20:24:23.632Z,"55 km NNE of Beatty, Nevada",earthquake,,62.8,0.26,4.0,automatic,nn,nn
 2025-08-18T20:10:26.710Z,46.843334197998,-121.76999664307,-2.0999999046326,0.360000014,md,19.0,71.0,,0.0500000007,uw,uw62164857,2025-08-18T20:11:58.580Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.400000006,0.349999994,2.0,automatic,uw,uw
 2025-08-18T14:47:22.457Z,36.7723,-116.251,9.1,-0.5,ml,26.0,62.07,0.038,0.0788,nn,nn00902758,2025-08-18T20:15:14.803Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.16,6.0,reviewed,nn,nn
+2025-08-18T20:38:16.678Z,37.25,-117.3,0.0,1.7,ml,21.0,128.24,0.059,0.3184,nn,nn00902761,2025-08-18T20:40:56.559Z,"51 km S of Goldfield, Nevada",earthquake,,0.5,0.27,16.0,automatic,nn,nn
+2025-08-18T20:37:52.944Z,61.5431,-151.9577,2.3,0.3,ml,,,,0.1,ak,ak025akpqj9a,2025-08-18T20:39:07.012Z,"57 km SSW of Skwentna, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2025-08-17T23:12:49.619Z,36.515,-97.89566667,7.14,1.47,ml,40.0,74.0,0.07108605049,0.22,ok,ok2025qciq,2025-08-18T20:37:26.788Z,"6 km WSW of Kremlin, Oklahoma",earthquake,,0.5,0.25,17.0,reviewed,ok,ok
+2025-08-17T21:23:13.170Z,49.366166666667,-120.462,-0.49,2.01,ml,13.0,202.0,0.5489,0.69,uw,uw62172711,2025-08-18T20:44:45.670Z,"10 km SSE of Princeton, Canada",explosion,5.41,37.57,0.081487729420958,9.0,reviewed,uw,uw
