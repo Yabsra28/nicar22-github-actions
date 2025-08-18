@@ -6440,3 +6440,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T06:05:04.257Z,60.3192,-152.1705,94.8,1.0,ml,,,,0.57,ak,ak025akh7i49,2025-08-18T06:07:16.376Z,"40 km NW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-08-18T06:46:28.700Z,33.5408333,-116.7155,6.0,0.26,ml,18.0,80.0,0.03052,0.11,ci,ci40401658,2025-08-18T06:49:53.579Z,"4 km WSW of Anza, CA",earthquake,0.21,0.41,0.24,9.0,automatic,ci,ci
 2025-08-18T05:58:54.954Z,14.1681,-91.1971,84.446,4.3,mb,53.0,165.0,0.523,1.32,us,us6000r1u2,2025-08-18T06:59:38.040Z,"11 km ESE of Nueva Concepción, Guatemala",earthquake,6.14,4.997,0.04,172.0,reviewed,us,us
+2025-08-18T07:11:16.560Z,34.0995,-117.2093333,4.65,0.73,ml,44.0,44.0,0.02315,0.21,ci,ci40401674,2025-08-18T07:15:56.034Z,"3 km S of Highland, CA",earthquake,0.2,0.52,0.243,25.0,automatic,ci,ci
+2025-08-18T07:10:29.610Z,34.1031685,-117.2156677,3.26,1.05,ml,20.0,78.0,0.08461,0.17,ci,ci40401666,2025-08-18T07:12:33.808Z,"3 km SSW of Highland, CA",earthquake,0.42,1.7,0.4,6.0,automatic,ci,ci
+2025-08-18T07:10:11.293Z,-44.7953,-79.8476,10.0,5.6,mww,77.0,135.0,4.51,0.89,us,us6000r1ud,2025-08-18T07:29:37.040Z,"Off the coast of Aisen, Chile",earthquake,10.18,1.881,0.046,45.0,reviewed,us,us
+2025-08-18T07:07:50.032Z,59.9042,-152.9973,107.4,1.2,ml,,,,0.4,ak,ak025akhtgor,2025-08-18T07:17:37.539Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
