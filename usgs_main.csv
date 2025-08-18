@@ -6588,3 +6588,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T22:20:28.963Z,62.7971,-143.3894,7.2,1.6,ml,,,,0.5,ak,ak025akqtpg0,2025-08-18T22:22:20.825Z,"23 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-18T22:13:49.905Z,63.4113,-151.1034,0.8,1.0,ml,,,,0.45,ak,ak025akqs8o6,2025-08-18T22:21:59.276Z,"34 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-18T19:41:42.490Z,37.158833333333,-121.53216666667,9.19,0.51,md,15.0,63.0,0.05655,0.11,nc,nc75225512,2025-08-18T22:29:19.269Z,"11 km NE of San Martin, CA",earthquake,0.36,0.86,0.122,8.0,reviewed,nc,nc
+2025-08-18T22:32:03.680Z,33.9421667,-117.805,13.75,1.13,ml,32.0,80.0,0.01421,0.18,ci,ci40402290,2025-08-18T22:35:46.789Z,"6 km N of Yorba Linda, CA",earthquake,0.29,0.41,0.28,31.0,automatic,ci,ci
+2025-08-18T22:19:23.458Z,42.067,140.5392,129.821,5.1,mww,100.0,34.0,1.336,0.72,us,us6000r1yj,2025-08-18T22:38:07.040Z,"23 km NW of Honchō, Japan",earthquake,7.73,6.06,0.078,16.0,reviewed,us,us
