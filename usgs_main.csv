@@ -6449,3 +6449,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T07:52:31.748Z,60.9282,-151.6807,79.9,1.3,ml,,,,0.63,ak,ak025aki32hy,2025-08-18T07:54:23.060Z,"33 km WSW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-18T07:47:33.226Z,64.7734,-147.9189,17.2,0.7,ml,,,,0.24,ak,ak025aki2016,2025-08-18T07:49:38.146Z,"7 km WSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-18T07:31:19.950Z,18.090166666667,-67.170833333333,47.64,2.6,md,11.0,199.0,0.1017,0.15,pr,pr71493048,2025-08-18T07:55:29.100Z,"2 km NE of Puerto Real, Puerto Rico",earthquake,1.11,0.77,0.044979452852323,6.0,reviewed,pr,pr
+2025-08-18T08:23:36.930Z,33.2131667,-116.7343333,6.17,0.57,ml,31.0,32.0,0.03061,0.19,ci,ci40401698,2025-08-18T08:27:27.816Z,"4 km SE of Lake Henshaw, CA",earthquake,0.21,0.42,0.157,9.0,automatic,ci,ci
+2025-08-18T08:15:50.149Z,32.218,-102.065,4.0125,1.8,ml,62.0,40.0,0.1,0.5,tx,tx2025qezsvg,2025-08-18T08:19:30.424Z,"24 km N of Midland, Texas",earthquake,0.0,0.68351083993912,0.1,39.0,automatic,tx,tx
+2025-08-18T08:02:36.936Z,63.4073,-150.4265,0.0,1.2,ml,,,,1.23,ak,ak025akidsp9,2025-08-18T08:05:07.483Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-18T07:57:10.480Z,46.464000701904,-123.62850189209,33.279998779297,2.3192307949066,ml,32.0,47.0,,0.140000001,uw,uw62172866,2025-08-18T08:19:26.820Z,"12 km N of Grays River, Washington",earthquake,0.39,1.04999995,0.27471488714218,34.0,automatic,uw,uw
+2025-08-18T07:48:43.099Z,-15.2858,-173.3441,10.0,5.5,mb,69.0,45.0,2.881,0.95,us,us6000r1uh,2025-08-18T08:25:19.438Z,"88 km NNE of Hihifo, Tonga",earthquake,9.74,1.855,0.025,573.0,reviewed,us,us
