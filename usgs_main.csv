@@ -6488,3 +6488,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T11:55:36.083Z,51.3213,159.425,22.326,4.9,mb,107.0,151.0,1.77,1.12,us,us6000r1vf,2025-08-18T12:13:41.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,8.11,5.914,0.045,156.0,reviewed,us,us
 2025-08-18T11:43:52.464Z,-12.4098,125.8222,10.0,4.8,mb,33.0,85.0,3.048,1.06,us,us6000r1vc,2025-08-18T12:04:02.040Z,south of Timor,earthquake,7.76,1.894,0.094,35.0,reviewed,us,us
 2025-08-18T10:01:28.534Z,32.354,-102.072,7.5928,0.9,ml,18.0,70.0,0.0,0.1,tx,tx2025qfdfpc,2025-08-18T12:27:43.313Z,"36 km NW of Stanton, Texas",earthquake,0.51864312955288,0.65337099070922,0.2,10.0,reviewed,tx,tx
+2025-08-18T13:03:13.789Z,62.9516,-150.6171,82.0,1.4,ml,,,,0.45,ak,ak025akld4nm,2025-08-18T13:06:18.143Z,"51 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-18T12:59:40.300Z,33.5341667,-116.6806667,9.58,0.37,ml,22.0,73.0,0.05293,0.12,ci,ci40401818,2025-08-18T13:03:53.028Z,"2 km SSW of Anza, CA",earthquake,0.17,0.37,0.124,10.0,automatic,ci,ci
+2025-08-18T12:58:48.539Z,61.3431,-146.8995,19.7,1.6,ml,,,,0.43,ak,ak025akl3k45,2025-08-18T13:00:32.427Z,"37 km NW of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-18T12:47:02.344Z,-15.8782,-72.5659,92.165,4.9,mb,44.0,122.0,3.266,0.91,us,us6000r1vl,2025-08-18T13:05:31.040Z,"6 km ESE of Iray, Peru",earthquake,9.35,7.641,0.069,66.0,reviewed,us,us
+2025-08-18T12:11:51.583Z,35.3083,23.1762,46.265,4.2,mb,67.0,203.0,2.123,1.13,us,us6000r1vh,2025-08-18T13:15:23.040Z,"46 km W of Palaióchora, Greece",earthquake,8.4,9.808,0.086,38.0,reviewed,us,us
+2025-08-17T15:48:26.554Z,32.152,-101.047,8.2764,1.4,ml,18.0,76.0,0.2,0.1,tx,tx2025qdszxo,2025-08-18T13:02:20.981Z,"22 km S of Westbrook, Texas",earthquake,0.71738658711751,2.2487632999287,0.2,14.0,reviewed,tx,tx
