@@ -6553,3 +6553,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T18:59:07.011Z,61.5483,-149.8238,29.7,1.3,ml,,,,0.89,ak,ak025akooa99,2025-08-18T19:01:31.674Z,"7 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-18T18:49:44.303Z,32.257,-101.848,9.013,1.9,ml,12.0,102.0,0.0,0.6,tx,tx2025qfutbr,2025-08-18T18:52:28.135Z,"15 km NNW of Stanton, Texas",earthquake,0.0,3.5755395889282,0.1,9.0,automatic,tx,tx
 2025-08-18T18:41:18.490Z,37.1957,69.5801,10.0,4.6,mb,54.0,55.0,1.496,0.85,us,us6000r1x4,2025-08-18T18:56:10.040Z,"15 km NE of Ārt Khwājah, Afghanistan",earthquake,5.3,1.888,0.077,51.0,reviewed,us,us
+2025-08-18T19:09:04.664Z,38.1639,-117.9506,1.8,1.4,ml,11.0,100.27,0.044,0.0835,nn,nn00902753,2025-08-18T19:11:54.342Z,"28 km SSE of Mina, Nevada",earthquake,,2.7,0.25,7.0,automatic,nn,nn
+2025-08-18T18:55:51.069Z,57.4632,-154.9799,36.8,1.5,ml,,,,0.61,ak,ak025akonisi,2025-08-18T19:18:13.469Z,"33 km WSW of Karluk, Alaska",earthquake,,7.1,,,automatic,ak,ak
+2025-08-18T14:34:28.610Z,45.836333333333,-122.62883333333,15.88,0.92,ml,15.0,129.0,0.1751,0.1,uw,uw62172936,2025-08-18T19:22:00.540Z,"4 km SE of La Center, Washington",earthquake,0.24,0.65,0.13934937231362,6.0,reviewed,uw,uw
