@@ -6535,3 +6535,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T09:06:20.373Z,32.427,-102.121,6.665,0.5,ml,9.0,74.0,0.0,0.2,tx,tx2025qfbkiu,2025-08-18T16:05:53.586Z,"37 km SSW of Los Ybanez, Texas",earthquake,2.1062891820162,1.3083762813488,0.2,13.0,reviewed,tx,tx
 2025-08-18T06:10:40.765Z,51.0579,-178.8152,20.4,4.0,ml,,,,0.65,ak,ak025akh8nax,2025-08-18T16:27:09.161Z,"176 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-08-18T12:33:37.401Z,61.4837,-140.5456,10.0,3.0,ml,,,,1.34,ak,ak025akky6dd,2025-08-18T16:35:22.660Z,"126 km E of McCarthy, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2025-08-18T17:11:34.543Z,64.7795,-149.011,8.5,1.2,ml,,,,0.51,ak,ak025aknsmem,2025-08-18T17:13:52.540Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-18T17:06:15.050Z,35.6256667,-117.4428333,8.15,0.73,ml,19.0,84.0,0.04233,0.12,ci,ci40402034,2025-08-18T17:09:41.467Z,"16 km SSW of Searles Valley, CA",earthquake,0.25,0.49,0.39,7.0,automatic,ci,ci
+2025-08-18T17:00:40.344Z,63.8608,-149.028,4.7,1.3,ml,,,,0.55,ak,ak025aknq9z6,2025-08-18T17:02:35.278Z,"3 km W of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
