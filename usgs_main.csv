@@ -6438,3 +6438,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T06:11:35.240Z,19.838833333333,-155.07333333333,36.11,2.71,ml,62.0,204.0,0.1469,0.15,hv,hv74754977,2025-08-18T06:34:53.280Z,"3 km E of Pepeekeo, Hawaii",earthquake,0.43,0.73,0.23088941745532,40.0,reviewed,hv,hv
 2025-08-18T06:10:03.087Z,61.5584,-149.8224,50.3,1.6,ml,,,,0.25,ak,ak025akh8klw,2025-08-18T06:11:41.824Z,"8 km S of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-18T06:05:04.257Z,60.3192,-152.1705,94.8,1.0,ml,,,,0.57,ak,ak025akh7i49,2025-08-18T06:07:16.376Z,"40 km NW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2025-08-18T06:46:28.700Z,33.5408333,-116.7155,6.0,0.26,ml,18.0,80.0,0.03052,0.11,ci,ci40401658,2025-08-18T06:49:53.579Z,"4 km WSW of Anza, CA",earthquake,0.21,0.41,0.24,9.0,automatic,ci,ci
+2025-08-18T05:58:54.954Z,14.1681,-91.1971,84.446,4.3,mb,53.0,165.0,0.523,1.32,us,us6000r1u2,2025-08-18T06:59:38.040Z,"11 km ESE of Nueva Concepción, Guatemala",earthquake,6.14,4.997,0.04,172.0,reviewed,us,us
