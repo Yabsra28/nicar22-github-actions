@@ -6578,3 +6578,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T20:50:58.290Z,19.409000396729,-155.27033996582,0.55000001192093,1.78,ml,18.0,64.0,0.01034,0.25,hv,hv74755332,2025-08-18T20:53:53.080Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.289999992,0.22,10.0,automatic,hv,hv
 2025-08-18T20:48:34.511Z,62.8659,-149.6533,76.5,0.7,ml,,,,0.4,ak,ak025akpsupn,2025-08-18T20:53:45.617Z,"51 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-18T20:38:10.337Z,-7.3141,126.739,388.558,4.8,mb,75.0,55.0,3.444,0.7,us,us6000r1y5,2025-08-18T20:54:09.040Z,"132 km NNE of Baukau, Timor Leste",earthquake,8.77,8.142,0.055,101.0,reviewed,us,us
+2025-08-18T21:12:28.153Z,62.1005,-150.2236,8.8,0.9,ml,,,,0.73,ak,ak025akq6k1r,2025-08-18T21:14:47.181Z,"20 km WSW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-18T21:07:00.091Z,58.7774,-153.4194,21.4,1.1,ml,,,,0.72,ak,ak025akq5fax,2025-08-18T21:09:03.792Z,"85 km NNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-18T19:55:47.293Z,24.1225,121.8548,29.751,4.2,mwr,41.0,57.0,0.243,0.69,us,us6000r1xn,2025-08-18T21:03:25.040Z,"30 km ENE of Hualien City, Taiwan",earthquake,3.64,5.05,0.066,22.0,reviewed,us,us
