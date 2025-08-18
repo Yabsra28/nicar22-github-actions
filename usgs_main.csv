@@ -6534,3 +6534,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T15:58:32.671Z,32.3592,76.742,10.0,4.2,mb,43.0,173.0,6.277,1.23,us,us6000r1wg,2025-08-18T16:28:01.815Z,"32 km NNE of Pālampur, India",earthquake,11.24,1.936,0.112,22.0,reviewed,us,us
 2025-08-18T09:06:20.373Z,32.427,-102.121,6.665,0.5,ml,9.0,74.0,0.0,0.2,tx,tx2025qfbkiu,2025-08-18T16:05:53.586Z,"37 km SSW of Los Ybanez, Texas",earthquake,2.1062891820162,1.3083762813488,0.2,13.0,reviewed,tx,tx
 2025-08-18T06:10:40.765Z,51.0579,-178.8152,20.4,4.0,ml,,,,0.65,ak,ak025akh8nax,2025-08-18T16:27:09.161Z,"176 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-08-18T12:33:37.401Z,61.4837,-140.5456,10.0,3.0,ml,,,,1.34,ak,ak025akky6dd,2025-08-18T16:35:22.660Z,"126 km E of McCarthy, Alaska",earthquake,,0.0,,,reviewed,ak,ak
