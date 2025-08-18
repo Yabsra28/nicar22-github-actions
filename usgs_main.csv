@@ -6444,3 +6444,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T07:10:29.610Z,34.1031685,-117.2156677,3.26,1.05,ml,20.0,78.0,0.08461,0.17,ci,ci40401666,2025-08-18T07:12:33.808Z,"3 km SSW of Highland, CA",earthquake,0.42,1.7,0.4,6.0,automatic,ci,ci
 2025-08-18T07:10:11.293Z,-44.7953,-79.8476,10.0,5.6,mww,77.0,135.0,4.51,0.89,us,us6000r1ud,2025-08-18T07:29:37.040Z,"Off the coast of Aisen, Chile",earthquake,10.18,1.881,0.046,45.0,reviewed,us,us
 2025-08-18T07:07:50.032Z,59.9042,-152.9973,107.4,1.2,ml,,,,0.4,ak,ak025akhtgor,2025-08-18T07:17:37.539Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-18T07:35:00.614Z,36.8156,-116.1825,1.9,0.2,ml,18.0,66.34,0.083,0.1375,nn,nn00902738,2025-08-18T07:37:11.170Z,"52 km ESE of Beatty, Nevada",earthquake,,2.8,0.22,12.0,automatic,nn,nn
+2025-08-18T07:33:33.830Z,32.9961667,-116.4408333,7.74,0.59,ml,29.0,47.0,0.03513,0.21,ci,ci40401690,2025-08-18T07:37:38.163Z,"18 km ESE of Julian, CA",earthquake,0.26,0.56,0.094,8.0,automatic,ci,ci
