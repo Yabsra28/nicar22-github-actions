@@ -6801,3 +6801,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T19:00:18.490Z,44.8035,-110.8505,11.39,2.6,ml,32.0,36.0,0.118,0.18,uu,uu80114101,2025-08-19T19:13:47.650Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.32,0.56,0.33561139575387,13.0,reviewed,uu,uu
 2025-08-19T17:37:36.140Z,46.8245,-121.94233333333,7.71,0.31,ml,10.0,194.0,0.0178,0.07,uw,uw62173491,2025-08-19T19:03:59.290Z,"9 km NE of Ashford, Washington",earthquake,0.51,0.33,0.19646259721739,4.0,reviewed,uw,uw
 2025-08-19T19:26:36.590Z,38.827499389648,-122.81199645996,1.039999961853,0.88,md,19.0,56.0,0.004365,0.03,nc,nc75225922,2025-08-19T19:28:10.672Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.389999986,0.2,17.0,automatic,nc,nc
+2025-08-19T19:35:05.500Z,35.0555,-118.3408333,-0.94,1.13,ml,29.0,43.0,0.06475,0.3,ci,ci40403090,2025-08-19T19:39:08.059Z,"13 km SE of Tehachapi, CA",earthquake,0.39,0.86,0.177,27.0,automatic,ci,ci
+2025-08-19T19:24:49.192Z,50.7441,-174.5532,32.4,3.5,ml,,,,0.91,ak,ak025amclrsh,2025-08-19T19:37:52.055Z,"163 km S of Atka, Alaska",earthquake,,506.0,,,automatic,ak,ak
+2025-08-19T19:17:55.230Z,44.8005,-110.86383333333,7.4,0.86,ml,16.0,112.0,0.1094,0.17,uu,uu80114106,2025-08-19T19:31:49.880Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.4,1.51,0.34322429502715,3.0,reviewed,uu,uu
+2025-08-19T18:50:33.178Z,52.19,160.4227,28.449,4.9,mb,134.0,86.0,1.366,0.78,us,us6000r25w,2025-08-19T19:32:38.040Z,"155 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.4,5.218,0.041,184.0,reviewed,us,us
