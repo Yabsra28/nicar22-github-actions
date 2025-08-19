@@ -6819,3 +6819,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T20:25:41.658Z,38.3393,-118.4755,3.1,1.7,ml,14.0,87.93,0.091,0.2673,nn,nn00902814,2025-08-19T20:29:03.777Z,"24 km SSE of Hawthorne, Nevada",earthquake,,6.3,0.15,9.0,automatic,nn,nn
 2025-08-19T20:40:24.860Z,35.8646667,-117.6718333,6.9,0.89,ml,25.0,43.0,0.07766,0.11,ci,ci40403242,2025-08-19T20:43:56.528Z,"23 km ESE of Little Lake, CA",earthquake,0.14,0.29,0.209,17.0,automatic,ci,ci
 2025-08-19T20:30:23.621Z,39.3167,-119.6998,2.7,0.8,ml,8.0,136.11,0.044,0.076,nn,nn00902817,2025-08-19T20:33:31.145Z,"4 km W of Virginia City, Nevada",earthquake,,0.6,0.31,5.0,automatic,nn,nn
+2025-08-19T20:50:36.845Z,37.3771,-117.1333,5.3,0.8,ml,10.0,210.77,0.127,0.2402,nn,nn00902818,2025-08-19T20:53:11.610Z,"37 km SSE of Goldfield, Nevada",earthquake,,2.5,0.53,6.0,automatic,nn,nn
+2025-08-19T20:42:57.460Z,35.8945,-117.7093333,8.38,0.72,ml,19.0,83.0,0.07162,0.1,ci,ci40403250,2025-08-19T20:46:30.052Z,"18 km ESE of Little Lake, CA",earthquake,0.16,0.46,0.192,13.0,automatic,ci,ci
