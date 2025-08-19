@@ -6815,3 +6815,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T19:41:11.745Z,50.3804,158.861,10.0,4.6,mb,58.0,125.0,2.65,0.85,us,us6000r26j,2025-08-19T20:04:42.040Z,"196 km E of Severo-Kuril’sk, Russia",earthquake,10.38,1.833,0.079,48.0,reviewed,us,us
 2025-08-19T19:25:04.207Z,51.5759,-175.9982,64.767,3.2,ml,21.0,207.0,0.382,0.38,us,us6000r26e,2025-08-19T19:54:45.040Z,"55 km SE of Adak, Alaska",earthquake,10.08,24.766,0.085,18.0,reviewed,us,us
 2025-08-19T19:10:05.719Z,34.3945,-96.51283333,0.0,1.36,ml,41.0,165.0,0.05218975859,0.98,ok,ok2025qfrq,2025-08-19T19:56:43.423Z,"3 km SSW of Bromide, Oklahoma",quarry blast,,1.7,0.31,14.0,reviewed,ok,ok
+2025-08-19T20:26:46.430Z,38.81600189209,-122.81266784668,3.0699999332428,0.4,md,7.0,133.0,0.007655,0.01,nc,nc75225952,2025-08-19T20:28:19.869Z,"7 km NW of The Geysers, CA",earthquake,0.65,1.82000005,0.16,8.0,automatic,nc,nc
+2025-08-19T20:25:41.658Z,38.3393,-118.4755,3.1,1.7,ml,14.0,87.93,0.091,0.2673,nn,nn00902814,2025-08-19T20:29:03.777Z,"24 km SSE of Hawthorne, Nevada",earthquake,,6.3,0.15,9.0,automatic,nn,nn
