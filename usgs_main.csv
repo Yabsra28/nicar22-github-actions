@@ -6636,3 +6636,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T04:15:53.290Z,58.6552,-152.8886,43.7,1.6,ml,,,,0.64,ak,ak025am3m8ch,2025-08-19T04:17:36.181Z,"66 km N of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-19T04:14:43.678Z,61.6587,-149.8737,47.2,1.4,ml,,,,0.46,ak,ak025am3lzvz,2025-08-19T04:16:43.935Z,"4 km NW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-19T04:40:48.373Z,61.5937,-148.6931,26.5,2.3,ml,,,,0.99,ak,ak025am3rkv9,2025-08-19T04:43:41.310Z,"13 km ESE of Lazy Mountain, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2025-08-19T04:48:26.660Z,33.5228333,-116.5213333,12.86,0.39,ml,24.0,70.0,0.07316,0.15,ci,ci40402434,2025-08-19T04:51:56.463Z,"15 km ESE of Anza, CA",earthquake,0.24,0.51,0.223,7.0,automatic,ci,ci
