@@ -6794,3 +6794,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T18:32:40.670Z,33.8743333,-116.841,15.31,1.08,ml,44.0,30.0,0.1628,0.15,ci,ci40403018,2025-08-19T18:43:48.120Z,"7 km SSE of Banning, CA",earthquake,0.17,0.52,0.288,29.0,automatic,ci,ci
 2025-08-19T18:28:28.264Z,32.248,-101.955,4.1218,1.1,ml,21.0,70.0,0.1,0.5,tx,tx2025qhptnt,2025-08-19T18:31:52.012Z,"20 km NW of Stanton, Texas",earthquake,0.0,1.0907372236252,0.3,15.0,automatic,tx,tx
 2025-08-19T13:14:00.530Z,46.189666666667,-119.0895,19.15,1.38,ml,12.0,87.0,0.1662,0.22,uw,uw62173356,2025-08-19T18:27:07.560Z,"4 km ESE of Kennewick, Washington",earthquake,0.34,0.58,0.14697719226102,10.0,reviewed,uw,uw
+2025-08-19T17:30:28.940Z,46.924833333333,-121.93266666667,14.35,0.24,ml,15.0,124.0,0.02322,0.12,uw,uw62173486,2025-08-19T18:56:21.460Z,"19 km SSE of Carbonado, Washington",earthquake,0.51,0.48,0.045431071968979,7.0,reviewed,uw,uw
+2025-08-19T16:49:14.578Z,52.1926,159.1036,83.374,4.2,mb,19.0,137.0,0.877,0.38,us,us6000r22f,2025-08-19T18:50:46.040Z,"94 km SSE of Vilyuchinsk, Russia",earthquake,9.03,6.761,0.132,16.0,reviewed,us,us
