@@ -6720,3 +6720,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T13:46:09.740Z,35.9751667,-117.9296667,5.71,0.42,ml,18.0,83.0,0.0455,0.09,ci,ci40402674,2025-08-19T13:49:36.883Z,"5 km NNW of Little Lake, CA",earthquake,0.15,0.4,0.21,7.0,automatic,ci,ci
 2025-08-19T13:45:02.092Z,62.7506,-151.4757,83.9,1.4,ml,,,,0.46,ak,ak025am95gbl,2025-08-19T13:47:16.189Z,"46 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-19T13:08:41.200Z,36.80533333,-98.34616667,6.0,1.73,ml,56.0,133.0,0.3158380218,0.2,ok,ok2025qffs,2025-08-19T13:41:19.581Z,"5 km N of Cherokee, Oklahoma",earthquake,,0.5,0.17,26.0,reviewed,ok,ok
+2025-08-19T14:08:59.380Z,38.827167510986,-122.80416870117,1.539999961853,1.63,md,19.0,47.0,0.005955,0.02,nc,nc75225812,2025-08-19T14:10:36.260Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.14,20.0,automatic,nc,nc
+2025-08-19T14:02:54.232Z,31.678,-104.35,4.205,1.5,ml,24.0,90.0,0.1,0.3,tx,tx2025qhgyti,2025-08-19T14:05:53.392Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.1490224599838,0.2,16.0,automatic,tx,tx
+2025-08-19T07:25:38.689Z,34.40816667,-97.47716667,6.23,1.35,ml,44.0,70.0,0.0449911712,0.23,ok,ok2025qeuk,2025-08-19T14:13:04.164Z,"5 km SSE of Ratliff City, Oklahoma",earthquake,,0.5,0.21,18.0,reviewed,ok,ok
+2025-08-19T06:04:15.034Z,32.27,-101.858,3.3936,0.5,ml,19.0,51.0,0.0,0.2,tx,tx2025qgrcgi,2025-08-19T14:01:38.365Z,"16 km NNW of Stanton, Texas",earthquake,0.68195975622159,1.1287681493761,0.2,13.0,reviewed,tx,tx
+2025-08-19T00:13:37.880Z,44.754,-110.93766666667,8.25,0.84,ml,15.0,98.0,0.04909,0.18,uu,uu80114026,2025-08-19T14:03:07.370Z,"16 km NE of West Yellowstone, Montana",earthquake,0.37,0.75,0.23376718396632,2.0,reviewed,uu,uu
