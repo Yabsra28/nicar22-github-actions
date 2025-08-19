@@ -6759,3 +6759,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T16:35:52.589Z,62.8445,-151.0103,105.3,0.7,ml,,,,0.6,ak,ak025amavpvc,2025-08-19T16:48:08.995Z,"40 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-19T16:35:13.970Z,61.1741,-141.1687,5.0,1.4,ml,,,,0.28,ak,ak025amavmw5,2025-08-19T16:36:31.567Z,"98 km ESE of McCarthy, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2025-08-19T16:06:42.520Z,42.067333333333,-111.6935,6.0,0.99,md,8.0,160.0,0.08277,0.06,uu,uu80114066,2025-08-19T16:47:58.640Z,"11 km ENE of Franklin, Idaho",earthquake,0.48,1.18,0.18897002908895,8.0,reviewed,uu,uu
+2025-08-19T17:02:39.980Z,33.4715,-116.5575,8.22,1.95,ml,85.0,24.0,0.04394,0.2,ci,ci40402930,2025-08-19T17:07:32.097Z,"14 km SE of Anza, CA",earthquake,0.12,0.34,0.19,26.0,automatic,ci,ci
+2025-08-19T17:01:06.320Z,38.798831939697,-122.75267028809,2.2200000286102,0.25,md,5.0,163.0,0.005786,0.01,nc,nc75225862,2025-08-19T17:02:41.421Z,"2 km NNE of The Geysers, CA",earthquake,1.19,3.5,0.04,5.0,automatic,nc,nc
+2025-08-19T16:56:30.880Z,36.058166503906,-120.63833618164,-0.69999998807907,1.11,md,8.0,214.0,0.03577,0.11,nc,nc75225857,2025-08-19T16:58:06.389Z,"24 km E of San Ardo, CA",earthquake,2.0,5.21000004,0.12,4.0,automatic,nc,nc
+2025-08-19T08:04:13.807Z,63.2693,-151.5162,4.4,0.5,ml,,,,1.11,ak,ak025am5xivh,2025-08-19T16:53:22.239Z,"31 km SSE of Denali National Park, Alaska",earthquake,,0.8,,,reviewed,ak,ak
