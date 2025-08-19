@@ -6631,3 +6631,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T03:11:57.260Z,32.9641667,-116.3941667,5.56,0.8,ml,37.0,52.0,0.01581,0.18,ci,ci40402402,2025-08-19T03:15:47.511Z,"20 km NE of Pine Valley, CA",earthquake,0.22,0.48,0.191,10.0,automatic,ci,ci
 2025-08-19T03:10:27.488Z,36.792,-115.6114,3.1,0.7,ml,16.0,202.09,0.306,0.2979,nn,nn00902780,2025-08-19T03:12:46.605Z,"25 km NNE of Indian Springs, Nevada",earthquake,,17.6,0.4,12.0,automatic,nn,nn
 2025-08-19T00:22:55.980Z,-29.6881,-71.3498,39.729,4.6,mb,32.0,151.0,0.249,0.53,us,us6000r1z2,2025-08-19T03:03:14.040Z,"25 km NNW of La Serena, Chile",earthquake,4.87,7.954,0.223,6.0,reviewed,us,us
+2025-08-19T03:55:44.178Z,37.3838,-116.5704,1.2,0.5,ml,12.0,222.17,0.258,0.533,nn,nn00902787,2025-08-19T03:58:16.333Z,"55 km NNE of Beatty, Nevada",earthquake,,19.8,0.22,7.0,automatic,nn,nn
+2025-08-19T03:53:19.505Z,37.7533,-116.6504,0.0,0.8,ml,12.0,169.53,0.599,0.5322,nn,nn00902784,2025-08-19T03:55:46.412Z,"51 km E of Goldfield, Nevada",earthquake,,55.7,0.5,7.0,automatic,nn,nn
