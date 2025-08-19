@@ -6778,3 +6778,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T17:36:54.840Z,44.796833333333,-110.85066666667,11.51,1.22,ml,16.0,110.0,0.1169,0.14,uu,uu80114086,2025-08-19T17:54:06.510Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,1.0,0.36016390811476,5.0,reviewed,uu,uu
 2025-08-19T17:33:14.291Z,-62.0846,164.8343,10.0,5.3,mww,54.0,50.0,8.213,0.67,us,us6000r22u,2025-08-19T17:54:07.040Z,Balleny Islands region,earthquake,10.4,1.823,0.086,13.0,reviewed,us,us
 2025-08-18T22:33:55.740Z,35.01383333,-97.8255,10.22,0.65,ml,32.0,139.0,0.07648499104,0.19,ok,ok2025qecw,2025-08-19T17:50:53.659Z,"10 km ESE of Chickasha, Oklahoma",earthquake,,1.0,0.3,15.0,reviewed,ok,ok
+2025-08-19T18:19:50.645Z,56.811,-154.9501,38.5,1.6,ml,,,,1.1,ak,ak025ambz5h4,2025-08-19T18:23:13.939Z,"49 km WSW of Akhiok, Alaska",earthquake,,6.2,,,automatic,ak,ak
+2025-08-19T18:17:09.873Z,39.319,-119.7039,1.4,1.0,ml,11.0,136.26,0.048,0.1315,nn,nn00902807,2025-08-19T18:19:41.356Z,"4 km WNW of Virginia City, Nevada",earthquake,,0.4,0.18,7.0,automatic,nn,nn
+2025-08-19T18:09:47.330Z,38.80350112915,-122.77583312988,2.3199999332428,1.18,md,25.0,72.0,0.01046,0.03,nc,nc75225892,2025-08-19T18:11:26.113Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.389999986,0.14,26.0,automatic,nc,nc
+2025-08-19T18:05:34.820Z,38.821998596191,-122.80916595459,2.8099999427795,0.72,md,12.0,60.0,0.001564,0.01,nc,nc75225887,2025-08-19T18:07:10.863Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.620000005,0.25,12.0,automatic,nc,nc
+2025-08-19T18:05:22.952Z,32.068,-103.724,7.1639,1.8,ml,30.0,43.0,0.0,0.4,tx,tx2025qhozti,2025-08-19T18:08:42.828Z,"37 km ESE of Malaga, New Mexico",earthquake,0.0,2.0038678646088,0.2,19.0,automatic,tx,tx
+2025-08-19T17:58:51.780Z,61.2584,-149.6066,34.6,1.2,ml,,,,0.49,ak,ak025ambm2vu,2025-08-19T18:01:38.784Z,"1 km E of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-19T17:54:33.100Z,33.2698333,-116.4245,4.86,0.81,ml,32.0,39.0,0.006361,0.17,ci,ci40402986,2025-08-19T17:57:56.562Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.28,0.179,16.0,automatic,ci,ci
+2025-08-19T17:53:15.051Z,61.6902,-150.0908,1.3,1.7,ml,,,,0.63,ak,ak025ambkxgx,2025-08-19T17:55:04.831Z,"6 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-19T16:33:36.802Z,-30.5668,-70.822,81.115,4.1,mb,26.0,71.0,0.294,0.79,us,us6000r22b,2025-08-19T18:22:44.040Z,"19 km NE of Monte Patria, Chile",earthquake,6.72,7.14,0.37,2.0,reviewed,us,us
+2025-08-19T09:19:17.360Z,48.2495,-123.137,25.15,1.31,ml,29.0,47.0,0.2063,0.11,uw,uw62173296,2025-08-19T18:07:37.790Z,"13 km NNW of Jamestown, Washington",earthquake,0.23,0.58,0.16729579769261,16.0,reviewed,uw,uw
+2025-08-19T07:14:34.731Z,41.9339,-120.1591,8.4,1.3,ml,4.0,188.11,0.112,0.0745,nn,nn00902804,2025-08-19T18:06:09.416Z,"8 km N of Fort Bidwell, California",earthquake,,13.7,0.0,1.0,reviewed,nn,nn
