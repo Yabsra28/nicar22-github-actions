@@ -6841,3 +6841,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T22:15:54.470Z,37.470166666667,-113.57866666667,0.09,0.89,md,7.0,115.0,0.1896,0.07,uu,uu80114136,2025-08-19T22:30:54.860Z,"7 km NE of Central, Utah",earthquake,0.33,7.72,0.28641572784175,5.0,reviewed,uu,uu
 2025-08-19T21:38:00.297Z,-15.3938,66.7888,10.0,5.0,mww,65.0,57.0,29.339,0.85,us,us6000r278,2025-08-19T22:27:03.040Z,Mid-Indian Ridge,earthquake,12.36,1.821,0.078,16.0,reviewed,us,us
 2025-08-19T20:54:47.900Z,37.1606,-114.7669,5.6,2.3,ml,8.0,109.04,0.334,0.0944,nn,nn00902819,2025-08-19T22:29:10.625Z,"41 km ESE of Alamo, Nevada",earthquake,,7.0,0.53,6.0,reviewed,nn,nn
+2025-08-19T22:39:16.647Z,31.637,-104.266,4.3169,1.6,ml,32.0,88.0,0.0,0.3,tx,tx2025qhybtb,2025-08-19T22:42:55.166Z,"57 km NW of Toyah, Texas",earthquake,0.0,1.1218017339706,0.2,19.0,automatic,tx,tx
