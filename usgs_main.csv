@@ -6817,3 +6817,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T19:10:05.719Z,34.3945,-96.51283333,0.0,1.36,ml,41.0,165.0,0.05218975859,0.98,ok,ok2025qfrq,2025-08-19T19:56:43.423Z,"3 km SSW of Bromide, Oklahoma",quarry blast,,1.7,0.31,14.0,reviewed,ok,ok
 2025-08-19T20:26:46.430Z,38.81600189209,-122.81266784668,3.0699999332428,0.4,md,7.0,133.0,0.007655,0.01,nc,nc75225952,2025-08-19T20:28:19.869Z,"7 km NW of The Geysers, CA",earthquake,0.65,1.82000005,0.16,8.0,automatic,nc,nc
 2025-08-19T20:25:41.658Z,38.3393,-118.4755,3.1,1.7,ml,14.0,87.93,0.091,0.2673,nn,nn00902814,2025-08-19T20:29:03.777Z,"24 km SSE of Hawthorne, Nevada",earthquake,,6.3,0.15,9.0,automatic,nn,nn
+2025-08-19T20:40:24.860Z,35.8646667,-117.6718333,6.9,0.89,ml,25.0,43.0,0.07766,0.11,ci,ci40403242,2025-08-19T20:43:56.528Z,"23 km ESE of Little Lake, CA",earthquake,0.14,0.29,0.209,17.0,automatic,ci,ci
+2025-08-19T20:30:23.621Z,39.3167,-119.6998,2.7,0.8,ml,8.0,136.11,0.044,0.076,nn,nn00902817,2025-08-19T20:33:31.145Z,"4 km W of Virginia City, Nevada",earthquake,,0.6,0.31,5.0,automatic,nn,nn
