@@ -6755,3 +6755,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T15:58:43.982Z,64.6464,-152.4819,4.9,1.2,ml,,,,0.39,ak,ak025amaf72m,2025-08-19T16:01:37.744Z,"61 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-19T15:48:17.600Z,44.769,-110.5245,5.31,1.01,ml,8.0,125.0,0.05713,0.07,uu,uu80114061,2025-08-19T16:25:15.710Z,"26 km SSE of Mammoth, Wyoming",earthquake,0.29,0.99,0.1411133760495,3.0,reviewed,uu,uu
 2025-08-19T12:07:59.590Z,37.473833333333,-113.57633333333,1.95,0.84,ml,6.0,157.0,0.1864,0.06,uu,uu80114051,2025-08-19T15:57:40.280Z,"7 km NE of Central, Utah",earthquake,0.46,31.61,0.13532234553426,4.0,reviewed,uu,uu
+2025-08-19T16:38:14.517Z,31.337,-103.422,9.1597,1.6,ml,18.0,108.0,0.1,0.4,tx,tx2025qhmcqc,2025-08-19T16:44:45.325Z,"11 km ESE of Lindsay, Texas",earthquake,0.0,3.2364857196808,0.2,11.0,automatic,tx,tx
+2025-08-19T16:35:52.589Z,62.8445,-151.0103,105.3,0.7,ml,,,,0.6,ak,ak025amavpvc,2025-08-19T16:48:08.995Z,"40 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-19T16:35:13.970Z,61.1741,-141.1687,5.0,1.4,ml,,,,0.28,ak,ak025amavmw5,2025-08-19T16:36:31.567Z,"98 km ESE of McCarthy, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-08-19T16:06:42.520Z,42.067333333333,-111.6935,6.0,0.99,md,8.0,160.0,0.08277,0.06,uu,uu80114066,2025-08-19T16:47:58.640Z,"11 km ENE of Franklin, Idaho",earthquake,0.48,1.18,0.18897002908895,8.0,reviewed,uu,uu
