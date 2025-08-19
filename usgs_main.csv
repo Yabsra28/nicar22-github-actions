@@ -6679,3 +6679,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T09:00:16.192Z,61.0236,-152.2956,102.7,1.2,ml,,,,0.57,ak,ak025am6i3rn,2025-08-19T09:03:15.024Z,"62 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-19T08:56:49.030Z,39.431999206543,-123.12966918945,5.6300001144409,1.58,md,12.0,107.0,0.165,0.05,nc,nc75225757,2025-08-19T08:58:24.611Z,"15 km WNW of Lake Pillsbury, CA",earthquake,0.31,2.29999995,0.11,7.0,automatic,nc,nc
 2025-08-19T02:15:53.887Z,32.119,-101.116,8.7158,1.1,ml,24.0,49.0,0.2,0.2,tx,tx2025qgjnnm,2025-08-19T09:22:18.389Z,"23 km E of Forsan, Texas",earthquake,1.0963115434699,1.3316833968951,0.2,9.0,reviewed,tx,tx
+2025-08-19T09:40:10.470Z,60.0775,-153.247,135.8,1.9,ml,,,,0.47,ak,ak025am6qnzu,2025-08-19T09:41:58.626Z,"57 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-19T09:37:50.893Z,61.5154,-151.3741,0.0,1.4,ml,,,,0.49,ak,ak025am6q3xt,2025-08-19T09:39:35.081Z,"44 km NNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-19T09:31:27.570Z,33.9648333,-116.7831667,11.21,0.72,ml,44.0,43.0,0.07306,0.13,ci,ci40402506,2025-08-19T09:34:54.868Z,"5 km N of Cabazon, CA",earthquake,0.13,0.4,0.158,23.0,automatic,ci,ci
