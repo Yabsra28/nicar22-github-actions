@@ -6635,3 +6635,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T03:53:19.505Z,37.7533,-116.6504,0.0,0.8,ml,12.0,169.53,0.599,0.5322,nn,nn00902784,2025-08-19T03:55:46.412Z,"51 km E of Goldfield, Nevada",earthquake,,55.7,0.5,7.0,automatic,nn,nn
 2025-08-19T04:15:53.290Z,58.6552,-152.8886,43.7,1.6,ml,,,,0.64,ak,ak025am3m8ch,2025-08-19T04:17:36.181Z,"66 km N of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-19T04:14:43.678Z,61.6587,-149.8737,47.2,1.4,ml,,,,0.46,ak,ak025am3lzvz,2025-08-19T04:16:43.935Z,"4 km NW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-19T04:40:48.373Z,61.5937,-148.6931,26.5,2.3,ml,,,,0.99,ak,ak025am3rkv9,2025-08-19T04:43:41.310Z,"13 km ESE of Lazy Mountain, Alaska",earthquake,,4.8,,,automatic,ak,ak
