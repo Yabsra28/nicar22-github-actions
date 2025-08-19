@@ -6842,3 +6842,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T21:38:00.297Z,-15.3938,66.7888,10.0,5.0,mww,65.0,57.0,29.339,0.85,us,us6000r278,2025-08-19T22:27:03.040Z,Mid-Indian Ridge,earthquake,12.36,1.821,0.078,16.0,reviewed,us,us
 2025-08-19T20:54:47.900Z,37.1606,-114.7669,5.6,2.3,ml,8.0,109.04,0.334,0.0944,nn,nn00902819,2025-08-19T22:29:10.625Z,"41 km ESE of Alamo, Nevada",earthquake,,7.0,0.53,6.0,reviewed,nn,nn
 2025-08-19T22:39:16.647Z,31.637,-104.266,4.3169,1.6,ml,32.0,88.0,0.0,0.3,tx,tx2025qhybtb,2025-08-19T22:42:55.166Z,"57 km NW of Toyah, Texas",earthquake,0.0,1.1218017339706,0.2,19.0,automatic,tx,tx
+2025-08-19T22:53:52.435Z,31.946,-102.093,4.5703,1.2,ml,29.0,45.0,0.1,0.5,tx,tx2025qhyoip,2025-08-19T22:57:14.235Z,"5 km SSW of Midland, Texas",earthquake,0.0,1.0273985862732,0.1,12.0,automatic,tx,tx
+2025-08-19T22:48:56.400Z,38.829498291016,-122.82250213623,1.7699999809265,0.23,md,11.0,52.0,0.01146,0.01,nc,nc75226007,2025-08-19T22:50:31.250Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.870000005,0.13,12.0,automatic,nc,nc
