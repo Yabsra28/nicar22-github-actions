@@ -6706,3 +6706,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T12:11:56.810Z,40.301334381104,-124.31349945068,13.270000457764,1.58,md,10.0,217.0,0.03039,0.04,nc,nc75225787,2025-08-19T12:13:35.167Z,"4 km SW of Petrolia, CA",earthquake,0.98,0.790000021,0.19,8.0,automatic,nc,nc
 2025-08-19T12:06:41.450Z,19.19033241272,-155.50382995606,31.049999237061,2.48,ml,59.0,133.0,0.05255,0.119999997,hv,hv74755747,2025-08-19T12:11:04.780Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.39,0.439999998,0.33,31.0,automatic,hv,hv
 2025-08-19T12:01:51.444Z,58.1521,-156.5226,23.3,0.8,ml,,,,0.36,ak,ak025am8ap0o,2025-08-19T12:03:32.875Z,"50 km E of Egegik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-19T12:29:58.705Z,58.7465,-153.715,41.1,1.3,ml,,,,1.01,ak,ak025am8gpmm,2025-08-19T12:32:49.121Z,"89 km NNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-19T07:08:42.340Z,34.224333333333,-82.059,0.16,1.7,md,4.0,189.0,0.1655,0.17,se,se60503943,2025-08-19T13:01:21.400Z,"5 km SE of Coronaca, South Carolina",earthquake,2.22,9.4,0.063826484634736,4.0,reviewed,se,se
+2025-08-19T03:30:31.370Z,34.3005,-82.1115,0.04,2.2,md,10.0,86.0,0.1399,0.29,se,se60503938,2025-08-19T12:25:54.870Z,"4 km NNW of Coronaca, South Carolina",earthquake,0.69,4.02,0.058366015942442,8.0,reviewed,se,se
