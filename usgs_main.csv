@@ -6986,3 +6986,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T08:35:47.590Z,44.833333333333,-112.92916666667,6.28,1.75,ml,18.0,142.0,0.05747,0.19,mb,mb90108053,2025-08-20T13:22:40.260Z,"34 km NW of Lima, Montana",earthquake,0.55,1.67,0.20543012884963,37.0,reviewed,mb,mb
 2025-08-19T19:35:17.480Z,35.643,-98.02616667,2.43,1.35,ml,32.0,47.0,0.1610683929,0.23,ok,ok2025qfsm,2025-08-20T13:07:26.165Z,"9 km ENE of Calumet, Oklahoma",earthquake,,1.1,0.24,18.0,reviewed,ok,ok
 2025-08-19T13:40:18.608Z,28.846,-98.955,8.6569,1.7,ml,11.0,85.0,0.1,0.2,tx,tx2025qhgfin,2025-08-20T13:15:59.890Z,"14 km ESE of Pearsall, Texas",earthquake,2.3070012085153,1.5406469588226,0.0,7.0,reviewed,tx,tx
+2025-08-20T13:37:27.840Z,33.2321667,-116.7516667,7.88,0.06,ml,16.0,57.0,0.007057,0.16,ci,ci40403826,2025-08-20T13:40:59.188Z,"2 km SE of Lake Henshaw, CA",earthquake,0.37,0.66,0.271,3.0,automatic,ci,ci
+2025-08-20T12:16:39.535Z,36.7563,-116.2558,8.3,-0.3,ml,6.0,206.25,0.022,0.0706,nn,nn00902867,2025-08-20T13:43:36.861Z,"47 km ESE of Beatty, Nevada",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
