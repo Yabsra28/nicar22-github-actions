@@ -6906,3 +6906,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T05:16:34.972Z,66.264,-157.5448,18.3,3.0,ml,,,,0.67,ak,ak025anrr6ry,2025-08-20T05:19:28.659Z,"71 km SSW of Shungnak, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-08-20T05:38:19.743Z,32.41,-102.056,3.5132,2.5,ml,78.0,74.0,0.0,0.5,tx,tx2025qilywb,2025-08-20T05:41:57.520Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,0.63852339982986,0.1,10.0,automatic,tx,tx
 2025-08-20T05:31:38.248Z,62.5013,-146.6144,210.9,1.6,ml,,,,1.25,ak,ak025anrueqo,2025-08-20T05:34:14.405Z,"24 km N of Lake Louise, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-20T05:41:11.449Z,32.404,-102.061,3.7681,1.7,ml,59.0,74.0,0.0,0.4,tx,tx2025qimbif,2025-08-20T05:46:05.605Z,"35 km WSW of Ackerly, Texas",earthquake,0.0,0.71599739789963,0.2,32.0,automatic,tx,tx
