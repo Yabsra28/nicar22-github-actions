@@ -7133,3 +7133,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T20:27:30.850Z,44.893666666667,-112.91533333333,11.68,1.03,ml,8.0,92.0,0.0812,0.06,mb,mb90108263,2025-08-20T23:25:58.740Z,"38 km NW of Lima, Montana",earthquake,0.58,0.68,0.14318763272679,9.0,reviewed,mb,mb
 2025-08-20T13:02:39.370Z,45.734833333333,-111.866,8.09,1.25,ml,15.0,52.0,0.07362,0.08,mb,mb90108258,2025-08-20T23:19:57.010Z,"7 km WNW of Harrison, Montana",earthquake,0.25,0.72,0.11387858128179,17.0,reviewed,mb,mb
 2025-08-20T05:41:34.340Z,45.619166666667,-112.50966666667,5.24,0.6,ml,11.0,103.0,0.187,0.06,mb,mb90108253,2025-08-20T23:10:59.510Z,"16 km WNW of Twin Bridges, Montana",earthquake,0.29,3.2,0.33002077050595,8.0,reviewed,mb,mb
+2025-08-20T23:32:23.081Z,65.2174,-150.3406,7.4,1.0,ml,,,,0.41,ak,ak025ao2ke6c,2025-08-20T23:34:07.861Z,"27 km NNE of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-20T23:25:58.555Z,60.2607,-152.5444,92.5,1.1,ml,,,,0.65,ak,ak025ao2iywf,2025-08-20T23:28:11.127Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-20T21:38:58.410Z,45.090666666667,-111.72466666667,-2.0,1.14,ml,7.0,160.0,0.1202,0.11,mb,mb90108268,2025-08-20T23:30:30.030Z,"28 km SE of Virginia City, Montana",quarry blast,0.75,31.61,0.14045367581121,6.0,reviewed,mb,mb
