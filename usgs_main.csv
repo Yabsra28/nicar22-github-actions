@@ -7136,3 +7136,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T23:32:23.081Z,65.2174,-150.3406,7.4,1.0,ml,,,,0.41,ak,ak025ao2ke6c,2025-08-20T23:34:07.861Z,"27 km NNE of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-20T23:25:58.555Z,60.2607,-152.5444,92.5,1.1,ml,,,,0.65,ak,ak025ao2iywf,2025-08-20T23:28:11.127Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-20T21:38:58.410Z,45.090666666667,-111.72466666667,-2.0,1.14,ml,7.0,160.0,0.1202,0.11,mb,mb90108268,2025-08-20T23:30:30.030Z,"28 km SE of Virginia City, Montana",quarry blast,0.75,31.61,0.14045367581121,6.0,reviewed,mb,mb
+2025-08-20T23:44:09.023Z,58.8799,-153.2397,62.1,1.8,ml,,,,0.57,ak,ak025ao2mxom,2025-08-20T23:45:28.177Z,"92 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
