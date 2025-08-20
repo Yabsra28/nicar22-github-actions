@@ -7032,3 +7032,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T02:15:14.970Z,37.467333333333,-113.58866666667,0.23,0.12,md,5.0,156.0,0.198,0.12,uu,uu80114156,2025-08-20T16:09:06.810Z,"6 km NNE of Central, Utah",earthquake,0.47,9.82,0.044382308113941,3.0,reviewed,uu,uu
 2025-08-19T20:43:16.340Z,32.063,-103.725,7.8687,1.2,ml,14.0,85.0,0.0,0.2,tx,tx2025qhuflq,2025-08-20T16:24:36.421Z,"37 km ESE of Malaga, New Mexico",earthquake,0.85960725268767,1.0376517810629,0.1,6.0,reviewed,tx,tx
 2025-08-20T16:28:12.140Z,34.3378333,-116.8491667,-1.52,1.35,ml,37.0,52.0,0.02063,0.25,ci,ci40403946,2025-08-20T16:31:41.750Z,"8 km N of Big Bear City, CA",earthquake,0.32,0.8,0.196,32.0,automatic,ci,ci
+2025-08-20T16:49:54.960Z,33.6538333,-116.7656667,11.42,0.64,ml,30.0,34.0,0.07252,0.17,ci,ci40403978,2025-08-20T16:53:23.437Z,"10 km SSW of Idyllwild, CA",earthquake,0.26,0.48,0.116,15.0,automatic,ci,ci
