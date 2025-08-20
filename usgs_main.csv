@@ -6939,3 +6939,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T09:18:25.180Z,33.6613333,-116.7678333,11.14,0.7,ml,36.0,59.0,0.07367,0.16,ci,ci40403698,2025-08-20T09:22:41.255Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.38,0.166,16.0,automatic,ci,ci
 2025-08-20T09:17:55.520Z,32.9145,-116.2576667,12.6,0.95,ml,34.0,46.0,0.1408,0.16,ci,ci40403690,2025-08-20T09:21:55.251Z,"27 km ENE of Pine Valley, CA",earthquake,0.19,0.73,0.228,12.0,automatic,ci,ci
 2025-08-20T09:14:47.881Z,60.6433,-149.632,29.2,1.8,ml,,,,0.22,ak,ak025anu4iqc,2025-08-20T09:16:27.567Z,"20 km NNE of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-20T09:34:53.642Z,62.5644,-151.0994,79.0,2.3,ml,,,,0.47,ak,ak025anu8th9,2025-08-20T09:37:03.969Z,"18 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-20T09:12:00.265Z,-7.0344,129.7936,117.658,4.5,mb,40.0,93.0,2.498,0.61,us,us6000r2ab,2025-08-20T09:30:01.040Z,"Kepulauan Babar, Indonesia",earthquake,8.68,7.559,0.096,32.0,reviewed,us,us
+2025-08-20T08:39:03.849Z,-24.4007,179.9572,515.99,4.4,mb,53.0,96.0,5.199,0.83,us,us6000r2a8,2025-08-20T09:42:30.040Z,south of the Fiji Islands,earthquake,13.15,8.496,0.083,42.0,reviewed,us,us
+2025-08-19T22:48:30.029Z,31.653,-104.26,7.2791,1.5,ml,28.0,86.0,0.0,0.2,tx,tx2025qhyjrz,2025-08-20T09:36:40.952Z,"58 km NW of Toyah, Texas",earthquake,0.84720636658479,0.71913783230062,0.2,14.0,reviewed,tx,tx
