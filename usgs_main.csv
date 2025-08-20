@@ -7081,3 +7081,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T19:18:11.880Z,44.797333333333,-110.85316666667,8.01,1.41,ml,16.0,110.0,0.1154,0.16,uu,uu80114231,2025-08-20T19:53:20.370Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.37,1.23,0.43152799827773,5.0,reviewed,uu,uu
 2025-08-20T18:55:47.920Z,44.797,-110.84716666667,5.47,0.9,md,10.0,109.0,0.1193,0.17,uu,uu80114226,2025-08-20T20:02:01.940Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.43,3.08,0.47449536384762,4.0,reviewed,uu,uu
 2025-08-20T18:19:20.810Z,36.112,-117.9118333,4.18,0.41,ml,6.0,264.0,0.04647,0.06,ci,ci37739204,2025-08-20T19:58:36.211Z,"8 km NNE of Coso Junction, CA",earthquake,0.4,0.38,0.095,5.0,reviewed,ci,ci
+2025-08-20T20:21:50.964Z,63.0972,-150.7681,128.6,2.2,ml,,,,0.19,ak,ak025ao0psmw,2025-08-20T20:23:51.866Z,"66 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-20T20:18:02.479Z,59.8146,-153.2947,127.0,2.5,ml,,,,0.49,ak,ak025ao0p1rq,2025-08-20T20:19:45.402Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-20T19:49:39.389Z,52.7379,159.3094,65.6,4.6,mb,115.0,100.0,0.491,0.78,us,us6000r2kl,2025-08-20T20:17:24.040Z,"58 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,5.397,0.048,129.0,reviewed,us,us
+2025-08-20T17:24:42.840Z,36.0305,-117.773,2.54,-0.37,ml,6.0,134.0,0.008199,0.05,ci,ci37551269,2025-08-20T20:19:42.821Z,"16 km E of Coso Junction, CA",earthquake,0.28,0.16,0.048,4.0,reviewed,ci,ci
