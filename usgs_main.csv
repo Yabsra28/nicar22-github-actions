@@ -6923,3 +6923,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T07:18:06.349Z,63.8328,-148.9001,24.2,1.2,ml,,,,0.92,ak,ak025ansyf6i,2025-08-20T07:20:36.742Z,"4 km SE of Healy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-20T07:15:20.171Z,61.8298,-144.78,15.9,2.0,ml,,,,0.5,ak,ak025ansxt3l,2025-08-20T07:16:54.297Z,"15 km NE of Kenny Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-20T07:12:47.200Z,33.9316667,-117.1963333,13.36,1.07,ml,51.0,33.0,0.02508,0.17,ci,ci40403626,2025-08-20T07:17:01.105Z,"3 km ENE of Moreno Valley, CA",earthquake,0.15,0.36,0.331,28.0,automatic,ci,ci
+2025-08-20T07:37:07.090Z,36.220500946045,-120.28833007812,11.569999694824,1.82,md,18.0,112.0,0.0532,0.04,nc,nc75226162,2025-08-20T07:38:42.492Z,"11 km NE of Coalinga, CA",earthquake,0.34,0.400000006,0.1,7.0,automatic,nc,nc
+2025-08-20T07:33:47.310Z,33.6596667,-116.9451667,11.78,0.76,ml,39.0,45.0,0.03263,0.17,ci,ci40403642,2025-08-20T07:41:10.773Z,"10 km SSE of Hemet, CA",earthquake,0.2,0.33,0.154,23.0,automatic,ci,ci
