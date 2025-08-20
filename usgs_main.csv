@@ -6950,3 +6950,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T09:49:49.364Z,39.0536,-119.0192,0.0,0.9,ml,13.0,78.37,0.185,0.2645,nn,nn00902854,2025-08-20T09:52:06.491Z,"14 km ENE of Yerington, Nevada",earthquake,,10.8,0.22,8.0,automatic,nn,nn
 2025-08-20T09:40:43.506Z,-8.9052,124.2489,103.092,4.6,mb,15.0,126.0,0.845,0.99,us,us6000r2ag,2025-08-20T09:53:19.040Z,"35 km NNW of Pante Makasar, Timor Leste",earthquake,6.29,10.285,0.158,12.0,reviewed,us,us
 2025-08-20T00:21:36.029Z,32.066,-103.725,7.8815,1.4,ml,30.0,52.0,0.0,0.2,tx,tx2025qiblyn,2025-08-20T10:06:23.920Z,"37 km ESE of Malaga, New Mexico",earthquake,0.44388083558953,0.65784615000688,0.2,18.0,reviewed,tx,tx
+2025-08-20T10:32:33.270Z,33.2353333,-116.7321667,10.54,0.48,ml,27.0,34.0,0.0223,0.16,ci,ci40403738,2025-08-20T10:36:50.508Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.24,0.37,0.136,8.0,automatic,ci,ci
+2025-08-20T10:21:49.557Z,59.9711,-152.2067,195.5,2.0,ml,,,,0.56,ak,ak025anurgh7,2025-08-20T10:23:54.283Z,"26 km W of Happy Valley, Alaska",earthquake,,10.2,,,automatic,ak,ak
+2025-08-20T10:17:55.290Z,33.492,-116.9045,11.38,0.48,ml,27.0,29.0,0.01169,0.16,ci,ci40403730,2025-08-20T10:21:41.936Z,"7 km NW of Aguanga, CA",earthquake,0.2,0.56,0.113,13.0,automatic,ci,ci
+2025-08-20T10:15:45.940Z,33.4746667,-116.5525,7.27,0.9,ml,50.0,26.0,0.04609,0.19,ci,ci40403722,2025-08-20T10:19:14.924Z,"14 km SE of Anza, CA",earthquake,0.17,0.52,0.175,27.0,automatic,ci,ci
+2025-08-20T10:12:29.341Z,60.9647,-152.6273,23.6,1.4,ml,,,,1.43,ak,ak025anuphh2,2025-08-20T10:15:49.481Z,"78 km WNW of Nikiski, Alaska",earthquake,,2.1,,,automatic,ak,ak
