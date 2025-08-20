@@ -6955,3 +6955,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T10:17:55.290Z,33.492,-116.9045,11.38,0.48,ml,27.0,29.0,0.01169,0.16,ci,ci40403730,2025-08-20T10:21:41.936Z,"7 km NW of Aguanga, CA",earthquake,0.2,0.56,0.113,13.0,automatic,ci,ci
 2025-08-20T10:15:45.940Z,33.4746667,-116.5525,7.27,0.9,ml,50.0,26.0,0.04609,0.19,ci,ci40403722,2025-08-20T10:19:14.924Z,"14 km SE of Anza, CA",earthquake,0.17,0.52,0.175,27.0,automatic,ci,ci
 2025-08-20T10:12:29.341Z,60.9647,-152.6273,23.6,1.4,ml,,,,1.43,ak,ak025anuphh2,2025-08-20T10:15:49.481Z,"78 km WNW of Nikiski, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2025-08-20T10:46:51.935Z,59.6921,-152.0863,55.4,1.1,ml,,,,0.51,ak,ak025anuwtk9,2025-08-20T10:48:46.975Z,"17 km WSW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-19T22:02:20.629Z,31.534,-104.013,7.7661,1.5,ml,27.0,68.0,0.0,0.1,tx,tx2025qhwvxq,2025-08-20T10:49:30.061Z,"32 km NW of Toyah, Texas",earthquake,0.71501914748092,0.51316695569867,0.1,19.0,reviewed,tx,tx
