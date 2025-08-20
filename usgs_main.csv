@@ -6927,3 +6927,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T07:33:47.310Z,33.6596667,-116.9451667,11.78,0.76,ml,39.0,45.0,0.03263,0.17,ci,ci40403642,2025-08-20T07:41:10.773Z,"10 km SSE of Hemet, CA",earthquake,0.2,0.33,0.154,23.0,automatic,ci,ci
 2025-08-20T07:46:57.424Z,63.5663,-150.8699,1.8,1.2,ml,,,,0.71,ak,ak025ant4j66,2025-08-20T07:49:15.789Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-20T07:43:08.773Z,61.5945,-146.3619,24.9,1.8,ml,,,,0.54,ak,ak025ant3nom,2025-08-20T07:44:52.220Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-20T08:20:17.210Z,35.7804985,-117.5914993,6.96,1.12,ml,17.0,111.0,0.0355,0.11,ci,ci40403666,2025-08-20T08:23:40.074Z,"17 km W of Searles Valley, CA",earthquake,0.44,0.74,0.232,8.0,automatic,ci,ci
+2025-08-20T08:16:22.209Z,61.6889,-149.586,35.0,1.6,ml,,,,0.4,ak,ak025antjgks,2025-08-20T08:18:04.107Z,"7 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-20T08:07:32.120Z,36.1076667,-117.9031667,4.01,1.32,ml,34.0,46.0,0.04035,0.18,ci,ci40403658,2025-08-20T08:11:02.401Z,"8 km NNE of Coso Junction, CA",earthquake,0.21,0.35,0.184,26.0,automatic,ci,ci
+2025-08-20T07:58:30.691Z,35.64680099,-98.02281189,2.246507883,2.05,ml,30.0,44.31358337,0.1629208773,0.7990382376,ok,ok2025qgqz,2025-08-20T08:04:15.130Z,"9 km SSW of Okarche, Oklahoma",earthquake,2.190097002,1.928741391,0.33,22.0,automatic,ok,ok
