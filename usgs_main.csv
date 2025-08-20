@@ -7057,3 +7057,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T17:13:47.361Z,-30.2264,-178.1588,259.721,4.6,mb,67.0,69.0,12.153,0.62,us,us6000r2hj,2025-08-20T18:39:30.040Z,"Kermadec Islands, New Zealand",earthquake,7.78,7.566,0.057,91.0,reviewed,us,us
 2025-08-20T15:52:02.620Z,45.917666666667,-122.24666666667,13.47,1.22,ml,13.0,192.0,0.1214,0.05,uw,uw62173976,2025-08-20T18:31:59.050Z,"13 km ENE of Yacolt, Washington",earthquake,0.34,0.8,0.20529108566844,8.0,reviewed,uw,uw
 2025-08-20T14:53:05.810Z,47.617166666667,-121.77416666667,15.27,0.98,ml,7.0,137.0,0.0953,0.07,uw,uw62173941,2025-08-20T18:28:07.870Z,"10 km ENE of Fall City, Washington",earthquake,0.43,0.61,0.082371301700127,4.0,reviewed,uw,uw
+2025-08-20T18:50:53.805Z,32.007,-101.737,8.7541,1.0,ml,6.0,158.0,0.1,0.4,tx,tx2025qjmfvs,2025-08-20T18:53:32.288Z,"14 km SSE of Stanton, Texas",earthquake,0.0,4.627872467041,0.1,5.0,automatic,tx,tx
+2025-08-20T18:34:02.420Z,46.384,-123.5565,-0.41,1.33,ml,11.0,88.0,0.162,0.44,uw,uw62174031,2025-08-20T18:50:54.020Z,"5 km NE of Grays River, Washington",explosion,0.99,31.61,0.1770917812734,8.0,reviewed,uw,uw
+2025-08-20T17:28:58.558Z,-8.0818,117.9825,217.025,4.4,mb,23.0,107.0,0.768,0.86,us,us6000r2k6,2025-08-20T18:52:08.040Z,"66 km ENE of Pototano, Indonesia",earthquake,9.16,7.447,0.155,12.0,reviewed,us,us
+2025-08-20T17:25:19.130Z,52.9592,159.7531,58.26,4.6,mb,81.0,141.0,0.67,0.69,us,us6000r2jf,2025-08-20T18:47:28.040Z,"76 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.45,6.95,0.04,189.0,reviewed,us,us
