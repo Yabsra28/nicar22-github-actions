@@ -7348,3 +7348,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T05:00:56.049Z,35.62833333,-98.031,7.56,1.25,ml,76.0,50.0,0.1601685695,0.5,ok,ok2025qigq,2025-08-21T14:32:05.831Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.2,0.25,32.0,reviewed,ok,ok
 2025-08-20T19:33:38.160Z,34.4405,-117.8965,8.94,0.0,ml,8.0,93.0,0.04582,0.05,ci,ci41270048,2025-08-21T14:24:22.580Z,"7 km S of Pearblossom, CA",earthquake,0.23,0.4,0.229,6.0,reviewed,ci,ci
 2025-08-20T18:56:14.650Z,33.6648333,-116.9426667,11.89,0.84,ml,24.0,83.0,0.02719,0.14,ci,ci41269976,2025-08-21T14:15:53.258Z,"10 km SSE of Hemet, CA",earthquake,0.23,0.34,0.212,13.0,reviewed,ci,ci
+2025-08-21T14:39:39.235Z,63.0091,-150.133,72.4,1.2,ml,,,,0.92,ak,ak025apksdhf,2025-08-21T14:42:14.866Z,"62 km N of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-21T14:26:30.750Z,35.79366667,-95.04683333,0.0,2.16,ml,63.0,74.0,0.3743265444,0.37,ok,ok2025qizg,2025-08-21T14:44:18.542Z,"3 km SSE of Zeb, Oklahoma",quarry blast,,0.4,0.2,15.0,reviewed,ok,ok
+2025-08-21T07:31:41.982Z,28.854,-99.015,4.6401,1.5,ml,19.0,63.0,0.1,0.4,tx,tx2025qkllma,2025-08-21T14:34:14.982Z,"8 km ESE of Pearsall, Texas",earthquake,2.5128381265932,1.3364023883272,0.1,9.0,reviewed,tx,tx
+2025-08-20T20:28:29.527Z,32.401,-102.05,8.8379,0.7,ml,21.0,63.0,0.0,0.2,tx,tx2025qjplxx,2025-08-21T14:40:54.017Z,"34 km WSW of Ackerly, Texas",earthquake,0.51509930791977,1.0002234831009,0.1,12.0,reviewed,tx,tx
