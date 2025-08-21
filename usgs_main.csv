@@ -7214,3 +7214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T03:49:52.424Z,32.393,-102.054,5.2821,1.1,ml,14.0,96.0,0.1,0.6,tx,tx2025qkechs,2025-08-21T03:53:52.901Z,"35 km WSW of Ackerly, Texas",earthquake,0.0,1.5389436483383,0.3,11.0,automatic,tx,tx
 2025-08-21T03:44:49.509Z,51.4915,159.9359,10.0,5.1,mb,78.0,114.0,1.726,1.33,us,us6000r2pn,2025-08-21T04:01:52.040Z,"191 km SSE of Vilyuchinsk, Russia",earthquake,3.88,1.863,0.039,215.0,reviewed,us,us
 2025-08-20T22:17:32.107Z,35.5177,-84.206,8.895,2.2,mb_lg,32.0,34.0,0.267,0.29,us,us6000r2nh,2025-08-21T04:12:21.501Z,"8 km SSE of Vonore, Tennessee",earthquake,0.76,5.036,0.193,7.0,reviewed,us,us
+2025-08-21T04:23:56.020Z,33.25,-116.3243333,12.24,0.7,ml,40.0,44.0,0.07987,0.2,ci,ci41270304,2025-08-21T04:27:52.854Z,"5 km E of Borrego Springs, CA",earthquake,0.22,0.47,0.092,15.0,automatic,ci,ci
+2025-08-21T04:20:51.091Z,31.648,-104.37,7.9712,2.8,ml,20.0,68.0,0.1,0.3,tx,tx2025qkfczp,2025-08-21T04:35:22.040Z,"58 km S of Whites City, New Mexico",earthquake,1.3200422331641,1.119814697505,0.1,16.0,reviewed,tx,tx
+2025-08-21T04:20:18.371Z,31.619,-104.371,3.0685,2.7,ml,18.0,109.0,0.1,0.5,tx,tx2025qkfcgy,2025-08-21T04:30:13.040Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.5060684680939,0.2,10.0,automatic,tx,tx
+2025-08-20T10:43:34.147Z,-6.0515,127.7503,398.641,4.2,mb,33.0,54.0,2.628,0.58,us,us6000r2an,2025-08-21T04:36:45.040Z,"264 km S of Ambon, Indonesia",earthquake,10.48,10.41,0.141,14.0,reviewed,us,us
