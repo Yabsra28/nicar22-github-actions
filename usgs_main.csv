@@ -7288,3 +7288,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T09:19:45.280Z,18.0403,-68.4978,66.0,3.57,md,11.0,220.0,0.4877,0.45,pr,pr2025233002,2025-08-21T10:01:03.809Z,"39 km SSE of Boca de Yuma, Dominican Republic",earthquake,4.5,5.19,0.07,9.0,reviewed,pr,pr
 2025-08-21T08:57:21.322Z,-21.5995,-68.217,130.592,4.3,mb,19.0,68.0,0.973,0.61,us,us6000r2rc,2025-08-21T09:59:08.040Z,"41 km S of Ollagüe, Chile",earthquake,6.56,8.463,0.147,13.0,reviewed,us,us
 2025-08-21T05:28:54.557Z,32.287,-101.801,6.8848,0.9,ml,47.0,42.0,0.0,0.1,tx,tx2025qkhjpw,2025-08-21T09:55:01.564Z,"17 km N of Stanton, Texas",earthquake,0.26482118960343,0.55816739053552,0.2,24.0,reviewed,tx,tx
+2025-08-21T10:35:05.190Z,36.597499847412,-121.24533081055,4.6999998092651,2.73,md,67.0,52.0,0.05468,0.22,nc,nc75226697,2025-08-21T10:39:03.680Z,"12 km NW of Pinnacles, CA",earthquake,0.25,1.01999998,0.1,79.0,automatic,nc,nc
+2025-08-21T10:22:31.090Z,62.8095,-148.7865,10.9,0.8,ml,,,,0.98,ak,ak025apiaz9h,2025-08-21T10:25:04.639Z,"65 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-21T10:22:10.604Z,60.003,-151.9019,79.3,1.5,ml,,,,0.38,ak,ak025apiaxok,2025-08-21T10:23:45.989Z,"11 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-21T10:15:53.986Z,32.451,-102.116,4.2712,1.5,ml,39.0,145.0,0.0,0.5,tx,tx2025qkqtyr,2025-08-21T10:19:58.702Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.0,0.92537933588028,0.2,25.0,automatic,tx,tx
+2025-08-21T10:13:45.353Z,49.9009,156.6515,41.409,4.5,mb,38.0,156.0,3.278,0.68,us,us6000r2rv,2025-08-21T10:37:47.040Z,"93 km SSE of Severo-Kuril’sk, Russia",earthquake,10.81,11.592,0.071,58.0,reviewed,us,us
