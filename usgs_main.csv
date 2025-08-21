@@ -7398,3 +7398,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T15:37:10.500Z,54.72,-164.02116666667,8.91,0.06,ml,6.0,184.0,0.01748,0.33,av,av93726668,2025-08-21T19:06:58.870Z,"41 km WSW of False Pass, Alaska",earthquake,1.45,1.88,0.29390617292453,6.0,reviewed,av,av
 2025-08-21T14:54:11.700Z,54.740833333333,-164.0315,5.86,0.02,ml,5.0,153.0,0.03722,0.39,av,av93726633,2025-08-21T19:02:42.580Z,"41 km WSW of False Pass, Alaska",earthquake,1.07,2.44,0.26063926219819,5.0,reviewed,av,av
 2025-08-21T12:45:07.600Z,54.749833333333,-163.99933333333,2.54,0.03,ml,5.0,109.0,0.04048,0.33,av,av93726493,2025-08-21T18:55:05.080Z,"39 km WSW of False Pass, Alaska",earthquake,0.95,2.55,0.23581575684731,5.0,reviewed,av,av
+2025-08-21T19:16:56.541Z,60.651,-151.851,81.7,1.1,ml,,,,0.51,ak,ak025apnmndi,2025-08-21T19:19:06.325Z,"29 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-21T19:10:12.450Z,32.9641667,-116.3981667,5.81,1.87,ml,64.0,32.0,0.01296,0.17,ci,ci41271144,2025-08-21T19:21:07.220Z,"20 km NE of Pine Valley, CA",earthquake,0.12,0.47,0.202,26.0,automatic,ci,ci
+2025-08-21T19:00:13.230Z,61.324,-145.3556,160.9,1.7,ml,,,,0.93,ak,ak025apnj4kr,2025-08-21T19:13:22.399Z,"38 km SSW of Tonsina, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2025-08-21T17:09:06.750Z,54.751333333333,-163.979,2.26,-0.14,ml,6.0,89.0,0.04327,0.1,av,av93726793,2025-08-21T19:12:32.660Z,"38 km WSW of False Pass, Alaska",earthquake,0.33,1.54,0.10948067961526,6.0,reviewed,av,av
+2025-08-21T06:27:00.100Z,54.715,-163.461,6.32,0.87,ml,7.0,209.0,0.1465,0.2,av,av93725973,2025-08-21T19:16:58.180Z,"15 km SSW of False Pass, Alaska",earthquake,0.92,1.19,0.29565198188552,7.0,reviewed,av,av
