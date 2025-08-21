@@ -7305,3 +7305,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T00:45:16.437Z,32.373,-102.097,3.2444,1.0,mlv,17.0,51.0,0.0,0.5,tx,tx2025qjxzfo,2025-08-21T11:18:27.178Z,"39 km WSW of Ackerly, Texas",earthquake,0.0,1.1746290922165,0.3,13.0,automatic,tx,tx
 2025-08-21T11:31:57.950Z,33.4018333,-116.4261667,13.78,1.01,ml,35.0,54.0,0.08973,0.17,ci,ci41270792,2025-08-21T11:35:28.722Z,"17 km NNW of Borrego Springs, CA",earthquake,0.26,0.52,0.223,12.0,automatic,ci,ci
 2025-08-21T11:21:06.869Z,51.9047,160.0448,27.863,5.8,mww,87.0,106.0,1.408,1.09,us,us6000r2s3,2025-08-21T11:38:33.040Z,"159 km SE of Vilyuchinsk, Russia",earthquake,8.48,4.931,0.056,31.0,reviewed,us,us
+2025-08-21T11:41:13.200Z,36.67499923706,-121.34183502197,2.1900000572205,1.79,md,28.0,52.0,0.03261,0.15,nc,nc75226707,2025-08-21T11:44:32.360Z,"13 km SSW of Tres Pinos, CA",earthquake,0.29,0.870000005,0.23,27.0,automatic,nc,nc
+2025-08-21T11:24:33.310Z,17.988,-66.804333333333,12.74,2.32,md,11.0,187.0,0.03408,0.36,pr,pr71493213,2025-08-21T11:44:46.140Z,"1 km ESE of Indios, Puerto Rico",earthquake,1.2,0.92,0.075092481365496,5.0,reviewed,pr,pr
