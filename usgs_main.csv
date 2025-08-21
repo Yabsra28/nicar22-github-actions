@@ -7251,3 +7251,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T07:14:54.397Z,31.624,-101.431,1.9789,1.4,ml,14.0,79.0,0.3,0.5,tx,tx2025qkkwyu,2025-08-21T07:19:19.446Z,"27 km S of Garden City, Texas",earthquake,0.0,1.5796911716461,0.1,10.0,automatic,tx,tx
 2025-08-21T07:11:08.258Z,61.6515,-150.2909,27.0,1.4,ml,,,,0.46,ak,ak025apgg9t5,2025-08-21T07:12:52.683Z,"16 km NE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T07:32:47.810Z,33.466,-116.558,5.52,0.64,ml,38.0,42.0,0.04673,0.17,ci,ci41270592,2025-08-21T07:36:59.725Z,"15 km SE of Anza, CA",earthquake,0.17,0.46,0.163,18.0,automatic,ci,ci
+2025-08-21T07:46:24.574Z,31.661,-104.385,5.7681,1.7,ml,29.0,88.0,0.0,0.4,tx,tx2025qklyci,2025-08-21T07:50:53.073Z,"57 km S of Whites City, New Mexico",earthquake,0.0,2.0551087856293,0.2,22.0,automatic,tx,tx
