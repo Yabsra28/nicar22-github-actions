@@ -7218,3 +7218,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T04:20:51.091Z,31.648,-104.37,7.9712,2.8,ml,20.0,68.0,0.1,0.3,tx,tx2025qkfczp,2025-08-21T04:35:22.040Z,"58 km S of Whites City, New Mexico",earthquake,1.3200422331641,1.119814697505,0.1,16.0,reviewed,tx,tx
 2025-08-21T04:20:18.371Z,31.619,-104.371,3.0685,2.7,ml,18.0,109.0,0.1,0.5,tx,tx2025qkfcgy,2025-08-21T04:30:13.040Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.5060684680939,0.2,10.0,automatic,tx,tx
 2025-08-20T10:43:34.147Z,-6.0515,127.7503,398.641,4.2,mb,33.0,54.0,2.628,0.58,us,us6000r2an,2025-08-21T04:36:45.040Z,"264 km S of Ambon, Indonesia",earthquake,10.48,10.41,0.141,14.0,reviewed,us,us
+2025-08-21T04:49:26.460Z,36.893501281738,-121.3886642456,14.069999694824,1.01,md,6.0,150.0,0.07228,0.01,nc,nc75226592,2025-08-21T04:51:04.344Z,"5 km NNE of Hollister, CA",earthquake,0.55,1.86000001,0.08,5.0,automatic,nc,nc
