@@ -7229,3 +7229,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T05:43:49.270Z,39.357166290283,-123.24349975586,2.5,1.62,md,12.0,83.0,0.1577,0.03,nc,nc75226607,2025-08-21T05:45:23.795Z,"11 km  of Redwood Valley, CA",earthquake,0.27,7.51999998,0.07,8.0,automatic,nc,nc
 2025-08-21T05:41:08.417Z,32.384,-102.133,4.2672,0.8,ml,10.0,107.0,0.0,0.5,tx,tx2025qkhudg,2025-08-21T05:44:18.907Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.0,1.4904768466949,0.3,7.0,automatic,tx,tx
 2025-08-21T05:38:24.730Z,31.657,-104.383,4.3395,1.9,ml,29.0,88.0,0.0,0.3,tx,tx2025qkhruh,2025-08-21T05:41:30.873Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.0609467029572,0.1,21.0,automatic,tx,tx
+2025-08-21T05:48:31.980Z,36.710166931152,-121.31400299072,7.789999961853,1.4,md,9.0,93.0,0.02626,0.07,nc,nc75226612,2025-08-21T05:50:08.720Z,"9 km S of Tres Pinos, CA",earthquake,0.52,1.13,0.19,8.0,automatic,nc,nc
