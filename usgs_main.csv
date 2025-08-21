@@ -7441,3 +7441,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T21:02:14.070Z,60.3478,-152.1756,81.9,1.5,ml,,,,0.42,ak,ak025apoqfa7,2025-08-21T21:03:56.673Z,"43 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-21T20:39:41.409Z,36.025,-96.53766667,0.0,1.26,ml,66.0,61.0,0.1853636253,0.44,ok,ok2025qjlp,2025-08-21T21:01:06.896Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.5,0.2,26.0,reviewed,ok,ok
 2025-08-21T09:24:04.299Z,28.426,-99.738,6.2244,2.2,ml,12.0,131.0,0.3,0.3,tx,tx2025qkpegc,2025-08-21T20:56:20.264Z,"2 km SE of Asherton, Texas",earthquake,9.9963248109765,8.2445570104273,0.1,6.0,reviewed,tx,tx
+2025-08-21T21:26:02.960Z,33.5381667,-116.7183333,6.67,0.56,ml,15.0,74.0,0.03144,0.14,ci,ci41271336,2025-08-21T21:30:01.268Z,"4 km WSW of Anza, CA",earthquake,0.24,0.42,0.133,14.0,automatic,ci,ci
+2025-08-21T21:18:57.950Z,33.9278333,-116.6085,12.7,1.14,ml,45.0,53.0,0.02667,0.17,ci,ci41271320,2025-08-21T21:22:24.229Z,"6 km WNW of Garnet, CA",earthquake,0.16,0.48,0.172,28.0,automatic,ci,ci
+2025-08-21T21:14:06.783Z,31.768,-93.98,7.5439,3.0,ml,26.0,113.0,0.2,1.1,tx,tx2025qlmqeq,2025-08-21T21:28:51.968Z,"9 km W of Huxley, Texas",earthquake,4.4168944695073,2.7444806607434,0.4,22.0,reviewed,tx,tx
