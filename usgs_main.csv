@@ -7410,3 +7410,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T19:37:57.765Z,31.666,-104.434,4.4174,2.1,ml,34.0,64.0,0.0,0.4,tx,tx2025qljmzd,2025-08-21T19:41:06.242Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.0379709005356,0.1,20.0,automatic,tx,tx
 2025-08-21T18:57:22.123Z,53.6721,161.1412,34.701,4.6,mb,60.0,134.0,1.629,0.55,us,us6000r2tt,2025-08-21T19:45:51.040Z,"180 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.94,5.884,0.064,73.0,reviewed,us,us
 2025-08-21T09:13:31.840Z,48.408833333333,-122.30616666667,9.65,2.22,ml,37.0,30.0,0.06976,0.22,uw,uw62174386,2025-08-21T19:46:01.821Z,"2 km ESE of Mount Vernon, Washington",earthquake,0.24,0.65,0.1627573816773,31.0,reviewed,uw,uw
+2025-08-21T19:52:00.620Z,33.4875,-116.4115,4.55,0.66,ml,22.0,88.0,0.1595,0.14,ci,ci41271192,2025-08-21T19:56:42.693Z,"22 km SSW of La Quinta, CA",earthquake,0.2,0.57,0.087,16.0,automatic,ci,ci
+2025-08-21T18:51:23.642Z,28.0417,139.4053,509.768,4.3,mb,72.0,63.0,2.641,0.97,us,us6000r2tq,2025-08-21T19:52:34.040Z,"Bonin Islands, Japan region",earthquake,5.68,8.565,0.04,178.0,reviewed,us,us
+2025-08-21T10:21:28.020Z,47.4015,-122.05966666667,15.05,1.03,ml,21.0,74.0,0.02488,0.18,uw,uw62174396,2025-08-21T19:55:42.770Z,"1 km NW of Maple Valley, Washington",earthquake,0.43,0.47,0.084355940350495,14.0,reviewed,uw,uw
