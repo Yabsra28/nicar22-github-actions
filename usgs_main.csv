@@ -7437,3 +7437,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T20:46:59.188Z,62.4364,-150.0241,19.3,1.2,ml,,,,0.3,ak,ak025apoeiny,2025-08-21T20:49:00.518Z,"4 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T20:45:25.706Z,58.6643,-154.0822,88.4,1.0,ml,,,,0.48,ak,ak025apoe8d6,2025-08-21T20:47:37.057Z,"95 km SSE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-20T23:35:40.110Z,48.5325,-122.59233333333,16.81,1.36,ml,16.0,79.0,0.02885,0.11,uw,uw62174266,2025-08-21T20:48:00.020Z,"2 km NE of Anacortes, Washington",earthquake,0.32,0.44,0.071656187335901,11.0,reviewed,uw,uw
+2025-08-21T21:10:51.170Z,38.836498260498,-122.7996673584,2.0499999523163,0.21,md,8.0,82.0,0.007527,0.02,nc,nc75226877,2025-08-21T21:12:29.826Z,"7 km WNW of Cobb, CA",earthquake,0.73,1.44000006,0.08,8.0,automatic,nc,nc
+2025-08-21T21:02:14.070Z,60.3478,-152.1756,81.9,1.5,ml,,,,0.42,ak,ak025apoqfa7,2025-08-21T21:03:56.673Z,"43 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-21T20:39:41.409Z,36.025,-96.53766667,0.0,1.26,ml,66.0,61.0,0.1853636253,0.44,ok,ok2025qjlp,2025-08-21T21:01:06.896Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.5,0.2,26.0,reviewed,ok,ok
+2025-08-21T09:24:04.299Z,28.426,-99.738,6.2244,2.2,ml,12.0,131.0,0.3,0.3,tx,tx2025qkpegc,2025-08-21T20:56:20.264Z,"2 km SE of Asherton, Texas",earthquake,9.9963248109765,8.2445570104273,0.1,6.0,reviewed,tx,tx
