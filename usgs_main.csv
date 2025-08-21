@@ -7365,3 +7365,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T16:15:50.771Z,64.7393,-149.118,14.0,1.5,ml,,,,0.48,ak,ak025aplu4ed,2025-08-21T16:17:43.807Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T16:08:44.020Z,38.748664855957,-122.72616577148,0.5799999833107,0.84,md,8.0,166.0,0.01295,0.05,nc,nc75226767,2025-08-21T16:10:20.860Z,"4 km SSE of The Geysers, CA",earthquake,0.44,0.550000012,0.58,7.0,automatic,nc,nc
 2025-08-21T15:58:05.309Z,63.0924,-151.4838,3.7,1.8,ml,,,,0.19,ak,ak025aplht2q,2025-08-21T15:59:49.702Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-21T16:48:45.646Z,36.8268,-115.7478,5.0,0.7,ml,12.0,182.66,0.238,0.1571,nn,nn00902952,2025-08-21T16:50:46.260Z,"29 km NNW of Indian Springs, Nevada",earthquake,,2.4,0.28,7.0,automatic,nn,nn
+2025-08-21T16:45:43.511Z,36.8229,-115.6659,4.3,0.5,ml,10.0,280.08,0.273,0.2115,nn,nn00902949,2025-08-21T16:47:46.251Z,"28 km N of Indian Springs, Nevada",earthquake,,117.2,0.44,5.0,automatic,nn,nn
+2025-08-21T16:29:43.860Z,38.839332580566,-122.82550048828,1.6499999761581,0.58,md,8.0,101.0,0.007834,0.01,nc,nc75226782,2025-08-21T16:31:19.667Z,"9 km WNW of Cobb, CA",earthquake,0.72,2.30999994,0.35,8.0,automatic,nc,nc
+2025-08-21T16:24:09.780Z,38.823165893555,-122.80100250244,3.2400000095367,0.71,md,7.0,90.0,0.00709,0.0,nc,nc75226772,2025-08-21T16:25:44.653Z,"6 km NNW of The Geysers, CA",earthquake,0.57,2.75,0.09,7.0,automatic,nc,nc
+2025-08-21T07:13:14.160Z,44.5965,-112.10566666667,4.21,0.78,ml,12.0,110.0,0.2062,0.12,mb,mb90108358,2025-08-21T16:56:12.090Z,"27 km NNE of Spencer, Idaho",earthquake,0.38,8.45,0.17756589555343,16.0,reviewed,mb,mb
