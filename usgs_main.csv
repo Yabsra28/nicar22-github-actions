@@ -7362,3 +7362,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T18:48:25.550Z,35.6425,-98.03166667,4.65,1.51,ml,65.0,59.0,0.1565692758,0.27,ok,ok2025qhml,2025-08-21T15:44:51.019Z,"9 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.23,30.0,reviewed,ok,ok
 2025-08-21T15:41:54.645Z,31.717,-104.287,4.4016,1.7,ml,32.0,113.0,0.0,0.3,tx,tx2025qlbrwc,2025-08-21T15:45:38.002Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.0313001871109,0.2,20.0,automatic,tx,tx
 2025-08-21T15:04:24.080Z,44.596166666667,-110.32366666667,5.46,1.58,ml,12.0,90.0,0.06272,0.15,uu,uu80114321,2025-08-21T15:53:22.330Z,"51 km SE of Mammoth, Wyoming",earthquake,0.35,1.2,0.3971566388726,3.0,reviewed,uu,uu
+2025-08-21T16:15:50.771Z,64.7393,-149.118,14.0,1.5,ml,,,,0.48,ak,ak025aplu4ed,2025-08-21T16:17:43.807Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-21T16:08:44.020Z,38.748664855957,-122.72616577148,0.5799999833107,0.84,md,8.0,166.0,0.01295,0.05,nc,nc75226767,2025-08-21T16:10:20.860Z,"4 km SSE of The Geysers, CA",earthquake,0.44,0.550000012,0.58,7.0,automatic,nc,nc
+2025-08-21T15:58:05.309Z,63.0924,-151.4838,3.7,1.8,ml,,,,0.19,ak,ak025aplht2q,2025-08-21T15:59:49.702Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
