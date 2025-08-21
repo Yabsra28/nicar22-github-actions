@@ -7434,3 +7434,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T20:29:10.680Z,38.832164764404,-122.81666564941,1.6200000047684,0.28,md,10.0,86.0,0.01016,0.01,nc,nc75226857,2025-08-21T20:30:44.733Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.920000017,0.17,11.0,automatic,nc,nc
 2025-08-21T19:19:33.600Z,47.108666666667,-123.066,3.78,1.45,ml,14.0,120.0,0.07251,0.64,uw,uw62174671,2025-08-21T20:36:02.820Z,"12 km SSE of Shelton, Washington",earthquake,1.35,54.17,0.16915497818665,10.0,reviewed,uw,uw
 2025-08-21T09:34:38.999Z,28.864,-99.034,7.2263,1.6,ml,9.0,77.0,0.1,0.3,tx,tx2025qkpnkj,2025-08-21T20:30:24.125Z,"6 km ESE of Pearsall, Texas",earthquake,3.9654078946171,1.8667543285938,0.2,7.0,reviewed,tx,tx
+2025-08-21T20:46:59.188Z,62.4364,-150.0241,19.3,1.2,ml,,,,0.3,ak,ak025apoeiny,2025-08-21T20:49:00.518Z,"4 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-21T20:45:25.706Z,58.6643,-154.0822,88.4,1.0,ml,,,,0.48,ak,ak025apoe8d6,2025-08-21T20:47:37.057Z,"95 km SSE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-20T23:35:40.110Z,48.5325,-122.59233333333,16.81,1.36,ml,16.0,79.0,0.02885,0.11,uw,uw62174266,2025-08-21T20:48:00.020Z,"2 km NE of Anacortes, Washington",earthquake,0.32,0.44,0.071656187335901,11.0,reviewed,uw,uw
