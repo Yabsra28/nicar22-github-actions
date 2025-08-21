@@ -7453,3 +7453,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T22:25:32.978Z,60.3538,-152.1063,77.9,1.6,ml,,,,0.22,ak,ak025appgttd,2025-08-21T22:27:00.814Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-21T22:23:01.125Z,61.7181,-150.1072,35.5,1.2,ml,,,,0.68,ak,ak025appgbxc,2025-08-21T22:24:52.982Z,"4 km SW of Willow, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2025-08-21T22:17:20.250Z,38.826667785645,-122.78816986084,1.6299999952316,0.91,md,16.0,45.0,0.01185,0.02,nc,nc75226882,2025-08-21T22:18:55.432Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.430000007,0.2,16.0,automatic,nc,nc
+2025-08-21T22:39:51.731Z,32.109,-101.927,4.8701,1.5,ml,55.0,35.0,0.1,0.7,tx,tx2025qlpobl,2025-08-21T22:44:52.393Z,"13 km W of Stanton, Texas",earthquake,0.0,0.761070728302,0.2,32.0,automatic,tx,tx
+2025-08-21T22:36:44.337Z,32.103,-101.916,3.8183,1.2,ml,39.0,38.0,0.1,0.5,tx,tx2025qlplij,2025-08-21T22:40:37.358Z,"12 km WSW of Stanton, Texas",earthquake,0.0,0.95548695325851,0.1,25.0,automatic,tx,tx
+2025-08-21T22:31:24.820Z,35.8973333,-117.6771667,3.22,0.48,ml,18.0,50.0,0.05494,0.12,ci,ci41271352,2025-08-21T22:34:56.759Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.62,0.05,10.0,automatic,ci,ci
