@@ -7307,3 +7307,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T11:21:06.869Z,51.9047,160.0448,27.863,5.8,mww,87.0,106.0,1.408,1.09,us,us6000r2s3,2025-08-21T11:38:33.040Z,"159 km SE of Vilyuchinsk, Russia",earthquake,8.48,4.931,0.056,31.0,reviewed,us,us
 2025-08-21T11:41:13.200Z,36.67499923706,-121.34183502197,2.1900000572205,1.79,md,28.0,52.0,0.03261,0.15,nc,nc75226707,2025-08-21T11:44:32.360Z,"13 km SSW of Tres Pinos, CA",earthquake,0.29,0.870000005,0.23,27.0,automatic,nc,nc
 2025-08-21T11:24:33.310Z,17.988,-66.804333333333,12.74,2.32,md,11.0,187.0,0.03408,0.36,pr,pr71493213,2025-08-21T11:44:46.140Z,"1 km ESE of Indios, Puerto Rico",earthquake,1.2,0.92,0.075092481365496,5.0,reviewed,pr,pr
+2025-08-21T12:07:18.225Z,61.9657,-150.0317,28.4,1.1,ml,,,,0.51,ak,ak025apjelqm,2025-08-21T12:09:40.869Z,"23 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-21T12:05:49.750Z,34.5565,-116.2621667,1.27,1.95,ml,34.0,71.0,0.1557,0.15,ci,ci41270800,2025-08-21T12:09:24.861Z,"21 km SSW of Ludlow, CA",earthquake,0.15,0.55,0.168,26.0,automatic,ci,ci
+2025-08-21T11:57:07.014Z,35.68198013,-98.09060669,10.0,2.16,ml,11.0,65.56768036,0.1059951037,1.176964748,ok,ok2025qiuj,2025-08-21T12:01:47.864Z,"9 km NNE of Calumet, Oklahoma",earthquake,,0.0,0.28,7.0,automatic,ok,ok
+2025-08-21T11:41:20.230Z,17.959666666667,-66.9595,13.49,2.23,md,11.0,199.0,0.0779,0.11,pr,pr71493233,2025-08-21T12:05:59.320Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.68,0.44,0.1423670618466,7.0,reviewed,pr,pr
