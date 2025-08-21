@@ -7450,3 +7450,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T21:52:49.910Z,58.195666666667,-155.253,2.41,-0.69,ml,9.0,81.0,0.0427,0.1,av,av93725348,2025-08-21T21:34:36.190Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.54,0.29262268122888,9.0,reviewed,av,av
 2025-08-21T21:40:27.913Z,61.8715,-149.0827,32.5,1.2,ml,,,,0.62,ak,ak025apoylk7,2025-08-21T21:42:22.804Z,"16 km NNE of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T21:37:14.065Z,49.9934,155.9103,75.469,4.9,mb,102.0,113.0,3.313,0.63,us,us6000r2uv,2025-08-21T21:59:16.040Z,"77 km SSW of Severo-Kuril’sk, Russia",earthquake,9.38,6.676,0.032,315.0,reviewed,us,us
+2025-08-21T22:25:32.978Z,60.3538,-152.1063,77.9,1.6,ml,,,,0.22,ak,ak025appgttd,2025-08-21T22:27:00.814Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-21T22:23:01.125Z,61.7181,-150.1072,35.5,1.2,ml,,,,0.68,ak,ak025appgbxc,2025-08-21T22:24:52.982Z,"4 km SW of Willow, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2025-08-21T22:17:20.250Z,38.826667785645,-122.78816986084,1.6299999952316,0.91,md,16.0,45.0,0.01185,0.02,nc,nc75226882,2025-08-21T22:18:55.432Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.430000007,0.2,16.0,automatic,nc,nc
