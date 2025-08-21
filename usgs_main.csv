@@ -7303,3 +7303,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T04:21:04.687Z,32.246,-102.368,1.1994,2.0,mlv,8.0,145.0,0.2,0.5,tx,tx2025qkfdef,2025-08-21T11:20:23.980Z,"16 km ESE of McKinney Acres, Texas",earthquake,0.0,5.9388046264648,0.5,6.0,automatic,tx,tx
 2025-08-21T02:04:53.080Z,32.408,-101.922,4.5896,1.1,mlv,22.0,46.0,0.0,0.5,tx,tx2025qkapuv,2025-08-21T11:19:07.305Z,"23 km SW of Ackerly, Texas",earthquake,0.0,1.0367867946625,0.4,13.0,automatic,tx,tx
 2025-08-21T00:45:16.437Z,32.373,-102.097,3.2444,1.0,mlv,17.0,51.0,0.0,0.5,tx,tx2025qjxzfo,2025-08-21T11:18:27.178Z,"39 km WSW of Ackerly, Texas",earthquake,0.0,1.1746290922165,0.3,13.0,automatic,tx,tx
+2025-08-21T11:31:57.950Z,33.4018333,-116.4261667,13.78,1.01,ml,35.0,54.0,0.08973,0.17,ci,ci41270792,2025-08-21T11:35:28.722Z,"17 km NNW of Borrego Springs, CA",earthquake,0.26,0.52,0.223,12.0,automatic,ci,ci
+2025-08-21T11:21:06.869Z,51.9047,160.0448,27.863,5.8,mww,87.0,106.0,1.408,1.09,us,us6000r2s3,2025-08-21T11:38:33.040Z,"159 km SE of Vilyuchinsk, Russia",earthquake,8.48,4.931,0.056,31.0,reviewed,us,us
