@@ -7476,3 +7476,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T22:34:42.569Z,-57.3681,-67.358,10.0,4.7,mb,22.0,172.0,2.447,0.68,us,us6000r2v1,2025-08-21T23:31:11.040Z,"290 km SSE of Ushuaia, Argentina",earthquake,15.83,1.97,0.13,18.0,reviewed,us,us
 2025-08-21T04:07:28.670Z,53.841833333333,-166.84383333333,6.74,-0.5,ml,8.0,105.0,0.05257,0.21,av,av93725828,2025-08-21T23:42:52.500Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.47,1.22,0.31505907947185,8.0,reviewed,av,av
 2025-08-21T04:02:52.100Z,53.843,-166.84866666667,6.04,0.12,ml,7.0,108.0,0.05263,0.17,av,av93725818,2025-08-21T23:39:16.400Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.44,1.15,0.22652929656423,7.0,reviewed,av,av
+2025-08-21T23:50:38.230Z,33.229,-116.7386667,11.29,1.35,ml,63.0,20.0,0.01822,0.17,ci,ci41271424,2025-08-21T23:54:09.458Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.14,0.41,0.246,26.0,automatic,ci,ci
+2025-08-21T23:48:04.530Z,35.6721667,-117.4761667,8.08,0.91,ml,27.0,40.0,0.04329,0.16,ci,ci41271416,2025-08-21T23:51:36.794Z,"12 km SSW of Searles Valley, CA",earthquake,0.23,0.54,0.14,15.0,automatic,ci,ci
+2025-08-21T04:11:19.530Z,53.8415,-166.8425,6.53,-0.72,ml,8.0,104.0,0.05257,0.19,av,av93725833,2025-08-21T23:52:45.260Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.43,1.04,0.27546819549988,8.0,reviewed,av,av
