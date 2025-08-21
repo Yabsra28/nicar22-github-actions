@@ -7360,3 +7360,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T15:28:15.300Z,38.793834686279,-122.76616668701,3.6900000572205,1.1,md,21.0,71.0,0.008451,0.02,nc,nc75226747,2025-08-21T15:29:49.289Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.680000007,0.11,22.0,automatic,nc,nc
 2025-08-20T21:30:44.659Z,34.50666667,-97.221,0.0,1.11,ml,23.0,79.0,0.1250754559,0.32,ok,ok2025qhru,2025-08-21T15:32:30.371Z,"9 km W of Davis, Oklahoma",quarry blast,,0.6,0.33,10.0,reviewed,ok,ok
 2025-08-20T18:48:25.550Z,35.6425,-98.03166667,4.65,1.51,ml,65.0,59.0,0.1565692758,0.27,ok,ok2025qhml,2025-08-21T15:44:51.019Z,"9 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.23,30.0,reviewed,ok,ok
+2025-08-21T15:41:54.645Z,31.717,-104.287,4.4016,1.7,ml,32.0,113.0,0.0,0.3,tx,tx2025qlbrwc,2025-08-21T15:45:38.002Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.0313001871109,0.2,20.0,automatic,tx,tx
+2025-08-21T15:04:24.080Z,44.596166666667,-110.32366666667,5.46,1.58,ml,12.0,90.0,0.06272,0.15,uu,uu80114321,2025-08-21T15:53:22.330Z,"51 km SE of Mammoth, Wyoming",earthquake,0.35,1.2,0.3971566388726,3.0,reviewed,uu,uu
