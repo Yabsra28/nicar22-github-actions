@@ -7274,3 +7274,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T06:59:55.392Z,31.674,-104.377,6.4075,1.5,ml,32.0,69.0,0.0,0.2,tx,tx2025qkkjdj,2025-08-21T09:14:20.409Z,"55 km S of Whites City, New Mexico",earthquake,0.6861834286193,0.55356664928467,0.2,16.0,reviewed,tx,tx
 2025-08-21T09:35:11.620Z,59.8406,-153.2981,122.2,1.2,ml,,,,0.52,ak,ak025aphsagq,2025-08-21T09:37:00.989Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-21T09:25:59.235Z,39.1062,-119.0618,9.5,1.1,ml,17.0,81.89,0.184,0.1072,nn,nn00902925,2025-08-21T09:28:15.070Z,"15 km NNE of Yerington, Nevada",earthquake,,1.5,0.16,9.0,automatic,nn,nn
+2025-08-21T09:49:36.200Z,35.9556667,-117.2816667,4.11,0.63,ml,20.0,93.0,0.06459,0.15,ci,ci41270624,2025-08-21T09:53:08.763Z,"23 km NNE of Trona, CA",earthquake,0.24,0.52,0.129,8.0,automatic,ci,ci
