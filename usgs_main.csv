@@ -7252,3 +7252,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T07:11:08.258Z,61.6515,-150.2909,27.0,1.4,ml,,,,0.46,ak,ak025apgg9t5,2025-08-21T07:12:52.683Z,"16 km NE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T07:32:47.810Z,33.466,-116.558,5.52,0.64,ml,38.0,42.0,0.04673,0.17,ci,ci41270592,2025-08-21T07:36:59.725Z,"15 km SE of Anza, CA",earthquake,0.17,0.46,0.163,18.0,automatic,ci,ci
 2025-08-21T07:46:24.574Z,31.661,-104.385,5.7681,1.7,ml,29.0,88.0,0.0,0.4,tx,tx2025qklyci,2025-08-21T07:50:53.073Z,"57 km S of Whites City, New Mexico",earthquake,0.0,2.0551087856293,0.2,22.0,automatic,tx,tx
+2025-08-21T08:11:56.890Z,33.5641667,-116.6561667,10.0,0.27,ml,17.0,55.0,0.02153,0.12,ci,ci41270608,2025-08-21T08:16:11.061Z,"2 km ENE of Anza, CA",earthquake,0.27,0.45,0.142,5.0,automatic,ci,ci
+2025-08-21T08:01:52.990Z,48.412833333333,-122.30783333333,7.93,2.95,ml,43.0,54.0,0.09601,0.17,uw,uw62174381,2025-08-21T08:22:13.823Z,"2 km ESE of Mount Vernon, Washington",earthquake,0.25,0.58,0.20258570051188,123.0,reviewed,uw,uw
+2025-08-21T07:53:49.050Z,17.969833333333,-66.924666666667,9.12,2.24,md,8.0,187.0,0.04353,0.3,pr,pr71493183,2025-08-21T08:02:24.190Z,"1 km W of Guánica, Puerto Rico",earthquake,1.17,1.17,0.048496788843761,4.0,reviewed,pr,pr
+2025-08-21T07:15:18.383Z,31.6,-104.387,1.814,2.4,ml,10.0,239.0,0.1,0.3,tx,tx2025qkkxft,2025-08-21T08:02:01.643Z,"63 km S of Whites City, New Mexico",earthquake,0.0,2.930992603302,0.3,7.0,automatic,tx,tx
+2025-08-21T03:27:23.510Z,48.56,-122.05216666667,5.41,1.51,ml,7.0,138.0,0.02589,0.05,uw,uw62174376,2025-08-21T08:14:22.300Z,"3 km N of Lyman, Washington",earthquake,0.31,0.54,0.15436136497609,6.0,reviewed,uw,uw
