@@ -7272,3 +7272,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T08:26:58.833Z,28.929,-99.082,6.2314,2.4,ml,10.0,227.0,0.3,0.5,tx,tx2025qknhbw,2025-08-21T09:01:14.411Z,"2 km NE of North Pearsall, Texas",earthquake,0.0,8.6344976425171,0.1,10.0,automatic,tx,tx
 2025-08-21T07:59:57.509Z,-2.1355,138.9303,31.558,4.7,mb,33.0,66.0,0.908,0.61,us,us6000r2r7,2025-08-21T08:59:44.040Z,"196 km WNW of Abepura, Indonesia",earthquake,6.96,5.767,0.092,36.0,reviewed,us,us
 2025-08-21T06:59:55.392Z,31.674,-104.377,6.4075,1.5,ml,32.0,69.0,0.0,0.2,tx,tx2025qkkjdj,2025-08-21T09:14:20.409Z,"55 km S of Whites City, New Mexico",earthquake,0.6861834286193,0.55356664928467,0.2,16.0,reviewed,tx,tx
+2025-08-21T09:35:11.620Z,59.8406,-153.2981,122.2,1.2,ml,,,,0.52,ak,ak025aphsagq,2025-08-21T09:37:00.989Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-21T09:25:59.235Z,39.1062,-119.0618,9.5,1.1,ml,17.0,81.89,0.184,0.1072,nn,nn00902925,2025-08-21T09:28:15.070Z,"15 km NNE of Yerington, Nevada",earthquake,,1.5,0.16,9.0,automatic,nn,nn
