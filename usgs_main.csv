@@ -7701,3 +7701,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T16:56:57.346Z,31.093,-103.744,4.1885,1.6,ml,17.0,62.0,0.1,1.4,tx,tx2025qmzxfo,2025-08-22T17:00:55.475Z,"12 km N of Balmorhea, Texas",earthquake,0.0,1.620064496994,0.2,9.0,automatic,tx,tx
 2025-08-22T13:07:07.860Z,47.076666666667,-122.0545,13.82,1.5,ml,12.0,145.0,0.09455,0.11,uw,uw62174946,2025-08-22T17:00:50.440Z,"0 km SSW of Carbonado, Washington",earthquake,0.33,0.69,0.060243303214424,6.0,reviewed,uw,uw
 2025-08-22T08:21:29.260Z,35.3408333,-118.6008333,2.62,0.34,ml,7.0,151.0,0.131,0.09,ci,ci37739396,2025-08-22T17:01:24.152Z,"25 km NE of Arvin, CA",earthquake,0.27,1.02,0.073,5.0,reviewed,ci,ci
+2025-08-22T17:28:18.792Z,32.756,-100.665,0.0188,2.4,ml,37.0,79.0,0.1,0.7,tx,tx2025qnawfm,2025-08-22T17:32:19.993Z,"16 km NNE of Hermleigh, Texas",earthquake,0.0,1.0656949281693,0.1,18.0,automatic,tx,tx
+2025-08-22T17:28:18.459Z,32.767,-100.678,3.4979,2.3,ml,7.0,142.0,0.1,0.1,tx,tx2025qnaykt,2025-08-22T17:30:58.355Z,"16 km NNE of Hermleigh, Texas",earthquake,0.0,2.649894952774,0.2,7.0,automatic,tx,tx
+2025-08-22T17:19:16.866Z,61.7011,-150.8601,48.0,1.3,ml,,,,0.5,ak,ak025ar9zoqu,2025-08-22T17:21:34.226Z,"25 km NW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-22T16:45:21.450Z,18.159666666667,-67.8055,60.5,3.43,md,15.0,189.0,0.5568,0.33,pr,pr71493343,2025-08-22T17:32:25.053Z,"61 km WSW of Stella, Puerto Rico",earthquake,2.03,1.42,0.084245503753765,8.0,reviewed,pr,pr
+2025-08-22T16:28:42.530Z,18.8243,-67.2471,10.0,4.3,ml,27.0,186.0,0.3818,0.21,pr,pr2025234001,2025-08-22T17:32:55.894Z,"39 km NNW of San Antonio, Puerto Rico",earthquake,0.6,0.85,0.09,22.0,reviewed,pr,pr
+2025-08-22T09:40:34.100Z,48.414,-122.30783333333,11.48,2.39,ml,15.0,62.0,0.07478,0.19,uw,uw62174936,2025-08-22T17:20:49.362Z,"2 km ESE of Mount Vernon, Washington",earthquake,0.45,0.92,0.2052695563231,13.0,reviewed,uw,uw
