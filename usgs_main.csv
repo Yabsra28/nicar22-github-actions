@@ -7743,3 +7743,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T20:28:58.685Z,61.9298,-150.4946,38.5,1.2,ml,,,,0.31,ak,ak025arbu08c,2025-08-22T20:31:09.791Z,"31 km NW of Willow, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2025-08-22T20:19:48.480Z,18.149,-66.1495,14.59,2.83,md,11.0,71.0,0.03969,0.21,pr,pr71493353,2025-08-22T20:34:04.870Z,"2 km ENE of Parcelas Nuevas, Puerto Rico",earthquake,0.44,0.67,0.21732969059057,11.0,reviewed,pr,pr
 2025-08-22T00:46:01.850Z,51.862,-177.859,6.85,0.13,ml,4.0,168.0,0.08666,0.09,av,av93727443,2025-08-22T20:30:31.380Z,"84 km W of Adak, Alaska",earthquake,0.89,1.37,0.23507395404713,4.0,reviewed,av,av
+2025-08-22T20:49:13.250Z,58.1516,-156.4687,20.1,0.9,ml,,,,0.66,ak,ak025arbyerh,2025-08-22T20:50:59.790Z,"53 km E of Egegik, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-22T20:45:33.220Z,38.839668273926,-122.83350372315,1.9099999666214,0.23,md,8.0,150.0,0.001887,0.02,nc,nc75227317,2025-08-22T20:47:12.103Z,"10 km NNW of The Geysers, CA",earthquake,0.46,0.899999976,0.1,8.0,automatic,nc,nc
+2025-08-22T00:53:39.520Z,53.870833333333,-166.34833333333,26.53,1.14,ml,9.0,211.0,0.09601,0.1,av,av93727458,2025-08-22T20:43:10.000Z,"12 km E of Unalaska, Alaska",earthquake,0.72,0.57,0.15340269221391,8.0,reviewed,av,av
+2025-08-22T00:53:27.720Z,53.7995,-166.30133333333,25.27,0.98,ml,14.0,222.0,0.1289,0.28,av,av93048899,2025-08-22T20:48:58.670Z,"17 km ESE of Unalaska, Alaska",earthquake,1.43,1.65,0.24393636685206,14.0,reviewed,av,av
