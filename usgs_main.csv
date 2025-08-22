@@ -7615,3 +7615,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T09:58:25.189Z,32.444,-102.13,3.0827,1.0,ml,16.0,159.0,0.0,0.6,tx,tx2025qmmalq,2025-08-22T10:00:58.373Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.0,1.1852785348892,0.4,10.0,automatic,tx,tx
 2025-08-22T09:41:02.140Z,40.234166666667,-121.14133333333,6.12,1.89,md,27.0,65.0,0.01387,0.19,nc,nc75227067,2025-08-22T10:20:08.122Z,"3 km NE of Prattville, CA",earthquake,0.31,0.49,0.197,14.0,reviewed,nc,nc
 2025-08-22T09:33:39.493Z,-30.426,-177.8988,35.0,5.0,mb,42.0,127.0,7.783,1.11,us,us6000r308,2025-08-22T10:07:15.040Z,"Kermadec Islands, New Zealand",earthquake,11.55,1.926,0.052,116.0,reviewed,us,us
+2025-08-22T10:07:21.350Z,17.826333333333,-66.300166666667,7.65,2.42,md,12.0,232.0,0.2109,0.14,pr,pr71493293,2025-08-22T10:40:41.560Z,"16 km SSW of Central Aguirre, Puerto Rico",earthquake,0.73,1.26,0.18115267845752,12.0,reviewed,pr,pr
+2025-08-22T09:40:33.658Z,48.3968,-122.2775,12.364,2.3,ml,37.0,47.0,0.113,0.57,us,us6000r30a,2025-08-22T10:29:07.284Z,"2 km WSW of Big Lake, Washington",earthquake,1.79,2.344,0.041,78.0,reviewed,us,us
