@@ -7572,3 +7572,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T05:29:42.160Z,18.208,-68.7723,90.0,3.85,md,15.0,219.0,0.4964,0.51,pr,pr2025234000,2025-08-22T05:48:08.644Z,"25 km SW of Boca de Yuma, Dominican Republic",earthquake,4.04,2.61,0.1,10.0,reviewed,pr,pr
 2025-08-21T20:51:55.780Z,60.0075,-153.09183333333,-2.44,-0.84,ml,6.0,109.0,0.03525,0.32,av,av93727068,2025-08-22T05:44:55.810Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.73,3.9,0.12334516268229,6.0,reviewed,av,av
 2025-08-21T20:44:46.990Z,61.305,-152.2655,1.07,-0.63,ml,8.0,228.0,0.04416,0.23,av,av93727048,2025-08-22T05:41:19.720Z,"66 km WNW of Beluga, Alaska",earthquake,0.89,1.81,0.19948483255995,7.0,reviewed,av,av
+2025-08-22T05:50:24.526Z,60.7977,-151.0329,11.8,2.1,ml,,,,0.45,ak,ak025ar3159w,2025-08-22T05:52:03.063Z,"18 km NE of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-22T05:40:06.541Z,51.3669,159.5078,24.74,4.6,mb,33.0,121.0,1.741,0.97,us,us6000r2za,2025-08-22T06:01:00.040Z,"189 km SSE of Vilyuchinsk, Russia",earthquake,11.48,5.898,0.088,39.0,reviewed,us,us
+2025-08-21T22:31:59.790Z,61.269166666667,-152.23966666667,4.17,-1.01,ml,5.0,165.0,0.006773,0.07,av,av93727198,2025-08-22T05:50:37.460Z,"63 km WNW of Tyonek, Alaska",earthquake,4.28,1.03,0.10529321795152,5.0,reviewed,av,av
