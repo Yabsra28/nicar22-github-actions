@@ -7719,3 +7719,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T18:43:22.680Z,35.004,-119.0771667,16.16,2.18,ml,54.0,24.0,0.1397,0.25,ci,ci41271888,2025-08-22T18:46:53.309Z,"15 km WNW of Grapevine, CA",earthquake,0.21,0.81,0.154,26.0,automatic,ci,ci
 2025-08-22T18:37:34.480Z,56.8491,-157.2015,76.0,1.8,ml,,,,0.39,ak,ak025arap0lk,2025-08-22T18:43:31.573Z,"74 km S of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-22T18:31:31.878Z,37.46,-117.2137,6.9,1.0,ml,14.0,209.34,0.609,0.3888,nn,nn00903000,2025-08-22T18:34:14.047Z,"27 km S of Goldfield, Nevada",earthquake,,6.5,0.52,6.0,automatic,nn,nn
+2025-08-22T19:05:23.914Z,61.7905,-149.7998,41.2,1.1,ml,,,,0.33,ak,ak025arb3kh3,2025-08-22T19:07:22.167Z,"13 km ENE of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-08-22T18:57:11.001Z,32.226,-102.093,3.983,1.0,ml,11.0,99.0,0.1,0.6,tx,tx2025qndxaa,2025-08-22T19:00:11.517Z,"25 km N of Midland, Texas",earthquake,0.0,1.7894377708435,0.3,8.0,automatic,tx,tx
