@@ -7693,3 +7693,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T16:24:58.485Z,62.8442,-149.4972,78.0,0.9,ml,,,,0.13,ak,ak025ar9fexk,2025-08-22T16:27:01.406Z,"53 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-22T07:38:29.800Z,33.6485,-116.7608333,11.34,0.61,ml,25.0,55.0,0.07486,0.16,ci,ci37739388,2025-08-22T16:39:17.655Z,"11 km SSW of Idyllwild, CA",earthquake,0.23,0.5,0.21,12.0,reviewed,ci,ci
 2025-08-21T23:17:05.690Z,44.8055,-111.511,11.5,0.08,ml,8.0,102.0,0.03602,0.19,mb,mb90108498,2025-08-22T16:28:16.180Z,"25 km W of Hebgen Lake Estates, Montana",earthquake,0.6,0.77,0.15500217287452,5.0,reviewed,mb,mb
+2025-08-22T16:25:25.330Z,52.3833,160.7175,25.333,4.8,mb,27.0,153.0,1.412,0.96,us,us6000r36j,2025-08-22T16:49:48.040Z,"160 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.23,6.418,0.065,73.0,reviewed,us,us
