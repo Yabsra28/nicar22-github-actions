@@ -7637,3 +7637,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T14:57:00.819Z,-8.2342,119.7259,187.922,4.6,mb,22.0,63.0,1.533,1.05,us,us6000r2t1,2025-08-22T12:47:22.040Z,"34 km NNW of Labuan Bajo, Indonesia",earthquake,8.17,10.03,0.173,10.0,reviewed,us,us
 2025-08-21T14:42:38.764Z,51.8319,160.1185,36.036,4.8,mb,29.0,155.0,1.494,0.92,us,us6000r2sx,2025-08-22T12:44:52.040Z,"169 km SE of Vilyuchinsk, Russia",earthquake,9.73,3.344,0.074,57.0,reviewed,us,us
 2025-08-21T13:19:08.514Z,-2.5264,139.5436,65.092,4.5,mb,19.0,92.0,1.521,0.95,us,us6000r2si,2025-08-22T12:40:32.040Z,"121 km W of Abepura, Indonesia",earthquake,10.2,8.282,0.116,22.0,reviewed,us,us
+2025-08-22T13:07:48.060Z,33.795,-116.3841667,11.7,0.61,ml,11.0,202.0,0.1467,0.09,ci,ci41271672,2025-08-22T13:12:08.667Z,"3 km SSE of Thousand Palms, CA",earthquake,0.7,1.0,0.096,12.0,automatic,ci,ci
+2025-08-22T13:01:35.592Z,65.0651,-148.6804,18.8,0.8,ml,,,,0.51,ak,ak025ar7i4vr,2025-08-22T13:03:59.970Z,"32 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-22T12:52:57.494Z,-17.6647,168.6688,226.917,5.4,mww,113.0,30.0,4.939,0.94,us,us6000r30q,2025-08-22T13:19:17.654Z,"38 km ENE of Port-Vila, Vanuatu",earthquake,9.76,5.158,0.093,11.0,reviewed,us,us
+2025-08-22T02:02:24.215Z,31.75,-93.935,8.667,3.2,ml,11.0,115.0,0.2,0.2,tx,tx2025qlwgec,2025-08-22T13:05:46.139Z,"5 km WSW of Huxley, Texas",earthquake,3.2846069947373,3.582838814925,0.1,7.0,reviewed,tx,tx
+2025-08-22T00:27:02.624Z,32.423,-102.081,6.5674,0.6,ml,19.0,72.0,0.0,0.1,tx,tx2025qltcjj,2025-08-22T13:14:07.587Z,"36 km WSW of Ackerly, Texas",earthquake,0.53796075416065,0.76357516132604,0.1,12.0,reviewed,tx,tx
