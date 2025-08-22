@@ -7609,3 +7609,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T06:57:46.575Z,31.673,-104.375,6.0999,1.5,ml,25.0,69.0,0.0,0.2,tx,tx2025qmgbbp,2025-08-22T09:29:13.193Z,"55 km S of Whites City, New Mexico",earthquake,0.91281616516644,0.72006818588768,0.1,14.0,reviewed,tx,tx
 2025-08-22T09:41:35.162Z,60.3595,-152.9909,123.3,1.2,ml,,,,0.52,ak,ak025ar5cz2k,2025-08-22T09:44:03.956Z,"75 km ENE of Port Alsworth, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-22T09:33:55.850Z,19.416000366211,-155.26683044434,1.7200000286102,2.06,ml,28.0,89.0,0.007631,0.209999993,hv,hv74757802,2025-08-22T09:37:08.430Z,"4 km SW of Volcano, Hawaii",earthquake,0.2,0.140000001,0.24,21.0,automatic,hv,hv
+2025-08-22T09:51:06.469Z,59.6243,-153.1366,99.7,0.9,ml,,,,0.24,ak,ak025ar5f20m,2025-08-22T09:53:03.843Z,"57 km ESE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-22T09:48:56.820Z,38.836833953857,-122.78583526611,2.210000038147,0.21,md,8.0,79.0,0.003856,0.02,nc,nc75227072,2025-08-22T09:50:31.853Z,"6 km WNW of Cobb, CA",earthquake,0.59,1.38999999,0.13,8.0,automatic,nc,nc
