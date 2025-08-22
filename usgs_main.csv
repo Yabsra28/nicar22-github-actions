@@ -7707,3 +7707,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T16:45:21.450Z,18.159666666667,-67.8055,60.5,3.43,md,15.0,189.0,0.5568,0.33,pr,pr71493343,2025-08-22T17:32:25.053Z,"61 km WSW of Stella, Puerto Rico",earthquake,2.03,1.42,0.084245503753765,8.0,reviewed,pr,pr
 2025-08-22T16:28:42.530Z,18.8243,-67.2471,10.0,4.3,ml,27.0,186.0,0.3818,0.21,pr,pr2025234001,2025-08-22T17:32:55.894Z,"39 km NNW of San Antonio, Puerto Rico",earthquake,0.6,0.85,0.09,22.0,reviewed,pr,pr
 2025-08-22T09:40:34.100Z,48.414,-122.30783333333,11.48,2.39,ml,15.0,62.0,0.07478,0.19,uw,uw62174936,2025-08-22T17:20:49.362Z,"2 km ESE of Mount Vernon, Washington",earthquake,0.45,0.92,0.2052695563231,13.0,reviewed,uw,uw
+2025-08-22T17:36:01.905Z,61.0005,-151.3396,61.1,1.4,ml,,,,0.34,ak,ak025ara3ari,2025-08-22T17:37:44.462Z,"13 km SW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-21T21:25:42.160Z,49.355,-120.45266666667,-0.37,1.89,ml,7.0,179.0,0.5421,0.62,uw,uw62174751,2025-08-22T17:35:54.720Z,"12 km SSE of Princeton, Canada",explosion,4.11,31.61,0.063483595018188,5.0,reviewed,uw,uw
