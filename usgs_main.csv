@@ -7565,3 +7565,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T05:05:31.878Z,61.2241,-152.8568,13.2,0.9,ml,,,,1.38,ak,ak025ar2rimb,2025-08-22T05:07:38.953Z,"94 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-22T04:56:14.295Z,23.3863,94.1816,10.0,5.3,mb,83.0,54.0,2.274,1.04,us,us6000r2z6,2025-08-22T05:15:01.040Z,"36 km SW of Mawlaik, Burma (Myanmar)",earthquake,8.9,1.847,0.043,179.0,reviewed,us,us
 2025-08-21T18:53:35.340Z,53.8445,-166.852,6.38,0.18,ml,8.0,111.0,0.05345,0.17,av,av93726928,2025-08-22T05:10:36.330Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.48,0.99,0.25709969556768,8.0,reviewed,av,av
+2025-08-22T05:18:54.528Z,-60.2038,-62.0055,10.0,5.0,mb,41.0,99.0,4.684,0.71,us,us6000r2z8,2025-08-22T05:35:18.040Z,Drake Passage,earthquake,10.63,1.885,0.076,55.0,reviewed,us,us
+2025-08-21T19:56:35.560Z,54.750333333333,-163.96716666667,-1.63,-0.25,ml,6.0,81.0,0.04451,0.21,av,av93727008,2025-08-22T05:29:11.370Z,"37 km WSW of False Pass, Alaska",earthquake,0.36,0.45,0.13880792228266,6.0,reviewed,av,av
