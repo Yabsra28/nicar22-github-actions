@@ -7716,3 +7716,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T15:13:57.890Z,40.336,-124.82333333333,15.94,1.9,md,39.0,262.0,0.3707,0.32,nc,nc75227172,2025-08-22T18:10:14.128Z,"46 km WNW of Petrolia, CA",earthquake,1.28,2.2,0.101,12.0,reviewed,nc,nc
 2025-08-22T09:18:47.240Z,54.747166666667,-163.994,-0.36,0.04,ml,6.0,105.0,0.03784,0.12,av,av93728143,2025-08-22T18:26:37.950Z,"39 km WSW of False Pass, Alaska",earthquake,0.51,0.52,0.20101474212442,6.0,reviewed,av,av
 2025-08-22T08:54:03.610Z,54.717,-163.86633333333,6.64,0.21,ml,7.0,130.0,0.07629,0.33,av,av93728113,2025-08-22T18:22:41.670Z,"33 km WSW of False Pass, Alaska",earthquake,1.03,2.83,0.3318515952538,6.0,reviewed,av,av
+2025-08-22T18:43:22.680Z,35.004,-119.0771667,16.16,2.18,ml,54.0,24.0,0.1397,0.25,ci,ci41271888,2025-08-22T18:46:53.309Z,"15 km WNW of Grapevine, CA",earthquake,0.21,0.81,0.154,26.0,automatic,ci,ci
+2025-08-22T18:37:34.480Z,56.8491,-157.2015,76.0,1.8,ml,,,,0.39,ak,ak025arap0lk,2025-08-22T18:43:31.573Z,"74 km S of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-22T18:31:31.878Z,37.46,-117.2137,6.9,1.0,ml,14.0,209.34,0.609,0.3888,nn,nn00903000,2025-08-22T18:34:14.047Z,"27 km S of Goldfield, Nevada",earthquake,,6.5,0.52,6.0,automatic,nn,nn
