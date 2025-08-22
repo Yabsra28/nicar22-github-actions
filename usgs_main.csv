@@ -7617,3 +7617,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T09:33:39.493Z,-30.426,-177.8988,35.0,5.0,mb,42.0,127.0,7.783,1.11,us,us6000r308,2025-08-22T10:07:15.040Z,"Kermadec Islands, New Zealand",earthquake,11.55,1.926,0.052,116.0,reviewed,us,us
 2025-08-22T10:07:21.350Z,17.826333333333,-66.300166666667,7.65,2.42,md,12.0,232.0,0.2109,0.14,pr,pr71493293,2025-08-22T10:40:41.560Z,"16 km SSW of Central Aguirre, Puerto Rico",earthquake,0.73,1.26,0.18115267845752,12.0,reviewed,pr,pr
 2025-08-22T09:40:33.658Z,48.3968,-122.2775,12.364,2.3,ml,37.0,47.0,0.113,0.57,us,us6000r30a,2025-08-22T10:29:07.284Z,"2 km WSW of Big Lake, Washington",earthquake,1.79,2.344,0.041,78.0,reviewed,us,us
+2025-08-22T10:41:59.620Z,34.7949982,-116.2911682,4.86,1.49,ml,20.0,69.0,0.04979,0.13,ci,ci41271616,2025-08-22T10:44:24.787Z,"14 km NW of Ludlow, CA",earthquake,0.32,0.5,0.196,10.0,automatic,ci,ci
+2025-08-22T07:02:07.186Z,31.684,-104.377,6.0999,1.7,ml,32.0,78.0,0.0,0.2,tx,tx2025qmgeyl,2025-08-22T10:45:02.654Z,"54 km S of Whites City, New Mexico",earthquake,0.89562581164015,0.50887648093168,0.2,18.0,reviewed,tx,tx
