@@ -7626,3 +7626,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T11:15:43.010Z,33.2618333,-116.4293333,4.65,2.17,ml,94.0,18.0,0.01201,0.18,ci,ci41271624,2025-08-22T11:19:18.972Z,"5 km W of Borrego Springs, CA",earthquake,0.1,0.28,0.136,26.0,automatic,ci,ci
 2025-08-22T10:34:17.579Z,32.231,-101.929,3.023,1.0,mlv,8.0,107.0,0.0,0.4,tx,tx2025qmnfqs,2025-08-22T11:16:07.866Z,"17 km NW of Stanton, Texas",earthquake,0.0,2.0518991947174,0.3,6.0,automatic,tx,tx
 2025-08-22T07:18:13.600Z,32.589,-101.35,1.3713,1.5,mlv,5.0,132.0,0.4,0.0,tx,tx2025qmgssb,2025-08-22T11:15:46.825Z,"22 km SSE of Gail, Texas",earthquake,0.0,5.4940533638,0.1,5.0,automatic,tx,tx
+2025-08-22T11:33:03.520Z,34.0601667,-117.1348333,9.69,0.83,ml,55.0,26.0,0.03088,0.19,ci,ci41271640,2025-08-22T11:37:04.064Z,"1 km S of Mentone, CA",earthquake,0.16,0.35,0.185,26.0,automatic,ci,ci
+2025-08-22T11:27:24.260Z,33.753,-116.9218333,10.47,1.74,ml,91.0,15.0,0.06577,0.21,ci,ci41271632,2025-08-22T11:38:25.900Z,"3 km WNW of Valle Vista, CA",earthquake,0.12,0.27,0.206,27.0,automatic,ci,ci
+2025-08-22T09:36:12.526Z,-15.3793,-73.6873,97.275,4.4,mb,29.0,142.0,4.371,0.56,us,us6000r309,2025-08-22T11:29:28.040Z,"19 km SW of Incuyo, Peru",earthquake,10.46,10.612,0.123,19.0,reviewed,us,us
