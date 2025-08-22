@@ -7629,3 +7629,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T11:33:03.520Z,34.0601667,-117.1348333,9.69,0.83,ml,55.0,26.0,0.03088,0.19,ci,ci41271640,2025-08-22T11:37:04.064Z,"1 km S of Mentone, CA",earthquake,0.16,0.35,0.185,26.0,automatic,ci,ci
 2025-08-22T11:27:24.260Z,33.753,-116.9218333,10.47,1.74,ml,91.0,15.0,0.06577,0.21,ci,ci41271632,2025-08-22T11:38:25.900Z,"3 km WNW of Valle Vista, CA",earthquake,0.12,0.27,0.206,27.0,automatic,ci,ci
 2025-08-22T09:36:12.526Z,-15.3793,-73.6873,97.275,4.4,mb,29.0,142.0,4.371,0.56,us,us6000r309,2025-08-22T11:29:28.040Z,"19 km SW of Incuyo, Peru",earthquake,10.46,10.612,0.123,19.0,reviewed,us,us
+2025-08-22T11:40:50.410Z,38.829666137695,-122.8125,1.960000038147,1.36,md,27.0,41.0,0.006542,0.02,nc,nc75227117,2025-08-22T11:44:01.740Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.310000002,0.14,28.0,automatic,nc,nc
