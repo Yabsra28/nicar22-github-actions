@@ -7729,3 +7729,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T19:39:48.530Z,33.083,-115.5703333,9.6,2.31,ml,51.0,41.0,0.03639,0.26,ci,ci41271912,2025-08-22T19:43:59.501Z,"7 km NE of Westmorland, CA",earthquake,0.23,0.48,0.165,27.0,automatic,ci,ci
 2025-08-22T19:35:11.860Z,38.837665557861,-122.8245010376,0.63999998569489,0.36,md,7.0,86.0,0.008629,0.01,nc,nc75227252,2025-08-22T19:36:46.610Z,"9 km NNW of The Geysers, CA",earthquake,0.37,1.41999996,0.26,7.0,automatic,nc,nc
 2025-08-22T10:48:49.870Z,54.710666666667,-164.08866666667,10.19,0.09,ml,5.0,250.0,0.05311,0.19,av,av93728263,2025-08-22T19:46:31.890Z,"46 km WSW of False Pass, Alaska",earthquake,1.04,0.99,0.25762032728502,5.0,reviewed,av,av
+2025-08-22T19:49:20.787Z,37.361,-117.1269,1.8,1.2,ml,13.0,192.23,0.123,0.3829,nn,nn00903002,2025-08-22T19:51:34.317Z,"39 km SSE of Goldfield, Nevada",earthquake,,7.3,0.43,5.0,automatic,nn,nn
