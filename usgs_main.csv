@@ -7980,3 +7980,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T18:03:16.384Z,31.293,-103.993,0.0333,1.6,ml,10.0,226.0,0.1,1.2,tx,tx2025qoxvla,2025-08-23T18:06:54.301Z,"19 km W of Toyah, Texas",earthquake,0.0,2.8851220607758,0.2,6.0,automatic,tx,tx
 2025-08-23T18:02:47.992Z,32.431,-102.15,3.655,2.3,ml,66.0,96.0,0.0,0.5,tx,tx2025qoxvaw,2025-08-23T18:08:13.800Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.0,0.72911310195923,0.2,43.0,automatic,tx,tx
 2025-08-23T17:53:56.290Z,33.9656667,-117.1666667,16.38,1.03,ml,22.0,48.0,0.01893,0.21,ci,ci41272544,2025-08-23T17:57:56.801Z,"7 km NE of Moreno Valley, CA",earthquake,0.3,0.85,0.487,33.0,automatic,ci,ci
+2025-08-23T18:54:50.524Z,63.3038,-148.2952,1.6,2.3,ml,,,,0.73,ak,ak025asyc1i4,2025-08-23T18:56:35.114Z,"34 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-23T17:50:12.280Z,17.898,-66.919333333333,6.44,1.93,md,5.0,240.0,0.08561,0.18,pr,pr71493433,2025-08-23T19:07:03.030Z,"8 km S of Guánica, Puerto Rico",earthquake,1.59,31.61,0.043642801978287,5.0,reviewed,pr,pr
+2025-08-23T13:57:14.100Z,47.491333333333,-122.42883333333,26.31,1.19,ml,15.0,93.0,0.2585,0.19,uw,uw62175366,2025-08-23T19:08:58.400Z,"5 km NNE of Vashon, Washington",earthquake,0.42,1.15,0.10074239483578,8.0,reviewed,uw,uw
