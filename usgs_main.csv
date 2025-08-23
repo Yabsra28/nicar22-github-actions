@@ -7963,3 +7963,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T10:43:03.797Z,36.7078,-116.3091,10.2,-0.3,ml,20.0,120.19,0.023,0.0755,nn,nn00903073,2025-08-23T14:28:31.030Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.2,3.0,reviewed,nn,nn
 2025-08-23T14:43:25.300Z,40.486167907715,-122.02166748047,11.470000267029,2.09,md,9.0,112.0,0.1006,0.08,nc,nc75227737,2025-08-23T14:44:58.515Z,"11 km W of Shingletown, CA",earthquake,0.73,1.74000001,0.09,8.0,automatic,nc,nc
 2025-08-23T14:38:18.350Z,33.285,-116.2476667,7.97,0.9,ml,53.0,40.0,0.09221,0.23,ci,ci41272400,2025-08-23T14:41:51.685Z,"12 km ENE of Borrego Springs, CA",earthquake,0.22,0.65,0.122,23.0,automatic,ci,ci
+2025-08-23T14:34:30.325Z,-60.0461,-61.4861,10.0,4.8,mb,21.0,96.0,4.893,0.95,us,us6000r3cf,2025-08-23T14:57:26.040Z,Drake Passage,earthquake,11.55,1.905,0.134,17.0,reviewed,us,us
