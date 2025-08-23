@@ -7914,3 +7914,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T09:18:12.633Z,62.944,-150.8856,107.0,1.5,ml,,,,0.22,ak,ak025assrccv,2025-08-23T09:20:08.682Z,"50 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-23T09:16:59.320Z,38.757831573486,-122.71800231934,1.8700000047684,1.16,md,12.0,118.0,0.006547,0.03,nc,nc75227632,2025-08-23T09:18:37.057Z,"3 km WSW of Anderson Springs, CA",earthquake,0.33,0.389999986,0.19,14.0,automatic,nc,nc
 2025-08-23T09:15:00.259Z,62.6801,-151.9112,5.7,1.2,ml,,,,0.45,ak,ak025assqo95,2025-08-23T09:17:09.033Z,"62 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-23T09:32:24.923Z,31.666,-104.52,4.4165,1.7,ml,20.0,97.0,0.0,0.3,tx,tx2025qogxas,2025-08-23T09:35:22.897Z,"58 km SSW of Whites City, New Mexico",earthquake,0.0,1.5952724218369,0.1,16.0,automatic,tx,tx
+2025-08-23T09:14:21.474Z,13.0753,-90.3605,10.0,6.0,mww,76.0,120.0,0.997,1.34,us,us6000r3at,2025-08-23T09:40:11.548Z,"81 km SW of Acajutla, El Salvador",earthquake,4.82,1.835,0.032,95.0,reviewed,us,us
