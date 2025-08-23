@@ -7897,3 +7897,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T07:23:44.004Z,31.666,-104.39,4.7566,1.6,ml,28.0,70.0,0.0,0.5,tx,tx2025qocqig,2025-08-23T07:28:13.100Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.0798993110657,0.2,18.0,automatic,tx,tx
 2025-08-23T07:37:26.583Z,61.6318,-150.8554,68.3,1.8,ml,,,,0.36,ak,ak025asroktu,2025-08-23T07:39:19.818Z,"20 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-22T17:16:30.360Z,60.047166666667,-153.035,1.42,-0.45,ml,5.0,219.0,0.01762,0.14,av,av93728678,2025-08-23T07:38:04.240Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.04,0.36,0.27473686753395,5.0,reviewed,av,av
+2025-08-23T07:52:25.260Z,36.0354996,-117.7799988,1.81,1.34,ml,21.0,68.0,0.01575,0.16,ci,ci41272264,2025-08-23T07:54:27.786Z,"15 km E of Coso Junction, CA",earthquake,0.31,0.26,0.291,11.0,automatic,ci,ci
+2025-08-23T07:48:12.780Z,63.0042,-150.8095,105.2,1.8,ml,,,,0.4,ak,ak025asrqwn2,2025-08-23T07:50:33.079Z,"56 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-23T07:46:41.831Z,28.258,-98.46,7.4335,1.6,ml,5.0,155.0,0.4,0.3,tx,tx2025qodkcv,2025-08-23T07:50:00.216Z,"24 km SSE of Tilden, Texas",earthquake,0.0,15.825709342957,0.6,5.0,automatic,tx,tx
+2025-08-23T07:44:54.250Z,33.2271667,-116.7385,11.37,0.87,ml,51.0,21.0,0.01912,0.16,ci,ci41272256,2025-08-23T07:50:11.589Z,"3 km SE of Lake Henshaw, CA",earthquake,0.16,0.51,0.19,26.0,automatic,ci,ci
+2025-08-23T07:44:54.120Z,33.2244987,-116.7328339,12.06,1.88,ml,28.0,152.0,0.02456,0.16,ci,ci41272248,2025-08-23T07:47:17.570Z,"3 km SE of Lake Henshaw, CA",earthquake,0.36,0.75,0.655,10.0,automatic,ci,ci
+2025-08-23T07:44:34.496Z,60.4608,-150.4847,41.5,2.6,ml,,,,0.62,ak,ak025asrq3fr,2025-08-23T07:46:43.458Z,"15 km ESE of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-22T18:36:32.250Z,51.696833333333,-177.41216666667,14.3,1.29,ml,8.0,223.0,0.1277,0.13,av,av93728783,2025-08-23T07:53:17.800Z,"57 km WSW of Adak, Alaska",earthquake,0.83,1.0,0.25746847312208,9.0,reviewed,av,av
