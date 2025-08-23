@@ -7911,3 +7911,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T08:33:13.760Z,33.462,-116.6038333,10.5,1.16,ml,71.0,24.0,0.03264,0.21,ci,ci41272272,2025-08-23T08:36:45.787Z,"12 km SSE of Anza, CA",earthquake,0.15,0.29,0.165,26.0,automatic,ci,ci
 2025-08-23T09:01:37.566Z,60.948,-152.485,111.5,0.9,ml,,,,0.36,ak,ak025assnr3w,2025-08-23T09:03:15.429Z,"71 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-23T08:45:19.700Z,17.943833333333,-66.910833333333,10.07,2.54,md,20.0,184.0,0.04321,0.21,pr,pr71493393,2025-08-23T08:56:25.380Z,"3 km S of Guánica, Puerto Rico",earthquake,0.49,0.57,0.11850493221236,8.0,reviewed,pr,pr
+2025-08-23T09:18:12.633Z,62.944,-150.8856,107.0,1.5,ml,,,,0.22,ak,ak025assrccv,2025-08-23T09:20:08.682Z,"50 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-23T09:16:59.320Z,38.757831573486,-122.71800231934,1.8700000047684,1.16,md,12.0,118.0,0.006547,0.03,nc,nc75227632,2025-08-23T09:18:37.057Z,"3 km WSW of Anderson Springs, CA",earthquake,0.33,0.389999986,0.19,14.0,automatic,nc,nc
+2025-08-23T09:15:00.259Z,62.6801,-151.9112,5.7,1.2,ml,,,,0.45,ak,ak025assqo95,2025-08-23T09:17:09.033Z,"62 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
