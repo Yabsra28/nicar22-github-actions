@@ -7894,3 +7894,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T06:57:28.510Z,18.855666666667,-67.259333333333,10.95,3.05,md,14.0,299.0,0.4109,0.17,pr,pr71493388,2025-08-23T07:11:05.460Z,"43 km NNW of San Antonio, Puerto Rico",earthquake,0.64,0.48,0.056251518946171,8.0,reviewed,pr,pr
 2025-08-22T16:56:13.820Z,52.3395,-174.22816666667,3.91,0.4,ml,6.0,197.0,0.02362,0.21,av,av93048959,2025-08-23T07:12:10.220Z,"16 km N of Atka, Alaska",earthquake,0.69,0.8,0.35337336933729,5.0,reviewed,av,av
 2025-08-22T16:46:01.250Z,58.285666666667,-154.991,2.96,-0.08,ml,6.0,132.0,0.03997,0.11,av,av93728638,2025-08-23T07:05:49.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.76,0.23321364920178,6.0,reviewed,av,av
+2025-08-23T07:23:44.004Z,31.666,-104.39,4.7566,1.6,ml,28.0,70.0,0.0,0.5,tx,tx2025qocqig,2025-08-23T07:28:13.100Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.0798993110657,0.2,18.0,automatic,tx,tx
