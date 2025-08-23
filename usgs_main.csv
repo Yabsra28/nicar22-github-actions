@@ -7925,3 +7925,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T09:21:53.692Z,32.352,-102.069,3.8702,1.6,mlv,37.0,41.0,0.0,0.4,tx,tx2025qogodu,2025-08-23T11:21:27.935Z,"36 km NW of Stanton, Texas",earthquake,0.0,0.82451891899109,0.3,27.0,automatic,tx,tx
 2025-08-23T07:58:32.517Z,51.7265,160.0193,27.278,4.5,mb,20.0,126.0,1.547,1.55,us,us6000r3ak,2025-08-23T11:25:44.040Z,"173 km SE of Vilyuchinsk, Russia",earthquake,10.62,6.39,0.121,20.0,reviewed,us,us
 2025-08-23T00:50:23.072Z,32.407,-102.045,4.394,1.0,mlv,16.0,111.0,0.0,0.5,tx,tx2025qnppjg,2025-08-23T11:17:21.264Z,"33 km WSW of Ackerly, Texas",earthquake,0.0,1.1755454540253,0.4,12.0,automatic,tx,tx
+2025-08-23T11:32:16.300Z,37.721332550049,-122.10350036621,7.1599998474121,1.28,md,19.0,51.0,0.01284,0.18,nc,nc75227667,2025-08-23T11:33:53.182Z,"3 km NNW of Castro Valley, CA",earthquake,0.41,0.660000026,0.15,13.0,automatic,nc,nc
+2025-08-23T11:24:45.990Z,17.975833333333,-66.838,16.81,1.81,md,6.0,196.0,0.03928,0.08,pr,pr71493413,2025-08-23T11:34:59.910Z,"2 km SW of Indios, Puerto Rico",earthquake,0.59,0.71,0.18059602148861,5.0,reviewed,pr,pr
