@@ -7969,3 +7969,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T15:35:11.660Z,59.8161,-153.2158,124.1,1.9,ml,,,,0.34,ak,ak025aswfl1z,2025-08-23T15:36:41.840Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-23T15:32:00.949Z,65.0328,-152.252,1.0,1.5,ml,,,,0.53,ak,ak025aswex3y,2025-08-23T15:34:42.808Z,"17 km SSW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T15:28:54.380Z,35.0836667,-119.1545,10.12,1.32,ml,19.0,114.0,0.2259,0.27,ci,ci41272440,2025-08-23T15:35:57.098Z,"23 km E of Maricopa, CA",earthquake,0.5,1.61,0.338,31.0,automatic,ci,ci
+2025-08-23T16:01:38.087Z,61.9217,-147.3893,4.8,2.4,ml,,,,0.87,ak,ak025aswtsds,2025-08-23T16:04:24.929Z,"11 km W of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-23T15:49:53.859Z,-17.1173,-172.1243,10.0,5.1,mb,85.0,53.0,2.857,1.34,us,us6000r3ck,2025-08-23T16:15:14.040Z,"220 km SE of Hihifo, Tonga",earthquake,8.28,1.806,0.037,241.0,reviewed,us,us
