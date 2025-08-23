@@ -7971,3 +7971,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T15:28:54.380Z,35.0836667,-119.1545,10.12,1.32,ml,19.0,114.0,0.2259,0.27,ci,ci41272440,2025-08-23T15:35:57.098Z,"23 km E of Maricopa, CA",earthquake,0.5,1.61,0.338,31.0,automatic,ci,ci
 2025-08-23T16:01:38.087Z,61.9217,-147.3893,4.8,2.4,ml,,,,0.87,ak,ak025aswtsds,2025-08-23T16:04:24.929Z,"11 km W of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-23T15:49:53.859Z,-17.1173,-172.1243,10.0,5.1,mb,85.0,53.0,2.857,1.34,us,us6000r3ck,2025-08-23T16:15:14.040Z,"220 km SE of Hihifo, Tonga",earthquake,8.28,1.806,0.037,241.0,reviewed,us,us
+2025-08-23T16:33:15.703Z,36.7157,-115.8552,11.3,0.3,ml,16.0,125.2,0.101,0.1594,nn,nn00903078,2025-08-23T16:35:21.217Z,"23 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,10.0,automatic,nn,nn
+2025-08-23T16:23:16.256Z,60.3153,-153.0743,155.4,2.9,ml,,,,0.4,ak,ak025aswyglx,2025-08-23T16:24:52.440Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-23T16:21:37.590Z,33.6813333,-116.7653333,14.22,0.69,ml,22.0,49.0,0.07713,0.14,ci,ci41272480,2025-08-23T16:25:05.242Z,"8 km SSW of Idyllwild, CA",earthquake,0.31,0.56,0.149,16.0,automatic,ci,ci
