@@ -7895,3 +7895,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T16:56:13.820Z,52.3395,-174.22816666667,3.91,0.4,ml,6.0,197.0,0.02362,0.21,av,av93048959,2025-08-23T07:12:10.220Z,"16 km N of Atka, Alaska",earthquake,0.69,0.8,0.35337336933729,5.0,reviewed,av,av
 2025-08-22T16:46:01.250Z,58.285666666667,-154.991,2.96,-0.08,ml,6.0,132.0,0.03997,0.11,av,av93728638,2025-08-23T07:05:49.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.76,0.23321364920178,6.0,reviewed,av,av
 2025-08-23T07:23:44.004Z,31.666,-104.39,4.7566,1.6,ml,28.0,70.0,0.0,0.5,tx,tx2025qocqig,2025-08-23T07:28:13.100Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.0798993110657,0.2,18.0,automatic,tx,tx
+2025-08-23T07:37:26.583Z,61.6318,-150.8554,68.3,1.8,ml,,,,0.36,ak,ak025asroktu,2025-08-23T07:39:19.818Z,"20 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-22T17:16:30.360Z,60.047166666667,-153.035,1.42,-0.45,ml,5.0,219.0,0.01762,0.14,av,av93728678,2025-08-23T07:38:04.240Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.04,0.36,0.27473686753395,5.0,reviewed,av,av
