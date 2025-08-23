@@ -7920,3 +7920,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T10:44:25.677Z,62.1377,-151.0046,62.1,1.3,ml,,,,0.43,ak,ak025astidl3,2025-08-23T10:46:29.639Z,"26 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-23T10:58:26.360Z,35.7043333,-117.5631667,4.14,0.46,ml,22.0,67.0,0.1146,0.14,ci,ci41272288,2025-08-23T11:01:55.868Z,"14 km NE of Ridgecrest, CA",earthquake,0.21,0.52,0.178,9.0,automatic,ci,ci
 2025-08-23T10:00:16.902Z,31.899,-104.301,1.7777,1.5,ml,12.0,254.0,0.2,1.0,tx,tx2025qohvbp,2025-08-23T11:00:13.397Z,"31 km SSE of Whites City, New Mexico",earthquake,0.0,3.3955264091492,0.3,9.0,automatic,tx,tx
+2025-08-23T11:24:01.074Z,32.369,-102.103,4.4349,1.0,ml,22.0,42.0,0.0,0.4,tx,tx2025qokpbz,2025-08-23T11:26:48.689Z,"39 km NW of Stanton, Texas",earthquake,0.0,1.087340593338,0.1,12.0,automatic,tx,tx
+2025-08-23T09:32:56.417Z,32.4,-102.558,0.04,1.6,mlv,7.0,137.0,0.2,0.4,tx,tx2025qogxre,2025-08-23T11:21:29.927Z,"9 km N of Andrews, Texas",earthquake,0.0,3.163768529892,0.4,5.0,automatic,tx,tx
+2025-08-23T09:21:53.692Z,32.352,-102.069,3.8702,1.6,mlv,37.0,41.0,0.0,0.4,tx,tx2025qogodu,2025-08-23T11:21:27.935Z,"36 km NW of Stanton, Texas",earthquake,0.0,0.82451891899109,0.3,27.0,automatic,tx,tx
+2025-08-23T07:58:32.517Z,51.7265,160.0193,27.278,4.5,mb,20.0,126.0,1.547,1.55,us,us6000r3ak,2025-08-23T11:25:44.040Z,"173 km SE of Vilyuchinsk, Russia",earthquake,10.62,6.39,0.121,20.0,reviewed,us,us
+2025-08-23T00:50:23.072Z,32.407,-102.045,4.394,1.0,mlv,16.0,111.0,0.0,0.5,tx,tx2025qnppjg,2025-08-23T11:17:21.264Z,"33 km WSW of Ackerly, Texas",earthquake,0.0,1.1755454540253,0.4,12.0,automatic,tx,tx
