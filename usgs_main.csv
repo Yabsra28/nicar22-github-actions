@@ -8000,3 +8000,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T18:09:18.480Z,38.770333333333,-122.71166666667,1.51,0.71,md,16.0,75.0,0.009005,0.03,nc,nc75227767,2025-08-23T21:12:56.342Z,"2 km W of Anderson Springs, CA",earthquake,0.25,0.34,0.338,10.0,reviewed,nc,nc
 2025-08-22T23:03:20.195Z,54.572,-160.0677,36.063,3.2,ml,20.0,194.0,0.38,0.86,us,us6000r37y,2025-08-23T21:17:34.040Z,"89 km SSE of Sand Point, Alaska",earthquake,2.14,14.267,0.069,28.0,reviewed,us,us
 2025-08-22T22:27:20.229Z,53.2056,-160.0311,10.0,3.2,ml,22.0,226.0,1.649,0.75,us,us6000r37u,2025-08-23T21:12:48.040Z,"239 km S of Sand Point, Alaska",earthquake,7.17,2.014,0.066,30.0,reviewed,us,us
+2025-08-23T21:27:31.310Z,38.822334289551,-122.77133178711,3.5099999904633,1.03,md,9.0,97.0,0.0082,0.03,nc,nc75227817,2025-08-23T21:29:08.802Z,"4 km WNW of Cobb, CA",earthquake,0.52,1.12,0.18,9.0,automatic,nc,nc
+2025-08-23T16:47:33.850Z,14.3353,-92.8397,52.516,4.3,mb,83.0,169.0,1.263,0.6,us,us6000r3cs,2025-08-23T21:23:52.040Z,"62 km SW of Puerto Madero, Mexico",earthquake,8.17,11.226,0.056,91.0,reviewed,us,us
