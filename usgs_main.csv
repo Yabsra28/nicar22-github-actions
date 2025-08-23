@@ -8008,3 +8008,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T22:12:24.705Z,60.9525,-147.705,6.5,0.7,ml,,,,0.84,ak,ak025at0gpuu,2025-08-23T22:14:46.720Z,"56 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T22:36:55.191Z,63.1982,-150.6989,129.1,1.7,ml,,,,0.36,ak,ak025at0lxd5,2025-08-23T22:39:32.403Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-08-23T22:35:06.560Z,36.544498443604,-121.10099792481,5.3600001335144,1.81,md,23.0,97.0,0.05997,0.23,nc,nc75227852,2025-08-23T22:36:48.613Z,"4 km E of Pinnacles, CA",earthquake,0.61,2.42000008,0.17,19.0,automatic,nc,nc
+2025-08-22T23:22:09.371Z,52.353,160.5247,23.721,4.5,mb,43.0,120.0,1.324,1.4,us,us6000r381,2025-08-23T22:54:17.040Z,"150 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.25,6.1,0.095,34.0,reviewed,us,us
