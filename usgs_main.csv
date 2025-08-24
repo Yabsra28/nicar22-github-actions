@@ -8131,3 +8131,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T12:29:15.528Z,31.601,-103.975,5.6934,1.8,ml,32.0,48.0,0.0,0.3,tx,tx2025qqimgq,2025-08-24T12:34:03.071Z,"36 km NNW of Toyah, Texas",earthquake,0.0,2.1087296009064,0.2,25.0,automatic,tx,tx
 2025-08-24T12:06:53.679Z,56.5735,-158.6677,18.9,1.1,ml,,,,0.3,ak,ak025aui0i8n,2025-08-24T12:08:41.286Z,"30 km NNW of Chignik Lagoon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-24T11:41:56.020Z,18.0265,-68.7603,87.0,3.94,md,16.0,199.0,0.6173,0.42,pr,pr2025236000,2025-08-24T12:26:27.129Z,"42 km SSW of Boca de Yuma, Dominican Republic",earthquake,2.33,2.86,0.11,14.0,reviewed,pr,pr
+2025-08-24T13:06:14.643Z,59.4219,-139.8882,0.2,2.1,ml,,,,0.67,ak,ak025auiluu0,2025-08-24T13:08:47.162Z,"16 km SSW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
