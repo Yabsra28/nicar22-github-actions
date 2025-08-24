@@ -8127,3 +8127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T11:30:17.330Z,33.7011667,-116.7418333,16.1,1.07,ml,38.0,35.0,0.05024,0.16,ci,ci41273240,2025-08-24T11:34:02.480Z,"5 km SSW of Idyllwild, CA",earthquake,0.19,0.39,0.164,3.0,automatic,ci,ci
 2025-08-24T11:45:41.440Z,60.699,-152.513,106.4,1.6,ml,,,,0.35,ak,ak025auhnem8,2025-08-24T11:48:11.586Z,"65 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-24T11:51:31.050Z,38.828998565674,-122.85116577148,1.6399999856949,0.59,md,8.0,91.0,0.004688,0.01,nc,nc75228062,2025-08-24T11:53:05.810Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.970000029,0.29,9.0,automatic,nc,nc
+2025-08-24T12:39:32.050Z,36.1788333,-118.0266667,2.92,1.44,ml,28.0,55.0,0.1519,0.17,ci,ci41273248,2025-08-24T12:43:02.857Z,"12 km S of Olancha, CA",earthquake,0.22,0.72,0.167,8.0,automatic,ci,ci
+2025-08-24T12:29:15.528Z,31.601,-103.975,5.6934,1.8,ml,32.0,48.0,0.0,0.3,tx,tx2025qqimgq,2025-08-24T12:34:03.071Z,"36 km NNW of Toyah, Texas",earthquake,0.0,2.1087296009064,0.2,25.0,automatic,tx,tx
+2025-08-24T12:06:53.679Z,56.5735,-158.6677,18.9,1.1,ml,,,,0.3,ak,ak025aui0i8n,2025-08-24T12:08:41.286Z,"30 km NNW of Chignik Lagoon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-24T11:41:56.020Z,18.0265,-68.7603,87.0,3.94,md,16.0,199.0,0.6173,0.42,pr,pr2025236000,2025-08-24T12:26:27.129Z,"42 km SSW of Boca de Yuma, Dominican Republic",earthquake,2.33,2.86,0.11,14.0,reviewed,pr,pr
