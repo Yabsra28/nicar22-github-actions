@@ -8045,3 +8045,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T03:04:47.983Z,61.8606,-149.283,23.9,1.0,ml,,,,0.67,ak,ak025aucn5xa,2025-08-24T03:06:44.512Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-24T02:57:18.140Z,36.1271667,-117.819,2.67,0.83,ml,24.0,53.0,0.03057,0.16,ci,ci41272856,2025-08-24T03:03:20.711Z,"15 km NE of Coso Junction, CA",earthquake,0.22,0.46,0.158,14.0,automatic,ci,ci
 2025-08-24T01:32:05.755Z,2.0868,96.6499,35.134,4.4,mb,38.0,138.0,1.209,0.7,us,us6000r3ev,2025-08-24T03:40:18.040Z,"52 km SE of Sinabang, Indonesia",earthquake,8.37,3.651,0.105,27.0,reviewed,us,us
+2025-08-24T04:06:42.410Z,35.5536652,-118.3988342,3.99,1.56,ml,35.0,85.0,0.1249,0.19,ci,ci41272896,2025-08-24T04:10:13.956Z,"9 km ESE of Bodfish, CA",earthquake,0.28,0.77,0.189,18.0,automatic,ci,ci
+2025-08-24T03:57:35.720Z,33.8713333,-116.776,14.38,0.83,ml,41.0,39.0,0.04164,0.14,ci,ci41272888,2025-08-24T04:01:04.902Z,"5 km SSE of Cabazon, CA",earthquake,0.15,0.29,0.232,30.0,automatic,ci,ci
+2025-08-24T03:52:11.450Z,34.6375,-119.6383333,3.4,1.12,ml,9.0,166.0,0.3542,0.34,ci,ci41272880,2025-08-24T03:55:38.089Z,"22 km N of Montecito, CA",earthquake,1.66,23.58,0.115,10.0,automatic,ci,ci
+2025-08-24T03:47:49.440Z,32.9251667,-115.8068333,7.03,0.84,ml,34.0,67.0,0.0207,0.21,ci,ci41272872,2025-08-24T03:51:48.805Z,"21 km SW of Westmorland, CA",earthquake,0.24,0.47,0.176,10.0,automatic,ci,ci
+2025-08-24T03:44:08.460Z,-19.3888,-69.2674,100.534,5.0,mb,59.0,104.0,0.287,1.04,us,us6000r3fa,2025-08-24T04:11:51.786Z,"18 km ESE of Camiña, Chile",earthquake,6.76,5.716,0.029,391.0,reviewed,us,us
