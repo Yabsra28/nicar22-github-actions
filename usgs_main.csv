@@ -8123,3 +8123,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T10:50:33.320Z,-2.3117,-79.0381,101.13,4.8,mb,56.0,62.0,0.267,0.7,us,us6000r3gp,2025-08-24T11:04:16.040Z,"24 km WSW of Alausí, Ecuador",earthquake,4.05,6.484,0.067,68.0,reviewed,us,us
 2025-08-24T11:21:45.750Z,34.0593333,-117.2548333,12.62,0.72,ml,50.0,32.0,0.1198,0.2,ci,ci41273232,2025-08-24T11:25:16.131Z,"1 km NNE of Loma Linda, CA",earthquake,0.18,0.48,0.203,24.0,automatic,ci,ci
 2025-08-24T11:04:29.993Z,52.4752,160.8558,34.078,4.9,mb,93.0,117.0,1.449,0.72,us,us6000r3gu,2025-08-24T11:22:53.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.1,5.385,0.042,177.0,reviewed,us,us
+2025-08-24T11:35:11.874Z,34.39071655,-97.46665192,6.64074564,1.96,ml,12.0,87.65549469,0.02766246535,0.4010927243,ok,ok2025qogd,2025-08-24T11:40:40.589Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,4.17456255,4.814898452,0.18,7.0,automatic,ok,ok
+2025-08-24T11:30:17.330Z,33.7011667,-116.7418333,16.1,1.07,ml,38.0,35.0,0.05024,0.16,ci,ci41273240,2025-08-24T11:34:02.480Z,"5 km SSW of Idyllwild, CA",earthquake,0.19,0.39,0.164,3.0,automatic,ci,ci
