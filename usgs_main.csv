@@ -8154,3 +8154,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T15:23:18.430Z,35.7061667,-117.5548333,3.37,0.74,ml,30.0,46.0,0.1143,0.14,ci,ci41273384,2025-08-24T15:26:44.399Z,"14 km NE of Ridgecrest, CA",earthquake,0.16,0.63,0.095,16.0,automatic,ci,ci
 2025-08-24T10:50:24.140Z,33.9995,-116.8153333,18.33,0.86,ml,45.0,41.0,0.03611,0.2,ci,ci41273224,2025-08-24T15:31:22.428Z,"10 km NNW of Cabazon, CA",earthquake,0.21,0.46,0.219,24.0,reviewed,ci,ci
 2025-08-24T15:43:39.793Z,39.4274,-119.8076,6.7,1.0,ml,12.0,133.53,0.05,0.0639,nn,nn00903113,2025-08-24T15:45:48.181Z,"11 km S of Reno, Nevada",earthquake,,0.6,0.33,6.0,automatic,nn,nn
+2025-08-24T10:50:00.970Z,34.0213333,-116.6883333,14.44,0.54,ml,32.0,113.0,0.03767,0.17,ci,ci37551341,2025-08-24T15:52:11.549Z,"10 km WSW of Morongo Valley, CA",earthquake,0.23,0.42,0.219,15.0,reviewed,ci,ci
