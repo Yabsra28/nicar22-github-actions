@@ -8172,3 +8172,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T17:14:25.870Z,32.7463341,-115.8748322,2.92,0.96,ml,12.0,151.0,0.1063,0.25,ci,ci41273472,2025-08-24T17:16:31.384Z,"11 km E of Ocotillo, CA",earthquake,1.33,1.82,0.337,4.0,automatic,ci,ci
 2025-08-24T16:31:04.070Z,18.1835,-66.482666666667,29.65,2.35,md,18.0,87.0,0.1418,0.12,pr,pr71493493,2025-08-24T16:59:41.970Z,"6 km N of Villalba, Puerto Rico",earthquake,0.38,0.56,0.15335953029193,7.0,reviewed,pr,pr
 2025-08-24T17:25:10.365Z,34.41244125,-97.4618988,4.726405621,2.03,ml,16.0,99.03781891,0.04968388006,0.5726833946,ok,ok2025qors,2025-08-24T17:30:54.786Z,"5 km SE of Ratliff City, Oklahoma",earthquake,3.131519621,2.269902956,0.25,10.0,automatic,ok,ok
+2025-08-24T17:22:43.689Z,-2.1799,139.0637,35.0,4.9,mb,60.0,69.0,1.033,0.84,us,us6000r3i1,2025-08-24T17:48:09.040Z,"180 km WNW of Abepura, Indonesia",earthquake,5.62,1.885,0.06,87.0,reviewed,us,us
