@@ -8102,3 +8102,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T09:21:37.150Z,33.1033333,-116.0465,9.6,0.53,ml,37.0,42.0,0.09068,0.21,ci,ci41273192,2025-08-24T09:25:02.758Z,"9 km ESE of Ocotillo Wells, CA",earthquake,0.21,0.74,0.22,8.0,automatic,ci,ci
 2025-08-24T06:42:14.419Z,51.7101,158.6661,31.608,4.4,mb,58.0,125.0,1.315,0.81,us,us6000r3fz,2025-08-24T09:30:30.040Z,"137 km S of Vilyuchinsk, Russia",earthquake,9.0,6.128,0.073,54.0,reviewed,us,us
 2025-08-24T06:36:05.611Z,52.224,160.351,29.454,4.5,mb,30.0,123.0,1.31,1.14,us,us6000r3fy,2025-08-24T09:19:27.040Z,"149 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.94,6.412,0.101,29.0,reviewed,us,us
+2025-08-24T09:36:12.082Z,62.3678,-148.6879,32.3,1.8,ml,,,,0.25,ak,ak025augejp4,2025-08-24T09:37:40.082Z,"64 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T09:31:55.650Z,38.784168243408,-122.76816558838,2.4700000286102,2.38,md,74.0,39.0,0.01356,0.07,nc,nc75228022,2025-08-24T09:37:16.235Z,"1 km NW of The Geysers, CA",earthquake,0.13,0.239999995,0.15,78.0,automatic,nc,nc
+2025-08-24T07:02:51.124Z,-23.1416,-67.8079,145.524,4.3,mb,31.0,46.0,0.39,1.04,us,us6000r3g2,2025-08-24T09:40:39.040Z,"47 km ESE of San Pedro de Atacama, Chile",earthquake,8.68,4.479,0.111,23.0,reviewed,us,us
