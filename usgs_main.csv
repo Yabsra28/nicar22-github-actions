@@ -8145,3 +8145,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T13:27:26.332Z,32.491,-101.887,5.0,1.1,ml,6.0,263.0,0.1,0.4,tx,tx2025qqkhbt,2025-08-24T14:00:09.284Z,"16 km WSW of Ackerly, Texas",earthquake,0.0,,0.3,6.0,automatic,tx,tx
 2025-08-24T09:13:04.330Z,46.0855,-111.654,10.3,1.46,ml,25.0,59.0,0.1846,0.16,mb,mb90108613,2025-08-24T14:15:26.740Z,"12 km S of Radersburg, Montana",earthquake,0.3,1.48,0.18292911509638,23.0,reviewed,mb,mb
 2025-08-24T01:30:51.800Z,44.572333333333,-112.2185,10.29,2.22,ml,38.0,42.0,0.1274,0.18,mb,mb90108573,2025-08-24T14:01:08.110Z,"23 km N of Spencer, Idaho",earthquake,0.26,0.82,0.19402738619097,46.0,reviewed,mb,mb
+2025-08-24T14:29:56.644Z,60.3317,-143.0716,2.2,1.1,ml,,,,0.35,ak,ak025aujcb5c,2025-08-24T14:32:22.850Z,"123 km S of McCarthy, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2025-08-24T10:56:20.970Z,38.196166666667,-114.078,5.32,2.62,ml,17.0,109.0,0.38,0.15,uu,uu80114526,2025-08-24T14:26:43.770Z,"26 km NNE of Ursine, Nevada",earthquake,0.66,2.2,0.1397618512429,20.0,reviewed,uu,uu
