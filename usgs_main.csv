@@ -8035,3 +8035,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T01:48:14.390Z,33.2675,-116.414,4.75,1.84,ml,28.0,77.0,0.002738,0.19,ci,ci41272840,2025-08-24T01:51:50.982Z,"4 km WNW of Borrego Springs, CA",earthquake,0.21,0.32,0.253,18.0,automatic,ci,ci
 2025-08-24T01:16:35.698Z,50.1313,155.9236,85.22,4.4,mb,55.0,130.0,3.18,0.66,us,us6000r3en,2025-08-24T02:06:05.040Z,"62 km SSW of Severo-Kuril’sk, Russia",earthquake,11.72,7.882,0.071,57.0,reviewed,us,us
 2025-08-23T10:39:48.895Z,45.5411,-74.5366,10.0,1.8,ml,17.0,89.0,0.644,0.71,us,us6000r3ek,2025-08-24T01:26:50.040Z,"9 km SE of Hawkesbury, Canada",earthquake,1.74,1.983,0.128,8.0,reviewed,us,us
+2025-08-24T03:43:51.399Z,62.9854,-150.8446,118.2,2.0,ml,,,,0.3,ak,ak025aucvj43,2025-08-24T03:46:17.059Z,"54 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-24T03:43:12.493Z,36.7635,-115.4478,4.8,0.6,ml,8.0,230.94,0.349,0.2749,nn,nn00903093,2025-08-24T03:45:22.955Z,"29 km NE of Indian Springs, Nevada",earthquake,,1.8,0.23,6.0,automatic,nn,nn
+2025-08-24T03:34:43.536Z,62.8236,-144.8008,0.0,2.0,ml,,,,0.87,ak,ak025auctl29,2025-08-24T03:36:50.132Z,"29 km NNW of Chistochina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T03:31:19.880Z,33.323,-116.1966667,10.58,0.79,ml,53.0,43.0,0.1024,0.18,ci,ci41272864,2025-08-24T03:35:07.650Z,"18 km ENE of Borrego Springs, CA",earthquake,0.18,0.4,0.111,19.0,automatic,ci,ci
+2025-08-24T03:30:28.689Z,59.7039,-152.819,92.2,1.8,ml,,,,0.33,ak,ak025aucsp37,2025-08-24T03:32:17.317Z,"56 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-24T03:10:35.696Z,52.1191,160.5316,10.0,5.4,mb,82.0,124.0,1.463,1.24,us,us6000r3f5,2025-08-24T03:43:30.775Z,"166 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,1.868,0.027,458.0,reviewed,us,us
+2025-08-24T03:06:31.580Z,37.300998687744,-121.66983032227,6.2699999809265,1.61,md,29.0,48.0,0.04202,0.06,nc,nc75227897,2025-08-24T03:08:09.716Z,"15 km E of Seven Trees, CA",earthquake,0.16,0.49000001,0.24,21.0,automatic,nc,nc
+2025-08-24T03:04:47.983Z,61.8606,-149.283,23.9,1.0,ml,,,,0.67,ak,ak025aucn5xa,2025-08-24T03:06:44.512Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T02:57:18.140Z,36.1271667,-117.819,2.67,0.83,ml,24.0,53.0,0.03057,0.16,ci,ci41272856,2025-08-24T03:03:20.711Z,"15 km NE of Coso Junction, CA",earthquake,0.22,0.46,0.158,14.0,automatic,ci,ci
+2025-08-24T01:32:05.755Z,2.0868,96.6499,35.134,4.4,mb,38.0,138.0,1.209,0.7,us,us6000r3ev,2025-08-24T03:40:18.040Z,"52 km SE of Sinabang, Indonesia",earthquake,8.37,3.651,0.105,27.0,reviewed,us,us
