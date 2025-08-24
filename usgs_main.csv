@@ -8056,3 +8056,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T05:02:31.282Z,60.4726,-143.6523,17.0,2.5,ml,,,,0.32,ak,ak025audtkew,2025-08-24T05:04:03.291Z,"114 km SSW of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-08-24T04:52:24.202Z,32.1,-101.931,3.6872,1.1,ml,41.0,46.0,0.1,0.5,tx,tx2025qptive,2025-08-24T04:56:48.386Z,"13 km WSW of Stanton, Texas",earthquake,0.0,0.80296063423157,0.2,26.0,automatic,tx,tx
 2025-08-23T19:19:27.563Z,34.2736,-82.1038,8.227,1.7,ml,13.0,77.0,0.135,0.47,us,us6000r3da,2025-08-24T05:09:28.810Z,"1 km NNW of Coronaca, South Carolina",earthquake,1.47,3.665,0.105,12.0,reviewed,us,us
+2025-08-24T05:27:43.618Z,57.4182,-154.9472,48.5,1.5,ml,,,,0.2,ak,ak025audyy9l,2025-08-24T05:29:14.612Z,"33 km WSW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2025-08-23T12:18:23.090Z,45.8538,-126.1509,10.0,2.8,ml,53.0,158.0,1.444,0.95,us,us6000r3bc,2025-08-24T05:30:07.040Z,"170 km W of Cannon Beach, Oregon",earthquake,4.7,1.986,0.036,100.0,reviewed,us,us
+2025-08-23T08:26:38.460Z,54.755833333333,-163.98216666667,0.91,0.0,ml,5.0,90.0,0.04728,0.18,av,av93729948,2025-08-24T05:29:14.470Z,"38 km WSW of False Pass, Alaska",earthquake,0.4,0.61,0.30416058753087,5.0,reviewed,av,av
