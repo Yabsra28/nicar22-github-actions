@@ -8107,3 +8107,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T07:02:51.124Z,-23.1416,-67.8079,145.524,4.3,mb,31.0,46.0,0.39,1.04,us,us6000r3g2,2025-08-24T09:40:39.040Z,"47 km ESE of San Pedro de Atacama, Chile",earthquake,8.68,4.479,0.111,23.0,reviewed,us,us
 2025-08-24T09:50:00.830Z,35.7143326,-117.5630035,8.36,1.2,ml,19.0,90.0,0.105,0.12,ci,ci41273200,2025-08-24T09:52:09.908Z,"15 km NE of Ridgecrest, CA",earthquake,0.39,0.96,0.248,11.0,automatic,ci,ci
 2025-08-24T08:16:00.964Z,51.8796,-173.5597,20.493,3.8,mb,35.0,141.0,0.509,0.88,us,us6000r3ga,2025-08-24T09:51:37.040Z,"56 km SE of Atka, Alaska",earthquake,5.95,7.363,0.127,16.0,reviewed,us,us
+2025-08-24T10:03:55.200Z,33.5346667,-116.8055,6.18,1.1,ml,67.0,16.0,0.0314,0.2,ci,ci41273208,2025-08-24T10:07:55.394Z,"12 km NNE of Aguanga, CA",earthquake,0.14,0.37,0.161,27.0,automatic,ci,ci
+2025-08-24T09:52:56.634Z,58.2948,-154.9942,1.1,1.2,ml,,,,0.68,ak,ak025augi2lb,2025-08-24T09:55:34.678Z,"86 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-08-24T08:30:01.632Z,56.4295,-148.9855,10.0,3.2,ml,33.0,228.0,2.386,0.71,us,us6000r3g7,2025-08-24T09:57:16.040Z,"239 km SE of Chiniak, Alaska",earthquake,8.93,2.016,0.042,76.0,reviewed,us,us
