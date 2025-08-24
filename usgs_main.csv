@@ -8169,3 +8169,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T16:47:36.368Z,61.2672,-147.468,8.2,1.6,ml,,,,0.7,ak,ak025aukmzok,2025-08-24T16:54:28.062Z,"61 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-24T16:39:08.330Z,17.936666666667,-66.296833333333,12.7,2.16,md,14.0,177.0,0.1092,0.16,pr,pr71493508,2025-08-24T16:53:09.270Z,"4 km S of Salinas, Puerto Rico",earthquake,0.54,0.38,0.24536343499818,10.0,reviewed,pr,pr
 2025-08-24T15:45:38.719Z,-60.1268,-61.906,10.0,4.8,mb,23.0,97.0,4.77,0.8,us,us6000r3hs,2025-08-24T16:53:42.040Z,Drake Passage,earthquake,10.95,1.879,0.125,23.0,reviewed,us,us
+2025-08-24T17:14:25.870Z,32.7463341,-115.8748322,2.92,0.96,ml,12.0,151.0,0.1063,0.25,ci,ci41273472,2025-08-24T17:16:31.384Z,"11 km E of Ocotillo, CA",earthquake,1.33,1.82,0.337,4.0,automatic,ci,ci
+2025-08-24T16:31:04.070Z,18.1835,-66.482666666667,29.65,2.35,md,18.0,87.0,0.1418,0.12,pr,pr71493493,2025-08-24T16:59:41.970Z,"6 km N of Villalba, Puerto Rico",earthquake,0.38,0.56,0.15335953029193,7.0,reviewed,pr,pr
