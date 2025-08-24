@@ -8091,3 +8091,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T08:33:25.620Z,35.2243333,-117.3158333,2.2,1.41,ml,36.0,53.0,0.2129,0.18,ci,ci41273184,2025-08-24T08:36:56.425Z,"33 km ESE of Johannesburg, CA",earthquake,0.18,0.81,0.189,26.0,automatic,ci,ci
 2025-08-24T08:32:44.510Z,38.836498260498,-122.78466796875,1.9500000476837,0.86,md,14.0,73.0,0.004826,0.02,nc,nc75227982,2025-08-24T08:34:20.093Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.560000002,0.24,15.0,automatic,nc,nc
 2025-08-24T08:28:43.610Z,34.0181667,-117.0885,13.35,0.69,ml,25.0,74.0,0.08845,0.18,ci,ci41273176,2025-08-24T08:32:06.692Z,"4 km WSW of Yucaipa, CA",earthquake,0.24,0.95,0.313,15.0,automatic,ci,ci
+2025-08-24T08:42:57.593Z,61.1562,-148.765,33.5,0.9,ml,,,,0.18,ak,ak025aufuhwf,2025-08-24T08:44:14.142Z,"32 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-24T08:16:00.794Z,51.9197,-173.5101,23.4,3.6,ml,,,,0.8,ak,ak025aufopr3,2025-08-24T08:52:35.077Z,"56 km ESE of Atka, Alaska",earthquake,,0.9,,,reviewed,ak,ak
