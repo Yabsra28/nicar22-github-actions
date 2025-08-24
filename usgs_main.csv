@@ -8059,3 +8059,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T05:27:43.618Z,57.4182,-154.9472,48.5,1.5,ml,,,,0.2,ak,ak025audyy9l,2025-08-24T05:29:14.612Z,"33 km WSW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-08-23T12:18:23.090Z,45.8538,-126.1509,10.0,2.8,ml,53.0,158.0,1.444,0.95,us,us6000r3bc,2025-08-24T05:30:07.040Z,"170 km W of Cannon Beach, Oregon",earthquake,4.7,1.986,0.036,100.0,reviewed,us,us
 2025-08-23T08:26:38.460Z,54.755833333333,-163.98216666667,0.91,0.0,ml,5.0,90.0,0.04728,0.18,av,av93729948,2025-08-24T05:29:14.470Z,"38 km WSW of False Pass, Alaska",earthquake,0.4,0.61,0.30416058753087,5.0,reviewed,av,av
+2025-08-24T05:33:30.443Z,31.713,-104.575,2.8468,1.9,ml,27.0,101.0,0.0,0.4,tx,tx2025qpusfs,2025-08-24T05:38:22.163Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,1.229351401329,0.2,18.0,automatic,tx,tx
+2025-08-24T05:33:20.350Z,38.818668365479,-122.7936630249,3.0499999523163,1.45,md,33.0,28.0,0.01076,0.03,nc,nc75227932,2025-08-24T05:36:23.980Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.379999995,0.13,33.0,automatic,nc,nc
+2025-08-23T09:07:50.920Z,54.753666666667,-163.98333333333,-0.46,-0.07,ml,6.0,92.0,0.04503,0.07,av,av93730023,2025-08-24T05:41:14.110Z,"38 km WSW of False Pass, Alaska",earthquake,0.2,0.26,0.16952626543295,6.0,reviewed,av,av
+2025-08-23T08:46:39.530Z,54.745333333333,-164.0285,4.75,-0.01,ml,6.0,143.0,0.04029,0.33,av,av93729983,2025-08-24T05:35:36.330Z,"41 km WSW of False Pass, Alaska",earthquake,1.29,2.56,0.25625234196179,6.0,reviewed,av,av
