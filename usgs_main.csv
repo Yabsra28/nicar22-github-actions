@@ -8065,3 +8065,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T08:46:39.530Z,54.745333333333,-164.0285,4.75,-0.01,ml,6.0,143.0,0.04029,0.33,av,av93729983,2025-08-24T05:35:36.330Z,"41 km WSW of False Pass, Alaska",earthquake,1.29,2.56,0.25625234196179,6.0,reviewed,av,av
 2025-08-24T05:43:50.500Z,33.5008333,-116.777,9.98,0.36,ml,28.0,51.0,0.02634,0.21,ci,ci41273000,2025-08-24T05:47:56.025Z,"10 km NE of Aguanga, CA",earthquake,0.29,0.52,0.065,9.0,automatic,ci,ci
 2025-08-24T05:34:25.666Z,52.2624,160.4556,10.0,4.9,mb,46.0,120.0,1.338,0.82,us,us6000r3ft,2025-08-24T05:50:38.040Z,"152 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.86,1.896,0.059,91.0,reviewed,us,us
+2025-08-24T06:07:17.902Z,59.6982,-151.2385,70.7,1.7,ml,,,,0.54,ak,ak025aueg1ke,2025-08-24T06:09:12.830Z,"5 km SE of Fritz Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-24T06:00:22.060Z,38.79349899292,-122.74933624268,2.6900000572205,1.1,md,17.0,91.0,0.01079,0.02,nc,nc75227942,2025-08-24T06:01:59.885Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.600000024,0.17,18.0,automatic,nc,nc
+2025-08-24T05:56:46.700Z,38.835166931152,-122.78399658203,1.6900000572205,0.22,md,10.0,94.0,0.005921,0.02,nc,nc75227937,2025-08-24T05:58:24.800Z,"5 km WNW of Cobb, CA",earthquake,0.33,0.629999995,0.07,10.0,automatic,nc,nc
