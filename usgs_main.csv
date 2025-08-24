@@ -8053,3 +8053,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T04:36:45.850Z,38.804000854492,-122.76699829102,6.1999998092651,0.29,md,7.0,135.0,0.02247,0.01,nc,nc75227927,2025-08-24T04:38:19.279Z,"3 km  of The Geysers, CA",earthquake,0.82,2.63000011,0.09,8.0,automatic,nc,nc
 2025-08-24T04:34:51.830Z,38.819332122803,-122.7620010376,1.8200000524521,0.76,md,8.0,119.0,0.01272,0.02,nc,nc75227922,2025-08-24T04:36:30.308Z,"3 km W of Cobb, CA",earthquake,0.38,0.970000029,0.07,8.0,automatic,nc,nc
 2025-08-24T04:14:08.210Z,33.4906667,-116.4941667,11.74,0.67,ml,36.0,59.0,0.09037,0.19,ci,ci41272904,2025-08-24T04:17:59.447Z,"18 km ESE of Anza, CA",earthquake,0.21,0.48,0.081,14.0,automatic,ci,ci
+2025-08-24T05:02:31.282Z,60.4726,-143.6523,17.0,2.5,ml,,,,0.32,ak,ak025audtkew,2025-08-24T05:04:03.291Z,"114 km SSW of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-08-24T04:52:24.202Z,32.1,-101.931,3.6872,1.1,ml,41.0,46.0,0.1,0.5,tx,tx2025qptive,2025-08-24T04:56:48.386Z,"13 km WSW of Stanton, Texas",earthquake,0.0,0.80296063423157,0.2,26.0,automatic,tx,tx
+2025-08-23T19:19:27.563Z,34.2736,-82.1038,8.227,1.7,ml,13.0,77.0,0.135,0.47,us,us6000r3da,2025-08-24T05:09:28.810Z,"1 km NNW of Coronaca, South Carolina",earthquake,1.47,3.665,0.105,12.0,reviewed,us,us
