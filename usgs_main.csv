@@ -8017,3 +8017,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T23:41:20.290Z,33.3503333,-116.3236667,12.65,0.74,ml,19.0,177.0,0.01681,0.12,ci,ci41272736,2025-08-23T23:44:55.297Z,"12 km NNE of Borrego Springs, CA",earthquake,0.76,0.96,0.096,15.0,automatic,ci,ci
 2025-08-23T23:29:36.990Z,34.0136667,-117.5868333,4.51,1.15,ml,31.0,64.0,0.02281,0.16,ci,ci41272720,2025-08-23T23:44:50.371Z,"6 km SE of Ontario, CA",earthquake,0.26,0.37,0.178,30.0,automatic,ci,ci
 2025-08-23T03:01:31.055Z,-31.6516,-69.4547,111.473,4.2,mb,22.0,64.0,0.677,1.14,us,us6000r397,2025-08-23T23:48:21.040Z,"35 km S of Calingasta, Argentina",earthquake,6.3,7.859,0.237,5.0,reviewed,us,us
+2025-08-24T00:47:23.313Z,64.7246,-149.1136,14.3,1.1,ml,,,,0.31,ak,ak025aub40zv,2025-08-24T00:49:08.574Z,"13 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T00:34:09.950Z,61.2707,-149.245,30.2,0.9,ml,,,,0.29,ak,ak025aub17nn,2025-08-24T00:35:55.982Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T00:33:15.769Z,31.614,-104.103,6.262,1.4,ml,24.0,70.0,0.0,0.5,tx,tx2025qpktkc,2025-08-24T01:00:42.180Z,"44 km NW of Toyah, Texas",earthquake,0.0,2.1306324005127,0.2,18.0,automatic,tx,tx
+2025-08-24T00:20:32.669Z,60.4954,-143.0605,4.9,1.4,ml,,,,0.32,ak,ak025auay9du,2025-08-24T00:24:12.376Z,"104 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-24T00:00:16.520Z,38.837001800537,-122.81216430664,1.75,0.23,md,13.0,58.0,0.01368,0.01,nc,nc75227877,2025-08-24T00:01:54.037Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.779999971,0.11,13.0,automatic,nc,nc
+2025-08-23T23:59:56.030Z,32.9655,-115.8838333,7.07,1.81,ml,61.0,29.0,0.07346,0.28,ci,ci41272752,2025-08-24T00:11:13.880Z,"26 km WSW of Westmorland, CA",earthquake,0.21,0.76,0.252,28.0,automatic,ci,ci
+2025-08-23T23:57:22.690Z,17.9555,-66.986166666667,6.37,2.3,md,8.0,206.0,0.05697,0.11,pr,pr71493463,2025-08-24T00:59:05.880Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.58,0.34,0.18920099812438,4.0,reviewed,pr,pr
+2025-08-23T23:51:56.425Z,52.1995,160.5984,10.0,4.3,mb,23.0,140.0,1.446,1.23,us,us6000r3e7,2025-08-24T00:24:36.040Z,"164 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.21,1.912,0.107,25.0,reviewed,us,us
+2025-08-23T23:37:25.181Z,18.9161,145.4843,223.449,4.5,mb,57.0,96.0,3.666,0.81,us,us6000r3e5,2025-08-23T23:54:40.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.78,7.764,0.042,169.0,reviewed,us,us
