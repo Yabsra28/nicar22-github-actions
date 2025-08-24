@@ -8147,3 +8147,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T01:30:51.800Z,44.572333333333,-112.2185,10.29,2.22,ml,38.0,42.0,0.1274,0.18,mb,mb90108573,2025-08-24T14:01:08.110Z,"23 km N of Spencer, Idaho",earthquake,0.26,0.82,0.19402738619097,46.0,reviewed,mb,mb
 2025-08-24T14:29:56.644Z,60.3317,-143.0716,2.2,1.1,ml,,,,0.35,ak,ak025aujcb5c,2025-08-24T14:32:22.850Z,"123 km S of McCarthy, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-08-24T10:56:20.970Z,38.196166666667,-114.078,5.32,2.62,ml,17.0,109.0,0.38,0.15,uu,uu80114526,2025-08-24T14:26:43.770Z,"26 km NNE of Ursine, Nevada",earthquake,0.66,2.2,0.1397618512429,20.0,reviewed,uu,uu
+2025-08-24T14:44:32.249Z,60.3778,-147.8382,16.2,1.3,ml,,,,0.43,ak,ak025aujfh08,2025-08-24T14:46:02.714Z,"36 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
