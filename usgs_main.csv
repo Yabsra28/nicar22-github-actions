@@ -8341,3 +8341,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T05:13:25.710Z,44.8135,-111.52783333333,9.82,1.39,ml,21.0,63.0,0.02579,0.14,mb,mb90108663,2025-08-25T13:31:39.380Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.3,0.6,0.20006909625781,25.0,reviewed,mb,mb
 2025-08-25T03:38:14.130Z,36.2495,-89.4345,6.97,1.86,md,27.0,54.0,0.02238,0.02,nm,nm60613261,2025-08-25T13:21:55.030Z,"5 km ESE of Ridgely, Tennessee",earthquake,0.4,0.66,0.11431624202006,21.0,reviewed,nm,nm
 2025-08-24T14:51:07.763Z,32.365,-102.113,6.4209,0.5,ml,14.0,48.0,0.0,0.1,tx,tx2025qqnesx,2025-08-25T13:31:53.808Z,"39 km E of McKinney Acres, Texas",earthquake,0.56626630488367,0.65550614979972,0.1,11.0,reviewed,tx,tx
+2025-08-25T13:51:22.810Z,61.5246,-151.1634,45.3,1.4,ml,,,,0.97,ak,ak025aw6ev6h,2025-08-25T13:53:27.365Z,"34 km W of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-25T13:49:10.980Z,35.832,-117.6805,8.5,0.49,ml,14.0,77.0,0.06937,0.09,ci,ci41274128,2025-08-25T13:52:37.152Z,"24 km ESE of Little Lake, CA",earthquake,0.2,0.51,0.043,6.0,automatic,ci,ci
+2025-08-25T13:46:55.970Z,32.9368333,-115.5221667,8.89,1.79,ml,31.0,74.0,0.0479,0.27,ci,ci41274120,2025-08-25T13:50:47.890Z,"5 km S of Brawley, CA",earthquake,0.41,0.88,0.278,28.0,automatic,ci,ci
