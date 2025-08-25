@@ -8322,3 +8322,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T11:26:00.709Z,65.8269,-146.9434,0.0,1.4,ml,,,,1.26,ak,ak025aw52ld2,2025-08-25T11:27:56.895Z,"62 km SSE of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-25T11:37:49.780Z,32.8056667,-116.1445,11.76,0.76,ml,30.0,66.0,0.04217,0.21,ci,ci41274016,2025-08-25T11:41:14.434Z,"16 km WNW of Ocotillo, CA",earthquake,0.27,0.66,0.166,9.0,automatic,ci,ci
 2025-08-25T11:40:39.000Z,18.517,-69.115,94.3,4.7,Ml,34.0,143.99998848,,,pt,pt25237001,2025-08-25T11:47:44.600Z,"7 km ESE of Ramón Santana, Dominican Republic",earthquake,,,,26.0,reviewed,pt,pt
+2025-08-25T12:41:10.260Z,47.742000579834,-122.40166473389,25.790000915527,2.1099144220352,ml,78.0,24.0,,0.119999997,uw,uw62176146,2025-08-25T12:44:16.570Z,"4 km WSW of Shoreline, Washington",earthquake,0.19,0.449999988,0.25219121575356,60.0,automatic,uw,uw
+2025-08-25T12:39:26.670Z,38.801666259766,-122.73616790772,2.2300000190735,0.52,md,6.0,144.0,0.01843,0.01,nc,nc75228522,2025-08-25T12:41:02.770Z,"3 km SW of Cobb, CA",earthquake,0.43,1.38999999,0.23,7.0,automatic,nc,nc
+2025-08-25T12:24:03.734Z,64.3619,-151.0074,8.7,1.5,ml,,,,0.63,ak,ak025aw5nlrp,2025-08-25T12:26:08.085Z,"73 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-25T12:17:48.655Z,62.2141,-150.1062,21.1,1.2,ml,,,,0.87,ak,ak025aw5m781,2025-08-25T12:20:39.002Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-25T12:09:42.830Z,38.837833404541,-122.78566741943,1.7799999713898,0.85,md,13.0,117.0,0.003697,0.03,nc,nc75228507,2025-08-25T12:11:18.344Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.469999999,0.2,13.0,automatic,nc,nc
+2025-08-25T11:56:17.014Z,61.5478,-147.3768,19.9,2.1,ml,,,,0.72,ak,ak025aw5922x,2025-08-25T11:57:54.053Z,"32 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-25T11:40:38.821Z,18.4879,-69.1184,101.967,4.4,mb,82.0,77.0,0.7,0.72,us,us6000r3m1,2025-08-25T12:23:03.761Z,"8 km SE of Ramón Santana, Dominican Republic",earthquake,5.18,6.556,0.048,128.0,reviewed,us,us
+2025-08-25T06:51:46.050Z,34.287833333333,-82.0945,0.04,2.0,md,10.0,78.0,0.1471,0.26,se,se60503988,2025-08-25T12:08:35.280Z,"3 km N of Coronaca, South Carolina",earthquake,0.65,2.44,0.062001590833927,10.0,reviewed,se,se
+2025-08-25T02:20:23.660Z,34.287166666667,-82.107333333333,0.04,1.81,md,10.0,78.0,0.137,0.25,se,se60503993,2025-08-25T12:22:29.406Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.76,3.07,0.051940737302667,9.0,reviewed,se,se
