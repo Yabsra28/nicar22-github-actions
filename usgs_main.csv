@@ -8435,3 +8435,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T19:44:13.516Z,36.71,-116.3057,10.8,0.3,ml,17.0,100.36,0.022,0.1478,nn,nn00903153,2025-08-25T19:46:08.475Z,"46 km ESE of Beatty, Nevada",earthquake,,0.7,0.35,12.0,automatic,nn,nn
 2025-08-25T19:42:23.620Z,59.7416,-151.3213,17.6,2.2,ml,,,,0.63,ak,ak025aw9xjfe,2025-08-25T19:44:39.736Z,"1 km WNW of Fritz Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-25T19:42:12.767Z,59.8215,-151.7303,68.3,2.1,ml,,,,0.99,ak,ak025aw9xil8,2025-08-25T19:44:31.695Z,"6 km W of Nikolaevsk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-08-25T20:11:07.231Z,61.5712,-150.0773,35.2,1.7,ml,,,,0.29,ak,ak025awacakj,2025-08-25T20:12:57.396Z,"8 km NW of Big Lake, Alaska",earthquake,,4.0,,,automatic,ak,ak
+2025-08-25T03:43:22.197Z,31.585,-103.931,7.3303,1.4,ml,25.0,61.0,0.1,0.1,tx,tx2025qrmueo,2025-08-25T20:08:08.678Z,"32 km NNW of Toyah, Texas",earthquake,0.56451561652939,0.70454260322824,0.2,30.0,reviewed,tx,tx
