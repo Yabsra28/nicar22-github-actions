@@ -8318,3 +8318,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T07:19:36.416Z,31.749,-101.694,8.8921,1.1,mlv,7.0,137.0,0.1,0.5,tx,tx2025qrtynt,2025-08-25T11:16:07.451Z,"23 km WSW of Garden City, Texas",earthquake,0.0,3.936616897583,0.5,7.0,automatic,tx,tx
 2025-08-25T04:14:42.930Z,31.991,-101.74,4.4213,1.1,mlv,7.0,139.0,0.1,0.5,tx,tx2025qrnvev,2025-08-25T11:16:01.680Z,"16 km SSE of Stanton, Texas",earthquake,0.0,1.8915061950684,0.4,6.0,automatic,tx,tx
 2025-08-25T00:37:00.221Z,32.106,-101.497,3.1737,1.0,mlv,19.0,47.0,0.1,0.5,tx,tx2025qrgprv,2025-08-25T11:15:56.681Z,"12 km W of Forsan, Texas",earthquake,0.0,1.2640730142593,0.3,13.0,automatic,tx,tx
+2025-08-25T11:29:43.080Z,35.764,-118.5415,7.79,0.82,ml,18.0,106.0,0.02927,0.17,ci,ci41274000,2025-08-25T11:33:04.682Z,"10 km NW of Wofford Heights, CA",earthquake,0.35,0.58,0.182,8.0,automatic,ci,ci
+2025-08-25T11:26:00.709Z,65.8269,-146.9434,0.0,1.4,ml,,,,1.26,ak,ak025aw52ld2,2025-08-25T11:27:56.895Z,"62 km SSE of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
