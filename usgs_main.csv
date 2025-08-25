@@ -8344,3 +8344,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T13:51:22.810Z,61.5246,-151.1634,45.3,1.4,ml,,,,0.97,ak,ak025aw6ev6h,2025-08-25T13:53:27.365Z,"34 km W of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-25T13:49:10.980Z,35.832,-117.6805,8.5,0.49,ml,14.0,77.0,0.06937,0.09,ci,ci41274128,2025-08-25T13:52:37.152Z,"24 km ESE of Little Lake, CA",earthquake,0.2,0.51,0.043,6.0,automatic,ci,ci
 2025-08-25T13:46:55.970Z,32.9368333,-115.5221667,8.89,1.79,ml,31.0,74.0,0.0479,0.27,ci,ci41274120,2025-08-25T13:50:47.890Z,"5 km S of Brawley, CA",earthquake,0.41,0.88,0.278,28.0,automatic,ci,ci
+2025-08-25T14:03:45.303Z,32.14,-101.629,3.2232,1.6,ml,34.0,62.0,0.0,0.5,tx,tx2025qshism,2025-08-25T14:09:33.467Z,"15 km E of Stanton, Texas",earthquake,0.0,0.93159407377243,0.2,22.0,automatic,tx,tx
+2025-08-25T13:56:31.631Z,31.628,-104.442,3.4142,2.0,ml,27.0,99.0,0.0,0.2,tx,tx2025qshcoi,2025-08-25T14:00:28.408Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.2475826740265,0.1,19.0,automatic,tx,tx
+2025-08-25T09:22:48.670Z,44.729333333333,-111.48966666667,4.88,0.35,ml,9.0,73.0,0.07776,0.19,mb,mb90108698,2025-08-25T14:14:40.770Z,"24 km W of Hebgen Lake Estates, Montana",earthquake,0.49,0.82,0.11260498752211,7.0,reviewed,mb,mb
+2025-08-25T06:23:16.000Z,44.812833333333,-111.532,9.78,1.27,ml,19.0,63.0,0.02278,0.16,mb,mb90108683,2025-08-25T13:58:06.400Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.29,0.67,0.23309184509826,23.0,reviewed,mb,mb
+2025-08-25T01:08:13.190Z,33.5316667,-116.7195,6.77,0.3,ml,18.0,59.0,0.03678,0.14,ci,ci41273800,2025-08-25T13:58:42.745Z,"5 km WSW of Anza, CA",earthquake,0.25,0.38,0.232,6.0,reviewed,ci,ci
+2025-08-24T23:31:06.987Z,32.165,-101.506,6.0303,0.7,ml,14.0,79.0,0.0,0.1,tx,tx2025qrekvf,2025-08-25T14:14:52.465Z,"9 km SSW of Big Spring, Texas",earthquake,0.84829880411587,0.94944700563466,0.1,6.0,reviewed,tx,tx
+2025-08-24T21:29:20.300Z,44.4795,-110.45066666667,2.97,0.97,ml,8.0,91.0,0.08802,0.18,uu,uu80114566,2025-08-25T14:01:12.070Z,"55 km ESE of West Yellowstone, Montana",earthquake,0.48,10.47,0.19860977914414,3.0,reviewed,uu,uu
+2025-08-24T21:24:30.010Z,44.4755,-110.455,2.22,0.6,md,8.0,93.0,0.09294,0.18,uu,uu80114556,2025-08-25T14:07:27.110Z,"55 km ESE of West Yellowstone, Montana",earthquake,0.45,31.61,0.20803190828296,5.0,reviewed,uu,uu
