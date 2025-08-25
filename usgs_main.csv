@@ -8458,3 +8458,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T01:49:15.090Z,47.610166666667,-122.84416666667,-0.11,0.97,ml,11.0,92.0,0.04786,0.82,uw,uw62175961,2025-08-25T22:02:38.790Z,"3 km SSW of Seabeck, Washington",explosion,1.15,31.61,0.15631279400105,6.0,reviewed,uw,uw
 2025-08-25T22:13:12.659Z,49.1525,156.0336,35.0,5.6,mww,84.0,121.0,4.097,0.81,us,us7000qqx7,2025-08-25T22:37:55.065Z,"169 km S of Severo-Kuril’sk, Russia",earthquake,10.29,1.895,0.073,18.0,reviewed,us,us
 2025-08-25T00:12:42.820Z,54.7395,-164.04233333333,7.09,0.16,ml,4.0,240.0,0.03991,0.2,av,av93733053,2025-08-25T22:39:54.980Z,"42 km WSW of False Pass, Alaska",earthquake,1.0,1.35,0.15183556440328,4.0,reviewed,av,av
+2025-08-25T01:00:44.690Z,54.737,-164.08516666667,6.76,0.36,ml,5.0,275.0,0.05803,0.26,av,av93733093,2025-08-25T22:43:41.260Z,"45 km WSW of False Pass, Alaska",earthquake,1.3,1.62,0.25744878687047,5.0,reviewed,av,av
