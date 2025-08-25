@@ -8287,3 +8287,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T07:26:02.162Z,61.5637,-150.5715,37.9,1.6,ml,,,,0.59,ak,ak025aw2ov20,2025-08-25T07:28:08.706Z,"3 km NW of Susitna, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-08-25T07:12:10.910Z,34.1515,-117.3188333,8.25,0.61,ml,44.0,50.0,0.02362,0.18,ci,ci41273880,2025-08-25T07:16:35.588Z,"2 km E of Muscoy, CA",earthquake,0.19,0.4,0.165,18.0,automatic,ci,ci
 2025-08-25T07:11:14.415Z,63.0772,-151.5295,0.0,2.1,ml,,,,0.75,ak,ak025aw2lo9d,2025-08-25T07:13:46.603Z,"52 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-25T07:34:03.060Z,33.994,-116.766,12.39,0.65,ml,38.0,43.0,0.05375,0.13,ci,ci41273896,2025-08-25T07:37:32.379Z,"9 km NNE of Cabazon, CA",earthquake,0.15,0.41,0.175,22.0,automatic,ci,ci
+2025-08-25T07:29:46.120Z,33.0396667,-116.1958333,2.89,0.78,ml,47.0,52.0,0.1181,0.23,ci,ci41273888,2025-08-25T07:33:32.577Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.52,0.145,11.0,automatic,ci,ci
+2025-08-25T06:45:10.730Z,18.0825,-68.4508,77.0,3.7,md,22.0,192.0,0.4369,0.63,pr,pr2025237000,2025-08-25T07:36:25.253Z,"36 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.02,3.03,0.1,18.0,reviewed,pr,pr
