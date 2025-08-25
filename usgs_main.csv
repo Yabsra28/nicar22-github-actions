@@ -8432,3 +8432,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T19:18:23.650Z,5.3375,127.0327,120.62,4.8,mb,76.0,93.0,1.66,0.78,us,us7000qqw6,2025-08-25T19:34:00.040Z,"147 km SE of Pondaguitan, Philippines",earthquake,6.95,6.815,0.071,61.0,reviewed,us,us
 2025-08-25T03:43:22.258Z,31.585,-103.932,6.9458,1.4,ml,20.0,53.0,0.1,0.1,tx,tx2025qrmuas,2025-08-25T19:34:06.195Z,"32 km NNW of Toyah, Texas",earthquake,0.56998598505678,0.76787615773395,0.2,17.0,reviewed,tx,tx
 2025-08-24T19:53:21.700Z,41.304333333333,-111.83483333333,3.69,1.1,md,20.0,87.0,0.09109,0.17,uu,uu80114546,2025-08-25T19:37:56.990Z,"1 km WNW of Eden, Utah",earthquake,0.42,1.67,0.2086745342434,12.0,reviewed,uu,uu
+2025-08-25T19:44:13.516Z,36.71,-116.3057,10.8,0.3,ml,17.0,100.36,0.022,0.1478,nn,nn00903153,2025-08-25T19:46:08.475Z,"46 km ESE of Beatty, Nevada",earthquake,,0.7,0.35,12.0,automatic,nn,nn
+2025-08-25T19:42:23.620Z,59.7416,-151.3213,17.6,2.2,ml,,,,0.63,ak,ak025aw9xjfe,2025-08-25T19:44:39.736Z,"1 km WNW of Fritz Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-25T19:42:12.767Z,59.8215,-151.7303,68.3,2.1,ml,,,,0.99,ak,ak025aw9xil8,2025-08-25T19:44:31.695Z,"6 km W of Nikolaevsk, Alaska",earthquake,,1.4,,,automatic,ak,ak
