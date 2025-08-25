@@ -8442,3 +8442,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T20:25:11.824Z,65.1436,-150.3796,14.4,1.2,ml,,,,0.41,ak,ak025awafay6,2025-08-25T20:27:22.825Z,"19 km NE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-25T20:15:14.480Z,65.446,-148.2085,1.8,1.2,ml,,,,0.7,ak,ak025awad5zs,2025-08-25T20:17:39.872Z,"17 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-25T20:42:53.987Z,63.1597,-147.7153,0.0,1.5,ml,,,,0.9,ak,ak025awaj1di,2025-08-25T20:44:53.614Z,"67 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-25T20:54:14.587Z,61.2318,-151.8676,93.3,1.6,ml,,,,0.53,ak,ak025awalixe,2025-08-25T20:55:53.636Z,"43 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-25T20:24:40.387Z,65.1639,-161.154,7.2,3.6,ml,,,,0.9,ak,ak025awaf5jy,2025-08-25T20:49:29.254Z,"25 km N of Koyuk, Alaska",earthquake,,0.4,,,reviewed,ak,ak
