@@ -8273,3 +8273,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T05:48:12.700Z,37.738334655762,-122.55016326904,12.159999847412,0.98,md,9.0,210.0,0.08236,0.02,nc,nc75228442,2025-08-25T05:49:48.087Z,"4 km WNW of San Francisco Zoo, CA",earthquake,0.75,1.16999996,0.17,5.0,automatic,nc,nc
 2025-08-25T05:44:38.280Z,38.832164764404,-122.78233337402,7.710000038147,0.21,md,7.0,139.0,0.008833,0.07,nc,nc75228437,2025-08-25T05:46:13.351Z,"5 km WNW of Cobb, CA",earthquake,2.38,6.76000023,0.08,8.0,automatic,nc,nc
 2025-08-25T05:43:00.546Z,63.5485,-147.6717,18.4,1.1,ml,,,,0.16,ak,ak025aw1lmw6,2025-08-25T05:45:04.202Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-25T06:18:26.600Z,33.2438333,-116.3843333,4.9,1.48,ml,74.0,18.0,0.0367,0.18,ci,ci41273856,2025-08-25T06:22:01.011Z,"2 km SSW of Borrego Springs, CA",earthquake,0.13,0.36,0.179,27.0,automatic,ci,ci
+2025-08-25T06:11:47.210Z,37.972999572754,-122.05516815185,13.420000076294,1.5,md,21.0,121.0,0.09389,0.1,nc,nc75228447,2025-08-25T06:13:22.426Z,"2 km SE of Pacheco, CA",earthquake,0.5,0.889999986,0.1,15.0,automatic,nc,nc
+2025-08-25T05:55:20.127Z,31.49,-103.885,6.0366,1.8,mlv,23.0,72.0,0.1,0.8,tx,tx2025qrrduj,2025-08-25T06:08:53.219Z,"21 km NNW of Toyah, Texas",earthquake,0.0,1.9732619524002,0.2,17.0,automatic,tx,tx
+2025-08-25T05:53:22.051Z,61.0425,-146.768,24.5,1.1,ml,,,,0.53,ak,ak025aw1ntpp,2025-08-25T05:55:31.384Z,"20 km NNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-25T05:51:52.714Z,61.1973,-147.5126,47.3,1.2,ml,,,,0.68,ak,ak025aw1ngnb,2025-08-25T05:54:12.511Z,"58 km NW of Tatitlek, Alaska",earthquake,,1.3,,,automatic,ak,ak
