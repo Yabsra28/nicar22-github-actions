@@ -8312,3 +8312,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T10:07:16.863Z,64.6966,-149.2248,10.4,0.8,ml,,,,1.14,ak,ak025aw4d4ee,2025-08-25T10:09:14.574Z,"11 km NNW of Four Mile Road, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-25T10:37:22.354Z,61.8584,-150.5187,51.0,1.2,ml,,,,0.63,ak,ak025aw4jkaz,2025-08-25T10:39:14.709Z,"28 km WNW of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-25T10:50:47.770Z,35.8061667,-117.6335,7.05,0.38,ml,13.0,54.0,0.03077,0.15,ci,ci41273968,2025-08-25T10:54:17.194Z,"21 km N of Ridgecrest, CA",earthquake,0.27,0.39,0.077,8.0,automatic,ci,ci
+2025-08-25T11:18:04.470Z,34.9061661,-119.5350037,4.26,1.09,ml,10.0,95.0,0.1057,0.14,ci,ci41273992,2025-08-25T11:20:28.639Z,"21 km SW of Maricopa, CA",earthquake,0.52,1.24,0.088,4.0,automatic,ci,ci
+2025-08-25T11:16:45.780Z,35.8611667,-117.6678333,5.93,0.11,ml,14.0,59.0,0.07294,0.12,ci,ci41273984,2025-08-25T11:20:15.328Z,"23 km ESE of Little Lake, CA",earthquake,0.19,0.61,0.015,5.0,automatic,ci,ci
+2025-08-25T11:07:09.550Z,33.4046667,-116.3633333,5.77,0.62,ml,37.0,92.0,0.06165,0.19,ci,ci41273976,2025-08-25T11:11:04.977Z,"17 km N of Borrego Springs, CA",earthquake,0.22,0.76,0.153,18.0,automatic,ci,ci
+2025-08-25T07:19:36.416Z,31.749,-101.694,8.8921,1.1,mlv,7.0,137.0,0.1,0.5,tx,tx2025qrtynt,2025-08-25T11:16:07.451Z,"23 km WSW of Garden City, Texas",earthquake,0.0,3.936616897583,0.5,7.0,automatic,tx,tx
+2025-08-25T04:14:42.930Z,31.991,-101.74,4.4213,1.1,mlv,7.0,139.0,0.1,0.5,tx,tx2025qrnvev,2025-08-25T11:16:01.680Z,"16 km SSE of Stanton, Texas",earthquake,0.0,1.8915061950684,0.4,6.0,automatic,tx,tx
+2025-08-25T00:37:00.221Z,32.106,-101.497,3.1737,1.0,mlv,19.0,47.0,0.1,0.5,tx,tx2025qrgprv,2025-08-25T11:15:56.681Z,"12 km W of Forsan, Texas",earthquake,0.0,1.2640730142593,0.3,13.0,automatic,tx,tx
