@@ -8257,3 +8257,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T02:55:44.230Z,37.605499267578,-118.97816467285,5.5799999237061,0.75,md,9.0,195.0,0.03503,0.02,nc,nc75228382,2025-08-25T02:57:22.839Z,"3 km S of Mammoth Lakes, CA",earthquake,1.38,1.22000003,0.15,8.0,automatic,nc,nc
 2025-08-25T00:09:41.794Z,36.2953,71.4705,108.231,4.4,mb,65.0,76.0,2.17,0.5,us,us6000r3jj,2025-08-25T03:26:28.040Z,"43 km S of Ashkāsham, Afghanistan",earthquake,6.91,6.932,0.084,41.0,reviewed,us,us
 2025-08-24T23:15:44.805Z,51.8039,-170.358,10.0,4.3,mb,48.0,194.0,1.026,0.89,us,us6000r3k4,2025-08-25T02:59:40.040Z,"162 km SW of Nikolski, Alaska",earthquake,4.57,1.939,0.122,19.0,reviewed,us,us
+2025-08-25T03:53:17.160Z,33.705,-116.7338333,18.09,2.38,ml,104.0,18.0,0.04409,0.2,ci,ci41273832,2025-08-25T04:04:07.520Z,"4 km SSW of Idyllwild, CA",earthquake,0.12,0.22,0.225,26.0,automatic,ci,ci
+2025-08-25T03:48:18.666Z,60.4431,-147.8218,17.4,1.4,ml,,,,0.63,ak,ak025aw0fvnu,2025-08-25T03:50:30.466Z,"43 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-25T02:56:17.520Z,52.6348,160.6034,30.281,4.6,mb,63.0,134.0,1.247,1.01,us,us6000r3kb,2025-08-25T03:47:29.040Z,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.23,5.582,0.052,109.0,reviewed,us,us
