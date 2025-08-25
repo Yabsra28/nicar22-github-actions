@@ -8306,3 +8306,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T09:11:48.594Z,36.00920105,-97.94412231,3.73132515,1.61,ml,11.0,83.79426575,0.2258574069,0.2652028147,ok,ok2025qpwy,2025-08-25T09:17:08.090Z,"4 km NW of Dover, Oklahoma",earthquake,4.218597615,3.957836516,0.27,7.0,automatic,ok,ok
 2025-08-25T09:37:50.930Z,33.5311667,-116.7221667,5.54,1.15,ml,67.0,26.0,0.03641,0.19,ci,ci41273936,2025-08-25T09:41:37.826Z,"5 km WSW of Anza, CA",earthquake,0.12,0.37,0.191,26.0,automatic,ci,ci
 2025-08-25T09:34:08.083Z,61.6534,-148.0495,17.0,1.2,ml,,,,0.28,ak,ak025aw3xgg8,2025-08-25T09:43:11.791Z,"27 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-25T09:48:06.405Z,31.623,-104.51,3.5606,1.8,ml,27.0,110.0,0.0,0.3,tx,tx2025qrywgy,2025-08-25T09:50:32.546Z,"62 km SSW of Whites City, New Mexico",earthquake,0.0,1.3179836273193,0.2,20.0,automatic,tx,tx
