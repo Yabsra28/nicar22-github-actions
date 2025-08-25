@@ -8290,3 +8290,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T07:34:03.060Z,33.994,-116.766,12.39,0.65,ml,38.0,43.0,0.05375,0.13,ci,ci41273896,2025-08-25T07:37:32.379Z,"9 km NNE of Cabazon, CA",earthquake,0.15,0.41,0.175,22.0,automatic,ci,ci
 2025-08-25T07:29:46.120Z,33.0396667,-116.1958333,2.89,0.78,ml,47.0,52.0,0.1181,0.23,ci,ci41273888,2025-08-25T07:33:32.577Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.52,0.145,11.0,automatic,ci,ci
 2025-08-25T06:45:10.730Z,18.0825,-68.4508,77.0,3.7,md,22.0,192.0,0.4369,0.63,pr,pr2025237000,2025-08-25T07:36:25.253Z,"36 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.02,3.03,0.1,18.0,reviewed,pr,pr
+2025-08-25T08:18:09.620Z,35.7678333,-117.5835,5.93,0.63,ml,27.0,55.0,0.04914,0.18,ci,ci41273912,2025-08-25T08:21:49.853Z,"16 km W of Searles Valley, CA",earthquake,0.21,0.53,0.129,14.0,automatic,ci,ci
+2025-08-25T08:06:59.700Z,32.978,-116.2725,8.01,0.3,ml,31.0,90.0,0.03491,0.21,ci,ci41273904,2025-08-25T08:11:18.767Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.29,0.88,0.166,4.0,automatic,ci,ci
+2025-08-25T07:58:25.621Z,60.6764,-142.7892,13.2,0.7,ml,,,,0.3,ak,ak025aw2vrs2,2025-08-25T08:01:37.845Z,"84 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-25T06:54:52.190Z,14.1263,-91.3497,86.767,4.5,mb,72.0,93.0,0.476,0.78,us,us6000r3l9,2025-08-25T08:20:07.957Z,"9 km SSW of Nueva Concepción, Guatemala",earthquake,7.6,7.043,0.047,131.0,reviewed,us,us
