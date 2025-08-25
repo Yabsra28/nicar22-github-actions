@@ -8425,3 +8425,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T11:23:38.100Z,47.579166666667,-122.26366666667,30.91,1.29,ml,18.0,57.0,0.2066,0.37,uw,uw62176126,2025-08-25T19:09:55.560Z,"3 km WNW of Mercer Island, Washington",earthquake,0.77,1.38,0.28797975862582,10.0,reviewed,uw,uw
 2025-08-25T09:31:57.890Z,47.7115,-122.63233333333,25.11,1.08,ml,13.0,115.0,0.08273,0.19,uw,uw62176086,2025-08-25T19:04:54.250Z,"1 km NW of Keyport, Washington",earthquake,0.62,0.84,0.21329570547884,7.0,reviewed,uw,uw
 2025-08-25T07:35:49.360Z,46.743833333333,-121.928,8.39,0.58,ml,25.0,85.0,0.0467,0.13,uw,uw62176076,2025-08-25T18:59:47.720Z,"8 km ESE of Ashford, Washington",earthquake,0.2,0.32,0.10289885106825,14.0,reviewed,uw,uw
+2025-08-25T19:20:09.936Z,58.8651,-152.9756,63.5,1.6,ml,,,,0.43,ak,ak025aw9ssm9,2025-08-25T19:22:25.811Z,"81 km SW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-25T19:19:57.930Z,33.4585,-116.5778333,10.61,1.13,ml,53.0,24.0,0.04145,0.21,ci,ci41274592,2025-08-25T19:30:42.700Z,"14 km SE of Anza, CA",earthquake,0.17,0.3,0.197,27.0,automatic,ci,ci
