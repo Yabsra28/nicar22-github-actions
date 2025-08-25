@@ -8294,3 +8294,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T08:06:59.700Z,32.978,-116.2725,8.01,0.3,ml,31.0,90.0,0.03491,0.21,ci,ci41273904,2025-08-25T08:11:18.767Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.29,0.88,0.166,4.0,automatic,ci,ci
 2025-08-25T07:58:25.621Z,60.6764,-142.7892,13.2,0.7,ml,,,,0.3,ak,ak025aw2vrs2,2025-08-25T08:01:37.845Z,"84 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-25T06:54:52.190Z,14.1263,-91.3497,86.767,4.5,mb,72.0,93.0,0.476,0.78,us,us6000r3l9,2025-08-25T08:20:07.957Z,"9 km SSW of Nueva Concepción, Guatemala",earthquake,7.6,7.043,0.047,131.0,reviewed,us,us
+2025-08-25T08:39:33.840Z,37.884998321533,-121.96533203125,10.779999732971,1.22,md,10.0,121.0,0.0535,0.04,nc,nc75228472,2025-08-25T08:41:12.806Z,"6 km N of Diablo, CA",earthquake,0.35,1.10000002,0.07,7.0,automatic,nc,nc
+2025-08-25T08:32:36.282Z,60.6796,-142.76,12.8,0.3,ml,,,,0.29,ak,ak025aw3bnl8,2025-08-25T08:34:48.496Z,"84 km S of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-25T08:31:14.806Z,32.015,-103.801,4.8788,2.0,ml,35.0,42.0,0.0,0.5,tx,tx2025qrwigm,2025-08-25T08:35:47.915Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,0.88840454816818,0.2,25.0,automatic,tx,tx
+2025-08-25T08:27:13.962Z,61.1017,-147.4198,9.3,0.7,ml,,,,0.27,ak,ak025aw3ajac,2025-08-25T08:29:15.285Z,"48 km WNW of Tatitlek, Alaska",earthquake,,2.1,,,automatic,ak,ak
