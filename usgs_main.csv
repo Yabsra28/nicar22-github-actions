@@ -8260,3 +8260,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T03:53:17.160Z,33.705,-116.7338333,18.09,2.38,ml,104.0,18.0,0.04409,0.2,ci,ci41273832,2025-08-25T04:04:07.520Z,"4 km SSW of Idyllwild, CA",earthquake,0.12,0.22,0.225,26.0,automatic,ci,ci
 2025-08-25T03:48:18.666Z,60.4431,-147.8218,17.4,1.4,ml,,,,0.63,ak,ak025aw0fvnu,2025-08-25T03:50:30.466Z,"43 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-25T02:56:17.520Z,52.6348,160.6034,30.281,4.6,mb,63.0,134.0,1.247,1.01,us,us6000r3kb,2025-08-25T03:47:29.040Z,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.23,5.582,0.052,109.0,reviewed,us,us
+2025-08-25T04:36:50.920Z,38.794498443604,-122.76383209228,3.2000000476837,1.1,md,21.0,79.0,0.01887,0.02,nc,nc75228427,2025-08-25T04:38:27.758Z,"2 km  of The Geysers, CA",earthquake,0.27,0.610000014,0.11,21.0,automatic,nc,nc
+2025-08-25T04:29:58.750Z,47.615,-121.75966666667,16.0,1.79,ml,7.0,154.0,0.09154,0.08,uw,uw62176036,2025-08-25T04:38:30.220Z,"10 km NNE of Snoqualmie, Washington",earthquake,0.58,0.94,0.20675773978174,6.0,reviewed,uw,uw
+2025-08-25T04:06:03.444Z,50.7718,157.3885,69.348,4.9,mb,83.0,123.0,2.348,0.63,us,us6000r3ki,2025-08-25T04:39:56.040Z,"89 km E of Severo-Kuril’sk, Russia",earthquake,10.48,6.377,0.027,431.0,reviewed,us,us
+2025-08-25T03:08:45.920Z,34.0431667,-117.8475,10.95,1.65,ml,7.0,187.0,0.04963,0.1,ci,ci41273816,2025-08-25T04:25:50.619Z,"3 km NNE of Walnut, CA",earthquake,1.24,0.81,0.244,24.0,reviewed,ci,ci
