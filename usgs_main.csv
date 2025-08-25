@@ -8444,3 +8444,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T20:42:53.987Z,63.1597,-147.7153,0.0,1.5,ml,,,,0.9,ak,ak025awaj1di,2025-08-25T20:44:53.614Z,"67 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-25T20:54:14.587Z,61.2318,-151.8676,93.3,1.6,ml,,,,0.53,ak,ak025awalixe,2025-08-25T20:55:53.636Z,"43 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-25T20:24:40.387Z,65.1639,-161.154,7.2,3.6,ml,,,,0.9,ak,ak025awaf5jy,2025-08-25T20:49:29.254Z,"25 km N of Koyuk, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-08-25T21:08:46.480Z,32.6075,-116.9638333,5.66,1.15,ml,21.0,93.0,0.0284,0.2,ci,ci41274776,2025-08-25T21:12:19.246Z,"8 km ESE of Chula Vista, CA",earthquake,0.38,0.97,0.128,10.0,automatic,ci,ci
+2025-08-25T21:05:26.340Z,35.1098333,-118.216,8.26,0.71,ml,15.0,41.0,0.04279,0.1,ci,ci41274768,2025-08-25T21:09:01.232Z,"7 km NNW of Mojave, CA",earthquake,0.17,0.37,0.143,9.0,automatic,ci,ci
+2025-08-25T21:01:19.916Z,32.062,-101.933,0.2235,1.1,ml,21.0,175.0,0.1,0.7,tx,tx2025qsveqe,2025-08-25T21:05:33.067Z,"15 km ENE of Midland, Texas",earthquake,0.0,1.2506674528122,0.1,12.0,automatic,tx,tx
+2025-08-25T20:42:07.063Z,31.623,-104.476,3.906,1.5,ml,13.0,127.0,0.1,0.3,tx,tx2025qsuobu,2025-08-25T21:01:46.665Z,"62 km S of Whites City, New Mexico",earthquake,0.0,2.240029335022,0.1,10.0,automatic,tx,tx
+2025-08-25T00:06:13.630Z,37.332,-122.12283333333,6.32,0.86,md,12.0,115.0,0.02439,0.07,nc,nc75228272,2025-08-25T21:12:32.964Z,"3 km SW of Loyola, CA",earthquake,0.29,0.53,0.122,7.0,reviewed,nc,nc
