@@ -8450,3 +8450,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T20:42:07.063Z,31.623,-104.476,3.906,1.5,ml,13.0,127.0,0.1,0.3,tx,tx2025qsuobu,2025-08-25T21:01:46.665Z,"62 km S of Whites City, New Mexico",earthquake,0.0,2.240029335022,0.1,10.0,automatic,tx,tx
 2025-08-25T00:06:13.630Z,37.332,-122.12283333333,6.32,0.86,md,12.0,115.0,0.02439,0.07,nc,nc75228272,2025-08-25T21:12:32.964Z,"3 km SW of Loyola, CA",earthquake,0.29,0.53,0.122,7.0,reviewed,nc,nc
 2025-08-25T21:35:27.610Z,38.804500579834,-122.7808303833,3.3800001144409,0.77,md,8.0,102.0,0.008746,0.01,nc,nc75228712,2025-08-25T21:37:03.857Z,"4 km NNW of The Geysers, CA",earthquake,0.97,1.87,0.04,10.0,automatic,nc,nc
+2025-08-25T21:04:35.030Z,34.277833333333,-82.111,5.47,1.74,md,7.0,95.0,0.1307,0.24,se,se60504008,2025-08-25T21:47:38.687Z,"2 km NW of Coronaca, South Carolina",earthquake,2.14,4.5,0.027923667390318,6.0,reviewed,se,se
