@@ -8543,3 +8543,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T08:15:29.138Z,61.7155,-149.8195,35.4,2.0,ml,,,,0.19,ak,ak025axqrccx,2025-08-26T08:17:21.363Z,"9 km N of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-26T08:03:48.231Z,54.5665,-160.0511,32.632,5.1,mb,21.0,207.0,0.377,0.81,us,us7000qqzj,2025-08-26T08:18:57.040Z,"90 km SSE of Sand Point, Alaska",earthquake,7.39,12.484,0.027,439.0,reviewed,us,us
 2025-08-26T03:31:47.330Z,37.654166666667,-119.01333333333,-1.14,0.36,md,8.0,177.0,0.003977,0.02,nc,nc75228802,2025-08-26T08:38:03.272Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.47,0.3,0.104,4.0,reviewed,nc,nc
+2025-08-26T08:55:57.860Z,37.328834533691,-122.13216400147,5.3400001525879,1.24,md,8.0,130.0,0.03214,0.06,nc,nc75228882,2025-08-26T08:57:35.261Z,"4 km WSW of Loyola, CA",earthquake,0.4,0.850000024,0.17,6.0,automatic,nc,nc
+2025-08-26T04:39:27.460Z,38.142833333333,-122.2975,6.03,1.9,mh,17.0,57.0,0.07347,0.15,nc,nc75228812,2025-08-26T08:48:06.709Z,"5 km SW of American Canyon, CA",earthquake,0.37,1.49,,0.0,reviewed,nc,nc
