@@ -8556,3 +8556,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T10:26:56.910Z,33.2881667,-116.2625,4.52,0.34,ml,30.0,71.0,0.08386,0.17,ci,ci41275128,2025-08-26T10:30:27.092Z,"11 km ENE of Borrego Springs, CA",earthquake,0.27,0.5,0.215,3.0,automatic,ci,ci
 2025-08-26T10:23:05.490Z,38.835334777832,-122.78849792481,1.5700000524521,0.23,md,9.0,71.0,0.003391,0.02,nc,nc75228902,2025-08-26T10:24:41.006Z,"6 km WNW of Cobb, CA",earthquake,0.45,0.850000024,0.16,10.0,automatic,nc,nc
 2025-08-26T10:22:40.193Z,36.6992,-116.3086,13.0,0.2,ml,19.0,86.01,0.03,0.1897,nn,nn00903178,2025-08-26T10:24:50.649Z,"46 km ESE of Beatty, Nevada",earthquake,,0.6,0.29,12.0,automatic,nn,nn
+2025-08-26T04:21:37.851Z,31.907,-101.389,2.2049,1.4,mlv,17.0,64.0,0.2,0.4,tx,tx2025qtjtzu,2025-08-26T11:14:51.817Z,"9 km ENE of Garden City, Texas",earthquake,0.0,1.4847465753555,0.2,13.0,automatic,tx,tx
+2025-08-25T18:06:48.455Z,32.105,-101.933,6.8115,0.6,ml,17.0,58.0,0.1,0.2,tx,tx2025qspkft,2025-08-26T11:06:40.804Z,"13 km W of Stanton, Texas",earthquake,0.61124155942883,1.3799285074103,0.1,4.0,reviewed,tx,tx
