@@ -8531,3 +8531,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T07:10:00.336Z,34.53466415,-97.68764496,5.484115124,1.6,ml,14.0,165.1136932,0.1366853267,0.5692713339,ok,ok2025qrok,2025-08-26T07:12:30.013Z,"8 km N of Velma, Oklahoma",earthquake,4.795580013,3.747817288,0.29,7.0,automatic,ok,ok
 2025-08-26T06:58:18.236Z,36.7764,-116.2405,9.8,0.0,ml,17.0,62.95,0.054,0.1129,nn,nn00903176,2025-08-26T07:00:29.048Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.29,11.0,automatic,nn,nn
 2025-08-26T07:28:56.213Z,31.654,-104.426,4.5543,1.7,ml,27.0,74.0,0.0,0.5,tx,tx2025qtpyzq,2025-08-26T07:31:56.224Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1432782411575,0.1,19.0,automatic,tx,tx
+2025-08-26T07:46:28.300Z,33.1441667,-115.6263333,7.87,1.32,ml,30.0,96.0,0.0344,0.2,ci,ci41275088,2025-08-26T07:49:49.441Z,"11 km W of Calipatria, CA",earthquake,0.37,0.58,0.129,7.0,automatic,ci,ci
+2025-08-26T07:46:27.180Z,38.796333312988,-122.81099700928,3.3499999046326,2.1,md,55.0,50.0,0.01011,0.06,nc,nc75228867,2025-08-26T07:50:06.540Z,"5 km NW of The Geysers, CA",earthquake,0.15,0.25,0.13,49.0,automatic,nc,nc
+2025-08-26T07:45:32.110Z,33.1405,-115.6381667,6.9,1.78,ml,55.0,41.0,0.04143,0.25,ci,ci41275080,2025-08-26T07:49:06.244Z,"12 km N of Westmorland, CA",earthquake,0.2,0.47,0.162,28.0,automatic,ci,ci
+2025-08-26T07:43:06.598Z,61.4086,-152.2808,7.9,0.6,ml,,,,0.35,ak,ak025axqbv2b,2025-08-26T07:44:31.566Z,"70 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-26T06:41:05.634Z,32.141,-101.077,8.0322,2.0,ml,31.0,55.0,0.2,0.1,tx,tx2025qtokfr,2025-08-26T07:43:55.310Z,"24 km SSW of Westbrook, Texas",earthquake,0.49975444929539,1.6149663815869,0.1,20.0,reviewed,tx,tx
