@@ -8530,3 +8530,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T07:12:36.428Z,60.3558,-147.5168,19.8,1.4,ml,,,,0.74,ak,ak025axq5a62,2025-08-26T07:14:34.906Z,"42 km NE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-26T07:10:00.336Z,34.53466415,-97.68764496,5.484115124,1.6,ml,14.0,165.1136932,0.1366853267,0.5692713339,ok,ok2025qrok,2025-08-26T07:12:30.013Z,"8 km N of Velma, Oklahoma",earthquake,4.795580013,3.747817288,0.29,7.0,automatic,ok,ok
 2025-08-26T06:58:18.236Z,36.7764,-116.2405,9.8,0.0,ml,17.0,62.95,0.054,0.1129,nn,nn00903176,2025-08-26T07:00:29.048Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.29,11.0,automatic,nn,nn
+2025-08-26T07:28:56.213Z,31.654,-104.426,4.5543,1.7,ml,27.0,74.0,0.0,0.5,tx,tx2025qtpyzq,2025-08-26T07:31:56.224Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1432782411575,0.1,19.0,automatic,tx,tx
