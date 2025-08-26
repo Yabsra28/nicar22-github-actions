@@ -8536,3 +8536,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T07:45:32.110Z,33.1405,-115.6381667,6.9,1.78,ml,55.0,41.0,0.04143,0.25,ci,ci41275080,2025-08-26T07:49:06.244Z,"12 km N of Westmorland, CA",earthquake,0.2,0.47,0.162,28.0,automatic,ci,ci
 2025-08-26T07:43:06.598Z,61.4086,-152.2808,7.9,0.6,ml,,,,0.35,ak,ak025axqbv2b,2025-08-26T07:44:31.566Z,"70 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-26T06:41:05.634Z,32.141,-101.077,8.0322,2.0,ml,31.0,55.0,0.2,0.1,tx,tx2025qtokfr,2025-08-26T07:43:55.310Z,"24 km SSW of Westbrook, Texas",earthquake,0.49975444929539,1.6149663815869,0.1,20.0,reviewed,tx,tx
+2025-08-26T08:03:46.906Z,54.5435,-160.1076,17.9,4.9,ml,,,,0.76,ak,ak025axqot5v,2025-08-26T08:15:45.104Z,"91 km SSE of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
