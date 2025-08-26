@@ -8654,3 +8654,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T00:13:24.880Z,33.2621667,-116.3703333,2.52,-0.04,ml,3.0,253.0,0.03969,0.01,ci,ci41274936,2025-08-26T19:19:16.111Z,"1 km NNE of Borrego Springs, CA",earthquake,0.55,0.23,0.101,3.0,reviewed,ci,ci
 2025-08-26T19:21:17.320Z,63.1074,-151.4933,0.0,2.2,ml,,,,0.88,ak,ak025axxcdec,2025-08-26T19:23:22.817Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-26T15:08:33.540Z,34.0023333,-117.125,14.61,0.41,ml,17.0,83.0,0.03467,0.17,ci,ci41275360,2025-08-26T19:26:45.824Z,"7 km WNW of Calimesa, CA",earthquake,0.29,0.75,0.058,6.0,reviewed,ci,ci
+2025-08-26T19:40:35.750Z,38.779167175293,-122.72850036621,0.94999998807907,1.68,md,29.0,46.0,0.007605,0.06,nc,nc75229042,2025-08-26T19:42:10.469Z,"2 km E of The Geysers, CA",earthquake,0.2,0.319999993,0.07,27.0,automatic,nc,nc
