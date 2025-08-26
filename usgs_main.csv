@@ -8587,3 +8587,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T11:15:05.760Z,44.798333333333,-110.867,8.94,1.35,ml,20.0,111.0,0.1065,0.12,uu,uu80114726,2025-08-26T13:29:10.900Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.29,0.94,0.4820781126125,5.0,reviewed,uu,uu
 2025-08-26T11:14:47.750Z,44.8,-110.86733333333,8.94,0.32,ml,13.0,113.0,0.1069,0.1,uu,uu80114721,2025-08-26T13:33:18.620Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.34,1.02,0.019215891405063,2.0,reviewed,uu,uu
 2025-08-26T07:49:07.766Z,44.0121,-68.8689,10.143,2.5,mb_lg,15.0,160.0,0.793,0.55,us,us7000qqzg,2025-08-26T13:40:38.375Z,"4 km SW of Vinalhaven, Maine",earthquake,2.62,8.546,0.18,8.0,reviewed,us,us
+2025-08-26T07:02:35.920Z,39.505166666667,-110.34516666667,2.12,1.37,md,7.0,137.0,0.08244,0.09,uu,uu80114711,2025-08-26T13:46:29.910Z,"6 km SE of Sunnyside, Utah",earthquake,0.54,31.61,0.050972665813382,7.0,reviewed,uu,uu
