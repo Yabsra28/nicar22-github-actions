@@ -8673,3 +8673,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T20:28:53.515Z,-26.3647,178.6102,610.688,4.9,mb,53.0,134.0,8.594,1.15,us,us7000qr6g,2025-08-26T20:45:08.040Z,south of the Fiji Islands,earthquake,13.41,9.454,0.082,46.0,reviewed,us,us
 2025-08-26T20:22:33.330Z,33.6446667,-116.6923333,13.92,0.09,ml,9.0,109.0,0.02869,0.13,ci,ci37739844,2025-08-26T20:48:29.214Z,"10 km N of Anza, CA",earthquake,0.5,0.73,0.138,9.0,reviewed,ci,ci
 2025-08-26T20:16:09.576Z,32.8883,88.446,10.0,5.0,mb,95.0,69.0,12.453,0.79,us,us7000qr6d,2025-08-26T20:40:15.040Z,western Xizang,earthquake,9.12,1.802,0.054,109.0,reviewed,us,us
+2025-08-26T20:45:08.941Z,61.106,-143.3418,74.6,2.2,ml,,,,0.46,ak,ak025axy2xji,2025-08-26T20:57:50.539Z,"42 km SSW of McCarthy, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-08-26T20:33:30.870Z,42.365,48.198,10.0,5.4,mww,103.0,24.0,1.885,1.16,us,us7000qr6h,2025-08-26T20:57:40.316Z,"17 km E of Novokayakent, Russia",earthquake,6.81,1.749,0.098,10.0,reviewed,us,us
+2025-08-26T17:00:38.810Z,34.634,-117.2993333,-1.24,1.2,ml,16.0,85.0,0.07732,0.11,ci,ci41275608,2025-08-26T20:53:29.261Z,"11 km N of Victorville, CA",quarry blast,0.27,31.61,0.19,35.0,reviewed,ci,ci
+2025-08-26T00:35:28.070Z,61.3355,-152.25233333333,-2.48,0.22,ml,11.0,157.0,0.07344,0.27,av,av93734268,2025-08-26T20:53:42.020Z,"66 km WNW of Beluga, Alaska",earthquake,0.51,2.18,0.24791330836539,11.0,reviewed,av,av
