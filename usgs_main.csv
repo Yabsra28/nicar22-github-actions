@@ -8613,3 +8613,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T11:51:21.800Z,46.2025,-122.17366666667,6.7,0.17,ml,15.0,67.0,0.008535,0.13,uw,uw62176496,2025-08-26T15:43:12.190Z,"38 km NNE of Amboy, Washington",earthquake,0.3,0.31,0.1483771395621,5.0,reviewed,uw,uw
 2025-08-26T15:46:56.013Z,64.741,-149.1021,16.8,1.1,ml,,,,0.45,ak,ak025axv42v5,2025-08-26T15:48:45.821Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-26T15:38:32.870Z,18.1015,-66.090166666667,21.83,2.23,md,12.0,73.0,0.05741,0.24,pr,pr71493608,2025-08-26T15:54:16.200Z,"3 km SSE of G. L. Garcia, Puerto Rico",earthquake,0.55,0.93,0.14229457488802,6.0,reviewed,pr,pr
+2025-08-26T16:18:42.490Z,37.044998168945,-121.49183654785,4.8299999237061,1.41,md,9.0,137.0,0.02044,0.11,nc,nc75228987,2025-08-26T16:20:21.826Z,"8 km ENE of Gilroy, CA",earthquake,0.51,0.839999974,0.12,5.0,automatic,nc,nc
+2025-08-26T16:17:35.570Z,35.3493333,-117.8001667,6.37,1.35,ml,46.0,36.0,0.08985,0.19,ci,ci41275488,2025-08-26T16:21:07.679Z,"15 km W of Johannesburg, CA",earthquake,0.17,0.53,0.158,25.0,automatic,ci,ci
+2025-08-26T16:05:48.900Z,37.158500671387,-121.54683685303,4.4299998283386,1.33,md,10.0,109.0,0.06106,0.12,nc,nc75228982,2025-08-26T16:07:25.814Z,"10 km NE of San Martin, CA",earthquake,0.52,1.53999996,0.21,8.0,automatic,nc,nc
+2025-08-26T16:02:26.996Z,59.9652,-140.9765,19.7,1.7,ml,,,,0.59,ak,ak025axvg0q3,2025-08-26T16:04:38.701Z,"84 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-26T16:00:53.032Z,59.913,-140.9856,27.6,1.6,ml,,,,0.87,ak,ak025axvfnav,2025-08-26T16:03:21.172Z,"81 km WNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-26T15:57:58.990Z,35.63016667,-98.02966667,7.78,1.75,ml,90.0,38.0,0.1610683929,0.43,ok,ok2025qsfv,2025-08-26T16:06:47.997Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.0,0.21,41.0,reviewed,ok,ok
+2025-08-26T15:55:17.330Z,38.817665100098,-122.82649993897,1.6799999475479,0.55,md,6.0,99.0,0.008604,0.0,nc,nc75228972,2025-08-26T15:56:50.601Z,"8 km NW of The Geysers, CA",earthquake,0.76,1.15999997,0.41,8.0,automatic,nc,nc
+2025-08-26T14:26:29.371Z,-24.0999,-67.1301,162.925,4.3,mb,67.0,57.0,1.494,1.07,us,us7000qr0i,2025-08-26T16:18:58.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,7.63,6.925,0.068,61.0,reviewed,us,us
