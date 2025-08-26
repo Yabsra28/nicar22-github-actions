@@ -8611,3 +8611,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T15:40:01.020Z,36.224,-117.8903333,1.36,1.81,ml,32.0,50.0,0.11,0.18,ci,ci41275416,2025-08-26T15:43:32.107Z,"12 km ESE of Olancha, CA",earthquake,0.22,0.5,0.155,26.0,automatic,ci,ci
 2025-08-26T15:30:10.802Z,35.89881134,-97.35310364,1.719777584,1.97,ml,43.0,52.48010254,0.1686244756,0.5429804005,ok,ok2025qsex,2025-08-26T15:33:31.739Z,"6 km ENE of Guthrie, Oklahoma",earthquake,1.740110839,1.608251026,0.2,26.0,automatic,ok,ok
 2025-08-26T11:51:21.800Z,46.2025,-122.17366666667,6.7,0.17,ml,15.0,67.0,0.008535,0.13,uw,uw62176496,2025-08-26T15:43:12.190Z,"38 km NNE of Amboy, Washington",earthquake,0.3,0.31,0.1483771395621,5.0,reviewed,uw,uw
+2025-08-26T15:46:56.013Z,64.741,-149.1021,16.8,1.1,ml,,,,0.45,ak,ak025axv42v5,2025-08-26T15:48:45.821Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-26T15:38:32.870Z,18.1015,-66.090166666667,21.83,2.23,md,12.0,73.0,0.05741,0.24,pr,pr71493608,2025-08-26T15:54:16.200Z,"3 km SSE of G. L. Garcia, Puerto Rico",earthquake,0.55,0.93,0.14229457488802,6.0,reviewed,pr,pr
