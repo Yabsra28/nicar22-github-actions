@@ -8519,3 +8519,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T05:42:43.430Z,33.3218333,-116.3873333,10.48,1.01,ml,63.0,39.0,0.0176,0.21,ci,ci41275048,2025-08-26T05:46:10.598Z,"7 km N of Borrego Springs, CA",earthquake,0.17,0.32,0.175,27.0,automatic,ci,ci
 2025-08-26T05:54:31.354Z,-12.5654,166.5471,78.105,4.9,mb,69.0,106.0,2.934,0.88,us,us7000qqyy,2025-08-26T06:11:55.040Z,"181 km NW of Sola, Vanuatu",earthquake,7.05,4.818,0.049,131.0,reviewed,us,us
 2025-08-26T05:53:10.663Z,60.5821,-147.5134,13.9,1.4,ml,,,,0.62,ak,ak025axp75bu,2025-08-26T05:55:39.016Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-26T06:43:55.880Z,19.141166687012,-155.67033386231,-0.89999997615814,2.3,ml,34.0,203.0,0.07796,0.330000013,hv,hv74760632,2025-08-26T06:47:04.040Z,"9 km NW of Wai‘ōhinu, Hawaii",earthquake,1.26,0.5,0.47,3.0,automatic,hv,hv
+2025-08-26T06:29:07.930Z,35.7068333,-117.5103333,7.88,1.03,ml,34.0,57.0,0.08189,0.13,ci,ci41275064,2025-08-26T06:32:37.805Z,"12 km SW of Searles Valley, CA",earthquake,0.14,0.56,0.198,20.0,automatic,ci,ci
+2025-08-26T05:51:38.683Z,51.25,159.265,26.209,4.6,mb,18.0,230.0,1.816,0.61,us,us7000qqyz,2025-08-26T06:24:45.040Z,"194 km E of Ozernovskiy, Russia",earthquake,12.52,7.785,0.14,15.0,reviewed,us,us
