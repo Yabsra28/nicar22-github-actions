@@ -8621,3 +8621,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T15:57:58.990Z,35.63016667,-98.02966667,7.78,1.75,ml,90.0,38.0,0.1610683929,0.43,ok,ok2025qsfv,2025-08-26T16:06:47.997Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.0,0.21,41.0,reviewed,ok,ok
 2025-08-26T15:55:17.330Z,38.817665100098,-122.82649993897,1.6799999475479,0.55,md,6.0,99.0,0.008604,0.0,nc,nc75228972,2025-08-26T15:56:50.601Z,"8 km NW of The Geysers, CA",earthquake,0.76,1.15999997,0.41,8.0,automatic,nc,nc
 2025-08-26T14:26:29.371Z,-24.0999,-67.1301,162.925,4.3,mb,67.0,57.0,1.494,1.07,us,us7000qr0i,2025-08-26T16:18:58.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,7.63,6.925,0.068,61.0,reviewed,us,us
+2025-08-26T16:35:10.790Z,33.689,-116.357,9.8,1.16,ml,55.0,40.0,0.04452,0.16,ci,ci41275544,2025-08-26T16:38:33.752Z,"4 km SSE of Palm Desert, CA",earthquake,0.14,0.37,0.18,26.0,automatic,ci,ci
+2025-08-26T15:11:41.200Z,46.210333333333,-122.15583333333,7.6,0.03,ml,10.0,119.0,0.03685,0.09,uw,uw62176551,2025-08-26T16:30:18.490Z,"39 km SSE of Morton, Washington",earthquake,0.52,0.55,0.096675459364715,4.0,reviewed,uw,uw
+2025-08-26T07:17:17.770Z,48.603666666667,-123.08616666667,11.19,0.95,ml,11.0,137.0,0.02793,0.06,uw,uw62176471,2025-08-26T16:38:45.610Z,"9 km NNW of Friday Harbor, Washington",earthquake,0.36,0.4,0.14287921239585,4.0,reviewed,uw,uw
