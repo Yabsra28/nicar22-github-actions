@@ -8558,3 +8558,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T10:22:40.193Z,36.6992,-116.3086,13.0,0.2,ml,19.0,86.01,0.03,0.1897,nn,nn00903178,2025-08-26T10:24:50.649Z,"46 km ESE of Beatty, Nevada",earthquake,,0.6,0.29,12.0,automatic,nn,nn
 2025-08-26T04:21:37.851Z,31.907,-101.389,2.2049,1.4,mlv,17.0,64.0,0.2,0.4,tx,tx2025qtjtzu,2025-08-26T11:14:51.817Z,"9 km ENE of Garden City, Texas",earthquake,0.0,1.4847465753555,0.2,13.0,automatic,tx,tx
 2025-08-25T18:06:48.455Z,32.105,-101.933,6.8115,0.6,ml,17.0,58.0,0.1,0.2,tx,tx2025qspkft,2025-08-26T11:06:40.804Z,"13 km W of Stanton, Texas",earthquake,0.61124155942883,1.3799285074103,0.1,4.0,reviewed,tx,tx
+2025-08-25T20:09:37.217Z,32.107,-101.933,6.958,0.8,ml,21.0,58.0,0.1,0.2,tx,tx2025qstmbt,2025-08-26T11:15:28.850Z,"13 km W of Stanton, Texas",earthquake,0.50531840429707,1.1277761564665,0.1,10.0,reviewed,tx,tx
