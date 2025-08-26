@@ -8630,3 +8630,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T17:33:42.930Z,35.7668343,-118.5411682,8.32,1.28,ml,11.0,90.0,0.03194,0.16,ci,ci41275632,2025-08-26T17:35:45.459Z,"10 km NW of Wofford Heights, CA",earthquake,0.59,0.99,0.337,5.0,automatic,ci,ci
 2025-08-26T17:22:24.150Z,63.2016,-151.3312,0.0,1.3,ml,,,,0.61,ak,ak025axw5qfj,2025-08-26T17:24:13.420Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-26T17:19:21.840Z,19.530834197998,-155.76216125488,6.9400000572205,2.45,ml,13.0,158.0,0.06194,0.200000003,hv,hv74761122,2025-08-26T17:22:27.830Z,"13 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.67,0.99000001,0.19,4.0,automatic,hv,hv
+2025-08-26T09:28:48.671Z,32.352,-101.235,2.9223,0.7,ml,10.0,74.0,0.0,0.1,tx,tx2025qttytb,2025-08-26T17:42:44.027Z,"9 km NE of Coahoma, Texas",earthquake,0.85422114841107,1.2877070151726,0.1,6.0,reviewed,tx,tx
+2025-08-26T07:32:06.763Z,31.627,-104.148,4.1772,1.3,ml,16.0,62.0,0.1,0.1,tx,tx2025qtqcbo,2025-08-26T17:41:06.027Z,"48 km NW of Toyah, Texas",earthquake,0.52941567472123,1.2590921916509,0.2,18.0,reviewed,tx,tx
