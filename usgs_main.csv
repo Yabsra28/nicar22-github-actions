@@ -8537,3 +8537,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T07:43:06.598Z,61.4086,-152.2808,7.9,0.6,ml,,,,0.35,ak,ak025axqbv2b,2025-08-26T07:44:31.566Z,"70 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-26T06:41:05.634Z,32.141,-101.077,8.0322,2.0,ml,31.0,55.0,0.2,0.1,tx,tx2025qtokfr,2025-08-26T07:43:55.310Z,"24 km SSW of Westbrook, Texas",earthquake,0.49975444929539,1.6149663815869,0.1,20.0,reviewed,tx,tx
 2025-08-26T08:03:46.906Z,54.5435,-160.1076,17.9,4.9,ml,,,,0.76,ak,ak025axqot5v,2025-08-26T08:15:45.104Z,"91 km SSE of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2025-08-26T08:39:13.547Z,57.3644,-156.8239,35.4,1.9,ml,,,,0.71,ak,ak025axqwgca,2025-08-26T08:41:40.494Z,"38 km ESE of Ugashik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-26T08:29:56.187Z,66.109,-147.3199,0.0,1.5,ml,,,,0.4,ak,ak025axquegy,2025-08-26T08:32:11.672Z,"28 km S of Beaver, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-26T08:28:21.950Z,33.4713333,-116.4608333,2.69,0.86,ml,47.0,33.0,0.1204,0.23,ci,ci41275096,2025-08-26T08:31:55.638Z,"22 km ESE of Anza, CA",earthquake,0.2,0.8,0.189,25.0,automatic,ci,ci
+2025-08-26T08:15:29.138Z,61.7155,-149.8195,35.4,2.0,ml,,,,0.19,ak,ak025axqrccx,2025-08-26T08:17:21.363Z,"9 km N of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-08-26T08:03:48.231Z,54.5665,-160.0511,32.632,5.1,mb,21.0,207.0,0.377,0.81,us,us7000qqzj,2025-08-26T08:18:57.040Z,"90 km SSE of Sand Point, Alaska",earthquake,7.39,12.484,0.027,439.0,reviewed,us,us
+2025-08-26T03:31:47.330Z,37.654166666667,-119.01333333333,-1.14,0.36,md,8.0,177.0,0.003977,0.02,nc,nc75228802,2025-08-26T08:38:03.272Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.47,0.3,0.104,4.0,reviewed,nc,nc
