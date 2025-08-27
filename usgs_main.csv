@@ -8952,3 +8952,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T11:43:05.330Z,44.812833333333,-111.52883333333,11.31,0.56,ml,10.0,110.0,0.02488,0.2,mb,mb90109043,2025-08-27T20:05:49.020Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.62,0.99,0.063916968426514,6.0,reviewed,mb,mb
 2025-08-27T11:34:08.560Z,44.810666666667,-111.54033333333,9.1,0.43,ml,10.0,107.0,0.01648,0.12,mb,mb90109038,2025-08-27T19:59:37.320Z,"28 km W of Hebgen Lake Estates, Montana",earthquake,0.32,0.84,0.2476757385644,7.0,reviewed,mb,mb
 2025-08-27T11:24:29.700Z,45.824333333333,-111.46233333333,3.89,1.01,ml,13.0,86.0,0.1209,0.09,mb,mb90109033,2025-08-27T19:54:55.050Z,"7 km SSW of Logan, Montana",earthquake,0.31,7.35,0.30653429268633,13.0,reviewed,mb,mb
+2025-08-27T20:27:28.240Z,33.4983333,-116.4935,13.95,0.63,ml,20.0,61.0,0.0909,0.11,ci,ci41276840,2025-08-27T20:30:57.463Z,"18 km ESE of Anza, CA",earthquake,0.19,0.39,0.071,14.0,automatic,ci,ci
+2025-08-27T20:18:28.119Z,61.1976,-151.3757,69.0,1.9,ml,,,,0.11,ak,ak025azlgj6j,2025-08-27T20:19:42.164Z,"16 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-08-27T20:14:08.900Z,34.2511667,-117.0303333,1.12,1.69,ml,68.0,23.0,0.02139,0.2,ci,ci41276832,2025-08-27T20:18:47.401Z,"9 km ENE of Running Springs, CA",earthquake,0.14,0.23,0.165,27.0,automatic,ci,ci
