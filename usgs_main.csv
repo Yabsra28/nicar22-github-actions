@@ -8904,3 +8904,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T16:07:47.160Z,33.019,-116.3558333,5.0,0.65,ml,10.0,119.0,0.06585,0.13,ci,ci37740020,2025-08-27T17:42:30.585Z,"24 km ESE of Julian, CA",earthquake,0.38,0.78,0.121,7.0,reviewed,ci,ci
 2025-08-27T05:46:31.560Z,45.004833333333,-122.80266666667,23.37,1.03,ml,10.0,101.0,0.113,0.39,uw,uw62176981,2025-08-27T17:35:11.840Z,"1 km W of Silverton, Oregon",earthquake,0.83,1.71,0.21810449502744,4.0,reviewed,uw,uw
 2025-08-27T03:39:48.670Z,38.505,-112.88966666667,1.99,1.14,md,17.0,40.0,0.00416,0.11,uu,uu80004663,2025-08-27T17:33:50.910Z,"15 km NE of Milford, Utah",earthquake,0.25,0.42,0.21639148684304,5.0,reviewed,uu,uu
+2025-08-27T17:51:59.695Z,58.1103,-154.696,81.8,1.5,ml,,,,0.13,ak,ak025azjvdfl,2025-08-27T17:53:10.878Z,"61 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2025-08-27T17:51:55.681Z,59.1024,-153.3231,130.3,2.5,ml,,,,0.6,ak,ak025azjvd4g,2025-08-27T17:54:36.818Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-08-27T17:48:03.530Z,63.5112,-150.6974,9.7,2.4,ml,,,,0.58,ak,ak025azjuly9,2025-08-27T17:50:03.803Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-27T17:32:20.260Z,35.31416667,-97.93666667,11.52,0.78,ml,28.0,86.0,0.07738481446,0.11,ok,ok2025quel,2025-08-27T17:49:13.136Z,"0 km ENE of Minco, Oklahoma",earthquake,,0.5,0.26,13.0,reviewed,ok,ok
+2025-08-27T16:20:17.550Z,19.308333333333,-155.2135,7.44,1.56,ml,56.0,97.0,0.02894,0.1,hv,hv74762801,2025-08-27T17:54:24.050Z,"15 km S of Volcano, Hawaii",earthquake,0.21,0.28,0.19703267341958,27.0,reviewed,hv,hv
