@@ -8767,3 +8767,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T05:02:14.470Z,36.0318333,-117.812,1.7,0.47,ml,14.0,58.0,0.03846,0.09,ci,ci41276208,2025-08-27T05:05:44.112Z,"12 km E of Coso Junction, CA",earthquake,0.14,0.18,0.216,6.0,automatic,ci,ci
 2025-08-27T03:23:51.481Z,31.652,-104.479,4.3932,1.6,mlv,21.0,103.0,0.0,0.4,tx,tx2025qvdpap,2025-08-27T05:07:54.032Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.4120434522629,0.2,15.0,automatic,tx,tx
 2025-08-26T22:47:42.512Z,34.2918,-82.1217,8.5,2.1,mb_lg,15.0,77.0,0.128,0.74,us,us7000qr7c,2025-08-27T05:13:24.633Z,"4 km NW of Coronaca, South Carolina",earthquake,1.55,2.864,0.18,8.0,reviewed,us,us
+2025-08-27T05:33:06.740Z,40.381999969482,-121.98400115967,4.2600002288818,2.18,md,14.0,105.0,0.1811,0.23,nc,nc75229272,2025-08-27T05:34:42.846Z,"11 km W of Manton, CA",earthquake,0.72,3.75999999,0.1,9.0,automatic,nc,nc
