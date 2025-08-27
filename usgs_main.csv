@@ -8843,3 +8843,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T06:42:01.167Z,39.4126,-119.592,9.4,0.6,ml,9.0,225.41,0.125,0.0658,nn,nn00903225,2025-08-27T13:48:20.884Z,"12 km NNE of Virginia City, Nevada",earthquake,,1.9,0.22,4.0,reviewed,nn,nn
 2025-08-27T01:34:39.550Z,36.0103333,-117.816,2.11,0.56,ml,14.0,86.0,0.02838,0.11,ci,ci41276160,2025-08-27T13:52:48.802Z,"12 km NE of Little Lake, CA",earthquake,0.17,0.14,0.162,7.0,reviewed,ci,ci
 2025-08-26T20:10:07.096Z,32.363,-102.175,6.5186,0.6,ml,13.0,130.0,0.0,0.2,tx,tx2025qupfjo,2025-08-27T13:54:50.987Z,"34 km ENE of McKinney Acres, Texas",earthquake,1.2599327106911,1.6322298374548,0.1,7.0,reviewed,tx,tx
+2025-08-27T14:01:35.650Z,33.6625,-118.0486667,14.01,2.02,ml,8.0,181.0,0.1786,0.25,ci,ci41276512,2025-08-27T14:05:10.073Z,"6 km SW of Huntington Beach, CA",earthquake,1.55,2.67,0.274,36.0,automatic,ci,ci
+2025-08-27T13:59:39.720Z,32.7631667,-116.0275,9.04,0.97,ml,26.0,43.0,0.01703,0.19,ci,ci41276504,2025-08-27T14:03:09.062Z,"4 km NW of Ocotillo, CA",earthquake,0.25,0.5,0.246,12.0,automatic,ci,ci
+2025-08-27T05:47:32.190Z,44.801833333333,-110.8625,9.89,2.34,ml,33.0,65.0,0.1108,0.13,uu,uu80114816,2025-08-27T14:12:59.560Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.27,0.54,0.28471907162947,11.0,reviewed,uu,uu
+2025-08-27T01:35:13.670Z,36.012,-117.8168333,2.29,0.53,ml,12.0,88.0,0.03015,0.11,ci,ci37739868,2025-08-27T13:59:22.562Z,"12 km NE of Little Lake, CA",earthquake,0.2,0.19,0.183,7.0,reviewed,ci,ci
