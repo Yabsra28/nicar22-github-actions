@@ -8980,3 +8980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T19:09:12.510Z,46.324333333333,-111.62083333333,-2.0,1.56,ml,10.0,95.0,0.3182,0.14,mb,mb90109068,2025-08-27T22:26:19.710Z,"7 km SSW of The Silos, Montana",quarry blast,0.64,31.61,0.27590882995205,21.0,reviewed,mb,mb
 2025-08-27T01:09:45.500Z,35.93,-117.2555,4.99,0.74,ml,12.0,246.0,0.04504,0.13,ci,ci41276152,2025-08-27T22:24:03.568Z,"22 km NNE of Trona, CA",earthquake,0.69,0.98,0.13,11.0,reviewed,ci,ci
 2025-08-27T22:34:57.351Z,65.352,-148.2533,12.4,0.7,ml,,,,0.35,ak,ak025azmqw3r,2025-08-27T22:36:05.649Z,"23 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-27T22:44:01.540Z,19.142833709717,-155.38600158691,30.790000915527,3.28,ml,63.0,180.0,0.07303,0.109999999,hv,hv74762986,2025-08-27T22:48:29.995Z,"11 km SE of Pāhala, Hawaii",earthquake,0.42,0.540000021,0.29,46.0,automatic,hv,hv
