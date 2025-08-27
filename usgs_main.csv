@@ -8781,3 +8781,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T07:27:49.127Z,61.3837,-146.6694,40.1,1.1,ml,,,,0.35,ak,ak025azdrvds,2025-08-27T07:29:41.754Z,"33 km NNW of Valdez, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-08-27T07:21:12.104Z,35.64186096,-98.037323,2.881244659,2.24,ml,47.0,36.97329712,0.1521535963,0.7855952914,ok,ok2025qtkh,2025-08-27T07:24:59.039Z,"8 km ENE of Calumet, Oklahoma",earthquake,1.679801482,1.408876117,0.29,32.0,automatic,ok,ok
 2025-08-27T07:44:28.720Z,33.2485,-116.8118333,14.85,0.64,ml,42.0,36.0,0.0462,0.15,ci,ci41276296,2025-08-27T07:48:51.826Z,"5 km W of Lake Henshaw, CA",earthquake,0.15,0.4,0.177,18.0,automatic,ci,ci
+2025-08-27T08:02:55.760Z,17.970333333333,-66.915166666667,9.92,2.34,md,11.0,189.0,0.006479,0.13,pr,pr71493623,2025-08-27T08:17:30.580Z,"0 km W of Guánica, Puerto Rico",earthquake,0.59,0.4,0.074434195150334,3.0,reviewed,pr,pr
+2025-08-27T07:59:39.380Z,33.9458333,-117.0356667,16.45,0.76,ml,28.0,93.0,0.1642,0.16,ci,ci41276304,2025-08-27T08:03:06.283Z,"5 km SSE of Calimesa, CA",earthquake,0.37,0.74,0.12,19.0,automatic,ci,ci
