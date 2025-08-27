@@ -8945,3 +8945,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T18:55:49.580Z,37.9195,-121.9615,-0.26,1.62,md,15.0,68.0,0.03336,0.06,nc,nc75229467,2025-08-27T19:46:56.441Z,"3 km SW of Clayton, CA",quarry blast,0.22,31.61,0.288,14.0,reviewed,nc,nc
 2025-08-27T11:18:50.990Z,44.81,-111.53716666667,11.09,0.48,ml,12.0,78.0,0.01834,0.2,mb,mb90109028,2025-08-27T19:46:37.630Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.77,0.082239704948904,8.0,reviewed,mb,mb
 2025-08-27T09:57:21.630Z,44.808166666667,-111.53383333333,10.68,0.49,ml,10.0,106.0,0.02015,0.19,mb,mb90109023,2025-08-27T19:41:10.090Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.45,0.83,0.15859383385628,8.0,reviewed,mb,mb
+2025-08-27T20:04:09.894Z,65.1749,-152.6563,15.8,1.8,ml,,,,0.79,ak,ak025azldhr1,2025-08-27T20:06:06.391Z,"27 km W of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-27T20:03:09.181Z,31.63,-104.506,3.647,2.3,ml,29.0,109.0,0.0,0.4,tx,tx2025qwksbw,2025-08-27T20:06:40.061Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,1.2162299156189,0.1,23.0,automatic,tx,tx
+2025-08-27T20:00:29.056Z,63.5403,-150.6717,0.1,1.7,ml,,,,0.92,ak,ak025azlcod5,2025-08-27T20:02:45.140Z,"52 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-27T19:47:52.460Z,33.172,-116.662,16.36,1.09,ml,56.0,33.0,0.02976,0.23,ci,ci41276824,2025-08-27T19:51:22.260Z,"12 km NNW of Julian, CA",earthquake,0.2,0.47,0.163,25.0,automatic,ci,ci
+2025-08-27T11:43:05.330Z,44.812833333333,-111.52883333333,11.31,0.56,ml,10.0,110.0,0.02488,0.2,mb,mb90109043,2025-08-27T20:05:49.020Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.62,0.99,0.063916968426514,6.0,reviewed,mb,mb
+2025-08-27T11:34:08.560Z,44.810666666667,-111.54033333333,9.1,0.43,ml,10.0,107.0,0.01648,0.12,mb,mb90109038,2025-08-27T19:59:37.320Z,"28 km W of Hebgen Lake Estates, Montana",earthquake,0.32,0.84,0.2476757385644,7.0,reviewed,mb,mb
+2025-08-27T11:24:29.700Z,45.824333333333,-111.46233333333,3.89,1.01,ml,13.0,86.0,0.1209,0.09,mb,mb90109033,2025-08-27T19:54:55.050Z,"7 km SSW of Logan, Montana",earthquake,0.31,7.35,0.30653429268633,13.0,reviewed,mb,mb
