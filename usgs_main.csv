@@ -8788,3 +8788,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T07:14:06.907Z,51.735,160.0683,10.0,4.9,mb,72.0,109.0,1.556,1.2,us,us7000qr98,2025-08-27T08:22:53.040Z,"174 km SE of Vilyuchinsk, Russia",earthquake,6.78,1.575,0.027,472.0,reviewed,us,us
 2025-08-27T08:39:28.650Z,35.9506667,-117.705,3.9,0.72,ml,25.0,43.0,0.0444,0.13,ci,ci41276320,2025-08-27T08:42:58.514Z,"18 km E of Little Lake, CA",earthquake,0.15,0.34,0.178,11.0,automatic,ci,ci
 2025-08-27T08:37:46.680Z,33.8226667,-116.9998333,13.2,0.84,ml,51.0,38.0,0.03035,0.19,ci,ci41276312,2025-08-27T08:41:52.506Z,"6 km NW of San Jacinto, CA",earthquake,0.17,0.52,0.122,26.0,automatic,ci,ci
+2025-08-27T08:58:54.978Z,64.6561,-151.3354,26.6,2.3,ml,,,,0.4,ak,ak025azejymx,2025-08-27T09:00:25.723Z,"50 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-27T08:23:11.019Z,34.2872,-82.0842,4.899,1.7,ml,17.0,76.0,0.155,0.73,us,us7000qr9k,2025-08-27T09:17:15.935Z,"3 km NNE of Coronaca, South Carolina",earthquake,1.31,2.665,0.105,12.0,reviewed,us,us
+2025-08-27T06:03:36.565Z,43.25,-71.5021,10.674,1.5,ml,15.0,119.0,0.636,1.05,us,us7000qr9n,2025-08-27T09:10:13.175Z,"3 km ENE of East Concord, New Hampshire",earthquake,1.38,7.447,0.081,20.0,reviewed,us,us
