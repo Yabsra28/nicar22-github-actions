@@ -8786,3 +8786,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T08:37:15.190Z,59.9179,-140.9788,27.3,1.4,ml,,,,1.0,ak,ak025azefdj3,2025-08-27T08:39:30.418Z,"81 km WNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-27T08:18:39.317Z,65.1777,-148.2771,19.0,0.8,ml,,,,0.63,ak,ak025azebcuk,2025-08-27T08:20:47.782Z,"38 km NNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-27T07:14:06.907Z,51.735,160.0683,10.0,4.9,mb,72.0,109.0,1.556,1.2,us,us7000qr98,2025-08-27T08:22:53.040Z,"174 km SE of Vilyuchinsk, Russia",earthquake,6.78,1.575,0.027,472.0,reviewed,us,us
+2025-08-27T08:39:28.650Z,35.9506667,-117.705,3.9,0.72,ml,25.0,43.0,0.0444,0.13,ci,ci41276320,2025-08-27T08:42:58.514Z,"18 km E of Little Lake, CA",earthquake,0.15,0.34,0.178,11.0,automatic,ci,ci
+2025-08-27T08:37:46.680Z,33.8226667,-116.9998333,13.2,0.84,ml,51.0,38.0,0.03035,0.19,ci,ci41276312,2025-08-27T08:41:52.506Z,"6 km NW of San Jacinto, CA",earthquake,0.17,0.52,0.122,26.0,automatic,ci,ci
