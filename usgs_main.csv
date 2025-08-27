@@ -8990,3 +8990,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T22:39:23.411Z,32.148,-101.052,3.1228,2.1,mlv,45.0,83.0,0.2,0.4,tx,tx2025qwpwwt,2025-08-27T23:18:25.121Z,"23 km S of Westbrook, Texas",earthquake,0.0,1.0362042188644,0.1,24.0,automatic,tx,tx
 2025-08-27T22:34:16.700Z,17.988333333333,-66.841,12.9,2.23,md,9.0,175.0,0.03873,0.11,pr,pr71493648,2025-08-27T23:24:05.370Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.51,0.46,0.078074945642478,5.0,reviewed,pr,pr
 2025-08-27T01:33:37.500Z,60.025,-152.99616666667,-2.99,0.21,ml,5.0,255.0,0.01421,0.16,av,av93735833,2025-08-27T23:16:24.930Z,"67 km ENE of Pedro Bay, Alaska",earthquake,0.93,0.78,0.09494230551953,4.0,reviewed,av,av
+2025-08-27T05:21:48.040Z,52.082833333333,-176.15266666667,1.72,0.45,ml,6.0,133.0,0.01872,0.3,av,av93736088,2025-08-27T23:46:03.410Z,"40 km NE of Adak, Alaska",earthquake,0.73,1.82,0.28534293731817,6.0,reviewed,av,av
