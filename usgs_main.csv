@@ -8909,3 +8909,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T17:48:03.530Z,63.5112,-150.6974,9.7,2.4,ml,,,,0.58,ak,ak025azjuly9,2025-08-27T17:50:03.803Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-27T17:32:20.260Z,35.31416667,-97.93666667,11.52,0.78,ml,28.0,86.0,0.07738481446,0.11,ok,ok2025quel,2025-08-27T17:49:13.136Z,"0 km ENE of Minco, Oklahoma",earthquake,,0.5,0.26,13.0,reviewed,ok,ok
 2025-08-27T16:20:17.550Z,19.308333333333,-155.2135,7.44,1.56,ml,56.0,97.0,0.02894,0.1,hv,hv74762801,2025-08-27T17:54:24.050Z,"15 km S of Volcano, Hawaii",earthquake,0.21,0.28,0.19703267341958,27.0,reviewed,hv,hv
+2025-08-27T18:10:16.399Z,34.3045,-96.38066667,0.0,1.35,ml,56.0,85.0,0.1907625659,0.45,ok,ok2025qufs,2025-08-27T18:18:19.608Z,"8 km SSE of Wapanucka, Oklahoma",quarry blast,,0.7,0.22,18.0,reviewed,ok,ok
+2025-08-27T17:57:11.640Z,33.378,-116.4456667,18.54,1.86,ml,11.0,235.0,0.2435,0.39,ci,ci41276720,2025-08-27T18:01:53.321Z,"15 km NNW of Borrego Springs, CA",earthquake,2.74,1.94,0.244,24.0,automatic,ci,ci
+2025-08-27T17:56:10.550Z,49.107666666667,-122.14166666667,-0.67,1.19,ml,7.0,261.0,0.1156,0.05,uw,uw62177141,2025-08-27T18:24:54.740Z,"9 km NE of Abbotsford, Canada",explosion,1.43,31.61,0.025834520249992,3.0,reviewed,uw,uw
+2025-08-27T17:46:43.840Z,35.628,-98.029,5.18,1.7,ml,89.0,36.0,0.1619682163,0.4,ok,ok2025quex,2025-08-27T17:59:23.637Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.21,41.0,reviewed,ok,ok
+2025-08-27T16:35:08.260Z,46.866166666667,-121.77416666667,-1.76,0.29,ml,16.0,82.0,0.02003,0.07,uw,uw62177106,2025-08-27T18:19:53.070Z,"22 km ENE of Ashford, Washington",earthquake,0.16,0.61,0.2243649205761,10.0,reviewed,uw,uw
+2025-08-27T16:13:12.820Z,46.224833333333,-122.132,6.06,0.05,ml,9.0,160.0,0.01946,0.08,uw,uw62177096,2025-08-27T18:09:41.290Z,"38 km SSE of Morton, Washington",earthquake,0.52,0.84,0.17690988976951,2.0,reviewed,uw,uw
+2025-08-27T08:38:13.740Z,34.2056667,-117.847,14.83,0.39,ml,13.0,57.0,0.04316,0.12,ci,ci37740028,2025-08-27T18:05:26.698Z,"8 km NNE of Glendora, CA",earthquake,0.32,0.64,0.091,6.0,reviewed,ci,ci
