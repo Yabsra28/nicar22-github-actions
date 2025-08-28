@@ -9174,3 +9174,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T07:28:24.972Z,31.669,-104.356,4.7668,1.0,ml,14.0,86.0,0.1,0.1,tx,tx2025qxhkth,2025-08-28T14:29:29.805Z,"56 km S of Whites City, New Mexico",earthquake,0.76668448989267,1.316271069406,0.2,16.0,reviewed,tx,tx
 2025-08-28T02:46:26.760Z,46.885833333333,-112.52,9.88,0.47,ml,8.0,121.0,0.05078,0.04,mb,mb90109128,2025-08-28T14:37:22.560Z,"14 km ESE of Lincoln, Montana",earthquake,0.42,0.58,0.018570417864692,3.0,reviewed,mb,mb
 2025-08-27T16:04:14.110Z,47.614666666667,-113.8265,9.06,0.69,ml,12.0,120.0,0.1573,0.13,mb,mb90109123,2025-08-28T14:30:20.760Z,"13 km NW of Condon, Montana",earthquake,0.43,1.94,0.36334716281155,7.0,reviewed,mb,mb
+2025-08-28T14:16:31.161Z,48.8324,156.0893,10.0,4.9,mb,53.0,135.0,4.401,0.62,us,us7000qrjt,2025-08-28T14:46:02.040Z,"204 km S of Severo-Kuril’sk, Russia",earthquake,12.11,1.904,0.049,134.0,reviewed,us,us
+2025-08-28T10:22:11.380Z,34.225,-117.4555,13.6,0.6,ml,22.0,58.0,0.02404,0.17,ci,ci41277272,2025-08-28T14:47:11.501Z,"5 km W of Devore, CA",earthquake,0.32,0.41,0.136,7.0,reviewed,ci,ci
+2025-08-27T22:53:21.233Z,28.65,-98.264,8.5345,1.1,ml,14.0,59.0,0.0,0.2,tx,tx2025qwqixy,2025-08-28T14:44:17.493Z,"22 km NNW of Three Rivers, Texas",earthquake,0.58447539485843,0.68193304700897,0.2,6.0,reviewed,tx,tx
