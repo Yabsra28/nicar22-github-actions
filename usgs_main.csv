@@ -9074,3 +9074,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T10:20:18.749Z,53.3162,-159.955,10.0,3.8,mb,43.0,170.0,1.533,0.7,us,us7000qr9t,2025-08-28T05:17:04.040Z,"227 km S of Sand Point, Alaska",earthquake,6.7,1.771,0.253,4.0,reviewed,us,us
 2025-08-28T05:21:57.469Z,15.1616,-96.4404,10.0,4.1,mb,42.0,168.0,3.141,0.44,us,us7000qrhk,2025-08-28T05:41:00.987Z,"56 km S of Puerto Ángel, Mexico",earthquake,11.56,1.966,0.073,51.0,reviewed,us,us
 2025-08-27T12:50:01.460Z,32.0609,131.8678,50.593,4.4,mb,29.0,125.0,1.325,1.03,us,us7000qra5,2025-08-28T05:36:01.040Z,"35 km SE of Tsunō, Japan",earthquake,5.81,8.481,0.112,23.0,reviewed,us,us
+2025-08-28T05:52:40.634Z,60.2523,-141.1083,18.4,1.5,ml,,,,0.68,ak,ak025b109owv,2025-08-28T05:54:32.963Z,"110 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-28T05:49:30.461Z,58.2372,-155.1722,1.1,0.5,ml,,,,0.13,ak,ak025b1090za,2025-08-28T05:50:58.554Z,"85 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
