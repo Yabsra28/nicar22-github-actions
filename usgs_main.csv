@@ -9047,3 +9047,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T03:17:43.650Z,33.0373333,-116.2026667,3.68,1.84,ml,77.0,32.0,0.1182,0.24,ci,ci41277096,2025-08-28T03:28:32.840Z,"14 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.72,0.123,27.0,automatic,ci,ci
 2025-08-28T03:12:50.565Z,26.6688,127.7041,44.811,4.8,mww,48.0,66.0,0.535,1.03,us,us7000qrhb,2025-08-28T03:38:54.658Z,"11 km WSW of Ie, Japan",earthquake,7.98,7.206,0.086,13.0,reviewed,us,us
 2025-08-28T03:11:19.646Z,65.0949,-148.6632,17.2,0.7,ml,,,,0.26,ak,ak025b0ytzq4,2025-08-28T03:12:32.978Z,"32 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-28T03:46:14.940Z,33.0386667,-116.1951667,4.23,0.91,ml,44.0,52.0,0.1189,0.22,ci,ci41277120,2025-08-28T03:49:55.462Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.69,0.124,17.0,automatic,ci,ci
+2025-08-27T17:44:42.140Z,54.842166666667,-161.9245,5.63,1.24,ml,5.0,294.0,0.2647,0.05,av,av93049144,2025-08-28T03:54:04.060Z,"35 km SE of King Cove, Alaska",earthquake,0.6,0.8,0.22521365478204,5.0,reviewed,av,av
