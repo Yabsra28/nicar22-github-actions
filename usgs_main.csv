@@ -9137,3 +9137,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T11:25:25.310Z,39.436332702637,-120.29699707031,4.7800002098083,1.91,md,10.0,131.0,0.2107,0.04,nc,nc75229842,2025-08-28T11:27:03.288Z,"16 km NNW of Truckee, CA",earthquake,0.42,2.48000002,0.14,7.0,automatic,nc,nc
 2025-08-28T11:15:01.370Z,41.098499298096,-122.18283081055,3.4800000190735,2.95,md,8.0,204.0,0.6763,0.53,nc,nc75229827,2025-08-28T11:23:52.996Z,"14 km SSE of Dunsmuir, CA",earthquake,3.54,41.1599998,0.44,9.0,automatic,nc,nc
 2025-08-28T11:07:48.211Z,52.0002,179.8605,133.726,5.9,mww,100.0,31.0,0.145,1.03,us,us7000qrj0,2025-08-28T11:23:21.040Z,"241 km W of Adak, Alaska",earthquake,3.76,4.491,0.034,82.0,reviewed,us,us
+2025-08-28T12:11:19.251Z,31.581,-104.557,2.4701,1.7,ml,19.0,120.0,0.1,0.3,tx,tx2025qxqtzc,2025-08-28T12:14:42.452Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,1.5953718423843,0.1,14.0,automatic,tx,tx
+2025-08-28T12:03:54.681Z,37.1987,-117.6016,6.4,0.8,ml,8.0,162.86,0.276,0.2232,nn,nn00903285,2025-08-28T12:06:18.913Z,"61 km E of Big Pine, California",earthquake,,1.9,0.38,3.0,automatic,nn,nn
+2025-08-28T12:03:53.158Z,61.5837,-149.6832,32.4,2.2,ml,,,,0.43,ak,ak025b14590z,2025-08-28T12:05:26.307Z,"6 km SW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-28T12:00:59.450Z,33.0363333,-116.1991667,3.24,1.08,ml,56.0,33.0,0.1196,0.23,ci,ci41277320,2025-08-28T12:04:47.994Z,"14 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.82,0.175,10.0,automatic,ci,ci
+2025-08-28T11:40:24.099Z,-20.7433,169.6472,78.19,5.2,mww,49.0,86.0,2.766,0.99,us,us7000qrj3,2025-08-28T11:57:42.040Z,"138 km SSE of Isangel, Vanuatu",earthquake,7.4,6.731,0.089,12.0,reviewed,us,us
