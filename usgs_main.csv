@@ -9177,3 +9177,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T14:16:31.161Z,48.8324,156.0893,10.0,4.9,mb,53.0,135.0,4.401,0.62,us,us7000qrjt,2025-08-28T14:46:02.040Z,"204 km S of Severo-Kuril’sk, Russia",earthquake,12.11,1.904,0.049,134.0,reviewed,us,us
 2025-08-28T10:22:11.380Z,34.225,-117.4555,13.6,0.6,ml,22.0,58.0,0.02404,0.17,ci,ci41277272,2025-08-28T14:47:11.501Z,"5 km W of Devore, CA",earthquake,0.32,0.41,0.136,7.0,reviewed,ci,ci
 2025-08-27T22:53:21.233Z,28.65,-98.264,8.5345,1.1,ml,14.0,59.0,0.0,0.2,tx,tx2025qwqixy,2025-08-28T14:44:17.493Z,"22 km NNW of Three Rivers, Texas",earthquake,0.58447539485843,0.68193304700897,0.2,6.0,reviewed,tx,tx
+2025-08-28T15:04:30.855Z,37.1939,-114.8675,5.9,1.2,ml,13.0,233.1,0.258,0.3464,nn,nn00903294,2025-08-28T15:07:11.125Z,"32 km SE of Alamo, Nevada",earthquake,,4.5,0.26,10.0,automatic,nn,nn
+2025-08-28T14:46:05.783Z,13.1736,-90.9886,35.0,4.6,mb,29.0,172.0,1.381,0.79,us,us7000qrjv,2025-08-28T15:02:30.040Z,"85 km SSW of Puerto San José, Guatemala",earthquake,7.34,1.972,0.04,188.0,reviewed,us,us
+2025-08-28T09:29:24.270Z,47.569999694824,-121.71483612061,10.050000190735,1.7175031900406,ml,32.0,61.0,0.1259,0.0900000036,uw,uw62177431,2025-08-28T15:11:59.420Z,"9 km ENE of Snoqualmie, Washington",earthquake,0.25,1.05999994,0.14077073335648,5.0,reviewed,uw,uw
