@@ -9064,3 +9064,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T16:53:22.250Z,54.7505,-164.00833333333,-0.28,0.35,ml,5.0,117.0,0.04164,0.15,av,av93737193,2025-08-28T04:29:00.500Z,"40 km WSW of False Pass, Alaska",earthquake,0.28,0.66,0.35272904823443,5.0,reviewed,av,av
 2025-08-28T04:47:56.170Z,33.5328333,-116.7225,5.76,0.62,ml,35.0,28.0,0.03475,0.13,ci,ci41277144,2025-08-28T04:51:26.836Z,"5 km WSW of Anza, CA",earthquake,0.14,0.34,0.153,18.0,automatic,ci,ci
 2025-08-28T04:31:38.082Z,-5.7517,152.5514,10.0,5.1,mb,48.0,84.0,1.598,1.03,us,us7000qrhi,2025-08-28T04:48:48.040Z,"158 km SSE of Kokopo, Papua New Guinea",earthquake,8.58,1.878,0.052,119.0,reviewed,us,us
+2025-08-28T05:03:03.590Z,33.0358333,-116.196,4.62,0.92,ml,46.0,52.0,0.1213,0.23,ci,ci41277152,2025-08-28T05:06:35.191Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.69,0.12,17.0,automatic,ci,ci
+2025-08-28T04:56:58.100Z,38.835498809815,-122.811668396,1.9900000095367,0.69,md,10.0,99.0,0.01215,0.02,nc,nc75229697,2025-08-28T04:58:33.154Z,"8 km WNW of Cobb, CA",earthquake,0.43,0.75999999,0.41,10.0,automatic,nc,nc
+2025-08-27T09:31:35.603Z,2.7153,-76.7013,10.0,4.4,mb,50.0,107.0,2.263,0.67,us,us7000qr9r,2025-08-28T05:05:16.040Z,"9 km WSW of Morales, Colombia",earthquake,6.03,1.65,0.093,33.0,reviewed,us,us
