@@ -9072,3 +9072,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T11:41:36.955Z,-33.8306,-72.201,27.279,4.0,mb,19.0,188.0,0.519,0.45,us,us7000qr9y,2025-08-28T05:29:05.040Z,"60 km WSW of San Antonio, Chile",earthquake,6.09,8.471,0.231,5.0,reviewed,us,us
 2025-08-27T11:37:03.528Z,11.3215,-86.8072,35.0,4.4,mb,79.0,191.0,0.988,0.88,us,us7000qr9x,2025-08-28T05:26:19.040Z,"60 km SSW of Masachapa, Nicaragua",earthquake,5.49,1.907,0.065,67.0,reviewed,us,us
 2025-08-27T10:20:18.749Z,53.3162,-159.955,10.0,3.8,mb,43.0,170.0,1.533,0.7,us,us7000qr9t,2025-08-28T05:17:04.040Z,"227 km S of Sand Point, Alaska",earthquake,6.7,1.771,0.253,4.0,reviewed,us,us
+2025-08-28T05:21:57.469Z,15.1616,-96.4404,10.0,4.1,mb,42.0,168.0,3.141,0.44,us,us7000qrhk,2025-08-28T05:41:00.987Z,"56 km S of Puerto Ángel, Mexico",earthquake,11.56,1.966,0.073,51.0,reviewed,us,us
+2025-08-27T12:50:01.460Z,32.0609,131.8678,50.593,4.4,mb,29.0,125.0,1.325,1.03,us,us7000qra5,2025-08-28T05:36:01.040Z,"35 km SE of Tsunō, Japan",earthquake,5.81,8.481,0.112,23.0,reviewed,us,us
