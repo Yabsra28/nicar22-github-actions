@@ -9159,3 +9159,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T07:02:24.490Z,44.803166666667,-110.84933333333,9.77,2.34,ml,30.0,67.0,0.1177,0.13,uu,uu80114931,2025-08-28T13:40:36.180Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.28,0.75,0.15640097642608,11.0,reviewed,uu,uu
 2025-08-28T04:13:34.840Z,37.5005,-113.848,6.95,1.31,ml,8.0,175.0,0.03928,0.07,uu,uu80114896,2025-08-28T13:43:05.840Z,"13 km SW of Enterprise, Utah",earthquake,0.86,0.79,0.13019565450801,5.0,reviewed,uu,uu
 2025-08-27T23:12:33.280Z,43.726166666667,-110.52883333333,2.94,0.08,ml,5.0,225.0,0.1261,0.27,mb,mb90109088,2025-08-28T13:39:37.710Z,"13 km NNE of Kelly, Wyoming",earthquake,1.84,3.95,0.1392073846465,5.0,reviewed,mb,mb
+2025-08-28T13:49:09.285Z,60.0622,-152.9349,108.8,1.8,ml,,,,0.1,ak,ak025b150g6o,2025-08-28T13:50:33.805Z,"68 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-27T19:00:05.490Z,35.62083333,-98.03483333,6.19,1.23,ml,58.0,52.0,0.159268746,0.47,ok,ok2025quhi,2025-08-28T13:52:14.093Z,"7 km ENE of Calumet, Oklahoma",earthquake,,1.4,0.26,25.0,reviewed,ok,ok
