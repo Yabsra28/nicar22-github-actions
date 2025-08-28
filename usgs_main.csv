@@ -9067,3 +9067,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T05:03:03.590Z,33.0358333,-116.196,4.62,0.92,ml,46.0,52.0,0.1213,0.23,ci,ci41277152,2025-08-28T05:06:35.191Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.69,0.12,17.0,automatic,ci,ci
 2025-08-28T04:56:58.100Z,38.835498809815,-122.811668396,1.9900000095367,0.69,md,10.0,99.0,0.01215,0.02,nc,nc75229697,2025-08-28T04:58:33.154Z,"8 km WNW of Cobb, CA",earthquake,0.43,0.75999999,0.41,10.0,automatic,nc,nc
 2025-08-27T09:31:35.603Z,2.7153,-76.7013,10.0,4.4,mb,50.0,107.0,2.263,0.67,us,us7000qr9r,2025-08-28T05:05:16.040Z,"9 km WSW of Morales, Colombia",earthquake,6.03,1.65,0.093,33.0,reviewed,us,us
+2025-08-28T05:22:49.920Z,38.816333770752,-122.813331604,2.9300000667572,0.78,md,13.0,76.0,0.01445,0.02,nc,nc75229702,2025-08-28T05:24:27.338Z,"7 km NW of The Geysers, CA",earthquake,0.33,1.13,0.3,13.0,automatic,nc,nc
+2025-08-28T05:12:51.260Z,39.0708,-119.0225,0.0,0.9,ml,9.0,131.96,0.19,0.2617,nn,nn00903266,2025-08-28T05:15:17.793Z,"15 km NE of Yerington, Nevada",earthquake,,11.3,0.36,5.0,automatic,nn,nn
+2025-08-27T11:41:36.955Z,-33.8306,-72.201,27.279,4.0,mb,19.0,188.0,0.519,0.45,us,us7000qr9y,2025-08-28T05:29:05.040Z,"60 km WSW of San Antonio, Chile",earthquake,6.09,8.471,0.231,5.0,reviewed,us,us
+2025-08-27T11:37:03.528Z,11.3215,-86.8072,35.0,4.4,mb,79.0,191.0,0.988,0.88,us,us7000qr9x,2025-08-28T05:26:19.040Z,"60 km SSW of Masachapa, Nicaragua",earthquake,5.49,1.907,0.065,67.0,reviewed,us,us
+2025-08-27T10:20:18.749Z,53.3162,-159.955,10.0,3.8,mb,43.0,170.0,1.533,0.7,us,us7000qr9t,2025-08-28T05:17:04.040Z,"227 km S of Sand Point, Alaska",earthquake,6.7,1.771,0.253,4.0,reviewed,us,us
