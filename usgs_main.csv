@@ -9463,3 +9463,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T23:07:46.299Z,35.625,-98.03483333,7.82,1.15,ml,53.0,39.0,0.1583689226,0.47,ok,ok2025qwla,2025-08-29T13:06:53.606Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.2,0.25,26.0,reviewed,ok,ok
 2025-08-29T13:32:18.707Z,32.423,-102.027,6.0303,0.7,ml,11.0,81.0,0.0,0.2,tx,tx2025qzpffk,2025-08-29T13:39:49.671Z,"31 km WSW of Ackerly, Texas",earthquake,0.63423434163744,1.2794665521677,0.1,7.0,reviewed,tx,tx
 2025-08-29T10:31:29.700Z,44.809666666667,-111.52983333333,11.86,0.28,ml,8.0,107.0,0.02326,0.2,mb,mb90109413,2025-08-29T13:39:34.850Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.76,0.15413358575359,6.0,reviewed,mb,mb
+2025-08-29T02:41:15.280Z,44.814,-111.538,11.63,1.13,ml,17.0,69.0,0.01948,0.19,mb,mb90109358,2025-08-29T13:46:06.720Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.39,0.55,0.26467903378647,19.0,reviewed,mb,mb
