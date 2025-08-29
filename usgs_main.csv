@@ -9529,3 +9529,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T09:47:23.700Z,44.577333333333,-112.21766666667,5.84,1.37,ml,20.0,52.0,0.1272,0.11,mb,mb90109458,2025-08-29T16:47:06.600Z,"24 km N of Spencer, Idaho",earthquake,0.28,2.13,0.15277059458255,16.0,reviewed,mb,mb
 2025-08-29T04:54:08.209Z,31.595,-104.108,6.3562,0.8,ml,18.0,80.0,0.0,0.1,tx,tx2025qyyasa,2025-08-29T16:38:07.054Z,"43 km NW of Toyah, Texas",earthquake,0.70481695868138,0.55321745860944,0.2,15.0,reviewed,tx,tx
 2025-08-28T17:58:19.061Z,31.731,-104.263,7.7917,0.8,ml,11.0,61.0,0.0,0.1,tx,tx2025qychaz,2025-08-29T16:40:13.067Z,"50 km SSE of Whites City, New Mexico",earthquake,1.0481105863725,1.1540670494816,0.2,10.0,reviewed,tx,tx
+2025-08-29T16:54:10.662Z,61.279,-152.3474,17.4,0.2,ml,,,,0.19,ak,ak025b2ud66i,2025-08-29T16:55:21.347Z,"69 km WNW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-08-29T16:29:21.285Z,38.3686,142.1629,44.41,5.5,mww,51.0,100.0,2.562,0.86,us,us7000qrw3,2025-08-29T16:57:06.460Z,"63 km E of Onagawa Chō, Japan",earthquake,7.74,7.342,0.059,28.0,reviewed,us,us
+2025-08-29T15:27:56.040Z,33.6931667,-117.4251667,4.13,0.24,ml,3.0,152.0,0.04399,0.0,ci,ci41278400,2025-08-29T16:48:42.992Z,"10 km WNW of Lake Elsinore, CA",earthquake,0.6,0.7,0.115,2.0,reviewed,ci,ci
+2025-08-29T09:14:21.140Z,44.7995,-111.605,12.34,0.34,ml,10.0,88.0,0.03126,0.06,mb,mb90109468,2025-08-29T16:58:24.770Z,"32 km W of Hebgen Lake Estates, Montana",earthquake,0.29,0.81,0.092088724208757,5.0,reviewed,mb,mb
+2025-08-29T06:53:40.921Z,31.626,-104.469,8.4326,1.2,ml,15.0,69.0,0.0,0.1,tx,tx2025qzbzsb,2025-08-29T16:53:50.481Z,"61 km S of Whites City, New Mexico",earthquake,1.7862768688452,1.4682245584235,0.1,16.0,reviewed,tx,tx
