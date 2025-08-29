@@ -9393,3 +9393,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T07:05:00.980Z,38.816833496094,-122.79516601562,2.4800000190735,0.77,md,14.0,46.0,0.008853,0.01,nc,nc75230252,2025-08-29T07:22:18.431Z,"6 km NNW of The Geysers, CA",earthquake,0.29,0.620000005,0.15,15.0,automatic,nc,nc
 2025-08-29T06:57:58.780Z,38.200832366943,-119.27383422852,9.1199998855591,2.3,md,24.0,84.0,0.1975,0.17,nc,nc75230247,2025-08-29T07:07:17.313Z,"7 km SW of Bridgeport, CA",earthquake,0.56,2.91000009,0.32,17.0,automatic,nc,nc
 2025-08-29T06:53:22.239Z,51.5675,159.7142,10.0,4.9,mb,70.0,123.0,1.598,1.03,us,us7000qrtw,2025-08-29T07:10:56.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.57,1.878,0.05,126.0,reviewed,us,us
+2025-08-29T07:23:42.290Z,33.3255,-116.2856667,8.47,0.33,ml,26.0,70.0,0.04187,0.16,ci,ci41277976,2025-08-29T07:27:06.946Z,"11 km NE of Borrego Springs, CA",earthquake,0.23,0.45,0.106,3.0,automatic,ci,ci
