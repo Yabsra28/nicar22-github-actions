@@ -9419,3 +9419,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T09:51:30.378Z,38.5084,-119.2675,1.2,1.0,ml,13.0,107.32,0.134,0.1538,nn,nn00903376,2025-08-29T09:53:56.428Z,"18 km E of Walker, California",earthquake,,2.8,0.21,8.0,automatic,nn,nn
 2025-08-29T09:35:02.230Z,41.206,-116.7185,7.4,3.2,ml,9.0,142.48,0.32,0.1237,nn,nn00903363,2025-08-29T10:01:59.651Z,"57 km NE of Valmy, Nevada",earthquake,,3.1,0.19,8.0,reviewed,nn,nn
 2025-08-29T06:06:12.894Z,31.602,-104.115,6.4716,1.5,ml,31.0,59.0,0.0,0.2,tx,tx2025qzakut,2025-08-29T10:06:16.555Z,"44 km NW of Toyah, Texas",earthquake,0.58279547977585,0.40982350373353,0.1,17.0,reviewed,tx,tx
+2025-08-29T10:31:52.880Z,33.3048333,-116.434,13.61,0.69,ml,9.0,139.0,0.2359,0.14,ci,ci41278088,2025-08-29T10:35:23.998Z,"8 km NW of Borrego Springs, CA",earthquake,0.94,2.37,0.094,4.0,automatic,ci,ci
+2025-08-29T10:23:21.413Z,61.3016,-150.5777,27.9,2.2,ml,,,,0.7,ak,ak025b2qly6l,2025-08-29T10:25:21.545Z,"27 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-29T10:20:44.429Z,35.62650681,-98.03231049,5.0,2.61,ml,79.0,31.66392517,0.159821555,0.7873175666,ok,ok2025qxhf,2025-08-29T10:25:00.787Z,"8 km ENE of Calumet, Oklahoma",earthquake,1.279542635,,0.29,57.0,automatic,ok,ok
