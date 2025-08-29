@@ -9575,3 +9575,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T06:11:21.110Z,46.185666666667,-122.19433333333,2.66,-0.15,ml,6.0,149.0,0.07133,0.05,uw,uw62178016,2025-08-29T18:38:37.750Z,"36 km NNE of Amboy, Washington",earthquake,0.29,9.45,0.13209233154293,6.0,reviewed,uw,uw
 2025-08-29T10:22:19.060Z,47.7615,-122.82166666667,22.03,0.38,md,5.0,176.0,0.06829,0.15,uw,uw62178086,2025-08-29T18:54:36.910Z,"7 km SSE of Quilcene, Washington",earthquake,0.91,0.99,0.19385245215298,5.0,reviewed,uw,uw
 2025-08-29T09:56:07.220Z,46.188333333333,-122.1945,4.51,-0.18,ml,7.0,113.0,0.01841,0.08,uw,uw62178076,2025-08-29T18:51:32.030Z,"36 km NNE of Amboy, Washington",earthquake,0.31,1.43,0.1382258936948,3.0,reviewed,uw,uw
+2025-08-29T19:19:31.931Z,61.5303,-151.4502,17.1,1.2,ml,,,,0.56,ak,ak025b2vy0kp,2025-08-29T19:21:21.517Z,"47 km NNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
