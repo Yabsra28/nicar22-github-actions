@@ -9595,3 +9595,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T11:50:27.490Z,54.7535,-163.97,-2.3,0.1,ml,4.0,115.0,0.04687,0.2,av,av93740443,2025-08-29T20:12:43.150Z,"37 km WSW of False Pass, Alaska",earthquake,0.48,1.01,0.25805169989105,4.0,reviewed,av,av
 2025-08-29T11:28:58.100Z,54.7515,-163.9785,-0.74,0.4,ml,5.0,96.0,0.0435,0.38,av,av93740423,2025-08-29T20:09:27.100Z,"38 km WSW of False Pass, Alaska",earthquake,0.62,0.81,0.36410181772487,5.0,reviewed,av,av
 2025-08-29T01:51:20.103Z,61.35,-147.35,0.0,1.4,ml,,,,0.82,ak,ak025b2lf1oq,2025-08-29T20:25:14.470Z,"53 km SSE of Glacier View, Alaska",landslide,,0.0,,,reviewed,ak,ak
+2025-08-29T20:34:52.298Z,36.6449,-115.8588,5.8,0.6,ml,16.0,295.15,0.085,0.2965,nn,nn00903400,2025-08-29T20:37:01.932Z,"18 km WNW of Indian Springs, Nevada",earthquake,,1.0,0.74,11.0,automatic,nn,nn
+2025-08-29T20:34:27.380Z,35.988,-117.9295,1.12,0.82,ml,22.0,68.0,0.03733,0.12,ci,ci41278752,2025-08-29T20:37:58.409Z,"6 km NNW of Little Lake, CA",earthquake,0.17,0.22,0.215,12.0,automatic,ci,ci
+2025-08-29T20:32:31.107Z,32.3,-101.812,3.9074,2.3,ml,76.0,35.0,0.0,0.4,tx,tx2025raddey,2025-08-29T20:36:58.671Z,"19 km N of Stanton, Texas",earthquake,0.0,0.59966760873795,0.2,49.0,automatic,tx,tx
+2025-08-29T19:57:02.770Z,35.63133333,-98.03733333,7.48,1.11,ml,74.0,50.0,0.1547696289,0.24,ok,ok2025qyaf,2025-08-29T20:33:42.789Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.5,0.25,33.0,reviewed,ok,ok
+2025-08-29T19:35:52.480Z,44.8065,-111.52716666667,13.41,0.95,ml,12.0,104.0,0.0246,0.16,mb,mb90109553,2025-08-29T20:36:36.680Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.45,0.77,0.173042527384,9.0,reviewed,mb,mb
+2025-08-29T16:01:33.060Z,38.503333333333,-112.89516666667,2.3,0.89,md,10.0,73.0,0.007188,0.06,uu,uu80115201,2025-08-29T20:40:37.610Z,"15 km NE of Milford, Utah",earthquake,0.29,0.47,0.59600844708741,7.0,reviewed,uu,uu
+2025-08-29T14:55:33.530Z,54.7515,-164.01516666667,1.75,0.48,ml,5.0,122.0,0.04341,0.32,av,av93740633,2025-08-29T20:35:59.760Z,"40 km WSW of False Pass, Alaska",earthquake,0.77,1.25,0.28769693498116,5.0,reviewed,av,av
