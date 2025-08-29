@@ -9612,3 +9612,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T20:52:17.740Z,46.317166666667,-111.63066666667,-2.0,1.86,ml,11.0,93.0,0.3101,0.07,mb,mb90109588,2025-08-29T21:25:54.750Z,"8 km W of Townsend, Montana",quarry blast,0.32,31.61,0.19805051136291,23.0,reviewed,mb,mb
 2025-08-29T20:27:32.800Z,44.81,-111.537,11.87,0.51,ml,10.0,113.0,0.01845,0.15,mb,mb90109578,2025-08-29T21:12:16.060Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.36,0.69,0.1093777323779,7.0,reviewed,mb,mb
 2025-08-29T20:20:22.700Z,33.6525,-116.9465,11.7,0.25,ml,9.0,101.0,0.03934,0.13,ci,ci37740484,2025-08-29T21:17:31.794Z,"11 km SSE of Hemet, CA",earthquake,0.56,0.69,0.098,5.0,reviewed,ci,ci
+2025-08-29T21:31:42.075Z,63.477,-149.6584,2.1,2.9,ml,,,,0.78,ak,ak025b2x7h3w,2025-08-29T21:33:35.879Z,"36 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-29T21:31:25.700Z,33.2485,-116.3805,4.78,0.82,ml,33.0,42.0,0.03646,0.18,ci,ci41278832,2025-08-29T21:35:39.444Z,"1 km SSW of Borrego Springs, CA",earthquake,0.2,0.37,0.109,20.0,automatic,ci,ci
+2025-08-29T21:29:44.400Z,39.747001647949,-122.0316696167,4.5700001716614,1.95,md,4.0,149.0,0.143,0.01,nc,nc75230512,2025-08-29T21:31:21.106Z,"2 km WNW of Hamilton City, CA",earthquake,0.58,4.42000008,0.14,5.0,automatic,nc,nc
+2025-08-29T21:29:01.525Z,31.16,-103.482,6.1311,1.0,ml,10.0,147.0,0.0,0.8,tx,tx2025raezza,2025-08-29T21:33:56.949Z,"23 km SSE of Lindsay, Texas",earthquake,0.0,3.9901020526886,0.3,7.0,automatic,tx,tx
+2025-08-29T03:18:46.456Z,43.4237,131.4356,541.434,4.0,mb,51.0,73.0,0.873,0.71,us,us7000qrt5,2025-08-29T21:33:38.040Z,"25 km N of Barabash, Russia",earthquake,13.14,9.667,0.08,42.0,reviewed,us,us
