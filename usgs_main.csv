@@ -9413,3 +9413,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T09:07:20.120Z,32.7521667,-115.8655,4.06,1.11,ml,23.0,45.0,0.1148,0.31,ci,ci41278048,2025-08-29T09:11:00.326Z,"12 km E of Ocotillo, CA",earthquake,0.39,1.5,0.446,8.0,automatic,ci,ci
 2025-08-29T09:05:04.978Z,41.1931,-116.7005,8.2,3.4,ml,9.0,125.04,0.301,0.1318,nn,nn00903349,2025-08-29T09:27:59.972Z,"57 km NE of Valmy, Nevada",earthquake,,5.3,0.22,8.0,reviewed,nn,nn
 2025-08-29T09:14:25.125Z,51.6321,179.558,83.028,5.5,mb,103.0,118.0,0.268,0.57,us,us7000qru7,2025-08-29T09:39:17.248Z,"264 km W of Adak, Alaska",earthquake,6.14,4.606,0.022,743.0,reviewed,us,us
+2025-08-29T09:18:26.000Z,41.2068,-116.7056,8.2,3.6,ml,9.0,156.56,0.313,0.1403,nn,nn00903355,2025-08-29T09:46:29.185Z,"58 km NE of Valmy, Nevada",earthquake,,3.1,0.12,8.0,reviewed,nn,nn
