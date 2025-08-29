@@ -9369,3 +9369,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T05:08:06.770Z,33.3268333,-116.4095,6.52,0.58,ml,35.0,45.0,0.03546,0.19,ci,ci41277864,2025-08-29T05:11:39.709Z,"8 km NNW of Borrego Springs, CA",earthquake,0.18,0.48,0.138,14.0,automatic,ci,ci
 2025-08-29T04:22:24.855Z,62.2278,-148.0592,4.2,1.9,ml,,,,0.61,ak,ak025b2n153p,2025-08-29T05:07:11.660Z,"51 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-28T23:04:02.100Z,51.938666666667,178.29783333333,8.11,1.37,ml,4.0,345.0,0.1325,0.12,av,av93739693,2025-08-29T05:10:30.500Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.7,4.32,0.28222228528043,4.0,reviewed,av,av
+2025-08-29T05:28:58.700Z,36.8457,-115.9892,9.7,-0.1,ml,13.0,131.23,0.06,0.1689,nn,nn00903330,2025-08-29T05:31:04.424Z,"41 km NW of Indian Springs, Nevada",earthquake,,1.0,0.31,8.0,automatic,nn,nn
+2025-08-29T05:22:50.095Z,63.1914,-149.5084,75.3,1.8,ml,,,,0.59,ak,ak025b2nmmnl,2025-08-29T05:24:55.916Z,"35 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
