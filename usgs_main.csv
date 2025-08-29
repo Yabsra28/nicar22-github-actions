@@ -9641,3 +9641,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T22:58:35.547Z,50.8364,157.1925,85.034,5.2,mb,93.0,120.0,2.297,0.87,us,us7000qsfb,2025-08-29T23:16:58.040Z,"77 km ENE of Severo-Kuril’sk, Russia",earthquake,8.71,3.591,0.022,676.0,reviewed,us,us
 2025-08-29T22:46:39.150Z,33.5396667,-116.7155,4.94,0.27,ml,7.0,131.0,0.03147,0.06,ci,ci37740492,2025-08-29T23:20:38.583Z,"4 km WSW of Anza, CA",earthquake,0.25,0.53,0.114,7.0,reviewed,ci,ci
 2025-08-29T10:26:13.620Z,52.820666666667,-169.764,8.21,0.8,ml,4.0,161.0,0.04229,0.05,av,av93740358,2025-08-29T23:12:12.570Z,"62 km WSW of Nikolski, Alaska",earthquake,1.51,0.89,0.23371268925724,4.0,reviewed,av,av
+2025-08-29T11:38:36.070Z,58.23,-154.928,3.08,0.24,ml,4.0,280.0,0.05993,0.2,av,av93740428,2025-08-29T23:37:33.650Z,"78 km NNW of Karluk, Alaska",earthquake,1.24,2.19,0.2938310860883,4.0,reviewed,av,av
