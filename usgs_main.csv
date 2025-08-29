@@ -9422,3 +9422,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T10:31:52.880Z,33.3048333,-116.434,13.61,0.69,ml,9.0,139.0,0.2359,0.14,ci,ci41278088,2025-08-29T10:35:23.998Z,"8 km NW of Borrego Springs, CA",earthquake,0.94,2.37,0.094,4.0,automatic,ci,ci
 2025-08-29T10:23:21.413Z,61.3016,-150.5777,27.9,2.2,ml,,,,0.7,ak,ak025b2qly6l,2025-08-29T10:25:21.545Z,"27 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-29T10:20:44.429Z,35.62650681,-98.03231049,5.0,2.61,ml,79.0,31.66392517,0.159821555,0.7873175666,ok,ok2025qxhf,2025-08-29T10:25:00.787Z,"8 km ENE of Calumet, Oklahoma",earthquake,1.279542635,,0.29,57.0,automatic,ok,ok
+2025-08-29T10:45:28.111Z,61.8207,-149.3758,19.3,1.2,ml,,,,0.41,ak,ak025b2qqogb,2025-08-29T10:47:40.693Z,"11 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-29T10:43:59.643Z,36.7698,-116.2619,14.1,-0.2,ml,8.0,134.03,0.058,0.2448,nn,nn00903382,2025-08-29T10:46:05.349Z,"46 km ESE of Beatty, Nevada",earthquake,,1.9,0.23,5.0,automatic,nn,nn
+2025-08-29T10:37:00.260Z,37.2952,-117.613,1.8,1.2,ml,21.0,156.46,0.28,0.3269,nn,nn00903380,2025-08-29T10:39:48.221Z,"51 km S of Silver Peak, Nevada",earthquake,,15.3,0.2,15.0,automatic,nn,nn
+2025-08-29T09:44:05.891Z,41.2376,-116.6947,8.8,3.6,ml,10.0,126.58,0.328,0.1402,nn,nn00903367,2025-08-29T10:44:00.089Z,"61 km NE of Valmy, Nevada",earthquake,,3.2,0.18,8.0,reviewed,nn,nn
