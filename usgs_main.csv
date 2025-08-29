@@ -9608,3 +9608,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T21:07:46.900Z,61.1333,-152.3777,9.9,1.0,ml,,,,1.24,ak,ak025b2x2cci,2025-08-29T21:09:16.733Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-29T20:18:57.210Z,44.808833333333,-111.5275,11.18,0.51,ml,10.0,106.0,0.07274,0.12,mb,mb90109563,2025-08-29T21:04:13.820Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.44,0.83,0.12906141594945,7.0,reviewed,mb,mb
 2025-08-29T19:38:50.750Z,44.811166666667,-111.532,10.37,0.38,ml,6.0,143.0,0.07517,0.09,mb,mb90109558,2025-08-29T21:00:37.790Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.51,0.8,0.20975690668606,6.0,reviewed,mb,mb
+2025-08-29T21:18:52.960Z,33.5348333,-116.712,2.65,0.57,ml,20.0,54.0,0.03709,0.12,ci,ci41278808,2025-08-29T21:22:19.506Z,"4 km WSW of Anza, CA",earthquake,0.16,0.19,0.152,15.0,automatic,ci,ci
+2025-08-29T20:52:17.740Z,46.317166666667,-111.63066666667,-2.0,1.86,ml,11.0,93.0,0.3101,0.07,mb,mb90109588,2025-08-29T21:25:54.750Z,"8 km W of Townsend, Montana",quarry blast,0.32,31.61,0.19805051136291,23.0,reviewed,mb,mb
+2025-08-29T20:27:32.800Z,44.81,-111.537,11.87,0.51,ml,10.0,113.0,0.01845,0.15,mb,mb90109578,2025-08-29T21:12:16.060Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.36,0.69,0.1093777323779,7.0,reviewed,mb,mb
+2025-08-29T20:20:22.700Z,33.6525,-116.9465,11.7,0.25,ml,9.0,101.0,0.03934,0.13,ci,ci37740484,2025-08-29T21:17:31.794Z,"11 km SSE of Hemet, CA",earthquake,0.56,0.69,0.098,5.0,reviewed,ci,ci
