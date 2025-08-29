@@ -9386,3 +9386,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T06:28:18.554Z,31.635,-104.483,2.9728,2.7,ml,34.0,105.0,0.0,0.3,tx,tx2025qzbdup,2025-08-29T06:32:29.371Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.1199783086777,0.1,24.0,automatic,tx,tx
 2025-08-29T06:28:18.363Z,31.63,-104.486,3.3261,2.7,ml,22.0,197.0,0.0,0.2,tx,tx2025qzbdwa,2025-08-29T06:37:04.040Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.5642273426056,0.1,18.0,automatic,tx,tx
 2025-08-29T06:22:49.470Z,33.9008333,-116.8975,15.64,0.77,ml,41.0,38.0,0.107,0.15,ci,ci41277928,2025-08-29T06:26:18.916Z,"3 km SW of Banning, CA",earthquake,0.17,0.43,0.169,29.0,automatic,ci,ci
+2025-08-29T06:47:05.399Z,59.9905,-140.9907,19.3,1.8,ml,,,,1.04,ak,ak025b2odbpn,2025-08-29T06:49:22.316Z,"86 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-29T06:46:16.490Z,33.4733333,-116.509,7.18,0.7,ml,47.0,35.0,0.08075,0.19,ci,ci41277968,2025-08-29T06:49:51.305Z,"18 km ESE of Anza, CA",earthquake,0.16,0.62,0.171,21.0,automatic,ci,ci
+2025-08-29T06:24:36.761Z,41.1824,-116.7047,8.7,3.5,ml,9.0,141.54,0.297,0.1572,nn,nn00903335,2025-08-29T06:51:36.046Z,"55 km NE of Valmy, Nevada",earthquake,,6.3,0.13,8.0,reviewed,nn,nn
