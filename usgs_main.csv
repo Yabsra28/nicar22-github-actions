@@ -9371,3 +9371,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T23:04:02.100Z,51.938666666667,178.29783333333,8.11,1.37,ml,4.0,345.0,0.1325,0.12,av,av93739693,2025-08-29T05:10:30.500Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.7,4.32,0.28222228528043,4.0,reviewed,av,av
 2025-08-29T05:28:58.700Z,36.8457,-115.9892,9.7,-0.1,ml,13.0,131.23,0.06,0.1689,nn,nn00903330,2025-08-29T05:31:04.424Z,"41 km NW of Indian Springs, Nevada",earthquake,,1.0,0.31,8.0,automatic,nn,nn
 2025-08-29T05:22:50.095Z,63.1914,-149.5084,75.3,1.8,ml,,,,0.59,ak,ak025b2nmmnl,2025-08-29T05:24:55.916Z,"35 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-29T05:35:03.120Z,33.681,-116.797,16.4,1.44,ml,78.0,24.0,0.0662,0.2,ci,ci41277896,2025-08-29T05:39:22.485Z,"10 km SW of Idyllwild, CA",earthquake,0.14,0.32,0.165,27.0,automatic,ci,ci
+2025-08-29T05:34:24.940Z,33.6816667,-116.7963333,16.91,1.15,ml,60.0,25.0,0.06707,0.17,ci,ci41277880,2025-08-29T05:37:51.848Z,"10 km SW of Idyllwild, CA",earthquake,0.15,0.32,0.184,27.0,automatic,ci,ci
+2025-08-29T05:33:58.791Z,39.0703,-119.0344,7.9,0.8,ml,8.0,126.1,0.181,0.2355,nn,nn00903331,2025-08-29T05:36:33.834Z,"14 km NE of Yerington, Nevada",earthquake,,3.5,0.21,5.0,automatic,nn,nn
