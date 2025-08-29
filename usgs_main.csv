@@ -9461,3 +9461,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T07:08:40.410Z,36.867166666667,-89.424333333333,7.31,1.7,md,14.0,129.0,0.05224,0.22,nm,nm60613431,2025-08-29T13:14:11.390Z,"5 km SSE of Bertrand, Missouri",earthquake,0.63,1.11,0.16143400795357,9.0,reviewed,nm,nm
 2025-08-28T23:42:31.030Z,35.63116667,-98.02816667,6.12,1.11,ml,54.0,43.0,0.1619682163,0.31,ok,ok2025qwme,2025-08-29T13:12:23.293Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.22,22.0,reviewed,ok,ok
 2025-08-28T23:07:46.299Z,35.625,-98.03483333,7.82,1.15,ml,53.0,39.0,0.1583689226,0.47,ok,ok2025qwla,2025-08-29T13:06:53.606Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.2,0.25,26.0,reviewed,ok,ok
+2025-08-29T13:32:18.707Z,32.423,-102.027,6.0303,0.7,ml,11.0,81.0,0.0,0.2,tx,tx2025qzpffk,2025-08-29T13:39:49.671Z,"31 km WSW of Ackerly, Texas",earthquake,0.63423434163744,1.2794665521677,0.1,7.0,reviewed,tx,tx
+2025-08-29T10:31:29.700Z,44.809666666667,-111.52983333333,11.86,0.28,ml,8.0,107.0,0.02326,0.2,mb,mb90109413,2025-08-29T13:39:34.850Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.76,0.15413358575359,6.0,reviewed,mb,mb
