@@ -9688,3 +9688,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T03:26:38.170Z,38.842166900635,-122.88083648682,2.1400001049042,0.92,md,9.0,135.0,0.01682,0.02,nc,nc75230612,2025-08-30T03:28:12.290Z,"12 km E of Cloverdale, CA",earthquake,0.45,0.910000026,0.21,11.0,automatic,nc,nc
 2025-08-30T03:25:36.540Z,39.2244,-120.0838,7.0,0.5,ml,9.0,130.86,0.037,0.0776,nn,nn00903420,2025-08-30T03:27:32.241Z,"0 km SSW of Carnelian Bay, California",earthquake,,0.9,0.32,4.0,automatic,nn,nn
 2025-08-29T21:48:43.387Z,-18.9492,-69.4232,114.517,4.6,mb,53.0,103.0,0.616,0.98,us,us7000qs9z,2025-08-30T03:24:45.040Z,"40 km N of Camiña, Chile",earthquake,5.16,5.411,0.079,49.0,reviewed,us,us
+2025-08-30T04:06:00.206Z,32.002,-101.39,2.604,1.7,ml,39.0,57.0,0.2,0.6,tx,tx2025rasece,2025-08-30T04:10:11.126Z,"12 km S of Forsan, Texas",earthquake,0.0,1.1714189052582,0.2,21.0,automatic,tx,tx
+2025-08-30T04:01:54.836Z,64.2843,-148.5623,0.0,1.7,ml,,,,0.46,ak,ak025b4ag1vf,2025-08-30T04:03:57.870Z,"30 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-30T04:00:43.018Z,57.6417,-154.0386,41.0,1.5,ml,,,,0.88,ak,ak025b4aft8t,2025-08-30T04:02:27.118Z,"11 km NNW of Larsen Bay, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2025-08-30T03:54:23.290Z,37.542167663574,-118.82733154297,3.8800001144409,2.4,md,30.0,63.0,0.0478,0.05,nc,nc75230617,2025-08-30T04:12:20.503Z,"13 km W of Toms Place, CA",earthquake,0.21,0.709999979,0.21,34.0,automatic,nc,nc
+2025-08-30T03:50:25.150Z,17.6365,-66.313166666667,20.2,2.09,md,7.0,266.0,0.3817,0.22,pr,pr71493843,2025-08-30T04:05:37.760Z,"36 km SSW of Central Aguirre, Puerto Rico",earthquake,1.39,17.78,0.29404544583812,3.0,reviewed,pr,pr
