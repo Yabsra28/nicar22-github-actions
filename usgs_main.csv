@@ -9840,3 +9840,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T16:59:41.537Z,50.0278,157.3197,25.419,4.9,mb,66.0,133.0,3.094,0.77,us,us7000qskm,2025-08-30T17:23:16.040Z,"111 km SE of Severo-Kuril’sk, Russia",earthquake,11.87,5.865,0.045,156.0,reviewed,us,us
 2025-08-30T17:29:25.610Z,33.9506667,-116.957,11.42,0.73,ml,25.0,48.0,0.1436,0.19,ci,ci41279456,2025-08-30T17:33:58.553Z,"3 km NE of Beaumont, CA",earthquake,0.3,1.1,0.234,17.0,automatic,ci,ci
 2025-08-30T17:16:40.278Z,-12.959,166.5823,92.676,4.8,mww,71.0,144.0,2.545,0.58,us,us7000qsks,2025-08-30T17:44:53.040Z,"146 km NW of Sola, Vanuatu",earthquake,8.12,4.308,0.11,8.0,reviewed,us,us
+2025-08-30T17:55:34.060Z,33.9918333,-117.0118333,6.7,0.9,ml,32.0,44.0,0.0942,0.15,ci,ci41279472,2025-08-30T17:59:03.676Z,"4 km E of Calimesa, CA",earthquake,0.16,0.66,0.197,33.0,automatic,ci,ci
+2025-08-30T17:52:50.527Z,31.598,-104.13,4.0055,1.8,ml,24.0,60.0,0.0,0.4,tx,tx2025rbtoir,2025-08-30T17:56:26.042Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.0948338508606,0.2,18.0,automatic,tx,tx
+2025-08-30T17:52:45.980Z,33.7913333,-116.08,1.71,0.8,ml,30.0,48.0,0.118,0.17,ci,ci41279464,2025-08-30T17:56:08.577Z,"15 km ENE of Indio, CA",earthquake,0.23,0.37,0.118,16.0,automatic,ci,ci
