@@ -9890,3 +9890,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T22:28:48.150Z,38.792999267578,-122.77799987793,1.1599999666214,0.72,md,10.0,101.0,0.007753,0.03,nc,nc75230977,2025-08-30T22:30:24.062Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.21,11.0,automatic,nc,nc
 2025-08-30T22:24:46.861Z,59.3974,-153.7254,102.3,1.1,ml,,,,0.44,ak,ak025b4larm6,2025-08-30T22:26:50.395Z,"46 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-30T03:54:26.550Z,60.048,-153.09366666667,-0.89,-0.44,ml,5.0,122.0,0.01776,0.09,av,av93741198,2025-08-30T22:15:36.760Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,2.06,0.22494533296955,4.0,reviewed,av,av
+2025-08-30T17:58:44.171Z,54.4682,-159.8815,17.9,3.4,ml,,,,0.83,ak,ak025b4iivkn,2025-08-30T22:42:00.602Z,"104 km SSE of Sand Point, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2025-08-30T05:03:35.200Z,61.279166666667,-152.24983333333,8.25,-0.32,ml,7.0,150.0,0.04761,0.31,av,av93049364,2025-08-30T22:36:13.610Z,"64 km WNW of Tyonek, Alaska",earthquake,1.01,1.96,0.16700456237872,8.0,reviewed,av,av
