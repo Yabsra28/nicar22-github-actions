@@ -9729,3 +9729,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T07:50:56.110Z,33.3473333,-116.8508333,8.98,0.37,ml,28.0,42.0,0.01171,0.18,ci,ci41279208,2025-08-30T07:54:41.531Z,"2 km SE of Palomar Observatory, CA",earthquake,0.23,0.47,0.184,8.0,automatic,ci,ci
 2025-08-30T07:50:06.235Z,34.5989,16.3725,9.999,4.7,mb,43.0,92.0,1.953,0.7,us,us7000qsis,2025-08-30T08:06:52.040Z,"215 km SE of Marsaskala, Malta",earthquake,9.27,4.74,0.077,51.0,reviewed,us,us
 2025-08-30T07:28:30.638Z,41.1853,-116.6969,0.0,3.5,ml,8.0,141.91,1.186,0.1388,nn,nn00903430,2025-08-30T08:09:47.701Z,"56 km NE of Valmy, Nevada",earthquake,,0.0,0.3,6.0,reviewed,nn,nn
+2025-08-30T08:04:10.380Z,18.978,-66.2581,59.0,3.68,md,20.0,198.0,0.5697,0.34,pr,pr2025242002,2025-08-30T08:18:26.171Z,"57 km N of Brenas, Puerto Rico",earthquake,1.47,3.03,0.1,13.0,reviewed,pr,pr
