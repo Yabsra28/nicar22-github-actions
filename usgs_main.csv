@@ -9715,3 +9715,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T06:54:18.978Z,61.5802,-151.0059,64.8,2.0,ml,,,,0.3,ak,ak025b4by79l,2025-08-30T06:55:53.783Z,"26 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-30T06:46:43.594Z,31.599,-104.125,5.0445,2.3,ml,32.0,60.0,0.0,0.4,tx,tx2025raxmpk,2025-08-30T06:50:47.275Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.9215196371078,0.2,24.0,automatic,tx,tx
 2025-08-30T06:35:19.470Z,17.928,-66.851166666667,11.2,2.39,md,11.0,186.0,0.04707,0.09,pr,pr71493848,2025-08-30T06:51:47.370Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.33,0.38,0.079077842968718,4.0,reviewed,pr,pr
+2025-08-30T07:04:15.140Z,34.1188333,-117.4756667,5.26,1.6,ml,20.0,78.0,0.05336,0.13,ci,ci41279184,2025-08-30T07:07:56.976Z,"3 km NW of Fontana, CA",earthquake,0.29,0.54,0.291,18.0,automatic,ci,ci
+2025-08-30T06:57:36.440Z,38.812999725342,-122.79666900635,2.5599999427795,1.43,md,30.0,39.0,0.005136,0.02,nc,nc75230687,2025-08-30T07:07:18.903Z,"5 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.1,32.0,automatic,nc,nc
