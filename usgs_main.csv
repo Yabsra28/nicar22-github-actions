@@ -9867,3 +9867,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T18:59:53.356Z,41.1773,-116.8007,6.0,5.3,ml,57.0,138.65,1.256,0.3917,nn,nn00903470,2025-08-30T19:25:56.650Z,"50 km NNE of Valmy, Nevada",earthquake,,0.0,0.35,33.0,reviewed,nn,nn
 2025-08-30T19:33:02.510Z,36.1911667,-117.6456667,3.9,1.34,ml,31.0,39.0,0.09109,0.15,ci,ci41279576,2025-08-30T19:36:22.422Z,"32 km ENE of Coso Junction, CA",earthquake,0.19,0.52,0.142,25.0,automatic,ci,ci
 2025-08-30T19:02:59.228Z,41.2565,-116.7298,4.2,4.3,ml,6.0,163.67,1.236,0.4268,nn,nn00903475,2025-08-30T19:45:27.647Z,"61 km NNE of Valmy, Nevada",earthquake,,14.5,0.26,4.0,reviewed,nn,nn
+2025-08-30T19:47:59.586Z,61.8729,-148.5087,9.8,1.9,ml,,,,0.77,ak,ak025b4jnf92,2025-08-30T19:49:27.171Z,"8 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-30T19:47:51.830Z,35.4601667,-118.3106667,4.19,1.93,ml,52.0,37.0,0.1585,0.13,ci,ci41279584,2025-08-30T19:51:27.695Z,"22 km SE of Bodfish, CA",earthquake,0.11,0.53,0.278,25.0,automatic,ci,ci
