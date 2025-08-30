@@ -9744,3 +9744,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T09:29:21.790Z,18.9045,-67.529166666667,7.68,3.21,md,10.0,319.0,0.5882,0.38,pr,pr71493873,2025-08-30T09:41:07.740Z,"64 km NW of San Antonio, Puerto Rico",earthquake,3.11,3.07,0.082859856996878,8.0,reviewed,pr,pr
 2025-08-30T09:26:36.591Z,39.4671,141.8959,65.465,4.8,mb,59.0,137.0,1.467,0.65,us,us7000qsj6,2025-08-30T09:43:53.040Z,"4 km W of Yamada, Japan",earthquake,8.96,7.277,0.036,238.0,reviewed,us,us
 2025-08-30T09:21:39.817Z,41.1947,-116.6989,0.0,3.3,ml,7.0,77.0,1.191,0.0704,nn,nn00903437,2025-08-30T09:41:31.805Z,"57 km NE of Valmy, Nevada",earthquake,,0.0,0.3,6.0,reviewed,nn,nn
+2025-08-30T09:47:54.990Z,46.743831634521,-121.1181640625,-1.1699999570847,1.8815313577652,ml,80.0,59.0,,0.219999999,uw,uw62178711,2025-08-30T09:51:31.290Z,"16 km WSW of Nile, Washington",earthquake,0.37,2.58999991,0.25191855430603,48.0,automatic,uw,uw
+2025-08-30T09:42:41.422Z,58.2281,-155.5782,3.8,0.4,ml,,,,0.23,ak,ak025b4dnz7y,2025-08-30T09:44:23.204Z,"81 km SE of King Salmon, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-08-30T09:35:17.574Z,-32.212,-13.3024,10.0,5.0,mb,42.0,68.0,4.912,0.88,us,us7000qsj9,2025-08-30T09:52:48.040Z,southern Mid-Atlantic Ridge,earthquake,9.08,1.679,0.084,45.0,reviewed,us,us
