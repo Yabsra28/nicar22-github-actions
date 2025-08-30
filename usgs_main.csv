@@ -9875,3 +9875,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T20:30:49.340Z,37.581832885742,-121.80683135986,5.5799999237061,1.33,md,12.0,92.0,0.04785,0.06,nc,nc75230952,2025-08-30T20:32:28.401Z,"8 km ESE of Sunol, CA",earthquake,0.25,0.540000021,0.11,11.0,automatic,nc,nc
 2025-08-30T20:09:26.760Z,-11.4554,166.3239,51.899,5.5,mww,53.0,110.0,4.059,0.84,us,us7000qsly,2025-08-30T20:36:14.278Z,"99 km SE of Lata, Solomon Islands",earthquake,9.55,6.947,0.065,23.0,reviewed,us,us
 2025-08-30T19:09:43.817Z,41.1818,-116.6879,4.7,3.1,ml,7.0,141.97,1.178,0.2143,nn,nn00903477,2025-08-30T20:30:41.210Z,"56 km NE of Valmy, Nevada",earthquake,,8.3,0.31,6.0,reviewed,nn,nn
+2025-08-30T20:44:47.430Z,38.776000976562,-122.72499847412,1.5900000333786,1.61,md,28.0,71.0,0.01167,0.05,nc,nc75230957,2025-08-30T20:46:23.377Z,"3 km ESE of The Geysers, CA",earthquake,0.24,0.340000004,0.14,29.0,automatic,nc,nc
+2025-08-30T20:40:18.611Z,31.643,-104.427,4.4277,1.5,ml,20.0,90.0,0.0,0.5,tx,tx2025rbzcxg,2025-08-30T20:43:10.682Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.4513589143753,0.1,12.0,automatic,tx,tx
+2025-08-30T19:05:50.666Z,41.1369,-116.4593,3.3,3.1,ml,6.0,163.3,1.002,0.1946,nn,nn00903483,2025-08-30T20:39:52.249Z,"55 km NNW of Carlin, Nevada",earthquake,,5.8,0.0,1.0,reviewed,nn,nn
