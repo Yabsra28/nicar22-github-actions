@@ -9755,3 +9755,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T10:13:55.451Z,31.977,-102.336,7.1223,1.2,ml,21.0,93.0,0.0,0.5,tx,tx2025rbejbk,2025-08-30T10:18:34.442Z,"6 km SE of Gardendale, Texas",earthquake,0.0,1.7640829086304,0.2,12.0,automatic,tx,tx
 2025-08-30T09:43:44.520Z,18.2885,-67.822,142.0,3.78,md,19.0,176.0,0.6031,0.29,pr,pr2025242003,2025-08-30T10:16:03.387Z,"60 km W of Rincón, Puerto Rico",earthquake,2.92,1.68,0.07,19.0,reviewed,pr,pr
 2025-08-30T09:33:27.690Z,19.4183,-64.332,69.0,3.84,md,16.0,294.0,0.9305,0.54,pr,pr2025242004,2025-08-30T10:37:20.791Z,"129 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.72,12.78,0.17,11.0,reviewed,pr,pr
+2025-08-30T11:07:18.591Z,59.9885,-151.222,35.9,2.5,ml,,,,0.65,ak,ak025b4enals,2025-08-30T11:09:02.778Z,"20 km NW of Fox River, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2025-08-30T11:07:03.805Z,31.988,-101.46,2.1006,1.0,ml,5.0,206.0,0.2,0.4,tx,tx2025rbgcyd,2025-08-30T11:09:10.485Z,"13 km N of Garden City, Texas",earthquake,0.0,4.0864744186401,0.1,5.0,automatic,tx,tx
+2025-08-30T10:45:38.370Z,17.908333333333,-66.8545,12.79,2.3,md,12.0,196.0,0.06505,0.19,pr,pr71493903,2025-08-30T10:58:52.030Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.72,0.5,0.11379559923382,7.0,reviewed,pr,pr
+2025-08-30T10:30:08.121Z,-43.4899,172.6265,13.617,3.0,ml,19.0,142.0,0.217,0.81,us,us7000qsjj,2025-08-30T11:10:55.159Z,"1 km NE of Papanui, New Zealand",earthquake,3.03,6.384,0.064,32.0,reviewed,us,us
