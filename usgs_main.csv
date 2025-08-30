@@ -9892,3 +9892,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T03:54:26.550Z,60.048,-153.09366666667,-0.89,-0.44,ml,5.0,122.0,0.01776,0.09,av,av93741198,2025-08-30T22:15:36.760Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,2.06,0.22494533296955,4.0,reviewed,av,av
 2025-08-30T17:58:44.171Z,54.4682,-159.8815,17.9,3.4,ml,,,,0.83,ak,ak025b4iivkn,2025-08-30T22:42:00.602Z,"104 km SSE of Sand Point, Alaska",earthquake,,1.0,,,reviewed,ak,ak
 2025-08-30T05:03:35.200Z,61.279166666667,-152.24983333333,8.25,-0.32,ml,7.0,150.0,0.04761,0.31,av,av93049364,2025-08-30T22:36:13.610Z,"64 km WNW of Tyonek, Alaska",earthquake,1.01,1.96,0.16700456237872,8.0,reviewed,av,av
+2025-08-30T18:30:29.697Z,51.8857,-169.8906,7.1,3.6,ml,,,,0.9,ak,ak025b4iya4c,2025-08-30T22:50:20.970Z,"136 km SSW of Nikolski, Alaska",earthquake,,3.0,,,reviewed,ak,ak
+2025-08-30T05:37:40.040Z,61.305833333333,-152.3565,-3.15,-0.32,ml,8.0,141.0,0.04751,0.12,av,av93741253,2025-08-30T22:49:06.200Z,"70 km WNW of Tyonek, Alaska",earthquake,0.39,1.95,0.10384232074195,5.0,reviewed,av,av
