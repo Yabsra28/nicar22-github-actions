@@ -9884,3 +9884,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T21:32:17.160Z,33.9545,-116.9213333,14.55,0.98,ml,46.0,24.0,0.0593,0.16,ci,ci41279632,2025-08-30T21:35:47.765Z,"5 km NW of Banning, CA",earthquake,0.16,0.32,0.234,14.0,automatic,ci,ci
 2025-08-30T21:30:03.854Z,31.594,-104.455,1.1409,1.5,ml,22.0,110.0,0.1,0.7,tx,tx2025rcattm,2025-08-30T21:32:39.631Z,"64 km S of Whites City, New Mexico",earthquake,0.0,1.3961789608002,0.2,18.0,automatic,tx,tx
 2025-08-30T21:40:16.338Z,62.5343,-147.4346,1.2,1.7,ml,,,,1.06,ak,ak025b4ksp41,2025-08-30T21:42:09.401Z,"53 km WNW of Lake Louise, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-30T22:05:39.410Z,33.1501667,-116.1036667,3.7,1.27,ml,56.0,30.0,0.05417,0.2,ci,ci41279648,2025-08-30T22:09:15.465Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.38,0.074,26.0,automatic,ci,ci
+2025-08-30T21:44:29.318Z,31.672,-104.434,4.2067,1.5,ml,22.0,62.0,0.0,0.4,tx,tx2025rcbgae,2025-08-30T22:03:35.015Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.2636520862579,0.1,12.0,automatic,tx,tx
+2025-08-30T01:16:53.870Z,58.347,-154.87283333333,3.79,0.17,ml,13.0,160.0,0.0522,0.23,av,av93741103,2025-08-30T21:59:58.110Z,"90 km NNW of Karluk, Alaska",earthquake,0.55,0.82,0.22738568993657,13.0,reviewed,av,av
