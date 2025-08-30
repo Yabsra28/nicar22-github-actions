@@ -9878,3 +9878,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T20:44:47.430Z,38.776000976562,-122.72499847412,1.5900000333786,1.61,md,28.0,71.0,0.01167,0.05,nc,nc75230957,2025-08-30T20:46:23.377Z,"3 km ESE of The Geysers, CA",earthquake,0.24,0.340000004,0.14,29.0,automatic,nc,nc
 2025-08-30T20:40:18.611Z,31.643,-104.427,4.4277,1.5,ml,20.0,90.0,0.0,0.5,tx,tx2025rbzcxg,2025-08-30T20:43:10.682Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.4513589143753,0.1,12.0,automatic,tx,tx
 2025-08-30T19:05:50.666Z,41.1369,-116.4593,3.3,3.1,ml,6.0,163.3,1.002,0.1946,nn,nn00903483,2025-08-30T20:39:52.249Z,"55 km NNW of Carlin, Nevada",earthquake,,5.8,0.0,1.0,reviewed,nn,nn
+2025-08-30T20:51:35.269Z,31.52,-101.324,6.0967,1.4,ml,9.0,141.0,0.4,0.5,tx,tx2025rbzmqg,2025-08-30T20:53:54.739Z,"38 km NNE of Big Lake, Texas",earthquake,0.0,8.0961799621582,0.4,7.0,automatic,tx,tx
+2025-08-30T20:49:50.600Z,33.8133333,-117.5505,24.61,1.66,ml,7.0,113.0,0.1235,0.25,ci,ci41279608,2025-08-30T20:53:29.039Z,"6 km SSE of Corona, CA",earthquake,0.8,2.53,0.23,29.0,automatic,ci,ci
+2025-08-30T20:00:33.830Z,19.039833333333,-67.5315,20.26,3.12,md,13.0,213.0,0.6948,0.22,pr,pr71493963,2025-08-30T20:58:15.660Z,"75 km NW of San Antonio, Puerto Rico",earthquake,1.15,31.61,0.068372434138577,6.0,reviewed,pr,pr
