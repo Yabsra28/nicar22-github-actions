@@ -9773,3 +9773,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T11:39:48.999Z,31.505,-102.968,2.7823,1.6,ml,5.0,172.0,0.2,1.2,tx,tx2025rbhfdb,2025-08-30T11:43:18.300Z,"7 km SSE of Wickett, Texas",earthquake,0.0,3.1119923591614,0.2,4.0,automatic,tx,tx
 2025-08-30T06:35:42.177Z,55.2949,-163.3081,206.809,3.6,ml,26.0,131.0,0.444,1.01,us,us7000qsh6,2025-08-30T11:44:06.040Z,"39 km WNW of Cold Bay, Alaska",earthquake,10.69,9.288,0.181,4.0,reviewed,us,us
 2025-08-30T05:46:46.064Z,-14.8163,167.0302,176.74,4.6,mb,17.0,236.0,0.649,0.62,us,us7000qsh1,2025-08-30T11:40:33.040Z,"25 km N of Port-Olry, Vanuatu",earthquake,13.93,6.94,0.141,15.0,reviewed,us,us
+2025-08-30T11:49:29.672Z,31.828,-101.84,7.234,1.0,ml,7.0,151.0,0.0,0.6,tx,tx2025rbhnnb,2025-08-30T11:51:46.360Z,"29 km SE of Midland, Texas",earthquake,0.0,3.4614429473877,0.5,7.0,automatic,tx,tx
+2025-08-30T11:47:29.590Z,33.9043333,-116.8793333,11.57,0.66,ml,35.0,38.0,0.09813,0.16,ci,ci41279272,2025-08-30T11:50:57.402Z,"2 km S of Banning, CA",earthquake,0.19,0.58,0.183,13.0,automatic,ci,ci
+2025-08-30T11:31:28.391Z,-41.0401,173.8101,77.897,4.9,mb,41.0,63.0,0.37,0.72,us,us7000qsjm,2025-08-30T11:56:20.715Z,"32 km NW of Waikawa, New Zealand",earthquake,3.55,4.68,0.126,20.0,reviewed,us,us
