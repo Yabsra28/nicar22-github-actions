@@ -9754,3 +9754,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T10:15:37.990Z,35.578666687012,-120.88933563232,4.9099998474121,1.98,md,21.0,85.0,0.05934,0.04,nc,nc75230767,2025-08-30T10:22:16.214Z,"15 km NNE of Cayucos, CA",earthquake,0.28,0.600000024,0.13,17.0,automatic,nc,nc
 2025-08-30T10:13:55.451Z,31.977,-102.336,7.1223,1.2,ml,21.0,93.0,0.0,0.5,tx,tx2025rbejbk,2025-08-30T10:18:34.442Z,"6 km SE of Gardendale, Texas",earthquake,0.0,1.7640829086304,0.2,12.0,automatic,tx,tx
 2025-08-30T09:43:44.520Z,18.2885,-67.822,142.0,3.78,md,19.0,176.0,0.6031,0.29,pr,pr2025242003,2025-08-30T10:16:03.387Z,"60 km W of Rincón, Puerto Rico",earthquake,2.92,1.68,0.07,19.0,reviewed,pr,pr
+2025-08-30T09:33:27.690Z,19.4183,-64.332,69.0,3.84,md,16.0,294.0,0.9305,0.54,pr,pr2025242004,2025-08-30T10:37:20.791Z,"129 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.72,12.78,0.17,11.0,reviewed,pr,pr
