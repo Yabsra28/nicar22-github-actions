@@ -9898,3 +9898,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T23:02:33.950Z,34.0298333,-117.1275,7.19,0.9,ml,30.0,77.0,0.01374,0.22,ci,ci41279672,2025-08-30T23:05:58.587Z,"4 km S of Mentone, CA",earthquake,0.24,0.62,0.154,25.0,automatic,ci,ci
 2025-08-30T22:57:23.140Z,34.0513333,-117.0158333,9.41,0.98,ml,44.0,34.0,0.0786,0.15,ci,ci41279664,2025-08-30T23:00:53.264Z,"3 km NE of Yucaipa, CA",earthquake,0.13,0.38,0.224,31.0,automatic,ci,ci
 2025-08-30T05:44:35.510Z,60.956333333333,-152.45316666667,13.3,0.51,ml,11.0,141.0,0.2464,0.28,av,av93049374,2025-08-30T22:57:40.540Z,"69 km WNW of Nikiski, Alaska",earthquake,1.37,2.97,0.15649611883282,12.0,reviewed,av,av
+2025-08-30T23:13:41.024Z,61.73,-149.8821,39.4,1.1,ml,,,,0.46,ak,ak025b4lttw6,2025-08-30T23:15:23.858Z,"8 km ESE of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-08-30T23:03:53.569Z,-6.194,131.2978,65.059,4.9,mb,45.0,75.0,2.164,0.96,us,us7000qsn8,2025-08-30T23:19:38.040Z,"172 km WSW of Tual, Indonesia",earthquake,8.07,8.153,0.089,40.0,reviewed,us,us
+2025-08-30T19:43:29.342Z,31.536,-102.392,2.2758,1.5,mlv,10.0,100.0,0.2,0.5,tx,tx2025rbxfwh,2025-08-30T23:17:03.073Z,"15 km NNW of Crane, Texas",earthquake,0.0,1.9104169607162,0.1,8.0,automatic,tx,tx
+2025-08-30T18:18:46.791Z,31.539,-102.374,2.7472,1.5,mlv,14.0,100.0,0.2,0.5,tx,tx2025rbukqa,2025-08-30T23:17:01.070Z,"15 km N of Crane, Texas",earthquake,0.0,1.6462622880936,0.2,8.0,automatic,tx,tx
+2025-08-30T16:53:17.956Z,31.544,-102.36,3.1533,1.5,mlv,15.0,98.0,0.2,0.4,tx,tx2025rbrphy,2025-08-30T23:16:51.069Z,"16 km N of Crane, Texas",earthquake,0.0,1.5913473367691,0.2,9.0,automatic,tx,tx
+2025-08-30T16:45:34.183Z,32.372,-102.685,0.1657,1.8,mlv,5.0,238.0,0.3,0.4,tx,tx2025rbriqi,2025-08-30T23:16:08.104Z,"14 km WNW of Andrews, Texas",earthquake,0.0,5.2418823242188,1.0,5.0,automatic,tx,tx
+2025-08-30T14:23:38.237Z,31.543,-102.383,3.5017,1.6,mlv,15.0,99.0,0.2,0.4,tx,tx2025rbmqit,2025-08-30T23:15:50.104Z,"16 km N of Crane, Texas",earthquake,0.0,1.5346114635468,0.2,9.0,automatic,tx,tx
