@@ -9887,3 +9887,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T22:05:39.410Z,33.1501667,-116.1036667,3.7,1.27,ml,56.0,30.0,0.05417,0.2,ci,ci41279648,2025-08-30T22:09:15.465Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.38,0.074,26.0,automatic,ci,ci
 2025-08-30T21:44:29.318Z,31.672,-104.434,4.2067,1.5,ml,22.0,62.0,0.0,0.4,tx,tx2025rcbgae,2025-08-30T22:03:35.015Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.2636520862579,0.1,12.0,automatic,tx,tx
 2025-08-30T01:16:53.870Z,58.347,-154.87283333333,3.79,0.17,ml,13.0,160.0,0.0522,0.23,av,av93741103,2025-08-30T21:59:58.110Z,"90 km NNW of Karluk, Alaska",earthquake,0.55,0.82,0.22738568993657,13.0,reviewed,av,av
+2025-08-30T22:28:48.150Z,38.792999267578,-122.77799987793,1.1599999666214,0.72,md,10.0,101.0,0.007753,0.03,nc,nc75230977,2025-08-30T22:30:24.062Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.21,11.0,automatic,nc,nc
+2025-08-30T22:24:46.861Z,59.3974,-153.7254,102.3,1.1,ml,,,,0.44,ak,ak025b4larm6,2025-08-30T22:26:50.395Z,"46 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-30T03:54:26.550Z,60.048,-153.09366666667,-0.89,-0.44,ml,5.0,122.0,0.01776,0.09,av,av93741198,2025-08-30T22:15:36.760Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,2.06,0.22494533296955,4.0,reviewed,av,av
