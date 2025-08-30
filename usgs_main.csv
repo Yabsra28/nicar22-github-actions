@@ -9798,3 +9798,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T10:34:00.790Z,31.5118,50.114,10.0,4.5,mb,45.0,83.0,5.094,0.77,us,us7000qsjq,2025-08-30T13:13:33.040Z,"54 km ENE of Rāmhormoz, Iran",earthquake,9.64,1.914,0.088,38.0,reviewed,us,us
 2025-08-30T07:28:58.410Z,47.605333333333,-113.18683333333,7.56,1.56,ml,26.0,67.0,0.4191,0.15,mb,mb90109673,2025-08-30T13:23:45.390Z,"40 km ENE of Condon, Montana",earthquake,0.49,1.07,0.1926965898384,17.0,reviewed,mb,mb
 2025-08-30T13:30:09.460Z,34.0348333,-117.246,7.09,0.9,ml,50.0,22.0,0.07675,0.17,ci,ci41279320,2025-08-30T13:33:55.043Z,"2 km SE of Loma Linda, CA",earthquake,0.14,0.45,0.183,29.0,automatic,ci,ci
+2025-08-30T13:35:32.914Z,-4.9349,103.032,62.992,4.9,mb,50.0,187.0,0.576,1.08,us,us7000qsk1,2025-08-30T13:50:37.040Z,"103 km SSW of Pagar Alam, Indonesia",earthquake,7.21,6.827,0.074,58.0,reviewed,us,us
+2025-08-30T10:29:52.830Z,39.318,-119.7024,2.3,0.1,ml,4.0,152.77,0.046,0.1376,nn,nn00903459,2025-08-30T13:46:12.905Z,"4 km WNW of Virginia City, Nevada",earthquake,,2.7,0.07,2.0,reviewed,nn,nn
+2025-08-30T08:49:54.118Z,36.7117,-116.3073,9.1,-0.4,ml,18.0,118.91,0.02,0.0934,nn,nn00903458,2025-08-30T13:43:07.865Z,"45 km ESE of Beatty, Nevada",earthquake,,0.9,0.04,2.0,reviewed,nn,nn
