@@ -9907,3 +9907,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T14:23:38.237Z,31.543,-102.383,3.5017,1.6,mlv,15.0,99.0,0.2,0.4,tx,tx2025rbmqit,2025-08-30T23:15:50.104Z,"16 km N of Crane, Texas",earthquake,0.0,1.5346114635468,0.2,9.0,automatic,tx,tx
 2025-08-30T23:32:08.340Z,36.037998199463,-120.59799957275,3.4500000476837,1.77,md,23.0,117.0,0.03078,0.06,nc,nc75230997,2025-08-30T23:33:43.537Z,"22 km NNW of Parkfield, CA",earthquake,0.28,0.50999999,0.19,10.0,automatic,nc,nc
 2025-08-30T23:28:23.910Z,38.833999633789,-122.80850219727,1.9700000286102,0.76,md,11.0,50.0,0.01066,0.02,nc,nc75230992,2025-08-30T23:29:58.577Z,"8 km WNW of Cobb, CA",earthquake,0.33,1.01999998,0.19,11.0,automatic,nc,nc
+2025-08-30T23:42:15.285Z,63.4401,-153.2671,7.6,1.3,ml,,,,0.68,ak,ak025b4lzzo8,2025-08-30T23:45:57.907Z,"68 km SW of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-30T23:36:18.816Z,38.1903,-117.8076,2.0,1.4,ml,13.0,122.48,0.14,0.269,nn,nn00903487,2025-08-30T23:39:00.874Z,"34 km SE of Mina, Nevada",earthquake,,2.3,0.3,8.0,automatic,nn,nn
