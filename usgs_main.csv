@@ -9869,3 +9869,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T19:02:59.228Z,41.2565,-116.7298,4.2,4.3,ml,6.0,163.67,1.236,0.4268,nn,nn00903475,2025-08-30T19:45:27.647Z,"61 km NNE of Valmy, Nevada",earthquake,,14.5,0.26,4.0,reviewed,nn,nn
 2025-08-30T19:47:59.586Z,61.8729,-148.5087,9.8,1.9,ml,,,,0.77,ak,ak025b4jnf92,2025-08-30T19:49:27.171Z,"8 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-30T19:47:51.830Z,35.4601667,-118.3106667,4.19,1.93,ml,52.0,37.0,0.1585,0.13,ci,ci41279584,2025-08-30T19:51:27.695Z,"22 km SE of Bodfish, CA",earthquake,0.11,0.53,0.278,25.0,automatic,ci,ci
+2025-08-30T20:19:47.340Z,38.777168273926,-122.72783660889,1.6200000047684,1.35,md,16.0,74.0,0.009219,0.03,nc,nc75230942,2025-08-30T20:21:24.153Z,"2 km ESE of The Geysers, CA",earthquake,0.24,0.409999996,0.19,17.0,automatic,nc,nc
+2025-08-30T03:30:40.360Z,46.240833333333,-111.38533333333,2.3,0.85,ml,11.0,86.0,0.1513,0.08,mb,mb90109683,2025-08-30T20:03:56.550Z,"8 km NNE of Toston, Montana",earthquake,0.38,1.16,0.13445487644429,8.0,reviewed,mb,mb
