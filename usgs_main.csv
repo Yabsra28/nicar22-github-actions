@@ -9712,3 +9712,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T06:41:29.448Z,56.1323,-159.0401,6.4,1.7,ml,,,,0.3,ak,ak025b4bvfrk,2025-08-30T06:43:51.805Z,"22 km SW of Chignik Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-30T06:35:20.420Z,38.84033203125,-122.813331604,2.2300000190735,0.26,md,8.0,113.0,0.01631,0.01,nc,nc75230682,2025-08-30T06:36:57.699Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.46000004,0.17,8.0,automatic,nc,nc
 2025-08-30T06:33:10.734Z,62.8704,-150.8617,93.7,1.6,ml,,,,1.47,ak,ak025b4btold,2025-08-30T06:35:13.864Z,"41 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-30T06:54:18.978Z,61.5802,-151.0059,64.8,2.0,ml,,,,0.3,ak,ak025b4by79l,2025-08-30T06:55:53.783Z,"26 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-30T06:46:43.594Z,31.599,-104.125,5.0445,2.3,ml,32.0,60.0,0.0,0.4,tx,tx2025raxmpk,2025-08-30T06:50:47.275Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.9215196371078,0.2,24.0,automatic,tx,tx
+2025-08-30T06:35:19.470Z,17.928,-66.851166666667,11.2,2.39,md,11.0,186.0,0.04707,0.09,pr,pr71493848,2025-08-30T06:51:47.370Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.33,0.38,0.079077842968718,4.0,reviewed,pr,pr
