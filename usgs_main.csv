@@ -9854,3 +9854,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T18:38:56.318Z,61.2988,-151.3682,69.4,1.1,ml,,,,0.51,ak,ak025b4j01y7,2025-08-30T18:40:49.256Z,"23 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-30T18:07:58.190Z,17.9475,-66.953,11.36,2.59,md,23.0,187.0,0.07535,0.15,pr,pr71493948,2025-08-30T18:46:06.700Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.41,0.3,0.2124358044048,11.0,reviewed,pr,pr
 2025-08-30T16:13:39.130Z,33.2611667,-116.367,4.86,0.12,ml,10.0,100.0,0.04261,0.14,ci,ci37740636,2025-08-30T18:46:24.739Z,"1 km NE of Borrego Springs, CA",earthquake,0.3,0.48,0.159,8.0,reviewed,ci,ci
+2025-08-30T18:44:38.410Z,33.4978333,-116.4788333,14.16,0.73,ml,24.0,64.0,0.1031,0.17,ci,ci41279544,2025-08-30T18:48:31.041Z,"19 km ESE of Anza, CA",earthquake,0.33,0.62,0.086,18.0,automatic,ci,ci
+2025-08-30T18:06:29.494Z,36.8537,-104.8545,1.734,2.1,ml,13.0,84.0,0.052,0.83,us,us7000qskw,2025-08-30T18:48:06.040Z,"30 km S of Weston, Colorado",earthquake,1.89,1.974,0.064,32.0,reviewed,us,us
