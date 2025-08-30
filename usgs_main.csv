@@ -9835,3 +9835,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T17:05:02.606Z,65.1497,-148.5483,7.0,0.9,ml,,,,0.18,ak,ak025b4i7fkk,2025-08-30T17:07:12.718Z,"37 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-30T17:04:58.602Z,29.19,-97.487,5.0309,1.7,ml,9.0,136.0,0.1,0.5,tx,tx2025rbrzjb,2025-08-30T17:07:32.817Z,"16 km ESE of Smiley, Texas",earthquake,0.0,2.7253260612488,0.1,7.0,automatic,tx,tx
 2025-08-30T12:29:21.565Z,31.844,-104.547,4.8812,1.5,mlv,13.0,269.0,0.1,0.8,tx,tx2025rbivub,2025-08-30T17:06:07.809Z,"40 km SSW of Whites City, New Mexico",earthquake,0.0,4.7076363563538,0.3,8.0,automatic,tx,tx
+2025-08-30T17:19:12.590Z,37.159000396729,-121.54016876221,7.2199997901917,2.18,md,67.0,49.0,0.05844,0.13,nc,nc75230887,2025-08-30T17:22:26.360Z,"10 km NE of San Martin, CA",earthquake,0.19,0.529999971,0.17,60.0,automatic,nc,nc
+2025-08-30T17:05:31.271Z,15.4548,96.3664,10.0,5.0,mb,127.0,82.0,1.417,0.8,us,us7000qskp,2025-08-30T17:23:47.040Z,"117 km SE of Pyapon, Burma (Myanmar)",earthquake,3.46,1.832,0.049,132.0,reviewed,us,us
+2025-08-30T16:59:41.537Z,50.0278,157.3197,25.419,4.9,mb,66.0,133.0,3.094,0.77,us,us7000qskm,2025-08-30T17:23:16.040Z,"111 km SE of Severo-Kuril’sk, Russia",earthquake,11.87,5.865,0.045,156.0,reviewed,us,us
