@@ -9958,3 +9958,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T03:59:41.445Z,-15.961,-75.5209,10.0,4.7,mb,38.0,143.0,4.153,1.28,us,us7000qspu,2025-08-31T04:18:06.040Z,"76 km SSW of San Juan, Peru",earthquake,5.08,1.905,0.076,52.0,reviewed,us,us
 2025-08-31T03:50:18.625Z,-21.3561,-11.8679,10.0,5.1,mb,49.0,66.0,7.904,0.56,us,us7000qspt,2025-08-31T04:05:27.040Z,southern Mid-Atlantic Ridge,earthquake,7.55,1.831,0.089,41.0,reviewed,us,us
 2025-08-31T03:35:05.906Z,41.1938,-116.6901,9.7,3.1,ml,11.0,138.29,0.295,0.1505,nn,nn00903506,2025-08-31T04:17:14.845Z,"57 km NE of Valmy, Nevada",earthquake,,3.0,0.17,10.0,reviewed,nn,nn
+2025-08-31T04:39:18.903Z,62.8889,-149.5731,73.4,1.5,ml,,,,0.36,ak,ak025b5y7gsy,2025-08-31T04:41:03.924Z,"55 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-31T04:35:04.300Z,34.2091667,-117.4275,-0.87,0.9,ml,15.0,158.0,0.1613,0.27,ci,ci41279800,2025-08-31T04:38:37.840Z,"3 km WSW of Devore, CA",earthquake,1.11,1.69,0.295,17.0,automatic,ci,ci
+2025-08-31T04:32:04.306Z,36.7116,-116.3053,11.7,0.7,ml,27.0,72.96,0.021,0.2411,nn,nn00903511,2025-08-31T04:34:02.995Z,"46 km ESE of Beatty, Nevada",earthquake,,0.4,0.36,17.0,automatic,nn,nn
+2025-08-31T04:25:55.369Z,61.6775,-150.7819,58.1,1.2,ml,,,,0.44,ak,ak025b5y4jlc,2025-08-31T04:28:16.853Z,"20 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
