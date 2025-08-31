@@ -9990,3 +9990,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T07:00:31.151Z,62.8526,-150.9304,25.2,1.6,ml,,,,1.07,ak,ak025b5zrfbh,2025-08-31T07:04:01.953Z,"40 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-31T05:29:58.450Z,41.1495,-116.7439,7.0,2.8,ml,5.0,251.57,0.303,0.1865,nn,nn00903529,2025-08-31T07:08:49.264Z,"51 km NE of Valmy, Nevada",earthquake,,5.6,0.19,4.0,reviewed,nn,nn
 2025-08-31T05:27:39.838Z,41.1513,-116.7167,8.8,4.0,ml,7.0,157.02,0.286,0.0746,nn,nn00903516,2025-08-31T06:59:38.062Z,"52 km NE of Valmy, Nevada",earthquake,,4.7,0.05,7.0,reviewed,nn,nn
+2025-08-31T07:22:24.590Z,33.651,-116.8798333,16.99,0.96,ml,53.0,22.0,0.03395,0.18,ci,ci41279880,2025-08-31T07:26:45.494Z,"11 km S of Valle Vista, CA",earthquake,0.18,0.35,0.198,27.0,automatic,ci,ci
+2025-08-31T07:14:58.590Z,34.097,-116.9016667,6.72,1.33,ml,73.0,24.0,0.0286,0.16,ci,ci41279872,2025-08-31T07:25:58.500Z,"15 km ENE of Yucaipa, CA",earthquake,0.12,0.39,0.195,27.0,automatic,ci,ci
+2025-08-31T06:03:57.026Z,41.179,-116.6986,9.6,2.7,ml,10.0,141.52,0.291,0.1405,nn,nn00903523,2025-08-31T07:21:08.300Z,"56 km NE of Valmy, Nevada",earthquake,,3.3,0.08,9.0,reviewed,nn,nn
