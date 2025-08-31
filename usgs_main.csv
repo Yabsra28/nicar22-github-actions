@@ -10169,3 +10169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T22:05:56.200Z,33.9756667,-116.6733333,15.38,1.96,ml,90.0,21.0,0.06615,0.17,ci,ci41280296,2025-08-31T22:17:12.260Z,"12 km SW of Morongo Valley, CA",earthquake,0.11,0.34,0.232,26.0,automatic,ci,ci
 2025-08-31T22:34:08.925Z,31.439,-103.893,5.3609,1.6,ml,11.0,136.0,0.1,0.5,tx,tx2025rdyoya,2025-08-31T22:37:04.613Z,"16 km NW of Toyah, Texas",earthquake,0.0,3.958860874176,0.1,6.0,automatic,tx,tx
 2025-08-31T22:28:46.840Z,33.9341667,-117.1991667,13.23,1.14,ml,22.0,90.0,0.02559,0.14,ci,ci41280312,2025-08-31T22:32:56.994Z,"3 km ENE of Moreno Valley, CA",earthquake,0.23,0.38,0.357,8.0,automatic,ci,ci
+2025-08-31T22:48:04.080Z,37.3413,-117.5345,4.3,1.5,ml,25.0,182.87,0.222,0.2588,nn,nn00903581,2025-08-31T22:50:52.885Z,"46 km S of Silver Peak, Nevada",earthquake,,2.4,0.19,17.0,automatic,nn,nn
+2025-08-31T22:45:45.014Z,31.532,-103.847,5.4735,1.6,ml,11.0,77.0,0.0,0.6,tx,tx2025rdyzwu,2025-08-31T22:49:42.026Z,"24 km NNW of Toyah, Texas",earthquake,0.0,2.1985085010529,0.1,8.0,automatic,tx,tx
+2025-08-31T22:43:36.498Z,61.1773,-151.8644,20.2,1.4,ml,,,,0.4,ak,ak025b68y5wx,2025-08-31T22:45:46.788Z,"41 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-31T22:41:20.790Z,38.78133392334,-122.74016571045,3.9700000286102,0.76,md,7.0,94.0,0.003293,0.05,nc,nc75231392,2025-08-31T22:42:59.062Z,"1 km E of The Geysers, CA",earthquake,0.86,1.55999994,0.39,7.0,automatic,nc,nc
