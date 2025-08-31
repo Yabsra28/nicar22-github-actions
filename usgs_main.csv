@@ -10139,3 +10139,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T19:54:30.240Z,38.505666666667,-112.906,6.0,2.23,ml,15.0,56.0,0.2352,0.22,uu,uu80115751,2025-08-31T20:09:39.880Z,"15 km NE of Milford, Utah",earthquake,0.58,31.61,0.27120167278568,17.0,reviewed,uu,uu
 2025-08-31T19:38:04.630Z,34.3376,70.8817,10.0,4.5,mb,44.0,216.0,1.455,0.7,us,us7000qsvq,2025-08-31T20:08:02.752Z,"10 km N of Bāsawul, Afghanistan",earthquake,6.06,1.945,0.084,41.0,reviewed,us,us
 2025-08-31T20:29:22.590Z,35.6071667,-117.4556667,7.37,0.85,ml,21.0,51.0,0.06341,0.13,ci,ci41280240,2025-08-31T20:32:50.996Z,"18 km SSW of Searles Valley, CA",earthquake,0.22,0.71,0.199,10.0,automatic,ci,ci
+2025-08-31T20:41:34.110Z,34.507,-118.8073333,8.11,1.33,ml,17.0,181.0,0.09451,0.09,ci,ci41280248,2025-08-31T20:45:04.116Z,"10 km N of Piru, CA",earthquake,0.47,1.19,0.192,30.0,automatic,ci,ci
+2025-08-31T20:32:16.686Z,60.2048,-139.4707,2.9,1.4,ml,,,,0.61,ak,ak025b67owas,2025-08-31T20:34:36.302Z,"74 km N of Yakutat, Alaska",earthquake,,1.1,,,automatic,ak,ak
