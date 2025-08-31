@@ -9993,3 +9993,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T07:22:24.590Z,33.651,-116.8798333,16.99,0.96,ml,53.0,22.0,0.03395,0.18,ci,ci41279880,2025-08-31T07:26:45.494Z,"11 km S of Valle Vista, CA",earthquake,0.18,0.35,0.198,27.0,automatic,ci,ci
 2025-08-31T07:14:58.590Z,34.097,-116.9016667,6.72,1.33,ml,73.0,24.0,0.0286,0.16,ci,ci41279872,2025-08-31T07:25:58.500Z,"15 km ENE of Yucaipa, CA",earthquake,0.12,0.39,0.195,27.0,automatic,ci,ci
 2025-08-31T06:03:57.026Z,41.179,-116.6986,9.6,2.7,ml,10.0,141.52,0.291,0.1405,nn,nn00903523,2025-08-31T07:21:08.300Z,"56 km NE of Valmy, Nevada",earthquake,,3.3,0.08,9.0,reviewed,nn,nn
+2025-08-31T07:33:32.240Z,37.479000091553,-118.73783111572,1.539999961853,0.86,md,8.0,153.0,0.1699,0.03,nc,nc75231107,2025-08-31T07:35:06.429Z,"11 km SW of Toms Place, CA",earthquake,0.51,3.75999999,0.13,6.0,automatic,nc,nc
+2025-08-31T07:11:23.792Z,-23.3664,178.9769,554.091,4.6,mb,54.0,58.0,5.66,0.79,us,us7000qsqx,2025-08-31T07:28:34.040Z,south of the Fiji Islands,earthquake,12.74,8.972,0.036,237.0,reviewed,us,us
