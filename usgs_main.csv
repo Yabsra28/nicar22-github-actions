@@ -10014,3 +10014,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T08:58:37.324Z,31.671,-104.474,0.0352,0.1,ml,9.0,151.0,0.0,0.9,tx,tx2025rcxpcv,2025-08-31T09:01:05.885Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.8625774383545,1.3,6.0,automatic,tx,tx
 2025-08-31T08:49:33.564Z,41.1466,-116.7759,10.469,3.7,ml,45.0,25.0,1.232,0.69,us,us7000qsrh,2025-08-31T09:06:02.872Z,"49 km NE of Valmy, Nevada",earthquake,2.89,8.607,0.025,210.0,reviewed,us,us
 2025-08-31T08:42:54.693Z,-33.6008,-71.6638,37.537,4.4,mb,41.0,146.0,0.07,0.63,us,us7000qsrf,2025-08-31T09:10:13.375Z,"5 km W of San Antonio, Chile",earthquake,3.86,6.057,0.097,31.0,reviewed,us,us
+2025-08-31T09:17:58.233Z,31.623,-102.372,9.0668,1.6,ml,9.0,180.0,0.2,0.7,tx,tx2025rcyftx,2025-08-31T09:20:22.960Z,"24 km S of Odessa, Texas",earthquake,0.0,4.5191597938538,0.2,7.0,automatic,tx,tx
+2025-08-31T08:49:34.170Z,41.228,-116.7106,9.2,3.9,ml,9.0,126.01,0.33,0.1964,nn,nn00903530,2025-08-31T09:24:06.157Z,"59 km NE of Valmy, Nevada",earthquake,,2.8,0.15,8.0,reviewed,nn,nn
