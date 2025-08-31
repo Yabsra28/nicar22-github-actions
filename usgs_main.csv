@@ -10179,3 +10179,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T14:58:48.994Z,31.526,-102.345,2.0506,1.4,mlv,9.0,123.0,0.3,0.5,tx,tx2025rdjkip,2025-08-31T23:14:06.300Z,"14 km N of Crane, Texas",earthquake,0.0,2.1836261749268,0.2,5.0,automatic,tx,tx
 2025-08-31T12:50:27.737Z,32.423,-102.296,13.601,1.1,mlv,7.0,171.0,0.2,0.1,tx,tx2025rdfgxr,2025-08-31T23:13:55.624Z,"25 km ENE of McKinney Acres, Texas",earthquake,0.0,3.4509248733521,0.3,5.0,automatic,tx,tx
 2025-08-31T12:31:29.224Z,32.7,-102.27,11.5767,2.4,mlv,7.0,245.0,0.3,0.4,tx,tx2025rdeqon,2025-08-31T23:13:51.624Z,"27 km SSE of Loop, Texas",earthquake,0.0,9.1730861663818,0.1,5.0,automatic,tx,tx
+2025-08-31T23:33:59.886Z,64.8303,-148.7551,10.4,1.6,ml,,,,0.64,ak,ak025b69hi5w,2025-08-31T23:36:11.367Z,"30 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-31T23:31:42.060Z,35.0313333,-117.6758333,-0.73,1.46,ml,44.0,60.0,0.09817,0.18,ci,ci41280336,2025-08-31T23:36:31.268Z,"4 km NNW of Boron, CA",earthquake,0.24,0.69,0.116,28.0,automatic,ci,ci
+2025-08-31T23:31:15.350Z,35.036,-117.6788333,-0.77,1.05,ml,26.0,83.0,0.1024,0.18,ci,ci41280328,2025-08-31T23:34:51.924Z,"5 km NNW of Boron, CA",earthquake,0.31,0.57,0.139,20.0,automatic,ci,ci
+2025-08-31T23:30:22.590Z,38.83716583252,-122.79416656494,1.710000038147,0.76,md,8.0,202.0,0.003233,0.01,nc,nc75231397,2025-08-31T23:31:59.026Z,"6 km WNW of Cobb, CA",earthquake,0.72,0.920000017,0.17,13.0,automatic,nc,nc
+2025-08-31T23:30:12.120Z,19.477500915527,-155.66050720215,0.56999999284744,2.66,ml,9.0,135.0,0.04795,0.140000001,hv,hv74765761,2025-08-31T23:33:18.410Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.5,2.21000004,1.37,3.0,automatic,hv,hv
+2025-08-31T23:28:15.360Z,63.2267,-150.5974,127.6,2.9,ml,,,,0.45,ak,ak025b69gc33,2025-08-31T23:30:24.711Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
