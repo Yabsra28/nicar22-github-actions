@@ -9985,3 +9985,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T06:11:51.140Z,18.591833333333,-66.708333333333,15.92,2.65,md,11.0,254.0,0.2045,0.21,pr,pr71494048,2025-08-31T06:37:14.800Z,"13 km N of Arecibo, Puerto Rico",earthquake,0.86,0.66,0.043461637706012,6.0,reviewed,pr,pr
 2025-08-31T06:09:05.120Z,19.265,-65.1243,71.0,3.77,md,21.0,250.0,0.989,0.44,pr,pr2025243000,2025-08-31T06:34:39.238Z,"104 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.95,7.61,0.08,13.0,reviewed,pr,pr
 2025-08-30T10:54:40.770Z,58.270166666667,-155.0015,2.81,0.16,ml,16.0,128.0,0.04215,0.1,av,av93049384,2025-08-31T06:25:07.470Z,"84 km NNW of Karluk, Alaska",earthquake,0.24,0.59,0.28595422025922,16.0,reviewed,av,av
+2025-08-31T07:07:24.016Z,59.8896,-141.6728,3.6,1.8,ml,,,,0.42,ak,ak025b5zsx3l,2025-08-31T07:09:38.534Z,"115 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-31T07:03:59.720Z,33.2398333,-116.3931667,4.3,0.76,ml,49.0,36.0,0.03471,0.19,ci,ci41279864,2025-08-31T07:07:48.440Z,"2 km SW of Borrego Springs, CA",earthquake,0.17,0.38,0.139,17.0,automatic,ci,ci
+2025-08-31T07:00:31.151Z,62.8526,-150.9304,25.2,1.6,ml,,,,1.07,ak,ak025b5zrfbh,2025-08-31T07:04:01.953Z,"40 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-31T05:29:58.450Z,41.1495,-116.7439,7.0,2.8,ml,5.0,251.57,0.303,0.1865,nn,nn00903529,2025-08-31T07:08:49.264Z,"51 km NE of Valmy, Nevada",earthquake,,5.6,0.19,4.0,reviewed,nn,nn
+2025-08-31T05:27:39.838Z,41.1513,-116.7167,8.8,4.0,ml,7.0,157.02,0.286,0.0746,nn,nn00903516,2025-08-31T06:59:38.062Z,"52 km NE of Valmy, Nevada",earthquake,,4.7,0.05,7.0,reviewed,nn,nn
