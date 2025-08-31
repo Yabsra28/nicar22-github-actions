@@ -10173,3 +10173,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T22:45:45.014Z,31.532,-103.847,5.4735,1.6,ml,11.0,77.0,0.0,0.6,tx,tx2025rdyzwu,2025-08-31T22:49:42.026Z,"24 km NNW of Toyah, Texas",earthquake,0.0,2.1985085010529,0.1,8.0,automatic,tx,tx
 2025-08-31T22:43:36.498Z,61.1773,-151.8644,20.2,1.4,ml,,,,0.4,ak,ak025b68y5wx,2025-08-31T22:45:46.788Z,"41 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-31T22:41:20.790Z,38.78133392334,-122.74016571045,3.9700000286102,0.76,md,7.0,94.0,0.003293,0.05,nc,nc75231392,2025-08-31T22:42:59.062Z,"1 km E of The Geysers, CA",earthquake,0.86,1.55999994,0.39,7.0,automatic,nc,nc
+2025-08-31T22:56:01.735Z,37.3622,-117.5277,4.4,1.6,ml,28.0,139.34,0.221,0.2856,nn,nn00903583,2025-08-31T22:58:52.823Z,"44 km SSE of Silver Peak, Nevada",earthquake,,1.6,0.17,20.0,automatic,nn,nn
