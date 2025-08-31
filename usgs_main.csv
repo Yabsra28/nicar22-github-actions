@@ -10141,3 +10141,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T20:29:22.590Z,35.6071667,-117.4556667,7.37,0.85,ml,21.0,51.0,0.06341,0.13,ci,ci41280240,2025-08-31T20:32:50.996Z,"18 km SSW of Searles Valley, CA",earthquake,0.22,0.71,0.199,10.0,automatic,ci,ci
 2025-08-31T20:41:34.110Z,34.507,-118.8073333,8.11,1.33,ml,17.0,181.0,0.09451,0.09,ci,ci41280248,2025-08-31T20:45:04.116Z,"10 km N of Piru, CA",earthquake,0.47,1.19,0.192,30.0,automatic,ci,ci
 2025-08-31T20:32:16.686Z,60.2048,-139.4707,2.9,1.4,ml,,,,0.61,ak,ak025b67owas,2025-08-31T20:34:36.302Z,"74 km N of Yakutat, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-31T20:51:03.304Z,37.3313,-117.4085,11.9,2.0,ml,30.0,168.38,0.122,0.3403,nn,nn00903564,2025-08-31T20:54:13.050Z,"44 km SSW of Goldfield, Nevada",earthquake,,0.5,0.19,21.0,automatic,nn,nn
+2025-08-31T20:48:45.427Z,37.355,-117.5311,6.2,1.7,ml,25.0,184.96,0.222,0.2125,nn,nn00903562,2025-08-31T20:51:31.219Z,"45 km SSE of Silver Peak, Nevada",earthquake,,1.2,0.17,18.0,automatic,nn,nn
