@@ -10118,3 +10118,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T17:31:47.473Z,-7.5231,127.7248,158.388,4.4,mb,52.0,52.0,3.686,0.77,us,us7000qsv0,2025-08-31T17:53:25.040Z,"136 km NE of Lospalos, Timor Leste",earthquake,7.76,7.648,0.085,40.0,reviewed,us,us
 2025-08-31T17:05:43.426Z,32.052,-103.456,5.0,1.7,ml,8.0,99.0,0.1,1.4,tx,tx2025rdnsul,2025-08-31T18:00:30.335Z,"25 km WSW of Jal, New Mexico",earthquake,0.0,,0.3,4.0,automatic,tx,tx
 2025-08-31T01:33:45.060Z,36.1398333,-117.8471667,5.12,-0.45,ml,3.0,221.0,0.02306,0.03,ci,ci37740796,2025-08-31T17:57:33.958Z,"14 km NE of Coso Junction, CA",earthquake,1.32,0.34,0.134,3.0,reviewed,ci,ci
+2025-08-31T18:37:25.870Z,46.224666595459,-122.13566589355,10.970000267029,0.769999981,md,13.0,151.0,,0.340000004,uw,uw62171287,2025-08-31T18:39:41.740Z,"38 km SSE of Morton, Washington",earthquake,2.41,4.9000001,,1.0,automatic,uw,uw
+2025-08-31T18:35:28.510Z,32.7983333,-115.4408333,14.06,1.18,ml,27.0,60.0,0.008585,0.28,ci,ci41280168,2025-08-31T18:38:58.248Z,"6 km WSW of Holtville, CA",earthquake,0.44,0.66,0.228,16.0,automatic,ci,ci
+2025-08-31T16:35:39.710Z,46.191833333333,-122.17416666667,7.04,0.05,ml,10.0,141.0,0.01822,0.11,uw,uw62171232,2025-08-31T18:39:55.130Z,"37 km NE of Amboy, Washington",earthquake,0.4,0.79,0.13627363463969,6.0,reviewed,uw,uw
