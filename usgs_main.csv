@@ -10174,3 +10174,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T22:43:36.498Z,61.1773,-151.8644,20.2,1.4,ml,,,,0.4,ak,ak025b68y5wx,2025-08-31T22:45:46.788Z,"41 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-31T22:41:20.790Z,38.78133392334,-122.74016571045,3.9700000286102,0.76,md,7.0,94.0,0.003293,0.05,nc,nc75231392,2025-08-31T22:42:59.062Z,"1 km E of The Geysers, CA",earthquake,0.86,1.55999994,0.39,7.0,automatic,nc,nc
 2025-08-31T22:56:01.735Z,37.3622,-117.5277,4.4,1.6,ml,28.0,139.34,0.221,0.2856,nn,nn00903583,2025-08-31T22:58:52.823Z,"44 km SSE of Silver Peak, Nevada",earthquake,,1.6,0.17,20.0,automatic,nn,nn
+2025-08-31T23:21:34.689Z,37.3676,-117.551,2.6,1.0,ml,18.0,188.61,0.24,0.2418,nn,nn00903584,2025-08-31T23:24:21.261Z,"43 km S of Silver Peak, Nevada",earthquake,,10.1,0.4,10.0,automatic,nn,nn
+2025-08-31T20:00:30.015Z,31.545,-102.376,6.7722,1.7,mlv,19.0,98.0,0.2,0.5,tx,tx2025rdtnnb,2025-08-31T23:16:02.897Z,"16 km N of Crane, Texas",earthquake,0.0,2.0751404762268,0.2,8.0,automatic,tx,tx
+2025-08-31T14:58:48.994Z,31.526,-102.345,2.0506,1.4,mlv,9.0,123.0,0.3,0.5,tx,tx2025rdjkip,2025-08-31T23:14:06.300Z,"14 km N of Crane, Texas",earthquake,0.0,2.1836261749268,0.2,5.0,automatic,tx,tx
+2025-08-31T12:50:27.737Z,32.423,-102.296,13.601,1.1,mlv,7.0,171.0,0.2,0.1,tx,tx2025rdfgxr,2025-08-31T23:13:55.624Z,"25 km ENE of McKinney Acres, Texas",earthquake,0.0,3.4509248733521,0.3,5.0,automatic,tx,tx
+2025-08-31T12:31:29.224Z,32.7,-102.27,11.5767,2.4,mlv,7.0,245.0,0.3,0.4,tx,tx2025rdeqon,2025-08-31T23:13:51.624Z,"27 km SSE of Loop, Texas",earthquake,0.0,9.1730861663818,0.1,5.0,automatic,tx,tx
