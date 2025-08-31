@@ -10023,3 +10023,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T09:55:54.858Z,60.3868,-152.1311,86.5,2.0,ml,,,,0.09,ak,ak025b61a525,2025-08-31T09:57:04.573Z,"44 km WNW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-31T09:55:31.092Z,60.6455,-151.0847,50.5,1.9,ml,,,,0.49,ak,ak025b61a385,2025-08-31T09:57:08.767Z,"12 km ESE of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-08-31T09:12:43.591Z,41.1564,-116.7153,8.9,2.8,ml,11.0,136.73,0.288,0.1565,nn,nn00903538,2025-08-31T10:07:06.403Z,"53 km NE of Valmy, Nevada",earthquake,,3.0,0.27,10.0,reviewed,nn,nn
+2025-08-31T10:24:53.912Z,63.3512,-149.7711,90.2,1.7,ml,,,,0.4,ak,ak025b61oxe7,2025-08-31T10:27:41.209Z,"41 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-31T10:21:58.580Z,33.535,-116.7241667,5.89,0.2,ml,18.0,44.0,0.03224,0.11,ci,ci41279936,2025-08-31T10:25:27.496Z,"5 km WSW of Anza, CA",earthquake,0.21,0.42,0.08,7.0,automatic,ci,ci
+2025-08-31T10:17:31.410Z,38.823333740234,-122.79333496094,2.5999999046326,1.33,md,24.0,61.0,0.01308,0.01,nc,nc75231157,2025-08-31T10:19:07.860Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.419999987,0.16,26.0,automatic,nc,nc
+2025-08-31T10:09:10.623Z,61.2459,-147.4626,0.0,1.4,ml,,,,1.07,ak,ak025b61lmba,2025-08-31T10:11:35.788Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
