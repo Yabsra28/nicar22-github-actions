@@ -10018,3 +10018,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T08:49:34.170Z,41.228,-116.7106,9.2,3.9,ml,9.0,126.01,0.33,0.1964,nn,nn00903530,2025-08-31T09:24:06.157Z,"59 km NE of Valmy, Nevada",earthquake,,2.8,0.15,8.0,reviewed,nn,nn
 2025-08-31T09:36:52.080Z,38.800998687744,-122.80233001709,1.1699999570847,1.07,md,12.0,63.0,0.008864,0.02,nc,nc75231147,2025-08-31T09:38:27.408Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.569999993,0.23,13.0,automatic,nc,nc
 2025-08-31T09:30:51.880Z,33.2406667,-116.1096667,8.9,1.47,ml,73.0,22.0,0.09781,0.21,ci,ci41279928,2025-08-31T09:34:23.209Z,"11 km N of Ocotillo Wells, CA",earthquake,0.14,0.55,0.233,27.0,automatic,ci,ci
+2025-08-31T10:05:15.280Z,64.0681,-147.618,9.9,2.1,ml,,,,0.35,ak,ak025b61krt4,2025-08-31T10:06:57.402Z,"59 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-31T09:57:40.570Z,37.93416595459,-122.04650115967,9.7200002670288,1.03,md,8.0,134.0,0.08527,0.06,nc,nc75231152,2025-08-31T10:07:16.472Z,"2 km SSE of Pleasant Hill, CA",earthquake,0.67,1.48000002,0.17,6.0,automatic,nc,nc
+2025-08-31T09:55:54.858Z,60.3868,-152.1311,86.5,2.0,ml,,,,0.09,ak,ak025b61a525,2025-08-31T09:57:04.573Z,"44 km WNW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-08-31T09:55:31.092Z,60.6455,-151.0847,50.5,1.9,ml,,,,0.49,ak,ak025b61a385,2025-08-31T09:57:08.767Z,"12 km ESE of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-31T09:12:43.591Z,41.1564,-116.7153,8.9,2.8,ml,11.0,136.73,0.288,0.1565,nn,nn00903538,2025-08-31T10:07:06.403Z,"53 km NE of Valmy, Nevada",earthquake,,3.0,0.27,10.0,reviewed,nn,nn
