@@ -10082,3 +10082,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T13:52:57.469Z,31.96,-103.33,6.8035,1.9,ml,12.0,76.0,0.0,0.4,tx,tx2025rdhipc,2025-08-31T14:00:40.428Z,"21 km SW of Jal, New Mexico",earthquake,0.0,2.9034192562103,0.3,7.0,automatic,tx,tx
 2025-08-31T13:51:53.057Z,58.1916,-151.6058,23.3,2.3,ml,,,,0.38,ak,ak025b63n0h5,2025-08-31T13:55:07.160Z,"60 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-31T13:27:36.479Z,51.8538,158.6704,58.019,4.6,mb,35.0,140.0,1.172,1.02,us,us7000qst8,2025-08-31T13:53:28.040Z,"121 km S of Vilyuchinsk, Russia",earthquake,9.5,7.806,0.072,57.0,reviewed,us,us
+2025-08-31T14:18:33.120Z,38.688999176025,-122.48999786377,2.829999923706,1.31,md,8.0,122.0,0.07286,0.15,nc,nc75231242,2025-08-31T14:27:18.435Z,"13 km SE of Middletown, CA",earthquake,0.75,4.30999994,0.11,7.0,automatic,nc,nc
+2025-08-31T14:15:36.660Z,38.834499359131,-122.80100250244,2.4700000286102,1.83,md,34.0,39.0,0.009194,0.03,nc,nc75231237,2025-08-31T14:27:18.339Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.310000002,0.08,35.0,automatic,nc,nc
