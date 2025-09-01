@@ -10295,3 +10295,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T09:05:46.758Z,31.994,-101.722,3.6056,1.0,mlv,11.0,80.0,0.1,0.4,tx,tx2025retobk,2025-09-01T11:13:44.284Z,"16 km SSE of Stanton, Texas",earthquake,0.0,1.5092723369598,0.4,9.0,automatic,tx,tx
 2025-09-01T02:50:42.808Z,32.128,-102.222,4.8149,1.1,mlv,26.0,58.0,0.0,0.4,tx,tx2025rehczq,2025-09-01T11:12:54.437Z,"19 km NE of Gardendale, Texas",earthquake,0.0,1.0375379323959,0.3,14.0,automatic,tx,tx
 2025-08-31T23:47:33.069Z,31.644,-104.307,1.9214,1.5,ml,30.0,69.0,0.0,0.2,tx,tx2025rebbcy,2025-09-01T10:58:57.140Z,"59 km S of Whites City, New Mexico",earthquake,0.73193682346503,0.73928594403726,0.1,12.0,reviewed,tx,tx
+2025-09-01T11:23:49.030Z,38.834999084473,-122.79900360107,2.1400001049042,0.7,md,11.0,71.0,0.007572,0.01,nc,nc75231607,2025-09-01T11:25:26.905Z,"7 km WNW of Cobb, CA",earthquake,0.4,0.560000002,0.13,11.0,automatic,nc,nc
+2025-09-01T11:20:13.960Z,35.8828333,-117.7021667,3.99,0.61,ml,22.0,40.0,0.07735,0.13,ci,ci41280592,2025-09-01T11:23:43.694Z,"19 km ESE of Little Lake, CA",earthquake,0.17,0.41,0.119,13.0,automatic,ci,ci
+2025-09-01T11:16:43.041Z,56.5485,-152.0897,35.9,3.6,ml,,,,0.57,ak,ak025b7pryow,2025-09-01T11:20:39.543Z,"103 km SE of Old Harbor, Alaska",earthquake,,12.7,,,automatic,ak,ak
+2025-09-01T11:13:34.690Z,36.001499176025,-120.56533050537,2.4000000953674,1.75,md,23.0,45.0,0.02459,0.07,nc,nc75231602,2025-09-01T11:15:12.300Z,"17 km NW of Parkfield, CA",earthquake,0.27,0.479999989,0.21,13.0,automatic,nc,nc
+2025-09-01T09:27:37.204Z,18.7885,-69.6271,108.171,4.4,mb,75.0,55.0,0.425,1.01,us,us7000qszi,2025-09-01T11:24:40.173Z,"4 km NNE of Bayaguana, Dominican Republic",earthquake,6.34,7.348,0.038,195.0,reviewed,us,us
