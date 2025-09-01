@@ -10345,3 +10345,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T13:48:12.081Z,56.1906,-152.1847,10.0,3.3,ml,43.0,215.0,1.172,0.91,us,us7000qt0q,2025-09-01T15:15:20.040Z,"131 km SSE of Old Harbor, Alaska",earthquake,7.3,2.007,0.056,42.0,reviewed,us,us
 2025-09-01T15:39:39.480Z,33.701,-116.7358333,15.98,0.96,ml,48.0,27.0,0.06083,0.14,ci,ci41280752,2025-09-01T15:43:09.399Z,"5 km SSW of Idyllwild, CA",earthquake,0.14,0.33,0.205,27.0,automatic,ci,ci
 2025-09-01T15:30:55.520Z,34.0235,-117.587,4.81,1.02,ml,47.0,38.0,0.02828,0.18,ci,ci41280736,2025-09-01T15:34:19.211Z,"5 km SE of Ontario, CA",earthquake,0.17,0.4,0.126,27.0,automatic,ci,ci
+2025-09-01T15:47:36.340Z,35.7111667,-117.5128333,6.77,0.44,ml,16.0,106.0,0.08588,0.12,ci,ci41280776,2025-09-01T15:51:05.441Z,"12 km WSW of Searles Valley, CA",earthquake,0.31,0.65,0.076,5.0,automatic,ci,ci
