@@ -10389,3 +10389,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T20:28:50.054Z,61.6827,-151.3027,76.7,0.9,ml,,,,0.3,ak,ak025b7v7gi5,2025-09-01T20:31:32.891Z,"34 km S of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-01T20:26:58.051Z,66.0498,-153.8969,0.0,2.3,ml,,,,1.15,ak,ak025b7v71ot,2025-09-01T20:29:03.125Z,"16 km E of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-01T20:26:38.180Z,36.681331634521,-121.34166717529,5.0999999046326,3.87,ml,77.0,51.0,0.02637,0.27,nc,nc75231747,2025-09-01T20:37:45.820Z,"12 km S of Tres Pinos, CA",earthquake,0.3,0.839999974,0.214,63.0,reviewed,nc,nc
+2025-09-01T20:38:29.240Z,36.680500030518,-121.33799743652,2.8499999046326,1.63,md,20.0,56.0,0.02776,0.18,nc,nc75231752,2025-09-01T20:44:14.538Z,"12 km SSW of Tres Pinos, CA",earthquake,0.41,1.0,0.25,15.0,automatic,nc,nc
