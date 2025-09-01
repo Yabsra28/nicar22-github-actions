@@ -10239,3 +10239,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T19:42:06.150Z,46.586833333333,-122.391,16.38,0.75,ml,17.0,86.0,0.07681,0.1,uw,uw62171342,2025-09-01T05:22:34.990Z,"9 km WNW of Morton, Washington",earthquake,0.24,0.51,0.069931228423747,8.0,reviewed,uw,uw
 2025-08-31T18:58:25.240Z,46.212833333333,-122.1535,8.44,-0.26,ml,7.0,122.0,0.03394,0.09,uw,uw62171302,2025-09-01T05:02:44.970Z,"39 km SSE of Morton, Washington",earthquake,0.55,0.58,0.18322177890925,3.0,reviewed,uw,uw
 2025-08-31T14:36:13.270Z,46.209833333333,-122.1555,8.31,-0.14,ml,9.0,120.0,0.03617,0.12,uw,uw62171142,2025-09-01T05:11:27.190Z,"39 km SSE of Morton, Washington",earthquake,0.44,0.54,0.078127224034086,4.0,reviewed,uw,uw
+2025-09-01T05:35:46.748Z,62.379,-149.1077,44.4,1.5,ml,,,,0.58,ak,ak025b7mbg6q,2025-09-01T05:38:05.657Z,"45 km ENE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
