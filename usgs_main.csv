@@ -10286,3 +10286,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T09:20:26.150Z,17.947333333333,-66.293,10.05,2.55,md,17.0,171.0,0.09837,0.27,pr,pr71494193,2025-09-01T10:16:18.460Z,"3 km S of Salinas, Puerto Rico",earthquake,0.64,0.8,0.2081722855684,14.0,reviewed,pr,pr
 2025-09-01T07:38:33.399Z,-24.1293,-66.8639,166.608,4.8,mb,85.0,46.0,1.682,1.03,us,us7000qsyz,2025-09-01T10:13:12.040Z,"56 km W of San Antonio de los Cobres, Argentina",earthquake,8.17,6.763,0.025,479.0,reviewed,us,us
 2025-08-31T17:17:53.678Z,32.116,-101.918,8.7158,1.0,ml,38.0,50.0,0.1,0.1,tx,tx2025rdodca,2025-09-01T10:15:28.630Z,"12 km W of Stanton, Texas",earthquake,0.330340219687,0.69505419331143,0.2,20.0,reviewed,tx,tx
+2025-09-01T10:35:38.670Z,63.2868,-151.1513,13.7,1.2,ml,,,,0.47,ak,ak025b7pall7,2025-09-01T10:38:26.730Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-01T10:24:45.790Z,38.837001800537,-122.7945022583,1.8799999952316,0.7,md,9.0,74.0,0.003538,0.01,nc,nc75231572,2025-09-01T10:42:19.012Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.42999995,0.09,10.0,automatic,nc,nc
