@@ -10249,3 +10249,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T05:49:48.734Z,37.3113,-117.4875,5.3,1.2,ml,17.0,147.2,0.181,0.4394,nn,nn00903605,2025-09-01T05:52:31.851Z,"49 km SSW of Goldfield, Nevada",earthquake,,1.7,0.35,11.0,automatic,nn,nn
 2025-09-01T05:45:50.530Z,18.245,-66.428333333333,43.6,2.14,md,8.0,101.0,0.2218,0.2,pr,pr71494178,2025-09-01T06:03:36.900Z,"4 km WNW of Orocovis, Puerto Rico",earthquake,1.07,1.38,0.060136716694289,5.0,reviewed,pr,pr
 2025-08-31T14:42:09.160Z,46.824,-120.69716666667,9.06,0.53,ml,8.0,126.0,0.1234,0.15,uw,uw62171152,2025-09-01T06:10:22.100Z,"10 km N of Naches, Washington",earthquake,0.53,0.47,0.044074383552439,6.0,reviewed,uw,uw
+2025-09-01T06:33:08.218Z,39.638,-119.8636,0.1,0.9,ml,12.0,131.76,0.068,0.2109,nn,nn00903609,2025-09-01T06:35:11.762Z,"1 km W of Lemmon Valley, Nevada",earthquake,,2.0,0.25,7.0,automatic,nn,nn
+2025-09-01T06:27:24.200Z,36.1055,-117.859,3.23,0.88,ml,19.0,97.0,0.01251,0.1,ci,ci41280520,2025-09-01T06:30:55.728Z,"10 km NE of Coso Junction, CA",earthquake,0.16,0.23,0.175,11.0,automatic,ci,ci
+2025-09-01T06:26:08.620Z,36.1058333,-117.86,2.66,2.23,ml,36.0,35.0,0.01244,0.15,ci,ci41280512,2025-09-01T06:36:38.910Z,"10 km NE of Coso Junction, CA",earthquake,0.14,0.22,0.218,25.0,automatic,ci,ci
+2025-09-01T05:54:39.625Z,-17.3838,-174.7098,210.845,4.4,mb,33.0,73.0,4.46,0.79,us,us7000qsyj,2025-09-01T06:24:18.040Z,"159 km NNW of Neiafu, Tonga",earthquake,9.85,8.1,0.099,29.0,reviewed,us,us
