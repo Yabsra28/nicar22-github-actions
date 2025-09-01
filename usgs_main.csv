@@ -10300,3 +10300,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T11:16:43.041Z,56.5485,-152.0897,35.9,3.6,ml,,,,0.57,ak,ak025b7pryow,2025-09-01T11:20:39.543Z,"103 km SE of Old Harbor, Alaska",earthquake,,12.7,,,automatic,ak,ak
 2025-09-01T11:13:34.690Z,36.001499176025,-120.56533050537,2.4000000953674,1.75,md,23.0,45.0,0.02459,0.07,nc,nc75231602,2025-09-01T11:15:12.300Z,"17 km NW of Parkfield, CA",earthquake,0.27,0.479999989,0.21,13.0,automatic,nc,nc
 2025-09-01T09:27:37.204Z,18.7885,-69.6271,108.171,4.4,mb,75.0,55.0,0.425,1.01,us,us7000qszi,2025-09-01T11:24:40.173Z,"4 km NNE of Bayaguana, Dominican Republic",earthquake,6.34,7.348,0.038,195.0,reviewed,us,us
+2025-09-01T11:26:52.386Z,56.5923,-152.1316,0.0,3.0,ml,,,,0.7,ak,ak025b7pu4t2,2025-09-01T11:31:04.838Z,"98 km SE of Old Harbor, Alaska",earthquake,,1.0,,,automatic,ak,ak
