@@ -10416,3 +10416,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T22:22:56.750Z,33.1285,-116.5325,14.07,0.96,ml,41.0,32.0,0.09419,0.19,ci,ci41281048,2025-09-01T22:27:32.564Z,"8 km NE of Julian, CA",earthquake,0.21,0.48,0.142,21.0,automatic,ci,ci
 2025-09-01T22:40:25.390Z,33.4215,-116.6618333,4.33,0.83,ml,45.0,34.0,0.0884,0.19,ci,ci41281056,2025-09-01T22:43:52.232Z,"15 km S of Anza, CA",earthquake,0.15,0.44,0.162,28.0,automatic,ci,ci
 2025-09-01T22:10:49.370Z,19.2285,-64.446166666667,20.59,3.42,md,13.0,303.0,0.8208,0.25,pr,pr71494298,2025-09-01T22:35:45.800Z,"105 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.41,22.34,0.082942822427472,3.0,reviewed,pr,pr
+2025-09-01T22:59:51.941Z,32.0,-101.696,3.3417,1.1,ml,18.0,56.0,0.1,0.5,tx,tx2025rfvezp,2025-09-01T23:02:36.342Z,"16 km SSE of Stanton, Texas",earthquake,0.0,1.2569649219513,0.2,11.0,automatic,tx,tx
+2025-09-01T22:19:45.622Z,31.985,-101.372,2.0299,1.4,mlv,11.0,128.0,0.2,0.5,tx,tx2025rftwjh,2025-09-01T23:15:37.881Z,"13 km S of Forsan, Texas",earthquake,0.0,1.6300081014633,0.4,6.0,automatic,tx,tx
+2025-09-01T16:42:30.127Z,32.12,-101.483,2.5983,1.1,mlv,20.0,51.0,0.1,0.5,tx,tx2025rfirlv,2025-09-01T23:15:32.886Z,"11 km W of Forsan, Texas",earthquake,0.0,1.2092589139938,0.2,13.0,automatic,tx,tx
+2025-09-01T13:46:25.756Z,32.178,-101.18,1.7199,1.8,mlv,31.0,141.0,0.3,0.4,tx,tx2025rfcwan,2025-09-01T23:15:29.886Z,"17 km SE of Coahoma, Texas",earthquake,0.0,1.495815038681,0.1,13.0,automatic,tx,tx
