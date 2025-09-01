@@ -10288,3 +10288,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T17:17:53.678Z,32.116,-101.918,8.7158,1.0,ml,38.0,50.0,0.1,0.1,tx,tx2025rdodca,2025-09-01T10:15:28.630Z,"12 km W of Stanton, Texas",earthquake,0.330340219687,0.69505419331143,0.2,20.0,reviewed,tx,tx
 2025-09-01T10:35:38.670Z,63.2868,-151.1513,13.7,1.2,ml,,,,0.47,ak,ak025b7pall7,2025-09-01T10:38:26.730Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-01T10:24:45.790Z,38.837001800537,-122.7945022583,1.8799999952316,0.7,md,9.0,74.0,0.003538,0.01,nc,nc75231572,2025-09-01T10:42:19.012Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.42999995,0.09,10.0,automatic,nc,nc
+2025-09-01T10:51:52.040Z,36.75,-120.96633148193,-0.019999999552965,1.62,md,20.0,115.0,0.06271,0.26,nc,nc75231582,2025-09-01T10:53:27.102Z,"29 km NE of Pinnacles, CA",earthquake,0.57,4.98000002,0.08,17.0,automatic,nc,nc
