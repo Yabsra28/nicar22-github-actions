@@ -10328,3 +10328,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T05:29:46.382Z,69.4606,-144.2387,10.0,2.5,ml,26.0,128.0,0.516,0.39,us,us7000qsyf,2025-09-01T13:23:13.040Z,"78 km SSW of Kaktovik, Alaska",earthquake,3.28,1.985,0.048,58.0,reviewed,us,us
 2025-09-01T13:36:55.593Z,62.9167,-148.7545,55.6,2.0,ml,,,,0.48,ak,ak025b7r35en,2025-09-01T13:38:34.995Z,"53 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-01T13:54:48.830Z,31.637,-104.298,4.6701,1.9,ml,25.0,99.0,0.0,0.3,tx,tx2025rfddfz,2025-09-01T13:57:37.468Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.1766211986542,0.2,17.0,automatic,tx,tx
+2025-09-01T14:04:16.840Z,33.984,-116.8248333,17.95,0.89,ml,35.0,54.0,0.05295,0.18,ci,ci41280648,2025-09-01T14:08:03.066Z,"8 km NE of Banning, CA",earthquake,0.21,0.51,0.169,30.0,automatic,ci,ci
+2025-09-01T14:03:55.000Z,36.351165771484,-120.94066619873,7.0300002098083,1.86,md,29.0,111.0,0.03271,0.15,nc,nc75231637,2025-09-01T14:22:20.546Z,"23 km ENE of King City, CA",earthquake,0.35,0.829999983,0.12,21.0,automatic,nc,nc
+2025-09-01T13:30:48.970Z,19.5901,-64.2511,38.0,3.97,md,13.0,304.0,1.11,0.36,pr,pr2025244001,2025-09-01T14:00:15.123Z,"150 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.07,22.17,0.06,6.0,reviewed,pr,pr
+2025-09-01T06:24:31.583Z,41.1332,-116.7503,10.841,2.8,ml,24.0,70.0,1.209,0.44,us,us7000qsyp,2025-09-01T14:06:02.040Z,"49 km NE of Valmy, Nevada",earthquake,1.42,7.72,0.037,98.0,reviewed,us,us
