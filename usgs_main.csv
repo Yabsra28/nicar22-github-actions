@@ -10420,3 +10420,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T22:19:45.622Z,31.985,-101.372,2.0299,1.4,mlv,11.0,128.0,0.2,0.5,tx,tx2025rftwjh,2025-09-01T23:15:37.881Z,"13 km S of Forsan, Texas",earthquake,0.0,1.6300081014633,0.4,6.0,automatic,tx,tx
 2025-09-01T16:42:30.127Z,32.12,-101.483,2.5983,1.1,mlv,20.0,51.0,0.1,0.5,tx,tx2025rfirlv,2025-09-01T23:15:32.886Z,"11 km W of Forsan, Texas",earthquake,0.0,1.2092589139938,0.2,13.0,automatic,tx,tx
 2025-09-01T13:46:25.756Z,32.178,-101.18,1.7199,1.8,mlv,31.0,141.0,0.3,0.4,tx,tx2025rfcwan,2025-09-01T23:15:29.886Z,"17 km SE of Coahoma, Texas",earthquake,0.0,1.495815038681,0.1,13.0,automatic,tx,tx
+2025-09-01T23:25:32.006Z,64.1313,-150.2758,2.8,1.7,ml,,,,0.53,ak,ak025b7wz2s0,2025-09-01T23:27:26.589Z,"54 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-01T23:22:03.100Z,37.521667480469,-121.78949737549,3.4100000858307,0.86,md,6.0,187.0,0.01122,0.02,nc,nc75231797,2025-09-01T23:23:41.545Z,"13 km SSE of Sunol, CA",earthquake,1.59,1.01999998,0.07,4.0,automatic,nc,nc
+2025-09-01T23:21:54.470Z,33.7048333,-116.8198333,14.79,0.85,ml,29.0,64.0,0.0782,0.14,ci,ci41281072,2025-09-01T23:25:25.059Z,"8 km SE of Valle Vista, CA",earthquake,0.25,0.29,0.159,22.0,automatic,ci,ci
