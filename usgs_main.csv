@@ -10367,3 +10367,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T17:45:42.984Z,63.3235,-145.2938,5.9,1.7,ml,,,,0.48,ak,ak025b7tisbe,2025-09-01T17:47:26.927Z,"30 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-01T17:36:45.540Z,33.4656667,-116.9086667,5.65,0.6,ml,20.0,74.0,0.01625,0.15,ci,ci41280840,2025-09-01T17:40:06.972Z,"5 km WNW of Aguanga, CA",earthquake,0.21,0.4,0.297,3.0,automatic,ci,ci
 2025-09-01T17:57:42.664Z,56.6434,-152.1073,36.0,3.4,ml,,,,0.72,ak,ak025b7tlckv,2025-09-01T18:00:48.898Z,"95 km SE of Old Harbor, Alaska",earthquake,,14.6,,,automatic,ak,ak
+2025-09-01T18:35:08.710Z,34.799,-116.2721667,3.2,1.9,ml,31.0,61.0,0.05994,0.17,ci,ci41280872,2025-09-01T18:39:15.147Z,"13 km NW of Ludlow, CA",earthquake,0.19,0.67,0.168,26.0,automatic,ci,ci
+2025-09-01T18:30:08.988Z,31.351,-102.124,9.941,1.4,ml,13.0,94.0,0.2,0.6,tx,tx2025rfmgnr,2025-09-01T18:33:22.856Z,"22 km ESE of Crane, Texas",earthquake,0.0,5.6844992637634,0.3,11.0,automatic,tx,tx
+2025-09-01T18:29:45.386Z,31.513,-103.868,5.9049,1.7,ml,14.0,98.0,0.0,0.4,tx,tx2025rfmgeg,2025-09-01T18:33:58.109Z,"23 km NNW of Toyah, Texas",earthquake,0.0,2.8675277233124,0.1,8.0,automatic,tx,tx
+2025-09-01T18:12:19.730Z,34.2915,-118.4548333,4.68,0.99,ml,28.0,83.0,0.02234,0.19,ci,ci41280864,2025-09-01T18:16:15.283Z,"2 km WNW of San Fernando, CA",earthquake,0.25,0.4,0.216,34.0,automatic,ci,ci
