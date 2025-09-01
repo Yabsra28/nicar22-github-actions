@@ -10424,3 +10424,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T23:22:03.100Z,37.521667480469,-121.78949737549,3.4100000858307,0.86,md,6.0,187.0,0.01122,0.02,nc,nc75231797,2025-09-01T23:23:41.545Z,"13 km SSE of Sunol, CA",earthquake,1.59,1.01999998,0.07,4.0,automatic,nc,nc
 2025-09-01T23:21:54.470Z,33.7048333,-116.8198333,14.79,0.85,ml,29.0,64.0,0.0782,0.14,ci,ci41281072,2025-09-01T23:25:25.059Z,"8 km SE of Valle Vista, CA",earthquake,0.25,0.29,0.159,22.0,automatic,ci,ci
 2025-09-01T23:33:19.656Z,62.9232,-150.6834,31.4,3.0,ml,,,,0.78,ak,ak025b7x0rjx,2025-09-01T23:34:53.012Z,"47 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-01T21:38:22.809Z,22.9887,-109.6191,10.0,4.8,mww,218.0,65.0,4.923,0.79,us,us7000qt5b,2025-09-01T23:51:17.233Z,"9 km SSE of La Playa, Mexico",earthquake,8.79,1.825,0.075,17.0,reviewed,us,us
