@@ -10504,3 +10504,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T07:09:24.592Z,9.5765,122.2268,50.374,4.6,mb,34.0,132.0,5.724,0.64,us,us7000qt7w,2025-09-02T08:28:48.040Z,"25 km WSW of Cayhagan, Philippines",earthquake,12.1,8.493,0.111,24.0,reviewed,us,us
 2025-09-02T08:46:14.608Z,57.9571,-154.3517,39.1,1.5,ml,,,,0.51,ak,ak025b9bpdw4,2025-09-02T08:47:54.342Z,"43 km N of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-09-01T23:51:56.638Z,32.005,-103.802,7.9071,1.7,ml,35.0,43.0,0.0,0.1,tx,tx2025rfwxoz,2025-09-02T08:46:59.434Z,"35 km SE of Malaga, New Mexico",earthquake,0.46259954011896,0.53216180284476,0.2,18.0,reviewed,tx,tx
+2025-09-02T09:15:53.197Z,60.9146,-150.5451,17.8,1.4,ml,,,,0.36,ak,ak025b9c499z,2025-09-02T09:18:31.967Z,"7 km E of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-02T09:01:44.850Z,37.309501647949,-122.19866943359,4.5500001907349,1.66,md,13.0,69.0,0.02668,0.17,nc,nc75231957,2025-09-02T09:22:20.168Z,"9 km S of Portola Valley, CA",earthquake,0.46,0.709999979,0.18,13.0,automatic,nc,nc
