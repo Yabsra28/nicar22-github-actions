@@ -10506,3 +10506,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T23:51:56.638Z,32.005,-103.802,7.9071,1.7,ml,35.0,43.0,0.0,0.1,tx,tx2025rfwxoz,2025-09-02T08:46:59.434Z,"35 km SE of Malaga, New Mexico",earthquake,0.46259954011896,0.53216180284476,0.2,18.0,reviewed,tx,tx
 2025-09-02T09:15:53.197Z,60.9146,-150.5451,17.8,1.4,ml,,,,0.36,ak,ak025b9c499z,2025-09-02T09:18:31.967Z,"7 km E of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-02T09:01:44.850Z,37.309501647949,-122.19866943359,4.5500001907349,1.66,md,13.0,69.0,0.02668,0.17,nc,nc75231957,2025-09-02T09:22:20.168Z,"9 km S of Portola Valley, CA",earthquake,0.46,0.709999979,0.18,13.0,automatic,nc,nc
+2025-09-02T09:37:30.920Z,38.802333831787,-122.78133392334,2.8099999427795,0.75,md,8.0,101.0,0.01049,0.04,nc,nc75231967,2025-09-02T09:39:04.428Z,"4 km NNW of The Geysers, CA",earthquake,0.52,1.83000004,0.1,8.0,automatic,nc,nc
+2025-09-02T09:34:36.712Z,36.7256,-116.2968,10.9,1.0,ml,31.0,66.04,0.021,0.25,nn,nn00903663,2025-09-02T09:37:04.265Z,"45 km ESE of Beatty, Nevada",earthquake,,0.4,0.33,20.0,automatic,nn,nn
