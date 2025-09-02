@@ -10520,3 +10520,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T11:04:09.636Z,58.0939,-154.4407,12.2,1.1,ml,,,,0.56,ak,ak025b9d8o8z,2025-09-02T11:06:07.574Z,"58 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-02T08:24:20.648Z,32.426,-102.125,3.8931,1.2,mlv,29.0,76.0,0.0,0.5,tx,tx2025rgnxgt,2025-09-02T11:14:21.771Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.0,0.93995636701584,0.3,18.0,automatic,tx,tx
 2025-09-02T11:28:59.561Z,31.609,-104.108,3.7846,1.8,ml,36.0,75.0,0.0,0.3,tx,tx2025rguamb,2025-09-02T11:33:28.502Z,"44 km NW of Toyah, Texas",earthquake,0.0,0.91654121875763,0.2,25.0,automatic,tx,tx
+2025-09-02T11:25:03.928Z,52.6292,160.3969,36.509,5.0,mb,111.0,103.0,1.131,0.63,us,us7000qt8g,2025-09-02T11:42:36.040Z,"128 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.3,6.556,0.024,573.0,reviewed,us,us
+2025-09-02T08:21:28.182Z,2.388,128.4964,230.414,4.5,mb,60.0,79.0,1.963,0.74,us,us7000qt82,2025-09-02T11:39:28.040Z,"90 km NE of Tobelo, Indonesia",earthquake,8.61,7.641,0.076,51.0,reviewed,us,us
