@@ -10700,3 +10700,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T08:47:46.780Z,47.717833333333,-113.842,5.97,-0.36,ml,4.0,171.0,0.08995,0.05,mb,mb90110018,2025-09-02T22:25:27.570Z,"16 km E of Finley Point, Montana",earthquake,0.6,2.36,0.16691829485731,2.0,reviewed,mb,mb
 2025-09-02T00:50:38.550Z,47.459833333333,-115.819,-0.26,1.11,ml,8.0,107.0,0.0322,0.16,mb,mb90110013,2025-09-02T22:21:50.530Z,"1 km SW of Mullan, Idaho",earthquake,0.93,8.84,0.25992174070792,4.0,reviewed,mb,mb
 2025-09-02T22:34:47.986Z,61.41,-146.3916,28.5,1.2,ml,,,,0.82,ak,ak025b9jyyce,2025-09-02T22:36:38.193Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-02T22:12:58.329Z,-20.4551,-177.6816,453.185,4.8,mb,37.0,103.0,7.43,0.77,us,us7000qtdh,2025-09-02T22:43:40.040Z,"260 km WNW of Houma, Tonga",earthquake,15.87,8.667,0.078,50.0,reviewed,us,us
