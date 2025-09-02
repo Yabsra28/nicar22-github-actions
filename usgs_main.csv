@@ -10425,3 +10425,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T23:21:54.470Z,33.7048333,-116.8198333,14.79,0.85,ml,29.0,64.0,0.0782,0.14,ci,ci41281072,2025-09-01T23:25:25.059Z,"8 km SE of Valle Vista, CA",earthquake,0.25,0.29,0.159,22.0,automatic,ci,ci
 2025-09-01T23:33:19.656Z,62.9232,-150.6834,31.4,3.0,ml,,,,0.78,ak,ak025b7x0rjx,2025-09-01T23:34:53.012Z,"47 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-01T21:38:22.809Z,22.9887,-109.6191,10.0,4.8,mww,218.0,65.0,4.923,0.79,us,us7000qt5b,2025-09-01T23:51:17.233Z,"9 km SSE of La Playa, Mexico",earthquake,8.79,1.825,0.075,17.0,reviewed,us,us
+2025-09-02T00:48:02.260Z,38.787666320801,-122.7311630249,0.40999999642372,1.34,md,19.0,89.0,0.006201,0.05,nc,nc75231817,2025-09-02T00:49:37.202Z,"2 km ENE of The Geysers, CA",earthquake,0.23,0.389999986,0.12,19.0,automatic,nc,nc
+2025-09-02T00:42:08.470Z,38.825832366943,-122.80316925049,6.8099999427795,0.52,md,8.0,152.0,0.005917,0.03,nc,nc75231812,2025-09-02T00:43:47.011Z,"7 km NNW of The Geysers, CA",earthquake,1.16,6.01999998,0.25,11.0,automatic,nc,nc
+2025-09-02T00:32:46.880Z,65.7796,-155.1705,0.0,2.0,ml,,,,0.75,ak,ak025b96uzio,2025-09-02T00:34:48.829Z,"51 km SW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-02T00:24:50.220Z,36.1176667,-117.9161667,5.31,1.36,ml,31.0,81.0,0.04964,0.15,ci,ci41281080,2025-09-02T00:28:23.222Z,"9 km NNE of Coso Junction, CA",earthquake,0.19,0.5,0.196,26.0,automatic,ci,ci
+2025-09-01T23:51:55.936Z,32.007,-103.805,8.8709,1.8,ml,23.0,38.0,0.0,0.7,tx,tx2025rfwxog,2025-09-01T23:57:05.780Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,1.9330594539642,0.2,13.0,automatic,tx,tx
