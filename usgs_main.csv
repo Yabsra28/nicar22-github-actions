@@ -10628,3 +10628,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T15:23:40.830Z,38.4995,-112.897,2.65,1.13,md,15.0,68.0,0.001074,0.06,uu,uu80116331,2025-09-02T18:40:44.080Z,"15 km NE of Milford, Utah",earthquake,0.26,0.35,0.48685811135557,9.0,reviewed,uu,uu
 2025-09-02T15:09:18.640Z,38.5,-112.89616666667,2.56,0.5,md,13.0,65.0,0.001377,0.07,uu,uu80116326,2025-09-02T18:44:21.630Z,"15 km NE of Milford, Utah",earthquake,0.33,0.39,0.55601712529449,4.0,reviewed,uu,uu
 2025-09-02T15:00:23.150Z,38.502,-112.895,2.64,1.14,md,14.0,63.0,0.002802,0.07,uu,uu80116321,2025-09-02T18:47:04.550Z,"15 km NE of Milford, Utah",earthquake,0.31,0.45,0.69763921414922,6.0,reviewed,uu,uu
+2025-09-02T18:47:07.484Z,61.2165,-147.0939,5.0,1.4,ml,,,,0.45,ak,ak025b9hnx3w,2025-09-02T18:48:53.704Z,"41 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-02T18:45:59.603Z,62.1422,-151.825,98.7,1.4,ml,,,,0.76,ak,ak025b9hnlp4,2025-09-02T18:48:04.683Z,"28 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-02T15:17:51.810Z,47.1875,-121.956,16.34,0.59,ml,15.0,193.0,0.1995,0.11,uw,uw62172292,2025-09-02T18:50:02.200Z,"3 km SE of Enumclaw, Washington",earthquake,0.74,0.87,0.15980051885594,7.0,reviewed,uw,uw
+2025-09-02T14:02:31.300Z,38.497666666667,-112.89516666667,2.48,1.54,md,16.0,52.0,0.003402,0.1,uu,uu80116311,2025-09-02T18:55:31.230Z,"15 km NE of Milford, Utah",earthquake,0.31,0.41,0.34607450862076,7.0,reviewed,uu,uu
