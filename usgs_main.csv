@@ -10472,3 +10472,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T05:37:52.870Z,34.209,-117.0861667,5.19,0.2,ml,12.0,151.0,0.03529,0.12,ci,ci41281152,2025-09-02T05:41:18.824Z,"2 km E of Running Springs, CA",earthquake,0.38,0.51,0.17,7.0,automatic,ci,ci
 2025-09-02T05:37:47.445Z,57.1973,-153.0667,50.0,2.2,ml,,,,0.79,ak,ak025b99v860,2025-09-02T05:40:21.777Z,"14 km E of Old Harbor, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2025-09-02T05:32:03.788Z,63.3429,-145.3923,7.1,1.5,ml,,,,0.69,ak,ak025b99u27u,2025-09-02T05:34:51.574Z,"30 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-02T05:43:47.255Z,64.5231,-149.2165,0.0,1.8,ml,,,,0.83,ak,ak025b99wig5,2025-09-02T05:45:52.621Z,"7 km SW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
