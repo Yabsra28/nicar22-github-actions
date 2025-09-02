@@ -10473,3 +10473,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T05:37:47.445Z,57.1973,-153.0667,50.0,2.2,ml,,,,0.79,ak,ak025b99v860,2025-09-02T05:40:21.777Z,"14 km E of Old Harbor, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2025-09-02T05:32:03.788Z,63.3429,-145.3923,7.1,1.5,ml,,,,0.69,ak,ak025b99u27u,2025-09-02T05:34:51.574Z,"30 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-02T05:43:47.255Z,64.5231,-149.2165,0.0,1.8,ml,,,,0.83,ak,ak025b99wig5,2025-09-02T05:45:52.621Z,"7 km SW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-02T06:29:11.645Z,58.147,-156.4659,17.6,1.0,ml,,,,0.53,ak,ak025b9aeva4,2025-09-02T06:31:36.178Z,"54 km E of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-02T06:13:47.944Z,31.54,-103.71,5.3527,1.1,ml,11.0,126.0,0.1,0.7,tx,tx2025rgjouf,2025-09-02T06:18:28.125Z,"21 km SSW of Mentone, Texas",earthquake,0.0,3.013192653656,0.1,6.0,automatic,tx,tx
+2025-09-02T06:03:17.383Z,62.1761,-152.026,16.9,2.4,ml,,,,0.1,ak,ak025b9a9b3u,2025-09-02T06:29:53.689Z,"38 km WNW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-02T06:00:02.840Z,33.136,-116.6,3.32,1.36,ml,6.0,168.0,0.1663,0.07,ci,ci41281160,2025-09-02T06:04:07.952Z,"6 km N of Julian, CA",earthquake,0.58,1.66,0.189,24.0,automatic,ci,ci
+2025-09-02T05:45:04.410Z,17.9115,-66.665,8.49,2.34,md,11.0,180.0,0.1341,0.14,pr,pr71494343,2025-09-02T06:00:29.990Z,"10 km SSE of Tallaboa, Puerto Rico",earthquake,0.43,0.95,0.11168125610701,9.0,reviewed,pr,pr
+2025-09-02T05:25:36.048Z,54.3575,-159.8524,35.0,3.9,ml,38.0,191.0,0.499,0.86,us,us7000qt79,2025-09-02T06:00:55.040Z,"116 km SSE of Sand Point, Alaska",earthquake,7.99,2.014,0.066,30.0,reviewed,us,us
