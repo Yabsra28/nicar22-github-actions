@@ -10581,3 +10581,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T15:03:16.773Z,31.707,-104.173,3.7833,1.9,ml,32.0,62.0,0.1,0.5,tx,tx2025rhbddj,2025-09-02T15:09:39.437Z,"54 km W of Mentone, Texas",earthquake,0.0,0.97191447019577,0.3,21.0,automatic,tx,tx
 2025-09-02T14:53:35.570Z,38.831665039062,-122.81066894531,2.0499999523163,0.72,md,9.0,73.0,0.008271,0.01,nc,nc75232162,2025-09-02T14:55:09.983Z,"8 km NNW of The Geysers, CA",earthquake,0.44,1.12,0.13,11.0,automatic,nc,nc
 2025-09-02T14:01:28.971Z,32.182,-101.193,6.9092,2.0,ml,36.0,62.0,0.1,0.1,tx,tx2025rgzbws,2025-09-02T14:54:17.558Z,"16 km SE of Coahoma, Texas",earthquake,0.4575825670155,1.2053211777825,0.1,18.0,reviewed,tx,tx
+2025-09-02T15:14:37.271Z,59.7841,-153.2224,135.5,1.6,ml,,,,0.14,ak,ak025b9folyn,2025-09-02T15:16:28.739Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-02T13:58:32.604Z,32.182,-101.193,7.2021,2.0,ml,35.0,55.0,0.1,0.1,tx,tx2025rgyzit,2025-09-02T15:17:53.546Z,"16 km SE of Coahoma, Texas",earthquake,0.59403622814204,1.1260007019575,0.1,19.0,reviewed,tx,tx
+2025-09-02T13:10:21.951Z,-3.4008,129.2524,10.0,4.7,mb,65.0,77.0,1.29,0.98,us,us7000qt93,2025-09-02T15:21:23.040Z,"33 km ESE of Masohi, Indonesia",earthquake,4.73,1.838,0.076,58.0,reviewed,us,us
+2025-09-01T23:32:32.810Z,44.348666666667,-115.17716666667,8.27,2.61,ml,19.0,70.0,0.3395,0.17,mb,mb90109858,2025-09-02T15:26:30.730Z,"23 km NW of Stanley, Idaho",earthquake,0.44,0.86,0.1941157328381,53.0,reviewed,mb,mb
