@@ -10701,3 +10701,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T00:50:38.550Z,47.459833333333,-115.819,-0.26,1.11,ml,8.0,107.0,0.0322,0.16,mb,mb90110013,2025-09-02T22:21:50.530Z,"1 km SW of Mullan, Idaho",earthquake,0.93,8.84,0.25992174070792,4.0,reviewed,mb,mb
 2025-09-02T22:34:47.986Z,61.41,-146.3916,28.5,1.2,ml,,,,0.82,ak,ak025b9jyyce,2025-09-02T22:36:38.193Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-02T22:12:58.329Z,-20.4551,-177.6816,453.185,4.8,mb,37.0,103.0,7.43,0.77,us,us7000qtdh,2025-09-02T22:43:40.040Z,"260 km WNW of Houma, Tonga",earthquake,15.87,8.667,0.078,50.0,reviewed,us,us
+2025-09-02T22:58:17.970Z,33.534,-116.7225,6.18,0.31,ml,15.0,64.0,0.03367,0.14,ci,ci41281848,2025-09-02T23:01:49.145Z,"5 km WSW of Anza, CA",earthquake,0.22,0.48,0.162,6.0,automatic,ci,ci
+2025-09-02T21:13:44.941Z,34.5888,70.7241,10.0,4.0,mb,22.0,152.0,1.314,0.78,us,us7000qtda,2025-09-02T22:53:42.040Z,"30 km NE of Jalālābād, Afghanistan",earthquake,6.95,1.975,0.157,11.0,reviewed,us,us
