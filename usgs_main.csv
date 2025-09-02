@@ -10430,3 +10430,22 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T00:32:46.880Z,65.7796,-155.1705,0.0,2.0,ml,,,,0.75,ak,ak025b96uzio,2025-09-02T00:34:48.829Z,"51 km SW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-02T00:24:50.220Z,36.1176667,-117.9161667,5.31,1.36,ml,31.0,81.0,0.04964,0.15,ci,ci41281080,2025-09-02T00:28:23.222Z,"9 km NNE of Coso Junction, CA",earthquake,0.19,0.5,0.196,26.0,automatic,ci,ci
 2025-09-01T23:51:55.936Z,32.007,-103.805,8.8709,1.8,ml,23.0,38.0,0.0,0.7,tx,tx2025rfwxog,2025-09-01T23:57:05.780Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,1.9330594539642,0.2,13.0,automatic,tx,tx
+2025-09-02T02:38:25.670Z,33.532,-116.7188333,5.79,0.18,ml,19.0,66.0,0.03671,0.14,ci,ci41281120,2025-09-02T02:41:55.892Z,"5 km WSW of Anza, CA",earthquake,0.22,0.43,0.084,6.0,automatic,ci,ci
+2025-09-02T02:18:09.360Z,33.7185,-117.4916667,9.53,1.01,ml,27.0,63.0,0.08744,0.18,ci,ci41281112,2025-09-02T02:22:13.879Z,"11 km NE of Trabuco Canyon, CA",earthquake,0.23,0.43,0.315,31.0,automatic,ci,ci
+2025-09-02T02:13:28.362Z,32.011,-103.793,8.3042,2.1,ml,32.0,39.0,0.0,0.5,tx,tx2025rgbpug,2025-09-02T02:18:08.453Z,"35 km SE of Malaga, New Mexico",earthquake,0.0,1.534544467926,0.2,16.0,automatic,tx,tx
+2025-09-02T02:02:24.950Z,38.835498809815,-122.8048324585,1.6000000238419,0.39,md,9.0,65.0,0.01168,0.02,nc,nc75231852,2025-09-02T02:27:24.075Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.25999999,0.3,9.0,automatic,nc,nc
+2025-09-02T02:02:00.411Z,-4.2006,128.6961,9.97,4.6,mb,43.0,87.0,1.246,0.57,us,us7000qt66,2025-09-02T02:30:36.040Z,"79 km SE of Ambon, Indonesia",earthquake,8.88,4.617,0.091,36.0,reviewed,us,us
+2025-09-02T01:58:40.240Z,33.2241667,-116.0848333,9.23,1.31,ml,62.0,51.0,0.09755,0.2,ci,ci41281096,2025-09-02T02:02:04.822Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.15,0.52,0.179,28.0,automatic,ci,ci
+2025-09-02T01:54:26.424Z,64.4553,-146.9327,8.9,0.9,ml,,,,0.6,ak,ak025b97l3aq,2025-09-02T01:56:54.962Z,"7 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-02T01:47:29.879Z,62.3551,-149.888,10.3,1.6,ml,,,,0.62,ak,ak025b97jljv,2025-09-02T01:49:16.003Z,"11 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-02T01:45:16.806Z,60.5226,-145.2925,16.5,1.5,ml,,,,0.56,ak,ak025b97j540,2025-09-02T01:47:37.272Z,"25 km E of Cordova, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-09-02T01:35:27.920Z,38.823665618896,-122.84549713135,1.9700000286102,0.72,md,9.0,91.0,0.008195,0.01,nc,nc75231847,2025-09-02T02:17:16.995Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.889999986,0.09,9.0,automatic,nc,nc
+2025-09-02T01:25:35.690Z,34.1941667,-117.3965,13.3,1.05,ml,49.0,45.0,0.02702,0.15,ci,ci41281088,2025-09-02T01:29:18.108Z,"3 km S of Devore, CA",earthquake,0.16,0.31,0.175,29.0,automatic,ci,ci
+2025-09-02T01:23:50.302Z,64.708,-149.2982,20.6,1.7,ml,,,,0.27,ak,ak025b97ehxy,2025-09-02T01:26:08.017Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-02T01:16:15.570Z,36.854331970215,-121.57666778565,3.2599999904633,1.14,md,8.0,154.0,0.03247,0.09,nc,nc75231842,2025-09-02T02:07:18.920Z,"4 km WNW of San Juan Bautista, CA",earthquake,1.15,0.939999998,0.13,5.0,automatic,nc,nc
+2025-09-02T01:14:24.385Z,63.2986,-151.7527,0.0,1.1,ml,,,,1.11,ak,ak025b97cihy,2025-09-02T01:17:07.913Z,"27 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-02T01:10:42.680Z,38.818500518799,-122.80200195312,2.5,0.77,md,12.0,91.0,0.007978,0.01,nc,nc75231832,2025-09-02T01:42:16.750Z,"6 km NNW of The Geysers, CA",earthquake,0.34,0.610000014,0.18,15.0,automatic,nc,nc
+2025-09-02T01:09:06.750Z,36.845832824707,-121.58999633789,4.4400000572205,2.31,md,54.0,55.0,0.03858,0.2,nc,nc75231827,2025-09-02T01:32:18.674Z,"5 km WNW of San Juan Bautista, CA",earthquake,0.27,0.550000012,0.18,47.0,automatic,nc,nc
+2025-09-02T01:03:28.611Z,50.083,155.9222,85.088,4.4,mb,42.0,136.0,3.226,1.0,us,us7000qt5u,2025-09-02T01:24:14.040Z,"67 km SSW of Severo-Kuril’sk, Russia",earthquake,11.89,7.936,0.07,59.0,reviewed,us,us
+2025-09-02T01:03:06.869Z,64.7128,-149.4765,22.4,1.6,ml,,,,0.71,ak,ak025b97a49q,2025-09-02T01:04:50.422Z,"20 km NW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-01T21:27:45.588Z,2.409,127.3027,94.636,4.4,mb,33.0,145.0,1.628,1.05,us,us7000qt5a,2025-09-02T01:47:10.040Z,"108 km NW of Tobelo, Indonesia",earthquake,8.18,6.299,0.096,31.0,reviewed,us,us
