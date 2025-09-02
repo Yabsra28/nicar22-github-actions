@@ -10699,3 +10699,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T21:37:03.010Z,19.407,-64.4913,34.0,3.89,md,12.0,303.0,1.0001,0.45,pr,pr2025245000,2025-09-02T22:21:14.731Z,"123 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.35,27.76,0.09,4.0,reviewed,pr,pr
 2025-09-02T08:47:46.780Z,47.717833333333,-113.842,5.97,-0.36,ml,4.0,171.0,0.08995,0.05,mb,mb90110018,2025-09-02T22:25:27.570Z,"16 km E of Finley Point, Montana",earthquake,0.6,2.36,0.16691829485731,2.0,reviewed,mb,mb
 2025-09-02T00:50:38.550Z,47.459833333333,-115.819,-0.26,1.11,ml,8.0,107.0,0.0322,0.16,mb,mb90110013,2025-09-02T22:21:50.530Z,"1 km SW of Mullan, Idaho",earthquake,0.93,8.84,0.25992174070792,4.0,reviewed,mb,mb
+2025-09-02T22:34:47.986Z,61.41,-146.3916,28.5,1.2,ml,,,,0.82,ak,ak025b9jyyce,2025-09-02T22:36:38.193Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
