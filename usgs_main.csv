@@ -10460,3 +10460,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T03:26:11.030Z,18.167833333333,-67.262166666667,18.62,2.9,md,18.0,226.0,0.1219,0.24,pr,pr71494308,2025-09-02T03:48:43.240Z,"12 km NW of Puerto Real, Puerto Rico",earthquake,0.89,0.44,0.15382558977982,10.0,reviewed,pr,pr
 2025-09-02T03:55:41.700Z,63.119,-151.3555,0.0,1.5,ml,,,,0.6,ak,ak025b98s7ei,2025-09-02T03:57:44.427Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-02T03:37:31.102Z,51.2468,-173.8902,22.903,4.7,mb,51.0,193.0,0.975,0.85,us,us7000qt6l,2025-09-02T04:06:59.040Z,"107 km SSE of Atka, Alaska",earthquake,6.85,6.571,0.05,119.0,reviewed,us,us
+2025-09-02T04:33:38.013Z,59.8191,-152.9349,93.9,1.8,ml,,,,0.4,ak,ak025b998wyx,2025-09-02T04:35:27.899Z,"62 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-02T04:23:52.890Z,38.799331665039,-122.78116607666,-0.14000000059605,1.07,md,15.0,101.0,0.01401,0.09,nc,nc75231867,2025-09-02T04:25:29.007Z,"3 km NNW of The Geysers, CA",earthquake,0.36,0.74000001,0.09,17.0,automatic,nc,nc
