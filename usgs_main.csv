@@ -10643,3 +10643,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T19:19:57.470Z,38.837833404541,-122.7988357544,1.539999961853,1.01,md,14.0,92.0,0.006657,0.03,nc,nc75232197,2025-09-02T19:21:35.188Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.610000014,0.17,15.0,automatic,nc,nc
 2025-09-02T19:14:44.090Z,36.02616667,-96.5365,0.0,1.55,ml,77.0,78.0,0.1862634488,0.57,ok,ok2025rfgv,2025-09-02T19:21:38.945Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.4,0.22,38.0,reviewed,ok,ok
 2025-09-02T17:40:46.141Z,51.5063,159.5424,10.915,4.6,mb,61.0,120.0,1.615,0.95,us,us7000qtc3,2025-09-02T19:22:38.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,9.5,4.904,0.076,51.0,reviewed,us,us
+2025-09-02T10:21:02.770Z,38.495166666667,-112.89083333333,2.03,0.61,md,17.0,54.0,0.007198,0.12,uu,uu80116281,2025-09-02T19:49:05.310Z,"15 km NE of Milford, Utah",earthquake,0.3,0.47,0.48927857307852,7.0,reviewed,uu,uu
