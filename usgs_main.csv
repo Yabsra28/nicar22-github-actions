@@ -10519,3 +10519,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T11:08:44.800Z,35.9046667,-117.737,10.11,0.28,ml,8.0,94.0,0.07925,0.07,ci,ci41281264,2025-09-02T11:12:13.670Z,"16 km ESE of Little Lake, CA",earthquake,0.24,0.65,0.103,4.0,automatic,ci,ci
 2025-09-02T11:04:09.636Z,58.0939,-154.4407,12.2,1.1,ml,,,,0.56,ak,ak025b9d8o8z,2025-09-02T11:06:07.574Z,"58 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-02T08:24:20.648Z,32.426,-102.125,3.8931,1.2,mlv,29.0,76.0,0.0,0.5,tx,tx2025rgnxgt,2025-09-02T11:14:21.771Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.0,0.93995636701584,0.3,18.0,automatic,tx,tx
+2025-09-02T11:28:59.561Z,31.609,-104.108,3.7846,1.8,ml,36.0,75.0,0.0,0.3,tx,tx2025rguamb,2025-09-02T11:33:28.502Z,"44 km NW of Toyah, Texas",earthquake,0.0,0.91654121875763,0.2,25.0,automatic,tx,tx
