@@ -10449,3 +10449,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T01:03:28.611Z,50.083,155.9222,85.088,4.4,mb,42.0,136.0,3.226,1.0,us,us7000qt5u,2025-09-02T01:24:14.040Z,"67 km SSW of Severo-Kuril’sk, Russia",earthquake,11.89,7.936,0.07,59.0,reviewed,us,us
 2025-09-02T01:03:06.869Z,64.7128,-149.4765,22.4,1.6,ml,,,,0.71,ak,ak025b97a49q,2025-09-02T01:04:50.422Z,"20 km NW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-01T21:27:45.588Z,2.409,127.3027,94.636,4.4,mb,33.0,145.0,1.628,1.05,us,us7000qt5a,2025-09-02T01:47:10.040Z,"108 km NW of Tobelo, Indonesia",earthquake,8.18,6.299,0.096,31.0,reviewed,us,us
+2025-09-02T03:25:25.101Z,62.9139,-148.2981,10.3,0.9,ml,,,,0.23,ak,ak025b98lqn2,2025-09-02T03:27:37.364Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-02T03:22:12.757Z,61.3077,-147.1512,16.2,1.1,ml,,,,0.19,ak,ak025b98l2jf,2025-09-02T03:24:11.188Z,"47 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-02T02:54:06.970Z,35.6496667,-117.4611667,3.17,0.45,ml,16.0,127.0,0.03417,0.14,ci,ci41281128,2025-09-02T02:57:32.430Z,"14 km SSW of Searles Valley, CA",earthquake,0.28,0.19,0.137,6.0,automatic,ci,ci
+2025-09-02T02:45:51.600Z,36.849166870117,-121.58699798584,4.0599999427795,1.7,md,22.0,64.0,0.03545,0.16,nc,nc75231862,2025-09-02T03:07:19.407Z,"4 km WNW of San Juan Bautista, CA",earthquake,0.4,0.639999986,0.09,16.0,automatic,nc,nc
+2025-09-02T01:53:10.270Z,45.3315,-121.70033333333,4.34,0.32,ml,8.0,134.0,0.008235,0.06,uw,uw62172092,2025-09-02T02:56:32.380Z,"5 km NE of Government Camp, Oregon",earthquake,0.54,0.49,0.038989859543965,4.0,reviewed,uw,uw
+2025-09-02T01:50:01.540Z,45.333333333333,-121.6995,3.59,0.38,ml,10.0,130.0,0.008022,0.04,uw,uw62172087,2025-09-02T03:03:40.140Z,"5 km NE of Government Camp, Oregon",earthquake,0.42,0.71,0.14923811797338,5.0,reviewed,uw,uw
