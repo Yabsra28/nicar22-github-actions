@@ -10997,3 +10997,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T09:11:18.140Z,46.861,-121.75966666667,4.27,0.56,ml,10.0,80.0,0.02119,0.12,uw,uw62181076,2025-09-03T22:16:02.140Z,"23 km ENE of Ashford, Washington",earthquake,0.38,0.64,0.33527580546539,7.0,reviewed,uw,uw
 2025-09-03T06:42:34.540Z,46.346333333333,-120.9315,5.05,1.25,ml,18.0,82.0,0.2746,0.31,uw,uw62181051,2025-09-03T22:04:23.290Z,"15 km WSW of White Swan, Washington",earthquake,0.42,0.99,0.19939119647034,14.0,reviewed,uw,uw
 2025-09-03T05:46:09.490Z,46.195166666667,-122.1855,7.07,-0.2,ml,10.0,105.0,0.005035,0.14,uw,uw62181046,2025-09-03T22:00:26.260Z,"37 km NNE of Amboy, Washington",earthquake,0.44,0.67,0.057871302087056,5.0,reviewed,uw,uw
+2025-09-03T22:21:45.123Z,61.0904,-152.2148,0.0,0.7,ml,,,,0.88,ak,ak025bb7fib4,2025-09-03T22:23:37.450Z,"58 km W of Tyonek, Alaska",earthquake,,17.3,,,automatic,ak,ak
+2025-09-03T18:46:10.800Z,46.863,-121.7575,-2.37,0.17,ml,15.0,108.0,0.0272,0.06,uw,uw62181351,2025-09-03T22:24:44.000Z,"23 km ENE of Ashford, Washington",earthquake,0.31,0.68,0.21393079551509,6.0,reviewed,uw,uw
