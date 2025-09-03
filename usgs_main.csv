@@ -10803,3 +10803,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T08:10:43.975Z,61.2626,-151.5252,77.3,0.4,ml,,,,0.13,ak,ak025baz12vh,2025-09-03T08:12:23.252Z,"27 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-03T08:09:16.029Z,60.4773,-143.7072,8.9,2.3,ml,,,,0.66,ak,ak025baz0t02,2025-09-03T08:11:15.978Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-03T07:18:31.030Z,-19.2663,-69.1045,126.259,4.4,mb,58.0,94.0,0.409,1.12,us,us7000qtfr,2025-09-03T08:29:51.040Z,"34 km E of Camiña, Chile",earthquake,6.46,5.437,0.071,57.0,reviewed,us,us
+2025-09-03T08:38:16.090Z,59.622,-151.8659,52.6,1.5,ml,,,,0.54,ak,ak025baz70rt,2025-09-03T08:40:08.281Z,"17 km S of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
