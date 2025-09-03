@@ -11012,3 +11012,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T16:26:40.510Z,46.200833333333,-122.1745,6.48,-0.13,md,8.0,103.0,0.027,0.09,uw,uw62181281,2025-09-03T23:03:03.910Z,"38 km NNE of Amboy, Washington",earthquake,0.39,0.54,0.19017398105498,6.0,reviewed,uw,uw
 2025-09-03T15:31:15.406Z,32.13,-101.52,3.7594,1.0,mlv,7.0,247.0,0.0,0.1,tx,tx2025rixucy,2025-09-03T23:17:36.810Z,"13 km SSW of Big Spring, Texas",earthquake,0.0,4.9129314422607,0.1,7.0,automatic,tx,tx
 2025-09-03T11:03:28.754Z,32.119,-102.806,3.9193,1.6,mlv,7.0,244.0,0.6,0.5,tx,tx2025rioxjj,2025-09-03T23:17:05.011Z,"23 km NW of Goldsmith, Texas",earthquake,0.0,10.132597923279,0.1,6.0,automatic,tx,tx
+2025-09-03T23:19:36.235Z,61.5094,-149.7164,40.4,1.1,ml,,,,0.22,ak,ak025bb80hsn,2025-09-03T23:20:52.159Z,"5 km N of Knik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-03T23:09:28.030Z,13.9144,144.8281,10.0,4.1,mb,7.0,137.0,0.325,1.13,us,us7000qtn2,2025-09-03T23:28:53.040Z,"42 km N of Yigo Village, Guam",earthquake,6.49,1.953,0.371,2.0,reviewed,us,us
+2025-09-03T23:04:26.252Z,9.7795,126.3166,35.0,4.5,mb,43.0,102.0,2.789,1.4,us,us7000qtmz,2025-09-03T23:23:03.040Z,"22 km E of Union, Philippines",earthquake,10.4,1.835,0.089,37.0,reviewed,us,us
