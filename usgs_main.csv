@@ -10755,3 +10755,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T03:30:33.056Z,37.918,-116.4149,0.1,1.1,ml,11.0,329.78,0.71,0.4066,nn,nn00903700,2025-09-03T03:33:04.726Z,"66 km WNW of Rachel, Nevada",earthquake,,54.2,0.36,8.0,automatic,nn,nn
 2025-09-03T03:25:59.331Z,30.9432,-8.256,12.845,4.5,mb,24.0,156.0,0.869,0.63,us,us7000qtep,2025-09-03T03:36:27.040Z,"47 km SW of Oukaïmedene, Morocco",earthquake,7.45,6.993,0.124,19.0,reviewed,us,us
 2025-09-02T20:26:59.060Z,46.201833333333,-122.189,0.71,-0.26,mh,5.0,172.0,0.002929,0.04,uw,uw62180806,2025-09-03T03:21:49.380Z,"38 km NNE of Amboy, Washington",earthquake,0.93,0.37,,0.0,reviewed,uw,uw
+2025-09-03T03:48:01.370Z,38.824501037598,-122.85350036621,2.8599998950958,1.48,md,30.0,57.0,0.004022,0.03,nc,nc75232487,2025-09-03T03:51:35.470Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.389999986,0.11,29.0,automatic,nc,nc
