@@ -10971,3 +10971,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T20:26:29.150Z,38.792167663574,-122.78016662598,1.2200000286102,0.5,md,8.0,107.0,0.01808,0.02,nc,nc75232797,2025-09-03T20:28:06.949Z,"3 km NW of The Geysers, CA",earthquake,0.42,0.879999995,0.24,9.0,automatic,nc,nc
 2025-09-02T23:57:57.200Z,45.1875,-123.31466666667,20.58,1.17,ml,9.0,110.0,0.04306,0.22,uw,uw62180921,2025-09-03T20:32:27.750Z,"9 km WSW of McMinnville, Oregon",earthquake,0.66,1.1,0.48044909259075,2.0,reviewed,uw,uw
 2025-09-02T22:26:34.930Z,49.0825,-122.15816666667,-0.79,1.51,md,6.0,240.0,0.097,0.11,uw,uw62180876,2025-09-03T20:26:06.130Z,"7 km ENE of Abbotsford, Canada",explosion,1.1,31.61,0.039374463690665,4.0,reviewed,uw,uw
+2025-09-03T20:42:18.120Z,34.5295,-120.5186667,3.83,1.84,ml,26.0,179.0,0.02674,0.28,ci,ci41282528,2025-09-03T20:45:58.033Z,"13 km SSW of Lompoc, CA",earthquake,0.7,0.63,0.121,28.0,automatic,ci,ci
+2025-09-03T12:14:21.903Z,54.2139,-159.9717,13.3,3.6,ml,,,,0.64,ak,ak025bb1fmjv,2025-09-03T20:46:36.843Z,"129 km SSE of Sand Point, Alaska",earthquake,,1.3,,,reviewed,ak,ak
