@@ -11015,3 +11015,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T23:19:36.235Z,61.5094,-149.7164,40.4,1.1,ml,,,,0.22,ak,ak025bb80hsn,2025-09-03T23:20:52.159Z,"5 km N of Knik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-03T23:09:28.030Z,13.9144,144.8281,10.0,4.1,mb,7.0,137.0,0.325,1.13,us,us7000qtn2,2025-09-03T23:28:53.040Z,"42 km N of Yigo Village, Guam",earthquake,6.49,1.953,0.371,2.0,reviewed,us,us
 2025-09-03T23:04:26.252Z,9.7795,126.3166,35.0,4.5,mb,43.0,102.0,2.789,1.4,us,us7000qtmz,2025-09-03T23:23:03.040Z,"22 km E of Union, Philippines",earthquake,10.4,1.835,0.089,37.0,reviewed,us,us
+2025-09-03T23:34:07.240Z,35.9015,-117.7408333,9.33,0.41,ml,15.0,75.0,0.07858,0.11,ci,ci41282648,2025-09-03T23:37:33.014Z,"15 km ESE of Little Lake, CA",earthquake,0.22,0.5,0.089,6.0,automatic,ci,ci
+2025-09-03T21:44:33.190Z,47.294,-121.73266666667,-0.58,1.25,ml,24.0,102.0,0.09997,0.17,uw,uw62181491,2025-09-03T23:35:28.490Z,"16 km NNW of Greenwater, Washington",explosion,0.56,31.61,0.12107608103316,12.0,reviewed,uw,uw
+2025-09-03T20:02:50.640Z,37.922833333333,-121.954,-0.26,1.86,md,27.0,69.0,0.02679,0.19,nc,nc75232782,2025-09-03T23:33:47.562Z,"3 km SW of Clayton, CA",quarry blast,0.25,31.61,0.145,19.0,reviewed,nc,nc
