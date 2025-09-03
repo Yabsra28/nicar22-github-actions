@@ -10826,3 +10826,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T10:59:33.882Z,58.0384,-155.8669,118.9,1.8,ml,,,,0.44,ak,ak025bb0ife4,2025-09-03T11:03:43.681Z,"86 km SSE of King Salmon, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-09-03T10:56:43.596Z,44.3153,-115.1714,10.0,3.0,ml,28.0,64.0,0.313,0.71,us,us7000qtgi,2025-09-03T11:07:21.040Z,"21 km WNW of Stanley, Idaho",earthquake,1.94,2.008,0.036,102.0,reviewed,us,us
 2025-09-03T11:14:44.001Z,31.595,-104.335,3.6917,1.8,ml,31.0,96.0,0.1,0.3,tx,tx2025ripgyt,2025-09-03T11:17:55.860Z,"60 km WNW of Toyah, Texas",earthquake,0.0,1.1024844646454,0.2,23.0,automatic,tx,tx
+2025-09-03T11:29:05.373Z,60.1491,-152.248,92.9,1.5,ml,,,,0.54,ak,ak025bb0xdcj,2025-09-03T11:31:36.384Z,"34 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-03T11:25:57.070Z,20.041166305542,-155.40100097656,8.3000001907349,2.66,ml,48.0,265.0,0.1639,0.370000005,hv,hv74766926,2025-09-03T11:35:59.766Z,"3 km W of Pa‘auilo, Hawaii",earthquake,1.01,0.479999989,0.59,11.0,automatic,hv,hv
