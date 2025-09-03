@@ -11018,3 +11018,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T23:34:07.240Z,35.9015,-117.7408333,9.33,0.41,ml,15.0,75.0,0.07858,0.11,ci,ci41282648,2025-09-03T23:37:33.014Z,"15 km ESE of Little Lake, CA",earthquake,0.22,0.5,0.089,6.0,automatic,ci,ci
 2025-09-03T21:44:33.190Z,47.294,-121.73266666667,-0.58,1.25,ml,24.0,102.0,0.09997,0.17,uw,uw62181491,2025-09-03T23:35:28.490Z,"16 km NNW of Greenwater, Washington",explosion,0.56,31.61,0.12107608103316,12.0,reviewed,uw,uw
 2025-09-03T20:02:50.640Z,37.922833333333,-121.954,-0.26,1.86,md,27.0,69.0,0.02679,0.19,nc,nc75232782,2025-09-03T23:33:47.562Z,"3 km SW of Clayton, CA",quarry blast,0.25,31.61,0.145,19.0,reviewed,nc,nc
+2025-09-03T08:30:20.720Z,45.309833333333,-121.65633333333,7.48,0.54,ml,12.0,154.0,0.013,0.07,uw,uw62181061,2025-09-03T23:49:18.190Z,"7 km NE of Wapanitia, Oregon",earthquake,0.28,0.32,0.16406581752529,7.0,reviewed,uw,uw
