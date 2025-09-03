@@ -10919,3 +10919,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T16:31:11.260Z,38.814167022705,-122.79683685303,3.0599999427795,0.76,md,7.0,153.0,0.006305,0.01,nc,nc75232712,2025-09-03T16:32:46.231Z,"5 km NNW of The Geysers, CA",earthquake,0.57,1.58000004,0.03,10.0,automatic,nc,nc
 2025-09-03T16:25:12.690Z,33.2648333,-116.4263333,4.3,1.32,ml,63.0,25.0,0.008387,0.2,ci,ci41282304,2025-09-03T16:35:30.340Z,"5 km WNW of Borrego Springs, CA",earthquake,0.14,0.31,0.148,27.0,automatic,ci,ci
 2025-09-03T04:21:02.860Z,32.647,-115.8986667,9.39,1.25,ml,23.0,103.0,0.01992,0.21,ci,ci37741436,2025-09-03T16:38:15.158Z,"13 km SE of Ocotillo, CA",earthquake,0.36,0.6,0.126,9.0,reviewed,ci,ci
+2025-09-03T16:45:18.991Z,36.5611,-116.6321,9.0,0.8,ml,17.0,112.26,0.047,0.1365,nn,nn00903718,2025-09-03T16:47:30.149Z,"23 km ENE of Furnace Creek, California",earthquake,,1.1,0.2,12.0,automatic,nn,nn
+2025-09-03T04:07:02.190Z,36.3396667,-117.5113333,3.54,0.94,ml,9.0,205.0,0.09429,0.04,ci,ci37741444,2025-09-03T16:43:00.291Z,"44 km SW of Stovepipe Wells, CA",earthquake,0.27,0.28,0.16,8.0,reviewed,ci,ci
