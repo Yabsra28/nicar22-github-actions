@@ -10752,3 +10752,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T02:57:25.506Z,31.647,-104.416,3.3934,1.1,ml,15.0,89.0,0.0,0.3,tx,tx2025rhyunf,2025-09-03T03:01:07.604Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.6275119781494,0.1,12.0,automatic,tx,tx
 2025-09-03T02:52:44.440Z,38.057167053223,-118.9306640625,15.569999694824,2.26,md,27.0,100.0,0.2742,0.09,nc,nc75232457,2025-09-03T03:07:25.927Z,"19 km S of Bodie, CA",earthquake,0.46,1.73000002,0.18,21.0,automatic,nc,nc
 2025-09-03T02:51:02.670Z,33.8706667,-116.7795,13.76,1.15,ml,54.0,23.0,0.03986,0.16,ci,ci41281936,2025-09-03T03:01:43.520Z,"5 km S of Cabazon, CA",earthquake,0.13,0.34,0.252,28.0,automatic,ci,ci
+2025-09-03T03:30:33.056Z,37.918,-116.4149,0.1,1.1,ml,11.0,329.78,0.71,0.4066,nn,nn00903700,2025-09-03T03:33:04.726Z,"66 km WNW of Rachel, Nevada",earthquake,,54.2,0.36,8.0,automatic,nn,nn
+2025-09-03T03:25:59.331Z,30.9432,-8.256,12.845,4.5,mb,24.0,156.0,0.869,0.63,us,us7000qtep,2025-09-03T03:36:27.040Z,"47 km SW of Oukaïmedene, Morocco",earthquake,7.45,6.993,0.124,19.0,reviewed,us,us
+2025-09-02T20:26:59.060Z,46.201833333333,-122.189,0.71,-0.26,mh,5.0,172.0,0.002929,0.04,uw,uw62180806,2025-09-03T03:21:49.380Z,"38 km NNE of Amboy, Washington",earthquake,0.93,0.37,,0.0,reviewed,uw,uw
