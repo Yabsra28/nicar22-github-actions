@@ -10828,3 +10828,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T11:14:44.001Z,31.595,-104.335,3.6917,1.8,ml,31.0,96.0,0.1,0.3,tx,tx2025ripgyt,2025-09-03T11:17:55.860Z,"60 km WNW of Toyah, Texas",earthquake,0.0,1.1024844646454,0.2,23.0,automatic,tx,tx
 2025-09-03T11:29:05.373Z,60.1491,-152.248,92.9,1.5,ml,,,,0.54,ak,ak025bb0xdcj,2025-09-03T11:31:36.384Z,"34 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-03T11:25:57.070Z,20.041166305542,-155.40100097656,8.3000001907349,2.66,ml,48.0,265.0,0.1639,0.370000005,hv,hv74766926,2025-09-03T11:35:59.766Z,"3 km W of Pa‘auilo, Hawaii",earthquake,1.01,0.479999989,0.59,11.0,automatic,hv,hv
+2025-09-03T12:13:17.190Z,38.834499359131,-122.79766845703,1.9800000190735,1.33,md,21.0,54.0,0.006926,0.01,nc,nc75232602,2025-09-03T12:14:55.289Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.379999995,0.12,22.0,automatic,nc,nc
+2025-09-03T12:07:46.271Z,31.57,-104.106,5.8487,1.7,ml,25.0,90.0,0.0,0.3,tx,tx2025riratu,2025-09-03T12:11:05.906Z,"41 km NW of Toyah, Texas",earthquake,0.0,2.4007596969604,0.2,19.0,automatic,tx,tx
+2025-09-03T12:06:09.124Z,36.6419,-116.2774,8.4,-0.1,ml,10.0,111.73,0.049,0.0873,nn,nn00903706,2025-09-03T12:08:06.774Z,"52 km SE of Beatty, Nevada",earthquake,,1.1,0.43,6.0,automatic,nn,nn
+2025-09-03T12:03:47.123Z,54.0397,-159.7695,10.0,4.3,mb,30.0,167.0,0.8,0.54,us,us7000qtgs,2025-09-03T12:13:50.040Z,"151 km SSE of Sand Point, Alaska",earthquake,5.28,1.956,0.148,13.0,reviewed,us,us
+2025-09-03T11:59:12.548Z,56.2566,-152.2473,0.0,3.7,ml,,,,0.87,ak,ak025bb13tct,2025-09-03T12:02:46.081Z,"123 km SSE of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
