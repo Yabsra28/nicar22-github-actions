@@ -11000,3 +11000,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T22:21:45.123Z,61.0904,-152.2148,0.0,0.7,ml,,,,0.88,ak,ak025bb7fib4,2025-09-03T22:23:37.450Z,"58 km W of Tyonek, Alaska",earthquake,,17.3,,,automatic,ak,ak
 2025-09-03T18:46:10.800Z,46.863,-121.7575,-2.37,0.17,ml,15.0,108.0,0.0272,0.06,uw,uw62181351,2025-09-03T22:24:44.000Z,"23 km ENE of Ashford, Washington",earthquake,0.31,0.68,0.21393079551509,6.0,reviewed,uw,uw
 2025-09-03T22:38:51.339Z,63.3328,-145.4837,8.2,2.2,ml,,,,0.32,ak,ak025bb7j5yl,2025-09-03T22:40:40.494Z,"27 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-03T22:50:25.038Z,38.208,-117.7115,0.9,1.3,ml,8.0,133.7,0.215,0.1151,nn,nn00903751,2025-09-03T22:53:09.682Z,"40 km ESE of Mina, Nevada",earthquake,,27.6,0.4,4.0,automatic,nn,nn
+2025-09-03T22:47:28.065Z,65.0455,-147.5815,2.6,1.1,ml,,,,0.63,ak,ak025bb7l1ly,2025-09-03T22:49:30.042Z,"9 km N of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-03T22:45:51.800Z,38.813499450684,-122.82183074951,2.2599999904633,1.19,md,24.0,56.0,0.007371,0.02,nc,nc75232852,2025-09-03T22:47:27.207Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.389999986,0.16,25.0,automatic,nc,nc
+2025-09-03T21:00:13.666Z,41.8975,82.0199,10.0,4.3,mb,25.0,118.0,2.354,1.17,us,us7000qtm5,2025-09-03T22:46:53.040Z,"78 km WNW of Kuqa, China",earthquake,6.09,1.934,0.137,15.0,reviewed,us,us
