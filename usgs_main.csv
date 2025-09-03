@@ -10822,3 +10822,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T10:36:54.804Z,57.1833,-153.1746,77.5,1.9,ml,,,,0.81,ak,ak025bb0djjc,2025-09-03T10:39:08.193Z,"8 km ESE of Old Harbor, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-09-03T10:47:18.038Z,64.9328,-150.0984,10.3,2.8,ml,,,,0.83,ak,ak025bb0ftku,2025-09-03T10:49:19.930Z,"26 km ESE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-03T10:18:41.533Z,-1.9569,139.1728,20.901,4.7,mb,33.0,82.0,1.186,0.69,us,us7000qtgg,2025-09-03T10:54:00.040Z,"177 km WNW of Abepura, Indonesia",earthquake,7.64,5.75,0.108,26.0,reviewed,us,us
+2025-09-03T11:03:08.965Z,31.572,-104.105,6.0451,1.5,ml,23.0,90.0,0.0,0.3,tx,tx2025riowts,2025-09-03T11:07:57.008Z,"41 km NW of Toyah, Texas",earthquake,0.0,2.4185025691986,0.2,16.0,automatic,tx,tx
+2025-09-03T10:59:33.882Z,58.0384,-155.8669,118.9,1.8,ml,,,,0.44,ak,ak025bb0ife4,2025-09-03T11:03:43.681Z,"86 km SSE of King Salmon, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-03T10:56:43.596Z,44.3153,-115.1714,10.0,3.0,ml,28.0,64.0,0.313,0.71,us,us7000qtgi,2025-09-03T11:07:21.040Z,"21 km WNW of Stanley, Idaho",earthquake,1.94,2.008,0.036,102.0,reviewed,us,us
