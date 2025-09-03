@@ -10805,3 +10805,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T07:18:31.030Z,-19.2663,-69.1045,126.259,4.4,mb,58.0,94.0,0.409,1.12,us,us7000qtfr,2025-09-03T08:29:51.040Z,"34 km E of Camiña, Chile",earthquake,6.46,5.437,0.071,57.0,reviewed,us,us
 2025-09-03T08:38:16.090Z,59.622,-151.8659,52.6,1.5,ml,,,,0.54,ak,ak025baz70rt,2025-09-03T08:40:08.281Z,"17 km S of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-03T08:29:07.291Z,41.1963,-116.742,8.4,3.1,ml,11.0,141.29,0.327,0.1486,nn,nn00903702,2025-09-03T09:10:17.074Z,"55 km NE of Valmy, Nevada",earthquake,,2.8,0.15,10.0,reviewed,nn,nn
+2025-09-03T09:24:31.000Z,33.9886667,-117.1855,14.0,1.64,ml,99.0,22.0,0.04252,0.16,ci,ci41282080,2025-09-03T09:29:15.162Z,"7 km S of Redlands, CA",earthquake,0.1,0.23,0.193,25.0,automatic,ci,ci
+2025-09-03T09:16:43.740Z,38.833499908447,-122.79816436768,1.8500000238419,1.24,md,22.0,50.0,0.007832,0.02,nc,nc75232562,2025-09-03T09:18:19.060Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.479999989,0.13,22.0,automatic,nc,nc
+2025-09-03T09:10:05.366Z,64.7264,-149.1484,11.4,0.7,ml,,,,0.36,ak,ak025bazmfi0,2025-09-03T09:12:17.241Z,"13 km N of Four Mile Road, Alaska",earthquake,,0.8,,,automatic,ak,ak
