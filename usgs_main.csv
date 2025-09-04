@@ -11100,3 +11100,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T06:25:42.508Z,63.3338,-145.4422,5.6,1.5,ml,,,,0.63,ak,ak025bclgrsa,2025-09-04T06:27:42.898Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T06:18:02.840Z,17.968833333333,-66.911666666667,14.3,2.91,md,22.0,169.0,0.03146,0.21,pr,pr71494633,2025-09-04T06:34:34.730Z,"0 km SW of Guánica, Puerto Rico",earthquake,0.41,0.41,0.064991526533506,6.0,reviewed,pr,pr
 2025-09-04T06:17:19.410Z,18.005,-66.8355,11.95,2.11,md,11.0,113.0,0.04442,0.2,pr,pr71494628,2025-09-04T06:25:18.430Z,"2 km NW of Indios, Puerto Rico",earthquake,0.45,0.75,0.087665427478273,6.0,reviewed,pr,pr
+2025-09-04T06:48:23.710Z,18.911833333333,-65.331333333333,25.82,3.24,md,12.0,225.0,0.7168,0.24,pr,pr71494658,2025-09-04T06:59:21.180Z,"67 km N of Culebra, Puerto Rico",earthquake,1.17,15.17,0.11901470906616,6.0,reviewed,pr,pr
+2025-09-04T06:42:20.130Z,19.4456,-68.2833,58.0,3.57,md,9.0,293.0,0.9368,0.42,pr,pr2025247000,2025-09-04T07:12:20.908Z,"95 km ENE of Miches, Dominican Republic",earthquake,4.86,12.09,0.07,4.0,reviewed,pr,pr
