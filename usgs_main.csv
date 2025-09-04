@@ -11107,3 +11107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T07:33:32.274Z,64.6114,-146.5456,19.1,0.8,ml,,,,0.52,ak,ak025bcm3wbv,2025-09-04T07:36:19.245Z,"19 km ENE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T07:30:16.280Z,38.773666381836,-122.72499847412,2.0199999809265,0.77,md,9.0,74.0,0.01206,0.01,nc,nc75232962,2025-09-04T07:31:52.269Z,"3 km ESE of The Geysers, CA",earthquake,0.36,0.75999999,0.35,8.0,automatic,nc,nc
 2025-09-04T07:46:20.460Z,37.2745,-115.3629,0.1,0.8,ml,8.0,164.79,0.281,0.4279,nn,nn00903782,2025-09-04T07:48:51.597Z,"20 km WSW of Alamo, Nevada",earthquake,,75.2,0.44,6.0,automatic,nn,nn
+2025-09-04T07:58:17.990Z,31.4681667,-115.6096667,10.55,2.77,ml,6.0,154.0,0.1675,0.06,ci,ci41282816,2025-09-04T08:01:54.017Z,"94 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.24,0.59,0.154,23.0,automatic,ci,ci
+2025-09-04T07:50:14.826Z,41.1807,-116.8909,12.755,2.7,ml,28.0,43.0,0.79,0.67,us,us7000qtqp,2025-09-04T08:06:04.040Z,"47 km NNE of Valmy, Nevada",earthquake,5.37,2.037,0.048,56.0,reviewed,us,us
+2025-09-04T07:49:25.097Z,41.2466,-116.7192,13.817,2.6,ml,14.0,96.0,0.899,1.65,us,us7000qtqn,2025-09-04T08:09:08.040Z,"60 km NE of Valmy, Nevada",earthquake,3.84,7.593,0.056,42.0,reviewed,us,us
+2025-09-04T04:13:03.688Z,32.121,-101.054,7.2021,1.2,ml,24.0,48.0,0.2,0.2,tx,tx2025rjxaox,2025-09-04T08:04:10.002Z,"26 km S of Westbrook, Texas",earthquake,0.61904791273042,1.5107909209961,0.2,13.0,reviewed,tx,tx
