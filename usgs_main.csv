@@ -11075,3 +11075,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T01:24:03.885Z,52.2403,-169.3798,16.7,3.8,ml,,,,0.61,ak,ak025bcihay8,2025-09-04T04:20:39.036Z,"85 km SSW of Nikolski, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2025-09-04T01:05:36.975Z,54.3222,-161.4814,32.8,3.6,ml,,,,0.87,ak,ak025bcidazq,2025-09-04T04:11:52.546Z,"98 km SSE of King Cove, Alaska",earthquake,,2.5,,,reviewed,ak,ak
 2025-09-03T12:14:20.071Z,54.1331,-159.9529,10.0,3.8,ml,36.0,211.0,0.731,0.84,us,us7000qtlr,2025-09-04T04:12:44.040Z,"138 km SSE of Sand Point, Alaska",earthquake,3.39,1.787,0.077,22.0,reviewed,us,us
+2025-09-04T04:34:12.260Z,62.0277,-150.3209,12.1,2.7,ml,,,,0.49,ak,ak025bckbroq,2025-09-04T04:39:55.139Z,"28 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-04T04:33:08.090Z,33.879,-116.0086667,1.98,1.63,ml,55.0,47.0,0.1216,0.17,ci,ci41282752,2025-09-04T04:36:37.902Z,"26 km NE of Indio, CA",earthquake,0.15,0.36,0.201,26.0,automatic,ci,ci
+2025-09-04T01:05:36.719Z,54.3037,-161.4132,35.0,3.7,ml,58.0,196.0,0.975,0.78,us,us7000qtph,2025-09-04T04:36:10.040Z,"102 km SE of King Cove, Alaska",earthquake,4.68,2.004,0.077,22.0,reviewed,us,us
