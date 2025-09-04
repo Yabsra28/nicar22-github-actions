@@ -11297,3 +11297,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T20:47:50.034Z,56.4249,-156.6994,17.8,2.7,ml,,,,0.6,ak,ak025bctxkl7,2025-09-04T20:50:29.164Z,"106 km E of Chignik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-04T20:28:48.380Z,43.217333333333,-110.54566666667,5.2,1.74,ml,12.0,126.0,0.1032,0.15,mb,mb90110368,2025-09-04T20:59:11.970Z,"11 km W of Bondurant, Wyoming",earthquake,0.59,2.75,0.27359626957903,17.0,reviewed,mb,mb
 2025-09-04T19:59:20.381Z,32.125,-101.041,6.4209,1.9,ml,30.0,70.0,0.2,0.1,tx,tx2025rlckac,2025-09-04T20:56:38.647Z,"25 km S of Westbrook, Texas",earthquake,0.90205181534272,1.8970069916345,0.1,29.0,reviewed,tx,tx
+2025-09-04T21:13:53.763Z,31.521,-104.165,3.9519,1.6,ml,22.0,104.0,0.1,0.3,tx,tx2025rlewgn,2025-09-04T21:16:49.587Z,"42 km WNW of Toyah, Texas",earthquake,0.0,1.4475866556168,0.2,16.0,automatic,tx,tx
