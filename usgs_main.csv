@@ -11068,3 +11068,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T03:38:32.040Z,33.5788333,-116.8048333,7.2,0.58,ml,25.0,54.0,0.05795,0.17,ci,ci41282712,2025-09-04T03:42:03.248Z,"12 km WNW of Anza, CA",earthquake,0.23,0.51,0.263,19.0,automatic,ci,ci
 2025-09-04T03:36:44.370Z,34.0015,-116.8726667,14.03,0.64,ml,34.0,62.0,0.06349,0.13,ci,ci41282704,2025-09-04T03:40:23.491Z,"8 km N of Banning, CA",earthquake,0.16,0.38,0.127,12.0,automatic,ci,ci
 2025-09-04T03:35:56.260Z,38.497833333333,-112.88916666667,1.71,2.11,ml,20.0,57.0,0.004233,0.14,uu,uu80116556,2025-09-04T03:48:30.590Z,"15 km NE of Milford, Utah",earthquake,0.42,0.44,0.14535806651617,8.0,reviewed,uu,uu
+2025-09-04T04:19:41.825Z,31.703,-104.185,3.7446,1.8,ml,33.0,59.0,0.1,0.4,tx,tx2025rjxgdl,2025-09-04T04:23:06.326Z,"55 km SSE of Whites City, New Mexico",earthquake,0.0,0.91514766216278,0.3,24.0,automatic,tx,tx
+2025-09-04T04:14:50.580Z,36.115,-117.8648333,2.43,0.73,ml,16.0,204.0,0.008476,0.08,ci,ci41282728,2025-09-04T04:18:19.281Z,"11 km NE of Coso Junction, CA",earthquake,0.67,0.34,0.281,14.0,automatic,ci,ci
+2025-09-04T04:10:18.014Z,-24.3833,-67.2005,176.483,5.9,mww,109.0,70.0,1.684,1.31,us,us7000qtpj,2025-09-04T04:26:55.040Z,"91 km WSW of San Antonio de los Cobres, Argentina",earthquake,8.35,7.242,0.037,71.0,reviewed,us,us
+2025-09-04T04:10:08.663Z,-24.347,-67.16,177.999,5.1,mb,71.0,66.0,1.674,1.55,us,us7000qtpi,2025-09-04T04:28:13.733Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,8.84,7.726,0.04,207.0,reviewed,us,us
+2025-09-04T01:24:03.885Z,52.2403,-169.3798,16.7,3.8,ml,,,,0.61,ak,ak025bcihay8,2025-09-04T04:20:39.036Z,"85 km SSW of Nikolski, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2025-09-04T01:05:36.975Z,54.3222,-161.4814,32.8,3.6,ml,,,,0.87,ak,ak025bcidazq,2025-09-04T04:11:52.546Z,"98 km SSE of King Cove, Alaska",earthquake,,2.5,,,reviewed,ak,ak
+2025-09-03T12:14:20.071Z,54.1331,-159.9529,10.0,3.8,ml,36.0,211.0,0.731,0.84,us,us7000qtlr,2025-09-04T04:12:44.040Z,"138 km SSE of Sand Point, Alaska",earthquake,3.39,1.787,0.077,22.0,reviewed,us,us
