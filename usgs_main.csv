@@ -11078,3 +11078,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T04:34:12.260Z,62.0277,-150.3209,12.1,2.7,ml,,,,0.49,ak,ak025bckbroq,2025-09-04T04:39:55.139Z,"28 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-04T04:33:08.090Z,33.879,-116.0086667,1.98,1.63,ml,55.0,47.0,0.1216,0.17,ci,ci41282752,2025-09-04T04:36:37.902Z,"26 km NE of Indio, CA",earthquake,0.15,0.36,0.201,26.0,automatic,ci,ci
 2025-09-04T01:05:36.719Z,54.3037,-161.4132,35.0,3.7,ml,58.0,196.0,0.975,0.78,us,us7000qtph,2025-09-04T04:36:10.040Z,"102 km SE of King Cove, Alaska",earthquake,4.68,2.004,0.077,22.0,reviewed,us,us
+2025-09-04T04:42:36.452Z,31.591,-104.333,3.3757,1.7,ml,31.0,96.0,0.1,0.3,tx,tx2025rjyaay,2025-09-04T04:45:19.285Z,"59 km WNW of Toyah, Texas",earthquake,0.0,1.1236661672592,0.2,23.0,automatic,tx,tx
+2025-09-04T04:37:49.091Z,11.6791,141.8786,10.0,5.1,mb,82.0,54.0,3.481,0.86,us,us7000qtpw,2025-09-04T04:53:43.040Z,"258 km NE of Fais, Micronesia",earthquake,7.93,1.836,0.05,130.0,reviewed,us,us
+2025-09-03T12:52:35.296Z,56.1122,-152.1496,10.0,3.4,ml,54.0,210.0,1.218,0.78,us,us7000qth0,2025-09-04T04:49:32.040Z,"140 km SSE of Old Harbor, Alaska",earthquake,8.11,2.008,0.06,36.0,reviewed,us,us
