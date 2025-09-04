@@ -11124,3 +11124,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T09:21:15.659Z,31.658,-104.399,4.8549,1.6,ml,23.0,88.0,0.0,0.4,tx,tx2025rkhgdr,2025-09-04T09:27:43.279Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.2192823886871,0.1,15.0,automatic,tx,tx
 2025-09-04T09:18:48.500Z,33.1045,-116.515,10.29,0.68,ml,40.0,52.0,0.06995,0.2,ci,ci41282856,2025-09-04T09:22:37.317Z,"9 km ENE of Julian, CA",earthquake,0.2,0.43,0.201,11.0,automatic,ci,ci
 2025-09-04T09:17:23.490Z,36.0233333,-117.8695,2.06,0.85,ml,29.0,48.0,0.02301,0.15,ci,ci41282848,2025-09-04T09:20:51.303Z,"8 km ESE of Coso Junction, CA",earthquake,0.16,0.17,0.193,17.0,automatic,ci,ci
+2025-09-04T00:13:55.697Z,32.422,-102.135,6.0059,0.7,ml,23.0,79.0,0.0,0.2,tx,tx2025rjpcne,2025-09-04T09:38:40.344Z,"38 km SSW of Los Ybanez, Texas",earthquake,0.57209012538218,0.53344478747835,0.1,11.0,reviewed,tx,tx
