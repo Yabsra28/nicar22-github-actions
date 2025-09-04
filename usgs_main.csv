@@ -11290,3 +11290,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T22:40:01.103Z,31.601,-104.115,6.1255,0.9,ml,16.0,76.0,0.0,0.1,tx,tx2025rjlzna,2025-09-04T20:12:55.511Z,"44 km NW of Toyah, Texas",earthquake,0.80522372761729,0.71267952962016,0.2,13.0,reviewed,tx,tx
 2025-09-04T18:04:43.449Z,31.609,-104.265,6.4331,0.7,ml,20.0,71.0,0.1,0.1,tx,tx2025rkypgh,2025-09-04T20:36:07.510Z,"55 km NW of Toyah, Texas",earthquake,1.334056965758,1.5671200011098,0.2,15.0,reviewed,tx,tx
 2025-09-04T16:28:10.812Z,31.617,-104.283,8.0481,1.0,ml,19.0,71.0,0.1,0.1,tx,tx2025rkvjwj,2025-09-04T20:30:19.478Z,"57 km NW of Toyah, Texas",earthquake,1.1024303795436,1.4355935480637,0.2,15.0,reviewed,tx,tx
+2025-09-04T20:44:37.854Z,36.0098,-115.4107,3.7,2.2,ml,19.0,291.1,0.789,0.3403,nn,nn00903827,2025-09-04T20:47:20.542Z,"4 km S of Blue Diamond, Nevada",earthquake,,12.7,0.26,14.0,automatic,nn,nn
+2025-09-04T14:21:45.650Z,31.644,-104.386,7.0227,1.1,ml,18.0,77.0,0.0,0.1,tx,tx2025rkrfdc,2025-09-04T20:39:48.533Z,"58 km S of Whites City, New Mexico",earthquake,0.81416399714228,0.85345275048064,0.1,18.0,reviewed,tx,tx
+2025-09-04T09:10:31.460Z,41.1483,-116.6864,11.9,1.7,ml,7.0,157.65,0.824,0.1613,nn,nn00903825,2025-09-04T20:40:50.759Z,"54 km NE of Valmy, Nevada",earthquake,,5.6,0.14,4.0,reviewed,nn,nn
+2025-09-04T08:27:30.955Z,56.1888,-152.2296,20.3,3.3,ml,,,,0.9,ak,ak025bcmo11k,2025-09-04T20:41:02.243Z,"130 km SSE of Old Harbor, Alaska",earthquake,,4.5,,,reviewed,ak,ak
