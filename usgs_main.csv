@@ -11210,3 +11210,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T13:52:13.486Z,1.5083,99.3824,165.98,4.4,mb,33.0,178.0,1.264,0.48,us,us7000qts0,2025-09-04T15:11:07.040Z,"18 km NE of Padangsidempuan, Indonesia",earthquake,11.73,8.329,0.099,29.0,reviewed,us,us
 2025-09-04T07:30:12.960Z,34.0398333,-117.8363333,12.4,0.66,ml,14.0,149.0,0.04212,0.21,ci,ci41282808,2025-09-04T14:59:11.352Z,"3 km WNW of Diamond Bar, CA",earthquake,0.76,0.71,0.234,7.0,reviewed,ci,ci
 2025-09-04T05:28:00.869Z,31.571,-104.02,6.3434,1.1,ml,19.0,72.0,0.0,0.1,tx,tx2025rjzneg,2025-09-04T15:21:53.617Z,"35 km NW of Toyah, Texas",earthquake,0.5532909009768,0.53791769482718,0.2,15.0,reviewed,tx,tx
+2025-09-04T15:31:20.010Z,38.788333892822,-122.76583099365,2.5299999713898,0.8,md,15.0,74.0,0.01759,0.02,nc,nc75233042,2025-09-04T15:32:58.154Z,"1 km NNW of The Geysers, CA",earthquake,0.3,0.670000017,0.3,15.0,automatic,nc,nc
+2025-09-04T02:39:51.666Z,31.606,-104.262,7.074,0.9,ml,22.0,69.0,0.1,0.1,tx,tx2025rjtygt,2025-09-04T15:30:49.661Z,"55 km NW of Toyah, Texas",earthquake,0.99722466561514,1.1194158729707,0.2,21.0,reviewed,tx,tx
