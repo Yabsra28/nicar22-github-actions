@@ -11267,3 +11267,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T12:23:35.310Z,38.535333333333,-122.73783333333,8.87,1.17,md,56.0,36.0,0.0534,0.09,nc,nc75233032,2025-09-04T19:01:07.090Z,"3 km NNE of Larkfield-Wikiup, CA",earthquake,0.13,0.32,0.18,39.0,reviewed,nc,nc
 2025-09-04T09:29:24.490Z,46.201,-122.19133333333,6.13,0.41,ml,18.0,60.0,0.001264,0.11,uw,uw62181741,2025-09-04T19:12:05.950Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.36,0.090872358728313,11.0,reviewed,uw,uw
 2025-09-04T08:43:13.383Z,39.0999,-118.068,10.5,0.2,ml,6.0,142.74,0.052,0.1021,nn,nn00903816,2025-09-04T19:02:43.909Z,"28 km NNW of Gabbs, Nevada",earthquake,,2.3,0.4,4.0,reviewed,nn,nn
+2025-09-04T19:14:42.510Z,34.033,-118.3728333,10.36,1.91,ml,89.0,35.0,0.03286,0.21,ci,ci41283424,2025-09-04T19:18:48.076Z,"3 km ENE of Culver City, CA",earthquake,0.15,0.27,0.195,26.0,automatic,ci,ci
+2025-09-04T19:10:09.060Z,33.5435,-116.7158333,5.45,0.17,ml,11.0,83.0,0.02826,0.14,ci,ci41283408,2025-09-04T19:13:44.547Z,"4 km WSW of Anza, CA",earthquake,0.33,0.73,0.087,6.0,automatic,ci,ci
+2025-09-04T19:01:10.912Z,52.2163,-169.4986,10.0,5.1,mb,79.0,139.0,0.853,1.23,us,us7000qtvy,2025-09-04T19:21:23.308Z,"91 km SSW of Nikolski, Alaska",earthquake,4.64,1.832,0.032,309.0,reviewed,us,us
