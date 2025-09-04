@@ -11119,3 +11119,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T23:06:11.792Z,32.182,-101.195,6.8604,1.4,ml,29.0,61.0,0.2,0.2,tx,tx2025rjmwdo,2025-09-04T08:17:25.096Z,"16 km SE of Coahoma, Texas",earthquake,0.56855935652628,2.2511335742348,0.1,17.0,reviewed,tx,tx
 2025-09-04T08:51:05.580Z,36.1064987,-117.8556671,3.04,1.33,ml,19.0,61.0,0.01108,0.09,ci,ci41282840,2025-09-04T08:53:08.107Z,"11 km NE of Coso Junction, CA",earthquake,0.27,0.5,0.325,13.0,automatic,ci,ci
 2025-09-04T08:38:18.360Z,31.486166,-115.605835,10.23,2.14,ml,6.0,148.0,0.1792,0.03,ci,ci41282832,2025-09-04T08:42:01.093Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.48,2.99,0.288,6.0,automatic,ci,ci
+2025-09-04T08:50:53.083Z,31.658,-104.398,4.4023,2.5,ml,35.0,88.0,0.0,0.4,tx,tx2025rkgfxz,2025-09-04T08:55:45.254Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.0031152963638,0.1,24.0,automatic,tx,tx
