@@ -11136,3 +11136,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T10:36:48.320Z,33.8825,-118.0876667,12.25,1.26,ml,24.0,115.0,0.03493,0.2,ci,ci41282904,2025-09-04T10:40:19.261Z,"2 km NNW of Artesia, CA",earthquake,0.5,0.91,0.356,35.0,automatic,ci,ci
 2025-09-04T10:34:41.970Z,38.838165283203,-122.79266357422,2.2999999523163,0.68,md,8.0,125.0,0.001828,0.02,nc,nc75232982,2025-09-04T10:36:16.839Z,"6 km WNW of Cobb, CA",earthquake,0.49,0.889999986,0.11,9.0,automatic,nc,nc
 2025-09-04T10:23:57.857Z,39.2112,142.7934,34.179,4.5,mb,47.0,148.0,2.061,0.67,us,us7000qtr5,2025-09-04T10:54:46.040Z,"78 km ESE of Yamada, Japan",earthquake,8.56,6.996,0.067,65.0,reviewed,us,us
+2025-09-04T10:56:59.495Z,36.5576,-115.0928,3.5,0.8,ml,10.0,277.57,0.074,0.2045,nn,nn00903784,2025-09-04T10:59:33.236Z,"34 km N of Nellis Air Force Base, Nevada",earthquake,,4.8,0.63,6.0,automatic,nn,nn
+2025-09-04T07:28:57.087Z,32.416,-101.216,5.7577,1.1,mlv,7.0,156.0,0.0,0.3,tx,tx2025rkdnjz,2025-09-04T11:17:49.499Z,"15 km NNE of Coahoma, Texas",earthquake,0.0,3.806752204895,0.3,7.0,automatic,tx,tx
+2025-09-04T07:15:06.250Z,41.7958,82.0746,10.0,4.7,mb,58.0,98.0,2.45,0.64,us,us7000qtqm,2025-09-04T11:13:48.040Z,"71 km W of Kuqa, China",earthquake,8.08,1.899,0.085,42.0,reviewed,us,us
