@@ -11270,3 +11270,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T19:14:42.510Z,34.033,-118.3728333,10.36,1.91,ml,89.0,35.0,0.03286,0.21,ci,ci41283424,2025-09-04T19:18:48.076Z,"3 km ENE of Culver City, CA",earthquake,0.15,0.27,0.195,26.0,automatic,ci,ci
 2025-09-04T19:10:09.060Z,33.5435,-116.7158333,5.45,0.17,ml,11.0,83.0,0.02826,0.14,ci,ci41283408,2025-09-04T19:13:44.547Z,"4 km WSW of Anza, CA",earthquake,0.33,0.73,0.087,6.0,automatic,ci,ci
 2025-09-04T19:01:10.912Z,52.2163,-169.4986,10.0,5.1,mb,79.0,139.0,0.853,1.23,us,us7000qtvy,2025-09-04T19:21:23.308Z,"91 km SSW of Nikolski, Alaska",earthquake,4.64,1.832,0.032,309.0,reviewed,us,us
+2025-09-04T19:15:48.770Z,18.140666666667,-67.0885,21.36,2.21,md,10.0,109.0,0.03497,0.07,pr,pr71494698,2025-09-04T19:28:03.150Z,"4 km E of Hormigueros, Puerto Rico",earthquake,0.47,0.65,0.056137603563307,4.0,reviewed,pr,pr
+2025-09-04T18:55:02.768Z,54.4101,-161.4381,35.0,3.5,ml,24.0,187.0,1.142,0.37,us,us7000qtvv,2025-09-04T19:28:10.040Z,"92 km SE of King Cove, Alaska",earthquake,3.02,2.001,0.066,30.0,reviewed,us,us
+2025-09-04T06:17:13.354Z,41.2095,-116.6921,10.7,1.9,ml,8.0,161.64,0.876,0.1406,nn,nn00903821,2025-09-04T19:36:27.517Z,"58 km NE of Valmy, Nevada",earthquake,,4.2,0.27,6.0,reviewed,nn,nn
+2025-09-04T02:35:27.458Z,41.102,-116.7573,10.6,2.0,ml,7.0,218.25,0.758,0.136,nn,nn00903820,2025-09-04T19:27:15.209Z,"46 km NE of Valmy, Nevada",earthquake,,6.6,0.3,5.0,reviewed,nn,nn
