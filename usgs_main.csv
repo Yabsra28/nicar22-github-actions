@@ -11091,3 +11091,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T01:24:05.554Z,52.2821,-169.4369,33.392,3.8,mb,43.0,178.0,0.535,0.89,us,us7000qtpk,2025-09-04T05:25:19.040Z,"82 km SSW of Nikolski, Alaska",earthquake,4.91,8.828,0.078,44.0,reviewed,us,us
 2025-09-04T05:46:57.319Z,30.421,-103.548,5.0,1.7,ml,5.0,263.0,0.5,0.6,tx,tx2025rkadmp,2025-09-04T05:50:34.089Z,"12 km ENE of Alpine, Texas",earthquake,0.0,,0.4,3.0,automatic,tx,tx
 2025-09-04T05:45:39.291Z,31.701,-104.606,3.4763,2.4,ml,30.0,117.0,0.1,0.3,tx,tx2025rkaccj,2025-09-04T05:49:57.184Z,"56 km SSW of Whites City, New Mexico",earthquake,0.0,1.2517492771149,0.2,21.0,automatic,tx,tx
+2025-09-04T06:18:21.650Z,33.735,-117.5148333,9.89,1.47,ml,70.0,41.0,0.09889,0.23,ci,ci41282784,2025-09-04T06:21:49.454Z,"10 km NE of Trabuco Canyon, CA",earthquake,0.21,0.35,0.188,29.0,automatic,ci,ci
+2025-09-04T06:06:57.738Z,31.529,-102.34,2.3123,1.6,ml,15.0,119.0,0.3,0.5,tx,tx2025rkautk,2025-09-04T06:11:03.343Z,"14 km N of Crane, Texas",earthquake,0.0,1.5655261278152,0.1,7.0,automatic,tx,tx
+2025-09-04T05:50:48.590Z,34.0606667,-117.1348333,9.84,0.66,ml,38.0,41.0,0.03128,0.17,ci,ci41282776,2025-09-04T05:55:26.330Z,"1 km S of Mentone, CA",earthquake,0.18,0.37,0.189,18.0,automatic,ci,ci
+2025-09-04T05:46:42.607Z,31.729,-104.334,5.0,1.7,ml,11.0,262.0,0.1,0.7,tx,tx2025rkadhn,2025-09-04T06:01:00.634Z,"49 km S of Whites City, New Mexico",earthquake,0.0,,0.1,5.0,automatic,tx,tx
