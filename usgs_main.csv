@@ -11147,3 +11147,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T11:10:14.993Z,-19.4614,169.82,33.107,5.1,mb,39.0,90.0,3.84,0.9,us,us7000qtra,2025-09-04T11:29:55.040Z,"57 km E of Isangel, Vanuatu",earthquake,8.64,5.925,0.057,100.0,reviewed,us,us
 2025-09-04T08:22:11.460Z,67.3226,-156.6895,10.0,2.6,ml,28.0,123.0,0.466,0.64,us,us7000qtqr,2025-09-04T11:38:13.040Z,"47 km N of Kobuk, Alaska",earthquake,2.28,1.977,0.049,54.0,reviewed,us,us
 2025-09-04T05:33:33.622Z,23.6548,94.7283,123.232,4.4,mb,29.0,73.0,2.444,0.31,us,us7000qtq9,2025-09-04T11:39:05.040Z,"33 km E of Mawlaik, Burma (Myanmar)",earthquake,11.17,5.402,0.12,20.0,reviewed,us,us
+2025-09-04T11:48:17.060Z,35.3540001,-117.7925034,6.19,1.0,ml,13.0,124.0,0.09676,0.16,ci,ci41282936,2025-09-04T11:50:26.778Z,"14 km W of Johannesburg, CA",earthquake,0.46,1.23,0.31,2.0,automatic,ci,ci
+2025-09-04T11:48:16.333Z,59.2852,-138.4112,0.0,1.4,ml,,,,0.75,ak,ak025bcokt9d,2025-09-04T11:50:24.150Z,"80 km ESE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-04T11:47:49.140Z,35.7531662,-118.5210037,7.03,1.23,ml,15.0,139.0,0.03341,0.15,ci,ci41282928,2025-09-04T11:50:00.519Z,"8 km NW of Wofford Heights, CA",earthquake,0.65,0.74,0.344,6.0,automatic,ci,ci
