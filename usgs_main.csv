@@ -11106,3 +11106,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T07:36:23.579Z,64.5413,-148.9284,17.0,1.1,ml,,,,0.41,ak,ak025bcm4it1,2025-09-04T07:38:44.769Z,"8 km ESE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T07:33:32.274Z,64.6114,-146.5456,19.1,0.8,ml,,,,0.52,ak,ak025bcm3wbv,2025-09-04T07:36:19.245Z,"19 km ENE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T07:30:16.280Z,38.773666381836,-122.72499847412,2.0199999809265,0.77,md,9.0,74.0,0.01206,0.01,nc,nc75232962,2025-09-04T07:31:52.269Z,"3 km ESE of The Geysers, CA",earthquake,0.36,0.75999999,0.35,8.0,automatic,nc,nc
+2025-09-04T07:46:20.460Z,37.2745,-115.3629,0.1,0.8,ml,8.0,164.79,0.281,0.4279,nn,nn00903782,2025-09-04T07:48:51.597Z,"20 km WSW of Alamo, Nevada",earthquake,,75.2,0.44,6.0,automatic,nn,nn
