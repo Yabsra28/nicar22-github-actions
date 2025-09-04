@@ -11205,3 +11205,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T19:13:46.504Z,31.984,-104.015,7.9712,1.1,ml,18.0,72.0,0.1,0.2,tx,tx2025rjfdwm,2025-09-04T14:42:24.493Z,"27 km SSE of Malaga, New Mexico",earthquake,1.1979141737459,1.1950951272436,0.1,22.0,reviewed,tx,tx
 2025-09-04T14:15:33.630Z,45.501,-123.8755,21.45,1.7,ml,11.0,187.0,0.1375,1.96,uw,uw62181796,2025-09-04T14:57:06.210Z,"1 km SW of Idaville, Oregon",earthquake,5.76,10.64,0.24261392022887,15.0,reviewed,uw,uw
 2025-09-04T07:35:36.670Z,47.752166666667,-113.88383333333,4.3,-0.61,ml,4.0,132.0,0.09104,0.06,mb,mb90110298,2025-09-04T14:52:10.390Z,"13 km E of Finley Point, Montana",earthquake,0.66,3.95,0.041004442599649,2.0,reviewed,mb,mb
+2025-09-04T15:21:17.081Z,65.0247,-147.0986,17.3,0.6,ml,,,,0.21,ak,ak025bcqsrek,2025-09-04T15:22:42.181Z,"17 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-04T15:15:43.690Z,34.0565,-117.1343333,9.95,1.06,ml,46.0,29.0,0.02777,0.19,ci,ci41283152,2025-09-04T15:19:33.103Z,"2 km S of Mentone, CA",earthquake,0.18,0.38,0.162,27.0,automatic,ci,ci
+2025-09-04T13:52:13.486Z,1.5083,99.3824,165.98,4.4,mb,33.0,178.0,1.264,0.48,us,us7000qts0,2025-09-04T15:11:07.040Z,"18 km NE of Padangsidempuan, Indonesia",earthquake,11.73,8.329,0.099,29.0,reviewed,us,us
+2025-09-04T07:30:12.960Z,34.0398333,-117.8363333,12.4,0.66,ml,14.0,149.0,0.04212,0.21,ci,ci41282808,2025-09-04T14:59:11.352Z,"3 km WNW of Diamond Bar, CA",earthquake,0.76,0.71,0.234,7.0,reviewed,ci,ci
+2025-09-04T05:28:00.869Z,31.571,-104.02,6.3434,1.1,ml,19.0,72.0,0.0,0.1,tx,tx2025rjzneg,2025-09-04T15:21:53.617Z,"35 km NW of Toyah, Texas",earthquake,0.5532909009768,0.53791769482718,0.2,15.0,reviewed,tx,tx
