@@ -11294,3 +11294,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T14:21:45.650Z,31.644,-104.386,7.0227,1.1,ml,18.0,77.0,0.0,0.1,tx,tx2025rkrfdc,2025-09-04T20:39:48.533Z,"58 km S of Whites City, New Mexico",earthquake,0.81416399714228,0.85345275048064,0.1,18.0,reviewed,tx,tx
 2025-09-04T09:10:31.460Z,41.1483,-116.6864,11.9,1.7,ml,7.0,157.65,0.824,0.1613,nn,nn00903825,2025-09-04T20:40:50.759Z,"54 km NE of Valmy, Nevada",earthquake,,5.6,0.14,4.0,reviewed,nn,nn
 2025-09-04T08:27:30.955Z,56.1888,-152.2296,20.3,3.3,ml,,,,0.9,ak,ak025bcmo11k,2025-09-04T20:41:02.243Z,"130 km SSE of Old Harbor, Alaska",earthquake,,4.5,,,reviewed,ak,ak
+2025-09-04T20:47:50.034Z,56.4249,-156.6994,17.8,2.7,ml,,,,0.6,ak,ak025bctxkl7,2025-09-04T20:50:29.164Z,"106 km E of Chignik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-04T20:28:48.380Z,43.217333333333,-110.54566666667,5.2,1.74,ml,12.0,126.0,0.1032,0.15,mb,mb90110368,2025-09-04T20:59:11.970Z,"11 km W of Bondurant, Wyoming",earthquake,0.59,2.75,0.27359626957903,17.0,reviewed,mb,mb
+2025-09-04T19:59:20.381Z,32.125,-101.041,6.4209,1.9,ml,30.0,70.0,0.2,0.1,tx,tx2025rlckac,2025-09-04T20:56:38.647Z,"25 km S of Westbrook, Texas",earthquake,0.90205181534272,1.8970069916345,0.1,29.0,reviewed,tx,tx
