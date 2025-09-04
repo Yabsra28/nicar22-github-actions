@@ -11089,3 +11089,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T05:22:15.963Z,32.387,-101.076,3.1765,1.2,ml,15.0,130.0,0.1,0.5,tx,tx2025rjzifl,2025-09-04T05:25:19.442Z,"6 km WNW of Westbrook, Texas",earthquake,0.0,1.6949318647385,0.2,12.0,automatic,tx,tx
 2025-09-04T05:10:52.338Z,34.4603,70.5979,10.0,4.7,mb,69.0,88.0,1.21,1.17,us,us7000qtq5,2025-09-04T05:30:47.040Z,"13 km ENE of Jalālābād, Afghanistan",earthquake,6.92,1.874,0.067,67.0,reviewed,us,us
 2025-09-04T01:24:05.554Z,52.2821,-169.4369,33.392,3.8,mb,43.0,178.0,0.535,0.89,us,us7000qtpk,2025-09-04T05:25:19.040Z,"82 km SSW of Nikolski, Alaska",earthquake,4.91,8.828,0.078,44.0,reviewed,us,us
+2025-09-04T05:46:57.319Z,30.421,-103.548,5.0,1.7,ml,5.0,263.0,0.5,0.6,tx,tx2025rkadmp,2025-09-04T05:50:34.089Z,"12 km ENE of Alpine, Texas",earthquake,0.0,,0.4,3.0,automatic,tx,tx
+2025-09-04T05:45:39.291Z,31.701,-104.606,3.4763,2.4,ml,30.0,117.0,0.1,0.3,tx,tx2025rkaccj,2025-09-04T05:49:57.184Z,"56 km SSW of Whites City, New Mexico",earthquake,0.0,1.2517492771149,0.2,21.0,automatic,tx,tx
