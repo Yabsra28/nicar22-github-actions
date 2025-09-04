@@ -11321,3 +11321,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T22:39:32.480Z,33.9751667,-116.8988333,13.21,1.12,ml,49.0,32.0,0.09644,0.15,ci,ci41283576,2025-09-04T22:43:02.179Z,"6 km NNW of Banning, CA",earthquake,0.13,0.36,0.118,28.0,automatic,ci,ci
 2025-09-04T22:35:28.990Z,39.799167633057,-122.85199737549,10.5,2.17,md,21.0,40.0,0.1743,0.18,nc,nc75233222,2025-09-04T22:37:03.675Z,"20 km NNW of Alder Springs, CA",earthquake,0.39,2.6500001,0.27,14.0,automatic,nc,nc
 2025-09-04T08:32:19.520Z,59.9985,-153.06766666667,3.21,-0.36,ml,5.0,129.0,0.03048,0.05,av,av93749973,2025-09-04T22:41:44.290Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.34,0.9,0.1594199060149,5.0,reviewed,av,av
+2025-09-04T22:43:46.535Z,58.9632,-156.4635,214.0,2.2,ml,,,,1.13,ak,ak025bcv3knx,2025-09-04T22:46:23.374Z,"28 km SE of Levelock, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2025-09-04T08:57:57.280Z,61.293833333333,-152.34616666667,1.21,0.02,ml,8.0,187.0,0.03706,0.29,av,av93750003,2025-09-04T22:44:29.240Z,"69 km WNW of Tyonek, Alaska",earthquake,0.92,2.22,0.17889943697342,8.0,reviewed,av,av
