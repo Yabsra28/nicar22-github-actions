@@ -11433,3 +11433,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T21:53:47.556Z,31.686,-104.423,6.0999,1.7,ml,26.0,63.0,0.0,0.2,tx,tx2025rlgeqn,2025-09-05T09:18:49.692Z,"54 km S of Whites City, New Mexico",earthquake,0.93870681575968,0.50142206256895,0.1,9.0,reviewed,tx,tx
 2025-09-05T09:33:02.553Z,60.2813,-152.0243,76.2,1.4,ml,,,,0.15,ak,ak025beau1qn,2025-09-05T09:34:15.521Z,"32 km NW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-09-05T09:32:47.022Z,38.172,-115.9376,0.0,1.4,ml,10.0,160.61,1.01,0.1661,nn,nn00903870,2025-09-05T09:35:11.028Z,"60 km NNW of Rachel, Nevada",earthquake,,33.2,0.41,4.0,automatic,nn,nn
+2025-09-05T09:45:27.180Z,35.899,-117.6755,3.21,0.77,ml,20.0,55.0,0.05289,0.1,ci,ci41283720,2025-09-05T09:48:54.453Z,"21 km ESE of Little Lake, CA",earthquake,0.14,0.51,0.116,14.0,automatic,ci,ci
