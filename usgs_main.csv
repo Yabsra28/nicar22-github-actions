@@ -11425,3 +11425,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T07:43:43.556Z,41.1907,-116.7679,11.576,2.6,ml,31.0,69.0,0.833,0.77,us,us7000qu18,2025-09-05T08:18:04.040Z,"53 km NE of Valmy, Nevada",earthquake,3.44,8.632,0.046,62.0,reviewed,us,us
 2025-09-05T07:20:11.739Z,31.612,-104.091,6.5997,1.5,ml,36.0,63.0,0.0,0.2,tx,tx2025rlyysk,2025-09-05T08:12:41.331Z,"43 km NW of Toyah, Texas",earthquake,0.4738309330526,0.38952878284546,0.1,15.0,reviewed,tx,tx
 2025-09-05T02:26:29.830Z,32.337,-101.077,8.2275,1.4,ml,24.0,55.0,0.2,0.2,tx,tx2025rlpfgx,2025-09-05T08:34:04.637Z,"6 km WSW of Westbrook, Texas",earthquake,0.64190540203476,1.8096969757681,0.1,15.0,reviewed,tx,tx
+2025-09-05T08:38:49.390Z,38.795166015625,-122.77899932861,3.3199999332428,1.09,md,18.0,76.0,0.007246,0.02,nc,nc75233357,2025-09-05T08:40:28.410Z,"3 km NNW of The Geysers, CA",earthquake,0.26,0.629999995,0.06,19.0,automatic,nc,nc
