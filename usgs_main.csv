@@ -11370,3 +11370,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T02:17:53.267Z,31.54,-104.129,4.2037,1.5,ml,26.0,98.0,0.0,0.3,tx,tx2025rloyfl,2025-09-05T02:21:12.659Z,"40 km NW of Toyah, Texas",earthquake,0.0,1.1892921924591,0.2,19.0,automatic,tx,tx
 2025-09-05T02:16:47.438Z,34.7164,70.7477,10.0,4.8,mb,67.0,99.0,1.345,0.77,us,us7000qu02,2025-09-05T02:31:06.040Z,"40 km WSW of Asadābād, Afghanistan",earthquake,6.23,1.666,0.068,66.0,reviewed,us,us
 2025-09-05T02:04:38.664Z,-24.2844,-67.5517,175.011,4.3,mb,13.0,209.0,1.446,1.26,us,us7000qtzz,2025-09-05T02:14:58.040Z,"125 km W of San Antonio de los Cobres, Argentina",earthquake,10.72,13.02,0.238,5.0,reviewed,us,us
+2025-09-05T03:25:33.770Z,38.826831817627,-122.81533050537,2.1300001144409,1.03,md,21.0,63.0,0.005351,0.02,nc,nc75233282,2025-09-05T03:27:07.800Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.14,22.0,automatic,nc,nc
+2025-09-05T03:23:54.909Z,61.9177,-148.689,52.1,0.9,ml,,,,0.79,ak,ak025be77f03,2025-09-05T03:27:02.583Z,"16 km NNE of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-05T03:09:11.606Z,41.1646,-116.7088,18.094,2.7,ml,15.0,75.0,0.83,0.51,us,us7000qu0a,2025-09-05T03:19:50.040Z,"54 km NE of Valmy, Nevada",earthquake,2.06,7.476,0.04,82.0,reviewed,us,us
+2025-09-05T01:34:36.710Z,54.748666666667,-163.99033333333,-0.53,0.44,ml,5.0,101.0,0.03949,0.22,av,av93751108,2025-09-05T03:26:12.570Z,"39 km WSW of False Pass, Alaska",earthquake,0.39,0.48,0.31118376367333,5.0,reviewed,av,av
