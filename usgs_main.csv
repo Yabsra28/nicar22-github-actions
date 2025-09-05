@@ -11567,3 +11567,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T17:18:44.989Z,60.494,-143.0709,6.9,0.8,ml,,,,0.26,ak,ak025befie42,2025-09-05T17:20:44.424Z,"104 km S of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-05T14:08:05.260Z,46.199333333333,-122.186,-1.82,-0.2,mh,6.0,146.0,0.0009339,0.12,uw,uw62182421,2025-09-05T17:22:06.780Z,"37 km NNE of Amboy, Washington",earthquake,0.58,10.77,,0.0,reviewed,uw,uw
 2025-09-05T06:23:57.710Z,38.507666666667,-112.90533333333,2.47,0.16,md,9.0,113.0,0.006342,0.07,uu,uu80116681,2025-09-05T17:21:19.030Z,"15 km NE of Milford, Utah",earthquake,0.28,0.41,0.33627899136564,4.0,reviewed,uu,uu
+2025-09-05T17:34:10.400Z,36.7369,-115.613,2.4,0.5,ml,8.0,295.41,0.29,0.0803,nn,nn00903879,2025-09-05T17:37:02.555Z,"19 km NNE of Indian Springs, Nevada",earthquake,,15.2,0.45,5.0,automatic,nn,nn
+2025-09-05T16:11:10.230Z,48.366833333333,-116.60666666667,-0.99,2.24,md,8.0,129.0,0.3595,0.63,uw,uw62182501,2025-09-05T17:35:00.090Z,"8 km NW of Ponderay, Idaho",explosion,2.77,31.61,0.28210839404217,7.0,reviewed,uw,uw
