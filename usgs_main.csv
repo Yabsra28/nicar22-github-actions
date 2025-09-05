@@ -11536,3 +11536,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T15:23:22.655Z,63.298,-150.4816,3.0,1.4,ml,,,,0.82,ak,ak025beecjrd,2025-09-05T15:25:48.171Z,"67 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-05T15:14:49.853Z,31.544,-104.15,5.9204,0.9,ml,19.0,72.0,0.0,0.1,tx,tx2025rmorst,2025-09-05T15:27:21.079Z,"42 km NW of Toyah, Texas",earthquake,0.85875724579675,0.99493625697633,0.2,19.0,reviewed,tx,tx
 2025-09-05T14:53:35.015Z,31.542,-104.154,6.4075,1.0,ml,17.0,71.0,0.0,0.1,tx,tx2025rmnzku,2025-09-05T15:34:33.162Z,"42 km NW of Toyah, Texas",earthquake,0.97562593638999,1.1421646132775,0.2,19.0,reviewed,tx,tx
+2025-09-05T14:31:46.135Z,31.529,-104.162,6.3562,1.4,ml,25.0,75.0,0.1,0.1,tx,tx2025rmngqn,2025-09-05T15:40:21.198Z,"42 km NW of Toyah, Texas",earthquake,0.79958716483259,0.89299183395594,0.2,22.0,reviewed,tx,tx
+2025-09-05T07:43:45.734Z,41.1372,-116.7126,11.0,2.7,ml,8.0,156.18,0.301,0.2074,nn,nn00903876,2025-09-05T15:37:43.832Z,"51 km NE of Valmy, Nevada",earthquake,,2.3,0.36,5.0,reviewed,nn,nn
