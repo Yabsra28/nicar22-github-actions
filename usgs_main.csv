@@ -11495,3 +11495,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T13:41:42.803Z,32.27,-101.849,4.1463,1.2,ml,8.0,79.0,0.0,0.4,tx,tx2025rmlpks,2025-09-05T13:43:47.695Z,"16 km NNW of Stanton, Texas",earthquake,0.0,1.7949109077454,0.1,6.0,automatic,tx,tx
 2025-09-05T04:58:30.466Z,31.539,-104.135,8.5608,1.0,ml,23.0,64.0,0.0,0.1,tx,tx2025rlugqc,2025-09-05T13:37:00.659Z,"40 km NW of Toyah, Texas",earthquake,0.87834955167629,0.80176125567986,0.2,17.0,reviewed,tx,tx
 2025-09-05T04:22:40.881Z,31.644,-104.311,4.3054,1.1,ml,15.0,69.0,0.0,0.1,tx,tx2025rltbtl,2025-09-05T13:39:34.666Z,"59 km S of Whites City, New Mexico",earthquake,0.83289087964665,1.8505170601802,0.1,13.0,reviewed,tx,tx
+2025-09-05T05:57:41.774Z,31.639,-104.197,1.8958,1.0,ml,17.0,84.0,0.1,0.1,tx,tx2025rlwfqc,2025-09-05T13:47:08.716Z,"52 km NW of Toyah, Texas",earthquake,0.61535637155331,1.3489717084714,0.2,16.0,reviewed,tx,tx
+2025-09-05T01:15:02.052Z,31.621,-104.355,6.6638,1.2,ml,19.0,78.0,0.1,0.1,tx,tx2025rlmwax,2025-09-05T13:50:35.237Z,"61 km S of Whites City, New Mexico",earthquake,1.0814615476657,1.2396214574685,0.2,15.0,reviewed,tx,tx
