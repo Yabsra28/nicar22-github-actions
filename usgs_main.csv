@@ -11409,3 +11409,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T06:40:44.326Z,63.106,-149.7544,90.8,1.1,ml,,,,0.23,ak,ak025be93c5s,2025-09-05T06:42:06.658Z,"51 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-05T06:35:16.040Z,33.7756667,-116.0796667,1.59,1.07,ml,48.0,56.0,0.12,0.16,ci,ci41283680,2025-09-05T06:38:46.342Z,"14 km NE of Coachella, CA",earthquake,0.15,0.28,0.141,27.0,automatic,ci,ci
 2025-09-05T06:33:14.571Z,15.9324,-96.1984,35.725,4.7,mb,50.0,157.0,2.788,0.74,us,us7000qu0w,2025-09-05T06:51:11.040Z,"2 km WNW of San Miguel del Puerto, Mexico",earthquake,9.35,8.004,0.029,350.0,reviewed,us,us
+2025-09-05T06:53:44.819Z,35.31958771,-97.93725586,4.926845551,1.83,ml,10.0,109.4744644,0.07272215933,0.1847914441,ok,ok2025rjux,2025-09-05T06:55:31.864Z,"0 km NE of Minco, Oklahoma",earthquake,4.110462901,3.007546724,0.28,10.0,automatic,ok,ok
+2025-09-05T05:06:03.870Z,30.5541,140.1991,10.0,4.4,mb,29.0,100.0,2.574,1.15,us,us7000qu0m,2025-09-05T07:04:57.040Z,"Izu Islands, Japan region",earthquake,6.91,1.669,0.098,30.0,reviewed,us,us
