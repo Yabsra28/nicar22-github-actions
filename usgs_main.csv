@@ -11441,3 +11441,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T09:53:17.160Z,33.7723333,-116.0848333,1.1,0.89,ml,49.0,46.0,0.1164,0.2,ci,ci41283736,2025-09-05T09:56:48.260Z,"13 km NE of Coachella, CA",earthquake,0.16,0.32,0.158,23.0,automatic,ci,ci
 2025-09-05T09:52:08.340Z,33.3148333,-116.3481667,11.18,0.55,ml,31.0,109.0,0.05736,0.18,ci,ci41283728,2025-09-05T09:55:59.448Z,"7 km NNE of Borrego Springs, CA",earthquake,0.21,0.39,0.165,6.0,automatic,ci,ci
 2025-09-05T09:29:16.106Z,-6.0445,146.4269,113.617,4.6,mb,41.0,95.0,3.416,0.51,us,us7000qu1p,2025-09-05T10:13:32.040Z,"67 km ENE of Kainantu, Papua New Guinea",earthquake,7.51,8.041,0.09,37.0,reviewed,us,us
+2025-09-05T10:33:18.400Z,36.778667449951,-121.29066467285,9.7200002670288,1.31,md,14.0,137.0,0.018,0.06,nc,nc75233382,2025-09-05T10:34:53.314Z,"3 km SE of Tres Pinos, CA",earthquake,0.37,0.879999995,0.29,10.0,automatic,nc,nc
+2025-09-05T10:27:28.470Z,34.0568333,-117.1305,11.41,1.08,ml,69.0,25.0,0.02607,0.19,ci,ci41283760,2025-09-05T10:30:59.760Z,"2 km SSE of Mentone, CA",earthquake,0.14,0.4,0.185,27.0,automatic,ci,ci
+2025-09-05T10:25:01.270Z,33.6461667,-116.7598333,11.15,0.77,ml,38.0,54.0,0.07514,0.15,ci,ci41283752,2025-09-05T10:28:21.746Z,"11 km SSW of Idyllwild, CA",earthquake,0.16,0.35,0.163,9.0,automatic,ci,ci
+2025-09-05T10:16:11.132Z,63.8914,-148.9343,22.9,1.4,ml,,,,1.2,ak,ak025bebbuu1,2025-09-05T10:18:37.304Z,"4 km NNE of Healy, Alaska",earthquake,,2.8,,,automatic,ak,ak
