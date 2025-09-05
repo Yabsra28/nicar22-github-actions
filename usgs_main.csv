@@ -11396,3 +11396,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T05:29:28.217Z,37.9297,-118.6673,0.9,1.4,ml,8.0,97.41,0.346,0.4316,nn,nn00903864,2025-09-05T05:32:29.529Z,"20 km NW of Benton, California",earthquake,,6.4,0.39,4.0,automatic,nn,nn
 2025-09-05T05:27:41.880Z,35.9165,-117.7296667,4.1,0.51,ml,19.0,52.0,0.07157,0.12,ci,ci41283640,2025-09-05T05:31:11.396Z,"16 km E of Little Lake, CA",earthquake,0.16,0.35,0.142,10.0,automatic,ci,ci
 2025-09-05T02:41:40.760Z,37.521833333333,-118.83716666667,3.06,0.64,md,22.0,114.0,0.06838,0.05,nc,nc75233267,2025-09-05T05:30:32.704Z,"15 km WSW of Toms Place, CA",earthquake,0.4,0.85,0.155,14.0,reviewed,nc,nc
+2025-09-05T05:42:17.150Z,38.84049987793,-122.8373336792,1.5800000429153,0.54,md,8.0,167.0,0.002392,0.02,nc,nc75233302,2025-09-05T05:43:52.940Z,"10 km NNW of The Geysers, CA",earthquake,0.58,0.839999974,0.37,9.0,automatic,nc,nc
