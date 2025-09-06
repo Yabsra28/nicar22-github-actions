@@ -11875,3 +11875,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T17:59:51.910Z,35.669333333333,-84.173833333333,6.36,2.08,md,14.0,70.0,0.01943,0.2,se,se60504083,2025-09-06T18:54:52.780Z,"0 km N of Greenback, Tennessee",earthquake,0.39,0.73,0.092539019206909,12.0,reviewed,se,se
 2025-09-06T17:41:47.920Z,37.583666666667,-122.45816666667,8.13,0.44,md,10.0,94.0,0.03031,0.05,nc,nc75233972,2025-09-06T19:04:13.825Z,"4 km SE of Pacifica, CA",earthquake,0.34,0.45,0.113,7.0,reviewed,nc,nc
 2025-09-06T17:34:11.750Z,39.251,-123.21116666667,5.32,1.12,md,16.0,46.0,0.05474,0.06,nc,nc75233967,2025-09-06T18:59:11.677Z,"2 km SSW of Redwood Valley, CA",earthquake,0.16,0.59,0.18,11.0,reviewed,nc,nc
+2025-09-06T19:26:51.980Z,33.3876667,-116.3753333,6.45,0.66,ml,21.0,55.0,0.06051,0.18,ci,ci41285080,2025-09-06T19:30:49.616Z,"15 km N of Borrego Springs, CA",earthquake,0.24,0.63,0.108,11.0,automatic,ci,ci
