@@ -11887,3 +11887,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T20:44:08.720Z,36.460998535156,-121.06716918945,6.2399997711182,1.38,md,16.0,62.0,0.009354,0.19,nc,nc75234077,2025-09-06T20:45:45.353Z,"10 km SSE of Pinnacles, CA",earthquake,0.53,1.16999996,0.13,11.0,automatic,nc,nc
 2025-09-06T20:43:45.081Z,60.289,-149.3904,26.3,2.8,ml,,,,1.0,ak,ak025bg4zebw,2025-09-06T20:47:52.342Z,"6 km SSW of Primrose, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-06T20:40:44.000Z,52.36,-169.537,33.0,5.2,Mi,27.0,212.399983008,1.439999,1.15,at,at00t26pfw,2025-09-06T20:49:41.361Z,"79 km SW of Nikolski, Alaska",earthquake,0.0,0.0,,11.0,reviewed,at,at
+2025-09-06T21:00:02.260Z,33.3628333,-116.6861667,15.84,0.72,ml,11.0,99.0,0.1049,0.26,ci,ci41285128,2025-09-06T21:03:48.457Z,"10 km NNW of Warner Springs, CA",earthquake,1.53,2.78,0.225,21.0,automatic,ci,ci
+2025-09-06T20:40:41.246Z,52.3501,-169.5398,23.991,5.4,mww,59.0,80.0,0.75,1.11,us,us7000qug7,2025-09-06T21:06:22.574Z,"80 km SW of Nikolski, Alaska",earthquake,6.58,5.847,0.046,45.0,reviewed,us,us
