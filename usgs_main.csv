@@ -11725,3 +11725,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T04:28:25.390Z,34.0263333,-117.1033333,10.51,2.66,ml,129.0,15.0,0.01183,0.18,ci,ci41284496,2025-09-06T04:39:27.970Z,"6 km W of Yucaipa, CA",earthquake,0.09,0.21,0.239,24.0,automatic,ci,ci
 2025-09-06T04:24:27.950Z,38.828666687012,-122.81283569336,-0.090000003576279,1.29,md,10.0,96.0,0.005689,0.28,nc,nc75233707,2025-09-06T04:26:03.723Z,"8 km NNW of The Geysers, CA",earthquake,0.77,2.23000002,0.18,14.0,automatic,nc,nc
 2025-09-06T04:16:48.405Z,32.112,-101.047,7.5928,3.4,ml,20.0,64.0,0.2,0.1,tx,tx2025rnopod,2025-09-06T04:37:36.507Z,"27 km S of Westbrook, Texas",earthquake,0.70856042951763,2.3291441050195,0.1,12.0,reviewed,tx,tx
+2025-09-06T04:46:15.920Z,32.8028333,-116.1393333,8.63,1.03,ml,38.0,62.0,0.03716,0.22,ci,ci41284504,2025-09-06T04:49:50.681Z,"16 km WNW of Ocotillo, CA",earthquake,0.26,0.58,0.242,14.0,automatic,ci,ci
+2025-09-06T04:44:28.834Z,61.5124,-152.0228,113.3,1.5,ml,,,,0.48,ak,ak025bfvgn5d,2025-09-06T04:46:14.709Z,"62 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-06T04:43:08.991Z,32.091,-101.916,3.2755,1.2,ml,32.0,43.0,0.1,0.5,tx,tx2025rnpmgk,2025-09-06T04:48:32.501Z,"12 km WSW of Stanton, Texas",earthquake,0.0,0.91915136575699,0.1,22.0,automatic,tx,tx
