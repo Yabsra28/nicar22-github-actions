@@ -11734,3 +11734,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T04:18:07.201Z,31.707,-104.064,0.6038,1.8,ml,18.0,56.0,0.0,0.7,tx,tx2025rnoqrv,2025-09-06T05:01:39.097Z,"44 km W of Mentone, Texas",earthquake,0.0,1.5167355537415,0.2,8.0,automatic,tx,tx
 2025-09-06T05:26:17.630Z,38.795166015625,-122.79650115967,6.2699999809265,0.51,md,5.0,114.0,0.008544,0.0,nc,nc75233722,2025-09-06T05:27:53.099Z,"4 km NW of The Geysers, CA",earthquake,0.82,1.13999999,0.31,5.0,automatic,nc,nc
 2025-09-06T05:11:55.860Z,31.4773333,-115.6093333,9.94,2.63,ml,6.0,166.0,0.4761,0.04,ci,ci41284520,2025-09-06T05:15:37.096Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.18,1.21,0.176,19.0,automatic,ci,ci
+2025-09-06T05:47:05.007Z,61.9383,-145.4675,114.4,1.4,ml,,,,1.06,ak,ak025bfw2o10,2025-09-06T05:49:37.015Z,"8 km WSW of Copper Center, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-06T05:35:17.645Z,-18.6981,168.973,165.734,4.6,mb,29.0,116.0,3.649,0.51,us,us7000quc9,2025-09-06T05:50:14.040Z,"98 km NNW of Isangel, Vanuatu",earthquake,9.82,9.084,0.111,24.0,reviewed,us,us
