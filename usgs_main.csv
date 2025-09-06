@@ -11839,3 +11839,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T15:44:08.209Z,32.01,-103.815,7.8292,1.5,ml,17.0,99.0,0.0,0.5,tx,tx2025roljvr,2025-09-06T15:52:07.244Z,"33 km SE of Malaga, New Mexico",earthquake,0.0,3.2850279808044,0.3,10.0,automatic,tx,tx
 2025-09-06T16:11:21.460Z,35.8983333,-117.6775,2.81,0.92,ml,26.0,48.0,0.05414,0.14,ci,ci41284912,2025-09-06T16:14:44.790Z,"21 km ESE of Little Lake, CA",earthquake,0.14,0.32,0.144,19.0,automatic,ci,ci
 2025-09-06T16:04:39.640Z,36.0236664,-117.7736664,1.21,1.19,ml,19.0,65.0,0.006986,0.11,ci,ci41284904,2025-09-06T16:06:42.158Z,"15 km NE of Little Lake, CA",earthquake,0.31,0.33,0.249,9.0,automatic,ci,ci
+2025-09-06T16:35:29.745Z,58.4901,-155.0536,45.3,1.5,ml,,,,0.48,ak,ak025bg2jwzy,2025-09-06T16:36:48.498Z,"96 km ESE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-06T16:24:14.390Z,33.5376667,-116.7155,5.95,0.5,ml,24.0,76.0,0.03311,0.13,ci,ci41284936,2025-09-06T16:27:39.851Z,"4 km WSW of Anza, CA",earthquake,0.18,0.36,0.116,14.0,automatic,ci,ci
+2025-09-06T16:08:28.962Z,51.5942,159.5308,10.0,4.9,mb,37.0,164.0,1.53,1.01,us,us7000quf4,2025-09-06T16:35:42.040Z,"167 km SSE of Vilyuchinsk, Russia",earthquake,11.54,1.942,0.047,142.0,reviewed,us,us
