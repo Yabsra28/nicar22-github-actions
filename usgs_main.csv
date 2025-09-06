@@ -11828,3 +11828,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T14:32:08.450Z,33.9821667,-116.8258333,7.21,0.66,ml,34.0,34.0,0.05494,0.16,ci,ci41284824,2025-09-06T14:35:38.017Z,"8 km NE of Banning, CA",earthquake,0.18,0.63,0.203,18.0,automatic,ci,ci
 2025-09-06T06:54:38.147Z,39.3428,-120.0171,3.9,0.2,ml,9.0,164.07,0.052,0.1155,nn,nn00903910,2025-09-06T14:35:36.629Z,"5 km S of Floriston, California",earthquake,,2.5,0.28,4.0,reviewed,nn,nn
 2025-09-06T14:46:00.090Z,36.0068333,-117.8013333,1.53,0.86,ml,26.0,53.0,0.02505,0.12,ci,ci41284840,2025-09-06T14:49:30.509Z,"12 km NE of Little Lake, CA",earthquake,0.13,0.14,0.184,19.0,automatic,ci,ci
+2025-09-06T15:11:24.520Z,33.2188339,-116.7121658,9.69,1.26,ml,37.0,31.0,0.04263,0.17,ci,ci41284864,2025-09-06T15:13:27.057Z,"5 km ESE of Lake Henshaw, CA",earthquake,0.25,0.67,0.149,10.0,automatic,ci,ci
+2025-09-06T15:04:55.020Z,61.6618,-149.6766,54.9,2.5,ml,,,,0.9,ak,ak025bg1rw5a,2025-09-06T15:10:34.263Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,4.7,,,automatic,ak,ak
+2025-09-06T15:04:17.116Z,58.237,-155.2043,0.0,3.2,ml,,,,0.45,ak,ak025bg1rt7z,2025-09-06T15:05:28.715Z,"86 km NNW of Karluk, Alaska",earthquake,,25.0,,,automatic,ak,ak
