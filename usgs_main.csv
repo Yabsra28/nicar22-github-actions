@@ -11766,3 +11766,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T08:39:24.413Z,56.5335,-158.3576,95.1,2.3,ml,,,,0.65,ak,ak025bfxtam1,2025-09-06T08:41:25.820Z,"26 km N of Chignik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-06T08:38:04.897Z,35.61931229,-98.03878784,2.205518723,2.76,ml,84.0,25.6414032,0.1570269912,0.8082046317,ok,ok2025rltw,2025-09-06T08:44:00.040Z,"7 km ENE of Calumet, Oklahoma",earthquake,1.296532031,1.04896115,0.3,57.0,automatic,ok,ok
 2025-09-06T08:37:22.766Z,60.2912,-144.7338,19.3,1.5,ml,,,,0.94,ak,ak025bfxsv1w,2025-09-06T08:38:44.418Z,"63 km ESE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-06T07:20:15.938Z,-22.8683,-66.6299,239.857,4.2,mb,15.0,93.0,1.431,0.61,us,us7000qucu,2025-09-06T08:53:27.040Z,"97 km W of Abra Pampa, Argentina",earthquake,9.76,11.741,0.187,8.0,reviewed,us,us
