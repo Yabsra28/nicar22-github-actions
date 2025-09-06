@@ -11883,3 +11883,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T19:55:05.089Z,-37.4257,178.7255,38.154,5.1,mb,38.0,126.0,0.36,1.18,us,us7000qufv,2025-09-06T20:16:20.110Z,"42 km ENE of Hicks Bay, New Zealand",earthquake,7.97,6.756,0.104,30.0,reviewed,us,us
 2025-09-06T20:36:04.507Z,63.2967,-150.4578,128.3,1.4,ml,,,,0.21,ak,ak025bg4xt6q,2025-09-06T20:38:02.196Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-09-06T20:30:46.110Z,38.698833465576,-122.92766571045,4.0999999046326,1.07,md,8.0,216.0,0.1503,0.24,nc,nc75234062,2025-09-06T20:32:21.265Z,"11 km NNW of Healdsburg, CA",earthquake,3.72,17.6200008,,1.0,automatic,nc,nc
+2025-09-06T20:46:02.440Z,33.9818333,-116.798,16.01,1.47,ml,66.0,27.0,0.0538,0.18,ci,ci41285120,2025-09-06T20:50:08.379Z,"7 km N of Cabazon, CA",earthquake,0.15,0.39,0.129,27.0,automatic,ci,ci
+2025-09-06T20:44:08.720Z,36.460998535156,-121.06716918945,6.2399997711182,1.38,md,16.0,62.0,0.009354,0.19,nc,nc75234077,2025-09-06T20:45:45.353Z,"10 km SSE of Pinnacles, CA",earthquake,0.53,1.16999996,0.13,11.0,automatic,nc,nc
+2025-09-06T20:43:45.081Z,60.289,-149.3904,26.3,2.8,ml,,,,1.0,ak,ak025bg4zebw,2025-09-06T20:47:52.342Z,"6 km SSW of Primrose, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-06T20:40:44.000Z,52.36,-169.537,33.0,5.2,Mi,27.0,212.399983008,1.439999,1.15,at,at00t26pfw,2025-09-06T20:49:41.361Z,"79 km SW of Nikolski, Alaska",earthquake,0.0,0.0,,11.0,reviewed,at,at
