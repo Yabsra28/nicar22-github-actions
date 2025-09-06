@@ -11769,3 +11769,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T07:20:15.938Z,-22.8683,-66.6299,239.857,4.2,mb,15.0,93.0,1.431,0.61,us,us7000qucu,2025-09-06T08:53:27.040Z,"97 km W of Abra Pampa, Argentina",earthquake,9.76,11.741,0.187,8.0,reviewed,us,us
 2025-09-06T09:08:04.960Z,38.823833465576,-122.80982971191,2.1500000953674,1.61,md,28.0,57.0,0.01949,0.02,nc,nc75233802,2025-09-06T09:09:38.827Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.349999994,0.08,28.0,automatic,nc,nc
 2025-09-06T09:16:18.965Z,58.3353,-151.3525,54.6,1.9,ml,,,,0.31,ak,ak025bfy9sbs,2025-09-06T09:18:31.431Z,"81 km ENE of Ouzinkie, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2025-09-06T09:31:10.900Z,35.8765,-117.6986667,4.74,0.32,ml,12.0,83.0,0.08132,0.09,ci,ci41284600,2025-09-06T09:34:38.358Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.31,0.164,3.0,automatic,ci,ci
