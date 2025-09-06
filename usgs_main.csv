@@ -11832,3 +11832,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T15:04:55.020Z,61.6618,-149.6766,54.9,2.5,ml,,,,0.9,ak,ak025bg1rw5a,2025-09-06T15:10:34.263Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2025-09-06T15:04:17.116Z,58.237,-155.2043,0.0,3.2,ml,,,,0.45,ak,ak025bg1rt7z,2025-09-06T15:05:28.715Z,"86 km NNW of Karluk, Alaska",earthquake,,25.0,,,automatic,ak,ak
 2025-09-06T15:21:38.884Z,56.4415,-153.0943,0.0,2.9,ml,,,,0.78,ak,ak025bg1vi2o,2025-09-06T15:25:19.507Z,"85 km S of Old Harbor, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-09-06T15:29:26.330Z,35.6168333,-117.4663333,9.95,1.13,ml,38.0,50.0,0.05938,0.16,ci,ci41284880,2025-09-06T15:32:52.851Z,"18 km SSW of Searles Valley, CA",earthquake,0.17,0.37,0.249,25.0,automatic,ci,ci
+2025-09-06T15:11:18.450Z,17.974,-66.765,11.4,1.95,md,12.0,205.0,0.09834,0.21,pr,pr71494883,2025-09-06T15:34:51.020Z,"4 km S of Magas Arriba, Puerto Rico",earthquake,0.6,0.79,0.14936605842804,6.0,reviewed,pr,pr
