@@ -11818,3 +11818,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T13:46:15.681Z,28.683,-98.141,11.3553,1.9,ml,8.0,126.0,0.1,0.3,tx,tx2025rohmcx,2025-09-06T14:00:35.809Z,"13 km WNW of Pawnee, Texas",earthquake,0.0,4.7957096099854,0.2,7.0,automatic,tx,tx
 2025-09-06T08:02:02.020Z,44.808333333333,-111.51933333333,11.35,0.45,ml,8.0,105.0,0.03036,0.21,mb,mb90110548,2025-09-06T14:02:43.560Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.63,1.01,0.14723684608836,4.0,reviewed,mb,mb
 2025-09-06T06:50:13.720Z,44.814333333333,-111.53683333333,11.28,0.85,ml,15.0,110.0,0.02036,0.17,mb,mb90110538,2025-09-06T13:59:01.560Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.34,0.55,0.12068236573921,12.0,reviewed,mb,mb
+2025-09-06T14:19:58.247Z,60.3971,-150.4103,31.7,1.7,ml,,,,0.7,ak,ak025bg19oj4,2025-09-06T14:22:12.215Z,"22 km ESE of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-06T14:04:03.289Z,42.4986,-111.253,5.392,2.6,ml,32.0,69.0,0.548,0.4,us,us7000quec,2025-09-06T14:27:01.040Z,"9 km E of Georgetown, Idaho",earthquake,1.64,5.042,0.039,86.0,reviewed,us,us
+2025-09-06T11:42:05.130Z,44.705666666667,-112.90016666667,7.62,0.8,ml,9.0,153.0,0.1274,0.1,mb,mb90110563,2025-09-06T14:29:45.850Z,"25 km WNW of Lima, Montana",earthquake,0.43,1.2,0.17095995471788,9.0,reviewed,mb,mb
+2025-09-06T09:42:41.671Z,36.8115,-115.9518,4.4,-0.5,ml,6.0,288.48,0.087,0.0827,nn,nn00903909,2025-09-06T14:23:14.518Z,"36 km NW of Indian Springs, Nevada",earthquake,,7.1,0.0,1.0,reviewed,nn,nn
+2025-09-06T05:39:48.000Z,43.149666666667,-110.93116666667,5.0,1.39,ml,11.0,130.0,0.2443,0.16,mb,mb90110558,2025-09-06T14:22:43.880Z,"7 km ESE of Alpine, Wyoming",earthquake,0.48,11.48,0.2416734945254,17.0,reviewed,mb,mb
