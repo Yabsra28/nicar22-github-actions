@@ -11900,3 +11900,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T21:34:50.670Z,36.78466796875,-121.51083374023,5.8699998855591,1.15,md,12.0,93.0,0.03433,0.08,nc,nc75234097,2025-09-06T21:36:25.770Z,"7 km S of San Juan Bautista, CA",earthquake,0.45,0.589999974,0.14,6.0,automatic,nc,nc
 2025-09-06T21:09:21.545Z,52.5127,160.2061,59.143,4.7,mb,41.0,137.0,1.075,1.03,us,us7000qugj,2025-09-06T22:14:42.040Z,"122 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.67,5.232,0.088,39.0,reviewed,us,us
 2025-09-06T21:14:03.371Z,52.3874,160.0053,57.568,4.6,mb,43.0,137.0,1.042,0.81,us,us7000qugk,2025-09-06T22:27:17.040Z,"119 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.9,6.944,0.079,50.0,reviewed,us,us
+2025-09-06T22:41:35.781Z,28.699,-98.16,13.0814,1.8,ml,5.0,147.0,0.1,0.4,tx,tx2025rozfpe,2025-09-06T22:43:31.320Z,"16 km WNW of Pawnee, Texas",earthquake,0.0,6.404139995575,0.1,5.0,automatic,tx,tx
