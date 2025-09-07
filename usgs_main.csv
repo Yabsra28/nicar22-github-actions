@@ -11979,3 +11979,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T07:16:39.468Z,62.7724,-150.5398,96.8,1.6,ml,,,,0.61,ak,ak025bhkmb6y,2025-09-07T07:19:29.581Z,"32 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-07T07:10:43.840Z,38.79349899292,-122.78050231934,3.579999923706,1.07,md,19.0,78.0,0.005804,0.02,nc,nc75234357,2025-09-07T07:12:17.571Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.720000029,0.29,18.0,automatic,nc,nc
 2025-09-07T06:51:08.280Z,26.2587,141.0702,117.08,4.5,mb,35.0,122.0,1.299,0.72,us,us7000quil,2025-09-07T07:11:54.040Z,"Bonin Islands, Japan region",earthquake,12.33,7.469,0.089,37.0,reviewed,us,us
+2025-09-07T07:27:57.060Z,35.4973333,-118.5258333,2.42,1.09,ml,32.0,45.0,0.1704,0.18,ci,ci41285432,2025-09-07T07:31:21.814Z,"10 km SSW of Bodfish, CA",earthquake,0.24,0.91,0.296,4.0,automatic,ci,ci
