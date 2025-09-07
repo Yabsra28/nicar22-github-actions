@@ -11983,3 +11983,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T07:39:16.494Z,61.0417,-152.3557,106.8,2.0,ml,,,,0.67,ak,ak025bhkr6w1,2025-09-07T07:42:45.363Z,"65 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-07T07:37:16.546Z,31.761,-104.217,4.2203,1.9,ml,31.0,99.0,0.0,0.4,tx,tx2025rpqzes,2025-09-07T07:42:55.793Z,"48 km SSE of Whites City, New Mexico",earthquake,0.0,0.95893520116806,0.2,21.0,automatic,tx,tx
 2025-09-07T07:29:07.540Z,9.3193,126.9482,10.0,5.1,mww,46.0,126.0,2.614,1.04,us,us7000quir,2025-09-07T07:46:54.040Z,"83 km E of Cortes, Philippines",earthquake,10.34,1.884,0.071,19.0,reviewed,us,us
+2025-09-07T07:50:13.800Z,38.756500244141,-122.72183227539,2.1400001049042,0.81,md,8.0,202.0,0.00561,0.03,nc,nc75234362,2025-09-07T07:51:48.613Z,"3 km WSW of Anderson Springs, CA",earthquake,1.04,0.99000001,0.15,8.0,automatic,nc,nc
+2025-09-07T07:47:50.536Z,31.526,-104.157,4.1357,2.7,ml,45.0,73.0,0.1,0.4,tx,tx2025rprihz,2025-09-07T07:55:36.040Z,"41 km NW of Toyah, Texas",earthquake,0.0,0.91519629955292,0.2,31.0,automatic,tx,tx
+2025-09-07T07:47:18.974Z,31.529,-104.181,2.8638,2.7,ml,8.0,214.0,0.1,0.2,tx,tx2025rprhvo,2025-09-07T07:50:04.116Z,"43 km WNW of Toyah, Texas",earthquake,0.0,2.2479662895203,0.3,6.0,automatic,tx,tx
+2025-09-07T07:44:23.330Z,35.898,-117.673,4.21,0.45,ml,18.0,91.0,0.05307,0.11,ci,ci41285440,2025-09-07T07:47:54.832Z,"22 km ESE of Little Lake, CA",earthquake,0.16,0.34,0.068,10.0,automatic,ci,ci
