@@ -12108,3 +12108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T20:03:19.539Z,39.1451,28.1857,10.0,4.4,mwr,52.0,57.0,0.999,0.62,us,us7000quln,2025-09-07T20:20:18.040Z,"10 km S of Sındırgı, Turkey",earthquake,3.91,1.89,0.055,32.0,reviewed,us,us
 2025-09-07T20:27:30.220Z,33.8885,-117.7861667,10.73,1.16,ml,22.0,114.0,0.04187,0.23,ci,ci41285736,2025-09-07T20:31:02.906Z,"2 km E of Yorba Linda, CA",earthquake,0.43,0.63,0.487,28.0,automatic,ci,ci
 2025-09-07T20:39:05.160Z,35.8968333,-117.678,2.48,1.16,ml,26.0,52.0,0.05567,0.11,ci,ci41285744,2025-09-07T20:42:30.492Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.21,0.132,12.0,automatic,ci,ci
+2025-09-07T20:51:52.020Z,33.2280006,-117.4131699,16.57,1.11,ml,21.0,147.0,0.1354,0.16,ci,ci41285752,2025-09-07T20:54:05.550Z,"3 km W of Camp Pendleton South, CA",earthquake,0.75,0.9,0.207,3.0,automatic,ci,ci
+2025-09-07T20:51:39.919Z,61.3318,-141.1784,9.1,1.9,ml,,,,0.42,ak,ak025bhskg5j,2025-09-07T20:53:11.942Z,"93 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-07T20:43:17.122Z,31.644,-104.189,3.8802,1.7,ml,36.0,64.0,0.1,0.4,tx,tx2025rqralz,2025-09-07T20:47:23.093Z,"52 km NW of Toyah, Texas",earthquake,0.0,0.89729100465775,0.2,25.0,automatic,tx,tx
+2025-09-07T20:24:01.620Z,18.247166666667,-66.423833333333,35.31,2.26,md,12.0,102.0,0.2497,0.14,pr,pr71495013,2025-09-07T20:49:22.830Z,"4 km WNW of Orocovis, Puerto Rico",earthquake,0.57,1.02,0.14992329581424,10.0,reviewed,pr,pr
