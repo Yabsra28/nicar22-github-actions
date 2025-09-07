@@ -12035,3 +12035,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T11:15:10.150Z,35.4888333,-118.4581667,2.91,2.32,ml,63.0,28.0,0.174,0.18,ci,ci41285616,2025-09-07T11:25:52.700Z,"11 km SSE of Bodfish, CA",earthquake,0.16,0.83,0.198,26.0,automatic,ci,ci
 2025-09-07T11:30:09.452Z,60.0815,-152.9041,116.7,1.6,ml,,,,0.34,ak,ak025bhn2zbl,2025-09-07T11:31:34.283Z,"67 km WNW of Happy Valley, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2025-09-07T11:29:06.938Z,31.512,-104.152,2.7228,0.5,ml,17.0,147.0,0.1,0.6,tx,tx2025rpyqzh,2025-09-07T11:31:48.290Z,"40 km WNW of Toyah, Texas",earthquake,0.0,1.4383227825165,0.2,13.0,automatic,tx,tx
+2025-09-07T11:29:11.290Z,23.95,122.5205,31.9,4.9,mb,101.0,41.0,0.682,0.61,us,us7000qujy,2025-09-07T11:48:40.040Z,"75 km SW of Yonakuni, Japan",earthquake,4.96,5.477,0.054,108.0,reviewed,us,us
