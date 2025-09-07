@@ -11953,3 +11953,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T03:00:23.935Z,19.0799,-155.3986,38.794,2.6,ml,20.0,202.0,0.096,0.3,us,us7000quhv,2025-09-07T03:18:00.040Z,"16 km SSE of Pāhala, Hawaii",earthquake,2.21,4.732,0.055,44.0,reviewed,us,us
 2025-09-07T03:45:14.891Z,62.8043,-148.949,1.9,2.5,ml,,,,0.88,ak,ak025bhieqm8,2025-09-07T03:47:10.828Z,"65 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-07T03:45:22.865Z,61.2567,-147.9466,45.3,2.1,ml,,,,1.05,ak,ak025bhier9a,2025-09-07T03:57:38.942Z,"56 km ESE of Knik River, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-07T04:24:36.505Z,36.7781,-116.0102,10.0,-0.2,ml,15.0,152.74,0.03,0.166,nn,nn00903924,2025-09-07T04:26:42.467Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.7,0.36,10.0,automatic,nn,nn
+2025-09-07T04:21:26.270Z,33.6986667,-116.7233333,17.26,1.57,ml,80.0,15.0,0.04809,0.19,ci,ci41285352,2025-09-07T04:32:38.300Z,"5 km S of Idyllwild, CA",earthquake,0.13,0.28,0.208,27.0,automatic,ci,ci
+2025-09-07T04:12:30.704Z,-24.3345,-67.0833,163.36,4.5,mb,32.0,55.0,1.704,0.85,us,us7000qui5,2025-09-07T04:32:55.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,8.89,9.343,0.156,12.0,reviewed,us,us
