@@ -11980,3 +11980,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T07:10:43.840Z,38.79349899292,-122.78050231934,3.579999923706,1.07,md,19.0,78.0,0.005804,0.02,nc,nc75234357,2025-09-07T07:12:17.571Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.720000029,0.29,18.0,automatic,nc,nc
 2025-09-07T06:51:08.280Z,26.2587,141.0702,117.08,4.5,mb,35.0,122.0,1.299,0.72,us,us7000quil,2025-09-07T07:11:54.040Z,"Bonin Islands, Japan region",earthquake,12.33,7.469,0.089,37.0,reviewed,us,us
 2025-09-07T07:27:57.060Z,35.4973333,-118.5258333,2.42,1.09,ml,32.0,45.0,0.1704,0.18,ci,ci41285432,2025-09-07T07:31:21.814Z,"10 km SSW of Bodfish, CA",earthquake,0.24,0.91,0.296,4.0,automatic,ci,ci
+2025-09-07T07:39:16.494Z,61.0417,-152.3557,106.8,2.0,ml,,,,0.67,ak,ak025bhkr6w1,2025-09-07T07:42:45.363Z,"65 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-07T07:37:16.546Z,31.761,-104.217,4.2203,1.9,ml,31.0,99.0,0.0,0.4,tx,tx2025rpqzes,2025-09-07T07:42:55.793Z,"48 km SSE of Whites City, New Mexico",earthquake,0.0,0.95893520116806,0.2,21.0,automatic,tx,tx
+2025-09-07T07:29:07.540Z,9.3193,126.9482,10.0,5.1,mww,46.0,126.0,2.614,1.04,us,us7000quir,2025-09-07T07:46:54.040Z,"83 km E of Cortes, Philippines",earthquake,10.34,1.884,0.071,19.0,reviewed,us,us
