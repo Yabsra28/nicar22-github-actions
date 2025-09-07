@@ -11966,3 +11966,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T05:18:10.427Z,31.757,-104.218,4.5916,2.0,ml,38.0,99.0,0.0,0.4,tx,tx2025rpmjim,2025-09-07T05:22:28.471Z,"48 km SSE of Whites City, New Mexico",earthquake,0.0,0.86351352930069,0.2,25.0,automatic,tx,tx
 2025-09-07T05:23:48.988Z,63.1481,-150.9059,139.504,2.8,ml,50.0,50.0,0.598,0.52,us,us7000quif,2025-09-07T05:42:05.040Z,"59 km SE of Denali National Park, Alaska",earthquake,4.2,3.622,0.034,114.0,reviewed,us,us
 2025-09-07T05:08:49.268Z,-16.1241,-75.6307,10.0,4.6,mb,24.0,194.0,4.277,1.17,us,us7000quid,2025-09-07T05:36:18.040Z,"97 km SSW of San Juan, Peru",earthquake,11.82,1.964,0.125,19.0,reviewed,us,us
+2025-09-07T06:11:16.350Z,35.108,-118.5166667,2.39,0.96,ml,31.0,45.0,0.1854,0.13,ci,ci41285392,2025-09-07T06:14:47.479Z,"7 km WSW of Tehachapi, CA",earthquake,0.14,0.64,0.125,17.0,automatic,ci,ci
+2025-09-07T06:07:47.930Z,33.9,-117.887,9.35,1.27,ml,60.0,59.0,0.04086,0.23,ci,ci41285384,2025-09-07T06:11:44.902Z,"2 km SSE of Brea, CA",earthquake,0.23,0.43,0.234,31.0,automatic,ci,ci
+2025-09-07T06:00:22.818Z,60.9729,-150.8025,35.3,1.3,ml,,,,0.74,ak,ak025bhjxeuh,2025-09-07T06:01:52.274Z,"8 km NW of Point Possession, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2025-09-07T05:56:50.990Z,38.825164794922,-122.85483551025,2.2999999523163,0.28,md,6.0,132.0,0.00286,0.01,nc,nc75234342,2025-09-07T06:17:20.011Z,"10 km NW of The Geysers, CA",earthquake,0.83,1.21000004,0.17,8.0,automatic,nc,nc
