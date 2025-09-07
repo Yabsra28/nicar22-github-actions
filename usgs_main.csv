@@ -12047,3 +12047,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T12:52:35.997Z,35.62144089,-98.04528809,3.896502972,1.76,ml,15.0,66.51052856,0.1513256282,0.4975504365,ok,ok2025rnxt,2025-09-07T12:55:52.612Z,"7 km ENE of Calumet, Oklahoma",earthquake,3.270450627,2.491583089,0.35,6.0,automatic,ok,ok
 2025-09-07T12:46:53.380Z,33.7045,-117.4163333,10.72,1.03,ml,15.0,62.0,0.04472,0.1,ci,ci41285640,2025-09-07T12:51:07.795Z,"9 km WNW of Lake Elsinore, CA",earthquake,0.2,0.4,0.486,26.0,automatic,ci,ci
 2025-09-07T10:21:58.858Z,36.6418,-116.2784,7.1,2.4,ml,47.0,68.21,0.049,0.102,nn,nn00903932,2025-09-07T13:03:02.161Z,"52 km SE of Beatty, Nevada",earthquake,,0.6,0.33,15.0,reviewed,nn,nn
+2025-09-07T11:17:03.549Z,36.6392,-116.2799,6.2,-0.4,ml,13.0,115.9,0.048,0.0664,nn,nn00903945,2025-09-07T13:21:37.769Z,"52 km SE of Beatty, Nevada",earthquake,,1.5,0.16,2.0,reviewed,nn,nn
