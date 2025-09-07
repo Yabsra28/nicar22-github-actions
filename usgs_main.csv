@@ -12068,3 +12068,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T15:16:31.940Z,35.32522202,-97.92792511,5.356290817,1.82,ml,12.0,76.98189354,0.06570944935,0.3027717133,ok,ok2025rocm,2025-09-07T15:19:14.105Z,"2 km NE of Minco, Oklahoma",earthquake,4.449944046,6.944248834,0.26,12.0,automatic,ok,ok
 2025-09-07T15:00:09.235Z,51.4793,-130.5291,10.0,4.0,mb,22.0,191.0,0.914,0.74,us,us7000qukk,2025-09-07T15:24:20.106Z,"260 km WNW of Port McNeill, Canada",earthquake,8.36,2.001,0.056,86.0,reviewed,us,us
 2025-09-07T14:57:53.666Z,32.495,-104.6571,8.216,2.9,ml,21.0,96.0,0.692,0.45,us,us7000qukj,2025-09-07T15:26:22.040Z,"35 km SSE of Hope, New Mexico",earthquake,2.81,8.542,0.048,56.0,reviewed,us,us
+2025-09-07T15:36:37.660Z,58.2846,-154.4116,78.5,1.4,ml,,,,0.22,ak,ak025bhpi27q,2025-09-07T15:38:41.662Z,"79 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
