@@ -11970,3 +11970,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T06:07:47.930Z,33.9,-117.887,9.35,1.27,ml,60.0,59.0,0.04086,0.23,ci,ci41285384,2025-09-07T06:11:44.902Z,"2 km SSE of Brea, CA",earthquake,0.23,0.43,0.234,31.0,automatic,ci,ci
 2025-09-07T06:00:22.818Z,60.9729,-150.8025,35.3,1.3,ml,,,,0.74,ak,ak025bhjxeuh,2025-09-07T06:01:52.274Z,"8 km NW of Point Possession, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-09-07T05:56:50.990Z,38.825164794922,-122.85483551025,2.2999999523163,0.28,md,6.0,132.0,0.00286,0.01,nc,nc75234342,2025-09-07T06:17:20.011Z,"10 km NW of The Geysers, CA",earthquake,0.83,1.21000004,0.17,8.0,automatic,nc,nc
+2025-09-07T06:29:28.200Z,35.1073333,-118.5161667,3.12,1.04,ml,35.0,38.0,0.1846,0.15,ci,ci41285400,2025-09-07T06:32:58.440Z,"7 km WSW of Tehachapi, CA",earthquake,0.14,0.62,0.22,27.0,automatic,ci,ci
