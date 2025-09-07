@@ -12129,3 +12129,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T22:36:52.470Z,34.0478333,-117.2603333,15.08,2.58,ml,134.0,12.0,0.06038,0.19,ci,ci41285792,2025-09-07T22:41:55.757Z,"0 km ESE of Loma Linda, CA",earthquake,0.11,0.2,0.26,24.0,automatic,ci,ci
 2025-09-07T22:49:50.056Z,39.0986,-119.0117,2.9,1.7,ml,12.0,113.42,0.211,0.0807,nn,nn00903955,2025-09-07T22:52:08.033Z,"18 km NE of Yerington, Nevada",earthquake,,6.0,0.18,8.0,automatic,nn,nn
 2025-09-07T06:29:08.870Z,47.703,-120.35783333333,-0.61,0.08,ml,5.0,127.0,0.1,0.07,uw,uw61504793,2025-09-07T22:53:25.060Z,"11 km WNW of Entiat, Washington",earthquake,0.29,10.05,0.06902035123015,4.0,reviewed,uw,uw
+2025-09-07T23:04:15.378Z,32.11,-101.477,3.5959,1.6,ml,43.0,45.0,0.1,0.3,tx,tx2025rqvrzr,2025-09-07T23:07:55.448Z,"10 km W of Forsan, Texas",earthquake,0.0,0.94878852367401,0.1,30.0,automatic,tx,tx
+2025-09-07T07:10:19.610Z,47.704,-120.35733333333,5.01,-0.18,md,5.0,126.0,0.1009,0.07,uw,uw62184181,2025-09-07T23:09:24.110Z,"11 km WNW of Entiat, Washington",earthquake,0.4,2.41,0.26039072089964,3.0,reviewed,uw,uw
