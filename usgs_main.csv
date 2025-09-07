@@ -11989,3 +11989,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T07:44:23.330Z,35.898,-117.673,4.21,0.45,ml,18.0,91.0,0.05307,0.11,ci,ci41285440,2025-09-07T07:47:54.832Z,"22 km ESE of Little Lake, CA",earthquake,0.16,0.34,0.068,10.0,automatic,ci,ci
 2025-09-07T08:21:55.070Z,34.2298333,-117.4523333,13.98,0.95,ml,42.0,35.0,0.02528,0.18,ci,ci41285464,2025-09-07T08:25:42.263Z,"5 km W of Devore, CA",earthquake,0.24,0.33,0.304,29.0,automatic,ci,ci
 2025-09-07T08:08:35.740Z,33.2185,-116.0748333,11.62,1.39,ml,65.0,34.0,0.09296,0.19,ci,ci41285456,2025-09-07T08:19:45.830Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.14,0.33,0.151,26.0,automatic,ci,ci
+2025-09-07T08:38:18.143Z,61.1529,-146.9866,31.5,1.1,ml,,,,0.41,ak,ak025bhlcewm,2025-09-07T08:39:59.021Z,"34 km W of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
