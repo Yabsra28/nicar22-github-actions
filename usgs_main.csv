@@ -11956,3 +11956,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T04:24:36.505Z,36.7781,-116.0102,10.0,-0.2,ml,15.0,152.74,0.03,0.166,nn,nn00903924,2025-09-07T04:26:42.467Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.7,0.36,10.0,automatic,nn,nn
 2025-09-07T04:21:26.270Z,33.6986667,-116.7233333,17.26,1.57,ml,80.0,15.0,0.04809,0.19,ci,ci41285352,2025-09-07T04:32:38.300Z,"5 km S of Idyllwild, CA",earthquake,0.13,0.28,0.208,27.0,automatic,ci,ci
 2025-09-07T04:12:30.704Z,-24.3345,-67.0833,163.36,4.5,mb,32.0,55.0,1.704,0.85,us,us7000qui5,2025-09-07T04:32:55.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,8.89,9.343,0.156,12.0,reviewed,us,us
+2025-09-07T04:32:07.639Z,32.259,-101.936,4.5054,1.2,ml,47.0,33.0,0.0,0.5,tx,tx2025rpkvqv,2025-09-07T04:36:12.420Z,"20 km NW of Stanton, Texas",earthquake,0.0,0.77397185564041,0.1,31.0,automatic,tx,tx
