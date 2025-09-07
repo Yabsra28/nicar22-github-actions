@@ -12114,3 +12114,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T20:24:01.620Z,18.247166666667,-66.423833333333,35.31,2.26,md,12.0,102.0,0.2497,0.14,pr,pr71495013,2025-09-07T20:49:22.830Z,"4 km WNW of Orocovis, Puerto Rico",earthquake,0.57,1.02,0.14992329581424,10.0,reviewed,pr,pr
 2025-09-07T21:01:49.550Z,35.0288333,-119.0401667,14.81,1.11,ml,27.0,79.0,0.04652,0.19,ci,ci41285760,2025-09-07T21:05:50.816Z,"14 km NW of Grapevine, CA",earthquake,0.3,0.39,0.136,28.0,automatic,ci,ci
 2025-09-07T20:55:34.162Z,61.3121,-141.1399,11.3,1.5,ml,,,,0.32,ak,ak025bhslako,2025-09-07T20:58:10.070Z,"96 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-07T21:17:45.110Z,38.820999145508,-122.8056640625,3.2999999523163,0.76,md,12.0,58.0,0.01532,0.01,nc,nc75234672,2025-09-07T21:19:21.581Z,"6 km NNW of The Geysers, CA",earthquake,0.38,1.80999994,0.13,12.0,automatic,nc,nc
+2025-09-07T05:08:18.020Z,47.791,-122.87983333333,20.98,0.28,ml,9.0,125.0,0.03034,0.13,uw,uw62183986,2025-09-07T21:21:42.030Z,"3 km S of Quilcene, Washington",earthquake,0.85,0.67,0.022720112715747,3.0,reviewed,uw,uw
