@@ -12102,3 +12102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T19:08:42.157Z,50.0898,155.8323,83.441,4.8,mb,65.0,136.0,3.239,0.42,us,us7000quli,2025-09-07T19:31:07.040Z,"68 km SSW of Severo-Kuril’sk, Russia",earthquake,9.99,7.153,0.032,295.0,reviewed,us,us
 2025-09-07T19:35:47.659Z,31.724,-104.376,3.8146,2.6,ml,39.0,114.0,0.0,0.5,tx,tx2025rqouio,2025-09-07T19:45:23.040Z,"50 km S of Whites City, New Mexico",earthquake,0.0,0.88713204860687,0.2,29.0,automatic,tx,tx
 2025-09-07T19:03:37.038Z,-15.9332,-175.0025,284.583,4.4,mb,37.0,108.0,3.707,0.99,us,us7000qulg,2025-09-07T19:37:09.040Z,"129 km W of Hihifo, Tonga",earthquake,10.74,8.809,0.097,31.0,reviewed,us,us
+2025-09-07T20:13:20.092Z,61.2477,-141.6293,18.5,1.2,ml,,,,1.16,ak,ak025bhsc9ex,2025-09-07T20:15:16.170Z,"72 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-07T20:12:51.030Z,33.769,-116.1133333,1.76,1.61,ml,56.0,42.0,0.09427,0.18,ci,ci41285728,2025-09-07T20:16:40.820Z,"11 km ENE of Indio, CA",earthquake,0.14,0.28,0.117,27.0,automatic,ci,ci
+2025-09-07T20:12:38.170Z,37.356666564941,-122.14700317383,4.3099999427795,1.24,md,10.0,140.0,0.03435,0.09,nc,nc75234647,2025-09-07T20:14:16.562Z,"3 km SSW of Los Altos Hills, CA",earthquake,0.44,0.610000014,0.11,9.0,automatic,nc,nc
+2025-09-07T20:03:19.539Z,39.1451,28.1857,10.0,4.4,mwr,52.0,57.0,0.999,0.62,us,us7000quln,2025-09-07T20:20:18.040Z,"10 km S of Sındırgı, Turkey",earthquake,3.91,1.89,0.055,32.0,reviewed,us,us
