@@ -11952,3 +11952,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T03:07:57.660Z,36.88733291626,-121.39733123779,9.2799997329712,1.96,md,42.0,74.0,0.0748,0.08,nc,nc75234297,2025-09-07T03:32:19.855Z,"4 km NNE of Hollister, CA",earthquake,0.2,0.379999995,0.18,37.0,automatic,nc,nc
 2025-09-07T03:00:23.935Z,19.0799,-155.3986,38.794,2.6,ml,20.0,202.0,0.096,0.3,us,us7000quhv,2025-09-07T03:18:00.040Z,"16 km SSE of Pāhala, Hawaii",earthquake,2.21,4.732,0.055,44.0,reviewed,us,us
 2025-09-07T03:45:14.891Z,62.8043,-148.949,1.9,2.5,ml,,,,0.88,ak,ak025bhieqm8,2025-09-07T03:47:10.828Z,"65 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-07T03:45:22.865Z,61.2567,-147.9466,45.3,2.1,ml,,,,1.05,ak,ak025bhier9a,2025-09-07T03:57:38.942Z,"56 km ESE of Knik River, Alaska",earthquake,,1.5,,,automatic,ak,ak
