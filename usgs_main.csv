@@ -12122,3 +12122,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T22:05:21.593Z,61.4506,-146.5829,13.6,1.6,ml,,,,0.79,ak,ak025bhthf0f,2025-09-07T22:07:29.447Z,"37 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-07T21:58:23.886Z,61.3468,-141.1559,13.7,1.5,ml,,,,0.45,ak,ak025bht7cj8,2025-09-07T22:00:19.650Z,"94 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-06T22:32:28.840Z,54.129666666667,-166.03416666667,5.12,-0.29,ml,5.0,145.0,0.02157,0.03,av,av93049664,2025-09-07T22:19:18.230Z,"16 km W of Akutan, Alaska",earthquake,0.22,0.57,0.2741008339105,5.0,reviewed,av,av
+2025-09-07T22:32:57.330Z,40.298000335693,-124.41349792481,8.5500001907349,1.59,md,18.0,270.0,0.05507,0.12,nc,nc75234692,2025-09-07T22:34:34.630Z,"11 km W of Petrolia, CA",earthquake,1.7,0.649999976,0.09,8.0,automatic,nc,nc
+2025-09-07T22:24:35.657Z,61.5086,-149.9162,31.7,1.2,ml,,,,0.4,ak,ak025bhtlip9,2025-09-07T22:26:40.650Z,"2 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-07T22:01:59.440Z,19.314,-66.308333333333,31.92,3.34,md,19.0,255.0,0.8584,0.25,pr,pr71495018,2025-09-07T22:30:36.670Z,"93 km N of Brenas, Puerto Rico",earthquake,1.14,10.18,0.1006588595626,17.0,reviewed,pr,pr
