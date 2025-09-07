@@ -11957,3 +11957,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T04:21:26.270Z,33.6986667,-116.7233333,17.26,1.57,ml,80.0,15.0,0.04809,0.19,ci,ci41285352,2025-09-07T04:32:38.300Z,"5 km S of Idyllwild, CA",earthquake,0.13,0.28,0.208,27.0,automatic,ci,ci
 2025-09-07T04:12:30.704Z,-24.3345,-67.0833,163.36,4.5,mb,32.0,55.0,1.704,0.85,us,us7000qui5,2025-09-07T04:32:55.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,8.89,9.343,0.156,12.0,reviewed,us,us
 2025-09-07T04:32:07.639Z,32.259,-101.936,4.5054,1.2,ml,47.0,33.0,0.0,0.5,tx,tx2025rpkvqv,2025-09-07T04:36:12.420Z,"20 km NW of Stanton, Texas",earthquake,0.0,0.77397185564041,0.1,31.0,automatic,tx,tx
+2025-09-07T04:52:16.020Z,35.9111667,-117.666,3.28,1.72,ml,37.0,43.0,0.03879,0.16,ci,ci41285368,2025-09-07T04:55:56.355Z,"22 km E of Little Lake, CA",earthquake,0.14,0.42,0.144,25.0,automatic,ci,ci
+2025-09-07T04:50:59.960Z,38.82500076294,-122.80783081055,2.7300000190735,1.02,md,18.0,102.0,0.002375,0.02,nc,nc75234317,2025-09-07T04:52:37.323Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.560000002,0.23,20.0,automatic,nc,nc
+2025-09-07T04:45:41.100Z,33.6795,-116.7405,13.13,0.53,ml,22.0,65.0,0.05662,0.14,ci,ci41285360,2025-09-07T04:50:05.097Z,"7 km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.217,12.0,automatic,ci,ci
