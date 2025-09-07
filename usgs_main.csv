@@ -12090,3 +12090,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T18:05:09.580Z,37.706165313721,-121.85816955566,11.64999961853,2.15,md,37.0,33.0,0.08422,0.14,nc,nc75234597,2025-09-07T18:20:24.384Z,"5 km NNE of Pleasanton, CA",earthquake,0.24,0.540000021,0.15,35.0,automatic,nc,nc
 2025-09-07T17:58:38.560Z,37.705001831055,-121.8629989624,10.029999732971,1.52,md,14.0,91.0,0.08396,0.12,nc,nc75234587,2025-09-07T18:17:20.207Z,"5 km NNE of Pleasanton, CA",earthquake,0.47,0.779999971,0.06,11.0,automatic,nc,nc
 2025-09-07T17:57:58.382Z,64.8787,-151.7772,15.4,0.9,ml,,,,0.52,ak,ak025bhqth26,2025-09-07T18:00:18.391Z,"35 km SSE of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-07T11:15:25.413Z,39.254,-120.1717,10.1,0.1,ml,8.0,134.07,0.058,0.1319,nn,nn00903954,2025-09-07T18:36:13.634Z,"8 km S of Truckee, California",earthquake,,1.6,0.52,3.0,reviewed,nn,nn
