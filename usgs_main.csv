@@ -11987,3 +11987,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T07:47:50.536Z,31.526,-104.157,4.1357,2.7,ml,45.0,73.0,0.1,0.4,tx,tx2025rprihz,2025-09-07T07:55:36.040Z,"41 km NW of Toyah, Texas",earthquake,0.0,0.91519629955292,0.2,31.0,automatic,tx,tx
 2025-09-07T07:47:18.974Z,31.529,-104.181,2.8638,2.7,ml,8.0,214.0,0.1,0.2,tx,tx2025rprhvo,2025-09-07T07:50:04.116Z,"43 km WNW of Toyah, Texas",earthquake,0.0,2.2479662895203,0.3,6.0,automatic,tx,tx
 2025-09-07T07:44:23.330Z,35.898,-117.673,4.21,0.45,ml,18.0,91.0,0.05307,0.11,ci,ci41285440,2025-09-07T07:47:54.832Z,"22 km ESE of Little Lake, CA",earthquake,0.16,0.34,0.068,10.0,automatic,ci,ci
+2025-09-07T08:21:55.070Z,34.2298333,-117.4523333,13.98,0.95,ml,42.0,35.0,0.02528,0.18,ci,ci41285464,2025-09-07T08:25:42.263Z,"5 km W of Devore, CA",earthquake,0.24,0.33,0.304,29.0,automatic,ci,ci
+2025-09-07T08:08:35.740Z,33.2185,-116.0748333,11.62,1.39,ml,65.0,34.0,0.09296,0.19,ci,ci41285456,2025-09-07T08:19:45.830Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.14,0.33,0.151,26.0,automatic,ci,ci
