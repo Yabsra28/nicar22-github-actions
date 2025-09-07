@@ -11961,3 +11961,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T04:50:59.960Z,38.82500076294,-122.80783081055,2.7300000190735,1.02,md,18.0,102.0,0.002375,0.02,nc,nc75234317,2025-09-07T04:52:37.323Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.560000002,0.23,20.0,automatic,nc,nc
 2025-09-07T04:45:41.100Z,33.6795,-116.7405,13.13,0.53,ml,22.0,65.0,0.05662,0.14,ci,ci41285360,2025-09-07T04:50:05.097Z,"7 km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.217,12.0,automatic,ci,ci
 2025-09-07T04:54:39.960Z,38.825500488281,-122.85600280762,2.2400000095367,1.01,md,19.0,114.0,0.002152,0.02,nc,nc75234327,2025-09-07T05:04:48.149Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.409999996,0.18,20.0,automatic,nc,nc
+2025-09-07T05:29:48.950Z,60.012,-152.8274,99.3,1.8,ml,,,,0.3,ak,ak025bhji90v,2025-09-07T05:31:30.839Z,"61 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-07T05:29:36.040Z,33.4005013,-116.9431686,12.37,1.76,ml,74.0,20.0,0.07504,0.21,ci,ci41285376,2025-09-07T05:31:42.681Z,"9 km WSW of Aguanga, CA",earthquake,0.21,0.63,0.306,27.0,automatic,ci,ci
+2025-09-07T05:18:10.427Z,31.757,-104.218,4.5916,2.0,ml,38.0,99.0,0.0,0.4,tx,tx2025rpmjim,2025-09-07T05:22:28.471Z,"48 km SSE of Whites City, New Mexico",earthquake,0.0,0.86351352930069,0.2,25.0,automatic,tx,tx
