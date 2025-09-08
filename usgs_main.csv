@@ -12198,3 +12198,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T06:28:19.941Z,63.2703,-151.8583,6.8,2.0,ml,,,,0.47,ak,ak025bj7mr62,2025-09-08T06:30:09.262Z,"30 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-08T05:50:45.381Z,23.7403,122.533,10.0,4.8,mb,67.0,80.0,0.845,0.83,us,us7000qunw,2025-09-08T06:20:07.040Z,"93 km SSW of Yonakuni, Japan",earthquake,4.7,1.266,0.054,108.0,reviewed,us,us
 2025-09-08T05:34:27.072Z,43.0523,-126.3064,10.0,2.8,ml,86.0,190.0,1.596,0.69,us,us7000qunt,2025-09-08T06:51:39.040Z,"151 km WNW of Port Orford, Oregon",earthquake,7.04,2.008,0.03,148.0,reviewed,us,us
+2025-09-08T07:20:56.240Z,33.4776649,-116.5289993,11.75,1.52,ml,60.0,32.0,0.06349,0.21,ci,ci41285944,2025-09-08T07:23:04.067Z,"16 km ESE of Anza, CA",earthquake,0.24,0.66,0.261,26.0,automatic,ci,ci
+2025-09-08T07:15:33.925Z,35.62527084,-98.04121399,1.337371588,2.66,ml,84.0,25.79472351,0.153252244,0.6137752296,ok,ok2025rpid,2025-09-08T07:20:34.354Z,"7 km ENE of Calumet, Oklahoma",earthquake,1.279317869,1.065448388,0.29,61.0,automatic,ok,ok
+2025-09-08T07:07:44.080Z,35.264,-118.555,7.55,1.12,ml,34.0,63.0,0.1131,0.14,ci,ci41285936,2025-09-08T07:11:17.013Z,"18 km NNW of Tehachapi, CA",earthquake,0.17,0.68,0.292,25.0,automatic,ci,ci
+2025-09-08T06:58:59.903Z,44.5399,-112.2477,9.851,3.9,mwr,45.0,36.0,0.293,0.47,us,us7000qup7,2025-09-08T07:16:46.196Z,"20 km NNW of Spencer, Idaho",earthquake,2.32,8.45,0.03,108.0,reviewed,us,us
+2025-09-08T06:57:30.740Z,44.597332000732,-111.33249664307,-2.9000000953674,2.76,ml,19.0,262.0,0.1817,0.629999995,uu,uu80116886,2025-09-08T07:01:04.790Z,"19 km N of Island Park, Idaho",earthquake,4.86,20.5100002,0.36,24.0,automatic,uu,uu
