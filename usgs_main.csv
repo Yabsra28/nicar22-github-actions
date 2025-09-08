@@ -12371,3 +12371,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T21:29:57.570Z,48.081666666667,-121.916,-1.09,1.44,ml,12.0,94.0,0.114,0.17,uw,uw62185131,2025-09-08T21:58:29.010Z,"3 km E of Granite Falls, Washington",explosion,0.28,31.61,0.06921091779404,6.0,reviewed,uw,uw
 2025-09-08T21:16:24.690Z,44.694833333333,-110.02216666667,13.34,1.98,ml,12.0,94.0,0.08046,0.15,uu,uu80116981,2025-09-08T21:53:09.320Z,"34 km S of Silver Gate, Montana",earthquake,0.42,0.7,0.21876422818977,4.0,reviewed,uu,uu
 2025-09-08T21:14:19.090Z,49.382833333333,-120.48333333333,-0.51,2.1,ml,16.0,204.0,0.5643,0.26,uw,uw62185126,2025-09-08T21:54:07.860Z,"8 km SSE of Princeton, Canada",explosion,1.5,31.61,0.11603087556051,14.0,reviewed,uw,uw
+2025-09-08T22:23:35.098Z,62.8212,-149.6395,69.7,2.0,ml,,,,0.44,ak,ak025bjh4nfp,2025-09-08T22:25:37.559Z,"47 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-08T22:18:04.181Z,63.0612,-144.3119,6.0,1.9,ml,,,,0.6,ak,ak025bjh3igy,2025-09-08T22:20:20.265Z,"31 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-08T22:06:29.163Z,39.553,-119.5056,1.0,1.4,ml,9.0,108.74,0.304,0.2623,nn,nn00903992,2025-09-08T22:09:12.540Z,"20 km ESE of Spanish Springs, Nevada",earthquake,,10.9,0.29,6.0,automatic,nn,nn
