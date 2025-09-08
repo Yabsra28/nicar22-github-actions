@@ -12216,3 +12216,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T07:40:21.245Z,31.631,-104.422,3.1314,1.6,ml,24.0,103.0,0.0,0.4,tx,tx2025rrmuri,2025-09-08T07:43:36.291Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.3392616510391,0.2,13.0,automatic,tx,tx
 2025-09-08T07:39:40.160Z,33.4808333,-116.5176667,12.44,0.67,ml,33.0,56.0,0.07199,0.14,ci,ci41285976,2025-09-08T07:43:07.364Z,"17 km ESE of Anza, CA",earthquake,0.19,0.39,0.133,18.0,automatic,ci,ci
 2025-09-08T07:34:50.810Z,33.2445,-116.384,4.28,0.68,ml,46.0,48.0,0.03648,0.21,ci,ci41285968,2025-09-08T07:38:27.596Z,"2 km SSW of Borrego Springs, CA",earthquake,0.19,0.42,0.187,14.0,automatic,ci,ci
+2025-09-08T07:36:15.880Z,17.877,-66.931,13.86,2.52,md,15.0,220.0,0.1093,0.24,pr,pr71495068,2025-09-08T07:48:51.930Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.87,0.49,0.16854510811618,11.0,reviewed,pr,pr
+2025-09-08T06:57:22.998Z,44.571,-112.2207,10.0,3.7,ml,32.0,67.0,0.306,0.47,us,us7000qup5,2025-09-08T07:55:26.204Z,"23 km N of Spencer, Idaho",earthquake,1.6,2.01,0.028,164.0,reviewed,us,us
