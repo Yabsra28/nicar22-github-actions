@@ -12228,3 +12228,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T09:09:14.035Z,55.9025,-156.7571,45.3,2.2,ml,,,,1.08,ak,ak025bj9ayx7,2025-09-08T09:11:32.015Z,"111 km ESE of Chignik, Alaska",earthquake,,5.6,,,automatic,ak,ak
 2025-09-08T09:07:16.835Z,62.1358,-148.7129,33.7,1.1,ml,,,,0.71,ak,ak025bj9ajpf,2025-09-08T09:09:13.895Z,"39 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-08T09:04:54.699Z,61.4883,-146.5232,28.7,2.4,ml,,,,0.42,ak,ak025bj99zh9,2025-09-08T09:06:24.404Z,"40 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-08T09:30:37.620Z,35.8981667,-117.6771667,2.72,0.96,ml,25.0,64.0,0.05418,0.14,ci,ci41286000,2025-09-08T09:34:09.192Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.33,0.136,21.0,automatic,ci,ci
