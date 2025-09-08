@@ -12303,3 +12303,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T11:11:43.570Z,39.499833333333,-111.004,1.84,0.84,md,8.0,104.0,0.2061,0.21,uu,uu80004753,2025-09-08T16:33:07.260Z,"1 km NNE of Hiawatha, Utah",earthquake,0.76,31.61,0.2912143909415,6.0,reviewed,uu,uu
 2025-09-08T10:50:40.873Z,41.158,-116.6567,9.2,1.9,ml,12.0,88.35,0.253,0.1552,nn,nn00903975,2025-09-08T16:32:55.089Z,"56 km NE of Valmy, Nevada",earthquake,,2.6,0.13,7.0,reviewed,nn,nn
 2025-09-08T05:45:48.236Z,26.699,91.6927,10.0,4.4,mb,61.0,165.0,3.034,0.94,us,us7000qunz,2025-09-08T16:14:19.040Z,"21 km ESE of Samdrup Jongkhar, Bhutan",earthquake,12.04,1.944,0.077,48.0,reviewed,us,us
+2025-09-08T16:38:52.958Z,32.091,-102.013,3.4913,1.4,ml,7.0,160.0,0.1,0.2,tx,tx2025rsequl,2025-09-08T16:41:25.704Z,"12 km NNE of Midland, Texas",earthquake,0.0,2.8885638713837,0.3,6.0,automatic,tx,tx
+2025-09-08T14:15:16.483Z,31.669,-104.321,6.0999,1.2,ml,19.0,85.0,0.0,0.1,tx,tx2025rrzxba,2025-09-08T16:50:46.674Z,"56 km S of Whites City, New Mexico",earthquake,0.79548471862626,0.99299630236025,0.2,20.0,reviewed,tx,tx
+2025-09-08T13:33:53.090Z,35.33016667,-97.93833333,5.61,1.31,ml,62.0,55.0,0.06298763968,0.32,ok,ok2025rpup,2025-09-08T16:42:56.705Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.22,28.0,reviewed,ok,ok
+2025-09-08T04:19:31.070Z,41.809666666667,-112.50566666667,13.68,0.84,md,7.0,223.0,0.3572,0.07,uu,uu80004748,2025-09-08T16:46:51.860Z,"5 km WNW of Howell, Utah",earthquake,2.12,2.22,0.17357090555357,5.0,reviewed,uu,uu
