@@ -12276,3 +12276,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T14:09:37.408Z,61.3649,-141.0822,0.0,2.0,ml,,,,0.47,ak,ak025bjca6r0,2025-09-08T14:11:29.484Z,"98 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-08T13:57:13.730Z,18.112,-67.158833333333,17.36,2.26,md,8.0,212.0,0.09401,0.18,pr,pr71495103,2025-09-08T14:11:48.640Z,"3 km NNW of Cabo Rojo, Puerto Rico",earthquake,0.81,0.6,0.070401248098081,4.0,reviewed,pr,pr
 2025-09-07T17:44:33.900Z,39.7075,-111.5895,1.63,1.17,md,16.0,85.0,0.238,0.21,uu,uu80004743,2025-09-08T14:33:53.520Z,"9 km NNE of Fountain Green, Utah",earthquake,0.43,31.61,0.26741916701363,10.0,reviewed,uu,uu
+2025-09-08T14:41:02.898Z,57.3213,-155.0965,27.2,1.6,ml,,,,0.39,ak,ak025bjcgz01,2025-09-08T14:42:59.442Z,"47 km SW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
