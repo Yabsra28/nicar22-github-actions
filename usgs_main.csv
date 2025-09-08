@@ -12197,3 +12197,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T06:35:19.230Z,35.8978333,-117.6748333,2.85,0.08,ml,13.0,91.0,0.05376,0.08,ci,ci41285920,2025-09-08T06:38:48.825Z,"21 km ESE of Little Lake, CA",earthquake,0.14,0.27,0.044,5.0,automatic,ci,ci
 2025-09-08T06:28:19.941Z,63.2703,-151.8583,6.8,2.0,ml,,,,0.47,ak,ak025bj7mr62,2025-09-08T06:30:09.262Z,"30 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-08T05:50:45.381Z,23.7403,122.533,10.0,4.8,mb,67.0,80.0,0.845,0.83,us,us7000qunw,2025-09-08T06:20:07.040Z,"93 km SSW of Yonakuni, Japan",earthquake,4.7,1.266,0.054,108.0,reviewed,us,us
+2025-09-08T05:34:27.072Z,43.0523,-126.3064,10.0,2.8,ml,86.0,190.0,1.596,0.69,us,us7000qunt,2025-09-08T06:51:39.040Z,"151 km WNW of Port Orford, Oregon",earthquake,7.04,2.008,0.03,148.0,reviewed,us,us
