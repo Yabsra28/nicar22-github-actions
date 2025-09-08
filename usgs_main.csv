@@ -12265,3 +12265,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T08:18:26.180Z,36.549,-89.591,7.32,1.56,md,23.0,48.0,0.02541,0.09,nm,nm60613666,2025-09-08T13:11:49.800Z,"2 km SSE of Howardville, Missouri",earthquake,0.18,0.36,0.18747030509057,18.0,reviewed,nm,nm
 2025-09-08T01:58:01.420Z,39.497833333333,-111.017,1.9,1.45,ml,19.0,55.0,0.193,0.15,uu,uu80116871,2025-09-08T13:34:44.210Z,"1 km NNW of Hiawatha, Utah",earthquake,0.35,31.61,0.13185522627949,5.0,reviewed,uu,uu
 2025-09-07T17:43:07.998Z,32.299,-101.8,6.4209,0.5,ml,11.0,67.0,0.0,0.1,tx,tx2025rqlbgy,2025-09-08T13:09:12.271Z,"18 km N of Stanton, Texas",earthquake,0.68443013953421,0.78589891245125,0.1,7.0,reviewed,tx,tx
+2025-09-08T13:39:40.428Z,32.898,-100.972,2.223,1.8,ml,18.0,72.0,0.0,0.5,tx,tx2025rrysja,2025-09-08T13:42:52.134Z,"20 km NNW of Snyder, Texas",earthquake,0.0,1.2627404928207,0.1,12.0,automatic,tx,tx
