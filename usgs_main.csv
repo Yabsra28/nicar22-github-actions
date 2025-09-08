@@ -12211,3 +12211,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T07:23:29.557Z,35.62030411,-98.0476532,2.712137461,1.59,ml,19.0,85.30743599,0.1498971879,0.5408280913,ok,ok2025rpik,2025-09-08T07:27:05.740Z,"6 km ENE of Calumet, Oklahoma",earthquake,3.085102594,2.265644493,0.41,7.0,automatic,ok,ok
 2025-09-08T07:21:35.446Z,61.276,-150.9145,53.5,1.4,ml,,,,0.48,ak,ak025bj86pyg,2025-09-08T07:23:20.926Z,"17 km NNE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-08T07:04:00.010Z,18.4798,-67.2661,97.0,3.68,md,24.0,288.0,0.1554,0.17,pr,pr2025251001,2025-09-08T07:30:48.535Z,"13 km WNW of Aguadilla, Puerto Rico",earthquake,1.44,0.77,0.07,19.0,reviewed,pr,pr
+2025-09-08T07:42:48.900Z,35.6322937,-98.04634094,4.525349617,1.63,ml,14.0,90.02877712,0.1472395211,0.7447402278,ok,ok2025rpja,2025-09-08T07:45:03.643Z,"7 km ENE of Calumet, Oklahoma",earthquake,3.730487685,2.639132611,0.32,6.0,automatic,ok,ok
+2025-09-08T07:41:09.839Z,63.5826,-147.4064,3.5,1.2,ml,,,,0.92,ak,ak025bj8ayav,2025-09-08T07:42:53.443Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-08T07:40:21.245Z,31.631,-104.422,3.1314,1.6,ml,24.0,103.0,0.0,0.4,tx,tx2025rrmuri,2025-09-08T07:43:36.291Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.3392616510391,0.2,13.0,automatic,tx,tx
+2025-09-08T07:39:40.160Z,33.4808333,-116.5176667,12.44,0.67,ml,33.0,56.0,0.07199,0.14,ci,ci41285976,2025-09-08T07:43:07.364Z,"17 km ESE of Anza, CA",earthquake,0.19,0.39,0.133,18.0,automatic,ci,ci
+2025-09-08T07:34:50.810Z,33.2445,-116.384,4.28,0.68,ml,46.0,48.0,0.03648,0.21,ci,ci41285968,2025-09-08T07:38:27.596Z,"2 km SSW of Borrego Springs, CA",earthquake,0.19,0.42,0.187,14.0,automatic,ci,ci
