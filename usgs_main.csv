@@ -12307,3 +12307,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T14:15:16.483Z,31.669,-104.321,6.0999,1.2,ml,19.0,85.0,0.0,0.1,tx,tx2025rrzxba,2025-09-08T16:50:46.674Z,"56 km S of Whites City, New Mexico",earthquake,0.79548471862626,0.99299630236025,0.2,20.0,reviewed,tx,tx
 2025-09-08T13:33:53.090Z,35.33016667,-97.93833333,5.61,1.31,ml,62.0,55.0,0.06298763968,0.32,ok,ok2025rpup,2025-09-08T16:42:56.705Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.22,28.0,reviewed,ok,ok
 2025-09-08T04:19:31.070Z,41.809666666667,-112.50566666667,13.68,0.84,md,7.0,223.0,0.3572,0.07,uu,uu80004748,2025-09-08T16:46:51.860Z,"5 km WNW of Howell, Utah",earthquake,2.12,2.22,0.17357090555357,5.0,reviewed,uu,uu
+2025-09-08T15:38:51.620Z,34.1308333,-118.517,5.58,0.78,ml,15.0,121.0,0.03195,0.14,ci,ci41286272,2025-09-08T16:53:52.942Z,"4 km SSW of Encino, CA",earthquake,0.44,0.37,0.152,10.0,reviewed,ci,ci
