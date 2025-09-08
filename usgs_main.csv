@@ -12374,3 +12374,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T22:23:35.098Z,62.8212,-149.6395,69.7,2.0,ml,,,,0.44,ak,ak025bjh4nfp,2025-09-08T22:25:37.559Z,"47 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-08T22:18:04.181Z,63.0612,-144.3119,6.0,1.9,ml,,,,0.6,ak,ak025bjh3igy,2025-09-08T22:20:20.265Z,"31 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-08T22:06:29.163Z,39.553,-119.5056,1.0,1.4,ml,9.0,108.74,0.304,0.2623,nn,nn00903992,2025-09-08T22:09:12.540Z,"20 km ESE of Spanish Springs, Nevada",earthquake,,10.9,0.29,6.0,automatic,nn,nn
+2025-09-08T22:38:02.586Z,61.6954,-150.9754,52.7,1.1,ml,,,,0.32,ak,ak025bjh7so2,2025-09-08T22:39:50.415Z,"29 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-08T03:14:22.530Z,60.063833333333,-153.0705,2.0,-0.47,ml,4.0,248.0,0.007369,0.3,av,av93755718,2025-09-08T22:31:17.050Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.98,1.45,0.24333345925827,3.0,reviewed,av,av
