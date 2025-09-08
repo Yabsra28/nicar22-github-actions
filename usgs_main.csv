@@ -12363,3 +12363,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T20:29:36.360Z,18.192,-67.0625,16.62,2.84,md,17.0,71.0,0.02744,0.15,pr,pr71495143,2025-09-08T20:57:20.510Z,"8 km E of Mayagüez, Puerto Rico",earthquake,0.3,0.47,0.13566757221297,8.0,reviewed,pr,pr
 2025-09-08T19:36:03.460Z,46.4795,-122.99666666667,18.68,1.87,ml,7.0,131.0,0.1079,0.7,uw,uw62185041,2025-09-08T21:02:03.440Z,"4 km WSW of Winlock, Washington",earthquake,3.02,3.5,0.16131348054461,2.0,reviewed,uw,uw
 2025-09-08T18:52:02.120Z,49.109666666667,-122.024,10.1,1.61,ml,7.0,297.0,0.4362,0.27,uw,uw62185006,2025-09-08T20:57:37.210Z,"8 km SW of Chilliwack, Canada",earthquake,1.43,31.61,0.10979555790739,5.0,reviewed,uw,uw
+2025-09-07T23:07:31.800Z,45.367333333333,-121.70766666667,5.51,0.69,md,4.0,164.0,0.02792,0.05,uw,uw62184546,2025-09-08T21:18:08.990Z,"7 km NNE of Government Camp, Oregon",earthquake,1.64,0.91,0.033703353662597,3.0,reviewed,uw,uw
