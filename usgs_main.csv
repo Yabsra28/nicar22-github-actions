@@ -12460,3 +12460,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T04:37:38.820Z,47.611,-122.582,19.63,1.1,ml,6.0,170.0,0.09043,0.11,uw,uw62177127,2025-09-09T04:57:57.140Z,"3 km NNE of Enetai, Washington",earthquake,0.52,1.46,0.049458593922247,3.0,reviewed,uw,uw
 2025-09-09T04:32:41.613Z,42.2649,-126.4313,10.0,2.7,ml,43.0,250.0,1.546,0.45,us,us7000qux3,2025-09-09T05:13:11.040Z,"166 km W of Gold Beach, Oregon",earthquake,9.49,2.019,0.042,76.0,reviewed,us,us
 2025-09-08T12:39:35.670Z,45.366,-121.676,-1.34,0.34,ml,6.0,139.0,0.0213,0.29,uw,uw62184801,2025-09-09T05:13:01.120Z,"9 km NE of Government Camp, Oregon",earthquake,0.83,0.74,0.22211723523897,4.0,reviewed,uw,uw
+2025-09-09T05:41:34.980Z,61.2707,-146.8453,36.2,1.3,ml,,,,0.19,ak,ak025bkunhiy,2025-09-09T05:42:55.595Z,"30 km WNW of Valdez, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2025-09-09T05:40:24.546Z,62.0544,-149.7427,39.9,1.8,ml,,,,0.3,ak,ak025bkun906,2025-09-09T05:42:01.569Z,"13 km SSE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-09T05:33:56.870Z,38.818332672119,-122.79866790772,4.1599998474121,0.26,md,5.0,215.0,0.01068,0.03,nc,nc75235287,2025-09-09T05:35:32.434Z,"6 km NNW of The Geysers, CA",earthquake,1.21,4.23000002,0.17,8.0,automatic,nc,nc
+2025-09-09T05:31:55.780Z,33.4583333,-116.4153333,13.25,0.77,ml,43.0,73.0,0.1303,0.15,ci,ci41286744,2025-09-09T05:35:26.188Z,"23 km N of Borrego Springs, CA",earthquake,0.17,0.47,0.141,22.0,automatic,ci,ci
+2025-09-09T04:38:58.520Z,42.4339,-126.5642,10.0,3.3,mb,53.0,243.0,1.646,0.76,us,us7000qux5,2025-09-09T05:32:35.040Z,"173 km WSW of Port Orford, Oregon",earthquake,8.56,2.009,0.345,2.0,reviewed,us,us
+2025-09-09T04:33:38.040Z,48.9432,155.9909,29.979,4.9,mb,58.0,161.0,4.307,0.98,us,us7000qux4,2025-09-09T05:36:20.040Z,"192 km S of Severo-Kuril’sk, Russia",earthquake,12.93,6.924,0.068,67.0,reviewed,us,us
+2025-09-09T02:48:34.766Z,41.1875,-116.757,8.3,3.2,ml,15.0,75.32,0.332,0.1605,nn,nn00904007,2025-09-09T05:42:33.202Z,"53 km NE of Valmy, Nevada",earthquake,,1.9,0.28,10.0,reviewed,nn,nn
