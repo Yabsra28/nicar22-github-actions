@@ -12635,3 +12635,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T18:14:07.260Z,33.5128333,-116.4951667,13.06,2.16,ml,13.0,94.0,0.09124,0.11,ci,ci41287376,2025-09-09T18:17:49.876Z,"17 km ESE of Anza, CA",earthquake,0.29,0.65,0.342,34.0,automatic,ci,ci
 2025-09-09T17:35:20.701Z,-24.3117,-67.1608,169.452,4.5,mb,29.0,72.0,1.644,0.89,us,us7000qv1g,2025-09-09T18:38:46.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,7.83,10.495,0.192,12.0,reviewed,us,us
 2025-09-09T17:35:15.219Z,-29.5743,-71.9219,20.132,4.3,mwr,39.0,155.0,0.686,0.81,us,us7000qv1e,2025-09-09T18:24:55.040Z,"70 km NW of Coquimbo, Chile",earthquake,3.92,5.42,0.047,44.0,reviewed,us,us
+2025-09-09T18:42:22.841Z,31.633,-104.014,4.4122,1.8,ml,38.0,32.0,0.0,0.4,tx,tx2025ruelyo,2025-09-09T18:46:49.079Z,"40 km WSW of Mentone, Texas",earthquake,0.0,0.86393892765045,0.2,24.0,automatic,tx,tx
+2025-09-09T14:58:09.230Z,42.4804,-126.1097,18.936,2.7,ml,74.0,177.0,1.315,0.61,us,us7000qv0b,2025-09-09T18:42:50.040Z,"135 km WSW of Port Orford, Oregon",earthquake,6.93,7.976,0.033,124.0,reviewed,us,us
