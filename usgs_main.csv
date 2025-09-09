@@ -12476,3 +12476,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T06:02:40.670Z,33.7813333,-116.1298333,2.82,0.91,ml,32.0,54.0,0.0779,0.19,ci,ci41286784,2025-09-09T06:06:05.965Z,"10 km NE of Indio, CA",earthquake,0.24,0.64,0.103,15.0,automatic,ci,ci
 2025-09-09T06:01:09.050Z,34.438,-117.9168333,8.21,1.24,ml,43.0,38.0,0.0337,0.32,ci,ci41286776,2025-09-09T06:05:02.412Z,"8 km S of Pearblossom, CA",earthquake,0.33,0.65,0.233,27.0,automatic,ci,ci
 2025-09-09T05:59:03.039Z,42.43,-126.4932,11.239,4.9,mb,69.0,186.0,1.593,1.46,us,us7000quxl,2025-09-09T06:19:08.040Z,"167 km WSW of Port Orford, Oregon",earthquake,8.08,6.055,0.049,133.0,reviewed,us,us
+2025-09-09T06:41:39.600Z,36.2936668396,-120.93283081055,5.789999961853,1.19,md,6.0,204.0,0.03163,0.09,nc,nc75235327,2025-09-09T06:43:18.116Z,"20 km ENE of King City, CA",earthquake,1.06,0.970000029,0.25,4.0,automatic,nc,nc
+2025-09-09T06:37:56.759Z,63.2007,-150.698,31.9,1.2,ml,,,,0.78,ak,ak025bkv83y3,2025-09-09T06:48:08.942Z,"63 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
