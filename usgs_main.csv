@@ -12565,3 +12565,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T13:12:10.699Z,26.5826,54.1507,14.806,4.5,mb,108.0,77.0,2.467,0.47,us,us7000quzy,2025-09-09T14:33:24.040Z,"13 km ENE of Kīsh, Iran",earthquake,8.22,4.317,0.056,98.0,reviewed,us,us
 2025-09-09T09:02:34.761Z,36.8667,-116.0915,2.9,-0.5,ml,4.0,281.42,0.056,0.0359,nn,nn00904033,2025-09-09T14:37:08.545Z,"50 km NW of Indian Springs, Nevada",earthquake,,5.2,0.06,2.0,reviewed,nn,nn
 2025-09-09T01:10:26.294Z,36.7448,-116.1732,4.3,0.1,ml,13.0,117.7,0.024,0.06,nn,nn00904032,2025-09-09T14:27:31.592Z,"48 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.23,3.0,reviewed,nn,nn
+2025-09-09T13:56:42.138Z,39.1866,-120.4406,3.4,0.7,ml,6.0,216.47,0.136,0.0824,nn,nn00904035,2025-09-09T14:49:08.068Z,"14 km S of Kingvale, California",earthquake,,7.0,0.32,3.0,reviewed,nn,nn
