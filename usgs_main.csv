@@ -12661,3 +12661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T19:37:03.390Z,36.02566667,-96.53833333,0.0,2.04,ml,15.0,253.0,0.1997608001,0.34,ok,ok2025rscc,2025-09-09T19:46:25.966Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.9,0.26,5.0,reviewed,ok,ok
 2025-09-09T19:31:43.854Z,42.4397,-126.6691,10.0,5.1,mww,47.0,171.0,1.724,0.87,us,us7000qv3g,2025-09-09T19:49:10.040Z,"181 km WSW of Port Orford, Oregon",earthquake,9.85,1.903,0.06,27.0,reviewed,us,us
 2025-09-09T13:08:08.580Z,54.768833333333,-164.002,1.59,0.81,ml,5.0,96.0,0.04267,0.31,av,av93757918,2025-09-09T19:46:56.850Z,"39 km WSW of False Pass, Alaska",earthquake,0.71,1.35,0.27259008019034,5.0,reviewed,av,av
+2025-09-09T19:31:03.620Z,42.4765,-126.4478,10.0,4.4,mb,47.0,197.0,1.564,0.61,us,us7000qv3f,2025-09-09T19:56:36.040Z,"162 km W of Port Orford, Oregon",earthquake,7.31,1.918,0.064,70.0,reviewed,us,us
+2025-09-09T13:31:32.400Z,54.748666666667,-163.982,-2.62,0.46,ml,5.0,95.0,0.04027,0.19,av,av93757963,2025-09-09T19:54:49.090Z,"38 km WSW of False Pass, Alaska",earthquake,0.43,1.01,0.48179287593665,5.0,reviewed,av,av
