@@ -12681,3 +12681,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T20:56:17.263Z,29.4648,130.6555,35.0,4.7,mb,114.0,112.0,2.045,0.7,us,us7000qv4u,2025-09-09T21:23:41.040Z,"86 km S of Koshima, Japan",earthquake,7.42,1.911,0.059,88.0,reviewed,us,us
 2025-09-09T01:36:13.210Z,58.434,-154.26316666667,-1.52,-0.01,ml,4.0,275.0,0.1606,0.07,av,av93049714,2025-09-09T21:26:21.330Z,"89 km WNW of Aleneva, Alaska",earthquake,0.62,1.79,0.23710119691514,5.0,reviewed,av,av
 2025-09-09T21:31:27.883Z,32.459,-102.076,4.4694,1.3,ml,30.0,103.0,0.1,0.4,tx,tx2025rukbul,2025-09-09T21:35:31.980Z,"32 km SSW of Los Ybanez, Texas",earthquake,0.0,1.0448554754257,0.2,18.0,automatic,tx,tx
+2025-09-09T21:31:38.970Z,17.960833333333,-66.784,12.38,2.09,md,10.0,167.0,0.05928,0.08,pr,pr71495218,2025-09-09T21:42:23.760Z,"5 km SE of Indios, Puerto Rico",earthquake,0.41,0.32,0.030911064610834,5.0,reviewed,pr,pr
