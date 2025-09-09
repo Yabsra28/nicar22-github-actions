@@ -12551,3 +12551,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T11:35:11.530Z,44.7965,-110.86416666667,4.31,0.2,md,12.0,111.0,0.01271,0.16,uu,uu80117041,2025-09-09T13:13:50.930Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.46,0.21257298199892,7.0,reviewed,uu,uu
 2025-09-09T04:36:37.950Z,38.506166666667,-112.913,2.49,1.37,md,8.0,169.0,0.02118,0.05,uu,uu80117016,2025-09-09T13:12:46.960Z,"14 km NE of Milford, Utah",earthquake,0.37,0.64,0.24061160186798,4.0,reviewed,uu,uu
 2025-09-09T00:23:45.970Z,38.501333333333,-112.9085,1.99,1.5,ml,13.0,51.0,0.01214,0.1,uu,uu80117001,2025-09-09T13:28:25.220Z,"14 km NE of Milford, Utah",earthquake,0.31,0.51,0.27824498520833,6.0,reviewed,uu,uu
+2025-09-09T13:31:38.261Z,63.5625,-150.7922,1.4,1.1,ml,,,,0.54,ak,ak025bkzctgi,2025-09-09T13:33:34.719Z,"46 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-09T01:09:35.170Z,44.844,-111.56916666667,8.6,0.13,ml,6.0,121.0,0.09991,0.09,mb,mb90110948,2025-09-09T13:36:09.840Z,"31 km WNW of Hebgen Lake Estates, Montana",earthquake,0.42,1.71,0.019522431394339,4.0,reviewed,mb,mb
+2025-09-08T23:28:03.080Z,38.504166666667,-112.9105,2.45,0.51,md,9.0,166.0,0.01062,0.06,uu,uu80116996,2025-09-09T13:44:51.480Z,"14 km NE of Milford, Utah",earthquake,0.36,0.45,0.29731732013133,4.0,reviewed,uu,uu
