@@ -12424,3 +12424,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T11:47:37.020Z,58.606,-154.25983333333,7.82,0.1,ml,7.0,316.0,0.04642,0.23,av,av93756363,2025-09-09T01:28:21.290Z,"97 km SSE of Kokhanok, Alaska",earthquake,1.44,0.79,0.15957426890265,7.0,reviewed,av,av
 2025-09-08T11:39:13.170Z,54.118,-165.964,5.56,0.3,ml,7.0,135.0,0.02719,0.22,av,av93756358,2025-09-09T01:23:14.760Z,"12 km W of Akutan, Alaska",earthquake,1.05,1.05,0.19694775500534,7.0,reviewed,av,av
 2025-09-08T10:03:45.100Z,61.32,-152.25066666667,6.19,-0.48,ml,7.0,148.0,0.07146,0.36,av,av93049699,2025-09-09T00:55:02.110Z,"65 km WNW of Beluga, Alaska",earthquake,1.81,3.92,0.23526929485427,7.0,reviewed,av,av
+2025-09-09T02:48:34.374Z,41.1484,-116.8555,15.147,3.2,ml,30.0,53.0,0.769,0.28,us,us7000quwp,2025-09-09T03:07:32.040Z,"45 km NNE of Valmy, Nevada",earthquake,3.69,7.964,0.034,112.0,reviewed,us,us
+2025-09-09T02:39:40.591Z,63.45,-151.3105,0.0,1.4,ml,,,,0.57,ak,ak025bksurpn,2025-09-09T02:41:34.772Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-09T02:34:55.470Z,33.35,-116.8228333,6.71,0.76,ml,33.0,80.0,0.03352,0.18,ci,ci41286688,2025-09-09T02:38:36.559Z,"4 km E of Palomar Observatory, CA",earthquake,0.23,0.39,0.198,25.0,automatic,ci,ci
+2025-09-09T02:09:33.082Z,6.2901,-82.4681,10.0,4.9,mww,72.0,154.0,3.052,0.74,us,us7000quwh,2025-09-09T02:24:54.040Z,"197 km SSE of Burica, Panama",earthquake,8.47,1.913,0.069,20.0,reviewed,us,us
+2025-09-09T02:07:35.990Z,18.7563,-68.96,139.0,3.94,md,18.0,164.0,0.5803,0.53,pr,pr2025252000,2025-09-09T02:54:33.921Z,"8 km E of Santa Cruz de El Seibo, Dominican Republic",earthquake,4.08,2.09,0.13,11.0,reviewed,pr,pr
+2025-09-08T17:24:36.980Z,60.046,-153.156,7.11,-0.5,ml,5.0,219.0,0.01592,0.22,av,av93756683,2025-09-09T02:18:25.850Z,"60 km ENE of Pedro Bay, Alaska",earthquake,1.2,1.59,0.15428352012777,5.0,reviewed,av,av
