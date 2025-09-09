@@ -12458,3 +12458,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T14:12:41.820Z,54.749333333333,-164.09333333333,7.02,0.95,ml,4.0,276.0,0.06862,0.16,av,av93756473,2025-09-09T04:47:04.540Z,"45 km WSW of False Pass, Alaska",earthquake,1.36,1.29,0.39265433400185,4.0,reviewed,av,av
 2025-09-09T04:56:37.154Z,63.2979,-149.0453,84.2,1.1,ml,,,,0.16,ak,ak025bku59tv,2025-09-09T04:58:27.315Z,"11 km SSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-09T04:37:38.820Z,47.611,-122.582,19.63,1.1,ml,6.0,170.0,0.09043,0.11,uw,uw62177127,2025-09-09T04:57:57.140Z,"3 km NNE of Enetai, Washington",earthquake,0.52,1.46,0.049458593922247,3.0,reviewed,uw,uw
+2025-09-09T04:32:41.613Z,42.2649,-126.4313,10.0,2.7,ml,43.0,250.0,1.546,0.45,us,us7000qux3,2025-09-09T05:13:11.040Z,"166 km W of Gold Beach, Oregon",earthquake,9.49,2.019,0.042,76.0,reviewed,us,us
+2025-09-08T12:39:35.670Z,45.366,-121.676,-1.34,0.34,ml,6.0,139.0,0.0213,0.29,uw,uw62184801,2025-09-09T05:13:01.120Z,"9 km NE of Government Camp, Oregon",earthquake,0.83,0.74,0.22211723523897,4.0,reviewed,uw,uw
