@@ -12554,3 +12554,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T13:31:38.261Z,63.5625,-150.7922,1.4,1.1,ml,,,,0.54,ak,ak025bkzctgi,2025-09-09T13:33:34.719Z,"46 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-09T01:09:35.170Z,44.844,-111.56916666667,8.6,0.13,ml,6.0,121.0,0.09991,0.09,mb,mb90110948,2025-09-09T13:36:09.840Z,"31 km WNW of Hebgen Lake Estates, Montana",earthquake,0.42,1.71,0.019522431394339,4.0,reviewed,mb,mb
 2025-09-08T23:28:03.080Z,38.504166666667,-112.9105,2.45,0.51,md,9.0,166.0,0.01062,0.06,uu,uu80116996,2025-09-09T13:44:51.480Z,"14 km NE of Milford, Utah",earthquake,0.36,0.45,0.29731732013133,4.0,reviewed,uu,uu
+2025-09-09T08:15:21.390Z,44.5685,-112.21216666667,7.64,1.87,ml,25.0,86.0,0.1325,0.14,mb,mb90110993,2025-09-09T13:53:49.320Z,"23 km N of Spencer, Idaho",earthquake,0.35,1.99,0.20811294326153,40.0,reviewed,mb,mb
