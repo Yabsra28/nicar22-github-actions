@@ -12637,3 +12637,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T17:35:15.219Z,-29.5743,-71.9219,20.132,4.3,mwr,39.0,155.0,0.686,0.81,us,us7000qv1e,2025-09-09T18:24:55.040Z,"70 km NW of Coquimbo, Chile",earthquake,3.92,5.42,0.047,44.0,reviewed,us,us
 2025-09-09T18:42:22.841Z,31.633,-104.014,4.4122,1.8,ml,38.0,32.0,0.0,0.4,tx,tx2025ruelyo,2025-09-09T18:46:49.079Z,"40 km WSW of Mentone, Texas",earthquake,0.0,0.86393892765045,0.2,24.0,automatic,tx,tx
 2025-09-09T14:58:09.230Z,42.4804,-126.1097,18.936,2.7,ml,74.0,177.0,1.315,0.61,us,us7000qv0b,2025-09-09T18:42:50.040Z,"135 km WSW of Port Orford, Oregon",earthquake,6.93,7.976,0.033,124.0,reviewed,us,us
+2025-09-08T22:55:38.690Z,19.3315,-155.44933333333,2.12,1.64,ml,11.0,342.0,0.1294,0.32,hv,hv74770557,2025-09-09T18:59:25.100Z,"14 km NNE of Pāhala, Hawaii",earthquake,4.39,31.61,0.31255947288962,10.0,reviewed,hv,hv
