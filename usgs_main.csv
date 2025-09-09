@@ -12611,3 +12611,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T16:02:03.036Z,31.675,-104.408,6.4075,1.2,ml,12.0,88.0,0.0,0.1,tx,tx2025rtzdxm,2025-09-09T16:40:14.924Z,"55 km S of Whites City, New Mexico",earthquake,0.87513607661047,0.69226613053969,0.1,24.0,reviewed,tx,tx
 2025-09-09T15:31:29.850Z,33.5823333,-116.7353333,3.82,-0.11,ml,9.0,204.0,0.01697,0.15,ci,ci41287160,2025-09-09T16:35:31.917Z,"6 km WNW of Anza, CA",earthquake,0.62,0.6,0.129,7.0,reviewed,ci,ci
 2025-09-09T14:53:01.327Z,32.143,-101.08,6.5674,2.1,ml,23.0,67.0,0.2,0.1,tx,tx2025rtwwkk,2025-09-09T16:47:46.414Z,"24 km SSW of Westbrook, Texas",earthquake,1.1448659376312,1.9069020193567,0.2,24.0,reviewed,tx,tx
+2025-09-09T17:01:50.946Z,60.8261,-147.3318,24.8,1.7,ml,,,,0.35,ak,ak025bl1k5di,2025-09-09T17:03:19.143Z,"35 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-09T16:33:18.020Z,38.631666666667,-112.62583333333,7.24,1.07,md,8.0,160.0,0.1417,0.11,uu,uu80117056,2025-09-09T16:58:16.060Z,"24 km SW of Kanosh, Utah",earthquake,0.83,1.72,0.27710020389172,4.0,reviewed,uu,uu
+2025-09-09T16:31:51.011Z,41.1815,-116.6894,10.5,2.8,ml,13.0,159.83,0.287,0.1373,nn,nn00904045,2025-09-09T16:51:48.148Z,"56 km NE of Valmy, Nevada",earthquake,,1.6,0.22,8.0,reviewed,nn,nn
+2025-09-09T16:31:29.733Z,42.3833,-127.1084,13.367,3.6,ml,22.0,203.0,2.047,0.43,us,us7000qv0v,2025-09-09T17:07:44.040Z,"218 km WSW of Port Orford, Oregon",earthquake,8.75,8.686,0.094,20.0,reviewed,us,us
+2025-09-09T14:24:39.254Z,31.666,-104.363,5.946,1.4,ml,20.0,69.0,0.1,0.1,tx,tx2025rtvxzi,2025-09-09T16:52:34.446Z,"56 km S of Whites City, New Mexico",earthquake,0.88461501606939,1.0847593904981,0.2,18.0,reviewed,tx,tx
+2025-09-09T04:46:29.074Z,31.719,-104.287,5.8179,1.1,ml,15.0,72.0,0.0,0.1,tx,tx2025rtctsc,2025-09-09T16:58:22.483Z,"51 km S of Whites City, New Mexico",earthquake,0.87748936232049,0.94240955743502,0.2,23.0,reviewed,tx,tx
