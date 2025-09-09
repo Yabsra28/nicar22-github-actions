@@ -12516,3 +12516,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T08:08:47.188Z,18.4716,145.6729,200.226,4.4,mb,50.0,103.0,3.215,0.61,us,us7000quyj,2025-09-09T10:12:23.040Z,"Pagan region, Northern Mariana Islands",earthquake,8.96,6.214,0.074,52.0,reviewed,us,us
 2025-09-09T08:05:20.522Z,42.3988,-126.5555,10.0,3.1,ml,25.0,242.0,1.638,0.69,us,us7000quyf,2025-09-09T10:05:40.040Z,"173 km WSW of Port Orford, Oregon",earthquake,8.84,2.016,0.034,114.0,reviewed,us,us
 2025-09-09T07:37:51.773Z,31.916,-101.748,8.5205,0.6,ml,8.0,65.0,0.1,0.1,tx,tx2025rtills,2025-09-09T10:16:48.750Z,"23 km S of Stanton, Texas",earthquake,0.77404418223667,1.9944858326181,0.1,6.0,reviewed,tx,tx
+2025-09-09T10:27:50.750Z,38.829833984375,-122.81566619873,1.6799999475479,0.65,md,11.0,64.0,0.01655,0.01,nc,nc75235402,2025-09-09T10:29:31.057Z,"8 km NNW of The Geysers, CA",earthquake,0.27,1.04999995,0.36,13.0,automatic,nc,nc
+2025-09-09T10:23:51.540Z,38.802333831787,-122.82150268555,1.6399999856949,0.76,md,9.0,96.0,0.02329,0.02,nc,nc75235397,2025-09-09T10:25:27.786Z,"6 km NW of The Geysers, CA",earthquake,0.34,1.07000005,0.1,12.0,automatic,nc,nc
+2025-09-09T10:20:29.697Z,64.7463,-148.7788,17.6,1.1,ml,,,,0.58,ak,ak025bkxi53t,2025-09-09T10:22:20.837Z,"22 km NE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-09T10:05:09.010Z,17.958333333333,-66.883666666667,15.21,2.01,md,7.0,207.0,0.01715,0.12,pr,pr71495198,2025-09-09T10:39:13.160Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.64,0.71,0.013041574474145,5.0,reviewed,pr,pr
