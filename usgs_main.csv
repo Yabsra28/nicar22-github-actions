@@ -12456,3 +12456,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T00:36:05.150Z,46.325333333333,-122.249,7.43,0.23,ml,6.0,241.0,0.02461,0.11,uw,uw62176937,2025-09-09T04:28:29.440Z,"25 km S of Morton, Washington",earthquake,0.7,0.52,0.094264874417722,4.0,reviewed,uw,uw
 2025-09-08T23:40:31.140Z,61.333333333333,-152.19033333333,1.63,-0.31,ml,5.0,203.0,0.07531,0.15,av,av93757138,2025-09-09T04:22:41.430Z,"63 km WNW of Beluga, Alaska",earthquake,0.65,2.49,0.26500309697528,5.0,reviewed,av,av
 2025-09-08T14:12:41.820Z,54.749333333333,-164.09333333333,7.02,0.95,ml,4.0,276.0,0.06862,0.16,av,av93756473,2025-09-09T04:47:04.540Z,"45 km WSW of False Pass, Alaska",earthquake,1.36,1.29,0.39265433400185,4.0,reviewed,av,av
+2025-09-09T04:56:37.154Z,63.2979,-149.0453,84.2,1.1,ml,,,,0.16,ak,ak025bku59tv,2025-09-09T04:58:27.315Z,"11 km SSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-09T04:37:38.820Z,47.611,-122.582,19.63,1.1,ml,6.0,170.0,0.09043,0.11,uw,uw62177127,2025-09-09T04:57:57.140Z,"3 km NNE of Enetai, Washington",earthquake,0.52,1.46,0.049458593922247,3.0,reviewed,uw,uw
