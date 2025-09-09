@@ -12584,3 +12584,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T15:16:16.750Z,36.0226667,-117.8661667,2.13,1.0,ml,13.0,68.0,0.02466,0.09,ci,ci41287136,2025-09-09T15:22:22.053Z,"8 km ESE of Coso Junction, CA",earthquake,0.18,0.2,0.29,16.0,automatic,ci,ci
 2025-09-09T08:25:40.881Z,31.654,-104.295,7.5867,1.1,ml,21.0,68.0,0.0,0.1,tx,tx2025rtkark,2025-09-09T15:18:41.397Z,"58 km S of Whites City, New Mexico",earthquake,0.96476063791909,0.93466162564589,0.2,23.0,reviewed,tx,tx
 2025-09-08T22:12:21.630Z,44.6905,-111.38566666667,12.48,0.61,ml,12.0,130.0,0.1058,0.14,mb,mb90110918,2025-09-09T15:34:36.850Z,"17 km WSW of Hebgen Lake Estates, Montana",earthquake,0.46,0.81,0.22239765942894,9.0,reviewed,mb,mb
+2025-09-09T15:42:49.500Z,33.2595,-116.3688333,4.34,0.66,ml,29.0,51.0,0.04141,0.2,ci,ci41287176,2025-09-09T15:46:52.180Z,"1 km NE of Borrego Springs, CA",earthquake,0.24,0.45,0.23,5.0,automatic,ci,ci
+2025-09-09T15:37:15.510Z,36.7079,-116.0385,2.0,-0.3,ml,8.0,129.07,0.047,0.0297,nn,nn00904042,2025-09-09T15:39:36.734Z,"36 km WNW of Indian Springs, Nevada",earthquake,,51.5,0.23,6.0,automatic,nn,nn
+2025-09-09T15:36:55.760Z,33.7736667,-116.1383333,6.45,1.28,ml,48.0,71.0,0.07302,0.18,ci,ci41287168,2025-09-09T15:47:55.590Z,"9 km NE of Indio, CA",earthquake,0.17,0.59,0.133,28.0,automatic,ci,ci
+2025-09-09T02:28:02.209Z,35.6175,-98.03916667,4.49,1.61,ml,70.0,77.0,0.1574690992,0.36,ok,ok2025rque,2025-09-09T15:43:11.198Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.9,0.17,24.0,reviewed,ok,ok
