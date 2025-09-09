@@ -12486,3 +12486,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T07:09:05.840Z,40.29349899292,-124.52899932861,9.8100004196167,3.65,mw,37.0,275.0,0.1427,0.14,nc,nc75235342,2025-09-09T07:18:15.056Z,"21 km W of Petrolia, CA",earthquake,1.73,0.730000019,,5.0,reviewed,nc,nc
 2025-09-09T07:07:47.080Z,35.8986667,-117.6776667,2.62,1.95,ml,38.0,43.0,0.05389,0.17,ci,ci41286800,2025-09-09T07:11:31.335Z,"21 km ESE of Little Lake, CA",earthquake,0.14,0.31,0.126,26.0,automatic,ci,ci
 2025-09-09T06:56:25.354Z,11.1989,125.4286,99.29,4.8,mb,99.0,94.0,6.424,0.7,us,us7000quy7,2025-09-09T07:19:56.040Z,"9 km NNW of Giporlos, Philippines",earthquake,10.39,6.935,0.05,122.0,reviewed,us,us
+2025-09-09T07:33:52.130Z,36.039,-117.3173333,1.5,1.04,ml,21.0,111.0,0.1404,0.21,ci,ci41286824,2025-09-09T07:37:25.466Z,"31 km N of Trona, CA",earthquake,0.41,0.55,0.083,17.0,automatic,ci,ci
