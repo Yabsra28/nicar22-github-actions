@@ -12791,3 +12791,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T18:15:23.882Z,32.353,-102.067,6.9824,0.6,ml,13.0,72.0,0.0,0.1,tx,tx2025rudphr,2025-09-10T09:06:24.790Z,"36 km NW of Stanton, Texas",earthquake,0.47331976444782,0.66739788971361,0.2,11.0,reviewed,tx,tx
 2025-09-10T09:31:23.298Z,31.69,-103.83,5.0,1.7,ml,13.0,188.0,0.1,0.5,tx,tx2025rvhyar,2025-09-10T09:36:31.366Z,"21 km W of Mentone, Texas",earthquake,0.0,,0.1,8.0,automatic,tx,tx
 2025-09-10T09:30:55.582Z,32.092,-102.023,4.1565,2.9,ml,75.0,36.0,0.1,0.5,tx,tx2025rvhxtv,2025-09-10T09:36:29.040Z,"11 km NNE of Midland, Texas",earthquake,0.0,0.65903007984161,0.2,44.0,automatic,tx,tx
+2025-09-10T09:43:33.220Z,32.416,-101.393,3.276,1.1,ml,17.0,59.0,0.0,0.5,tx,tx2025rviipn,2025-09-10T09:46:17.198Z,"15 km NNW of Sand Springs, Texas",earthquake,0.0,1.3842260837555,0.2,11.0,automatic,tx,tx
