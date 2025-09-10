@@ -12894,3 +12894,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T19:05:36.100Z,34.8506667,-118.7893333,-0.52,1.19,ml,27.0,74.0,0.07471,0.28,ci,ci41288408,2025-09-10T19:09:09.103Z,"7 km E of Lebec, CA",earthquake,0.36,0.64,0.195,29.0,automatic,ci,ci
 2025-09-10T18:58:44.246Z,37.1166,-116.6761,1.7,1.1,ml,8.0,175.13,0.147,0.4454,nn,nn00904095,2025-09-10T19:01:03.941Z,"24 km NNE of Beatty, Nevada",earthquake,,4.7,0.23,7.0,automatic,nn,nn
 2025-09-10T18:24:24.244Z,42.67,-111.2847,5.0,3.2,ml,44.0,75.0,0.665,0.41,us,us7000qvaf,2025-09-10T19:03:24.040Z,"22 km NNE of Georgetown, Idaho",earthquake,1.8,1.938,0.034,114.0,reviewed,us,us
+2025-09-10T18:39:38.871Z,42.6682,-111.2522,5.0,2.8,ml,42.0,74.0,0.677,0.57,us,us7000qvag,2025-09-10T19:12:56.040Z,"22 km W of Fairview, Wyoming",earthquake,1.69,1.936,0.033,120.0,reviewed,us,us
+2025-09-10T18:36:29.961Z,15.0535,108.1503,10.0,4.6,mb,33.0,63.0,3.988,0.73,us,us7000qvah,2025-09-10T19:19:24.040Z,"32 km SSW of Trà My, Vietnam",earthquake,8.82,1.941,0.119,21.0,reviewed,us,us
