@@ -12741,3 +12741,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T01:44:14.080Z,19.480166666667,-155.46916666667,5.31,0.86,md,13.0,67.0,0.05083,0.14,hv,hv74771817,2025-09-10T02:26:12.110Z,"25 km W of Volcano, Hawaii",earthquake,0.35,1.02,0.071850059962975,6.0,reviewed,hv,hv
 2025-09-10T01:28:30.270Z,19.1995,-64.4696,40.0,3.81,md,19.0,283.0,0.7122,0.39,pr,pr2025253001,2025-09-10T02:55:33.405Z,"101 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.24,12.92,0.03,6.0,reviewed,pr,pr
 2025-09-09T22:34:21.630Z,42.4278,-126.4597,10.0,2.7,ml,47.0,266.0,1.568,0.5,us,us7000qv5b,2025-09-10T03:04:11.040Z,"164 km WSW of Port Orford, Oregon",earthquake,9.74,2.022,0.041,80.0,reviewed,us,us
+2025-09-10T03:20:46.660Z,33.6194992,-116.8054962,12.41,1.14,ml,30.0,114.0,0.03682,0.13,ci,ci41287760,2025-09-10T03:23:05.693Z,"14 km WNW of Anza, CA",earthquake,0.33,0.61,0.235,10.0,automatic,ci,ci
+2025-09-09T22:58:27.814Z,-8.3211,123.9132,154.785,4.3,mb,13.0,127.0,1.687,0.75,us,us7000qv5g,2025-09-10T03:33:56.040Z,"110 km NNW of Pante Makasar, Timor Leste",earthquake,8.12,9.074,0.148,13.0,reviewed,us,us
