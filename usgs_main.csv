@@ -12795,3 +12795,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T09:52:19.885Z,62.7733,-148.9159,7.6,1.8,ml,,,,0.87,ak,ak025bmkmw4h,2025-09-10T09:55:13.864Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-09T10:35:22.352Z,55.4528,166.3169,10.0,4.7,mb,69.0,92.0,5.113,0.63,us,us7000quza,2025-09-10T10:19:03.040Z,"255 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.79,1.887,0.034,257.0,reviewed,us,us
 2025-09-10T10:28:09.160Z,38.807167053223,-122.79416656494,3.0199999809265,1.76,md,34.0,38.0,0.001195,0.03,nc,nc75235902,2025-09-10T10:31:38.400Z,"5 km NNW of The Geysers, CA",earthquake,0.21,0.360000014,0.11,34.0,automatic,nc,nc
+2025-09-10T10:42:00.190Z,38.777168273926,-122.72650146484,1.789999961853,1.15,md,15.0,74.0,0.01003,0.02,nc,nc75235907,2025-09-10T10:43:37.483Z,"3 km ESE of The Geysers, CA",earthquake,0.25,0.400000006,0.13,14.0,automatic,nc,nc
+2025-09-10T10:41:41.230Z,33.9381676,-116.8793335,3.56,0.98,ml,22.0,69.0,0.08583,0.14,ci,ci41287952,2025-09-10T10:44:09.991Z,"1 km N of Banning, CA",earthquake,0.33,1.03,0.182,8.0,automatic,ci,ci
