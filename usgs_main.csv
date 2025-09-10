@@ -12745,3 +12745,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T22:58:27.814Z,-8.3211,123.9132,154.785,4.3,mb,13.0,127.0,1.687,0.75,us,us7000qv5g,2025-09-10T03:33:56.040Z,"110 km NNW of Pante Makasar, Timor Leste",earthquake,8.12,9.074,0.148,13.0,reviewed,us,us
 2025-09-10T03:41:16.370Z,38.761165618896,-122.73466491699,1.789999961853,0.98,md,14.0,103.0,0.007677,0.03,nc,nc75235792,2025-09-10T03:42:53.126Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.400000006,0.24,14.0,automatic,nc,nc
 2025-09-10T03:41:02.367Z,61.9114,-147.8557,30.2,2.3,ml,,,,0.73,ak,ak025bmgzwak,2025-09-10T03:42:57.464Z,"15 km NW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-10T04:11:14.038Z,31.539,-103.692,5.6553,1.5,ml,14.0,111.0,0.0,0.5,tx,tx2025ruxigy,2025-09-10T04:15:02.453Z,"20 km SSW of Mentone, Texas",earthquake,0.0,2.1314342021942,0.2,8.0,automatic,tx,tx
+2025-09-10T04:08:29.510Z,33.4760017,-116.5175018,12.04,1.25,ml,37.0,54.0,0.0732,0.16,ci,ci41287768,2025-09-10T04:19:37.270Z,"17 km ESE of Anza, CA",earthquake,0.3,0.66,0.194,14.0,automatic,ci,ci
+2025-09-10T00:57:48.329Z,42.3584,-127.1426,10.0,2.6,ml,27.0,292.0,2.072,0.43,us,us7000qv5r,2025-09-10T04:22:51.040Z,"221 km WSW of Port Orford, Oregon",earthquake,12.34,2.026,0.051,50.0,reviewed,us,us
+2025-09-10T00:14:26.614Z,-19.459,-66.7833,259.049,4.3,mb,37.0,88.0,2.283,1.05,us,us7000qv5m,2025-09-10T04:17:09.040Z,"61 km S of Challapata, Bolivia",earthquake,8.75,8.732,0.189,8.0,reviewed,us,us
+2025-09-09T23:47:38.007Z,18.8646,39.136,10.0,4.4,mb,71.0,80.0,6.604,0.82,us,us7000qv5j,2025-09-10T04:05:44.040Z,"156 km ENE of Tokār, Sudan",earthquake,10.16,1.923,0.069,60.0,reviewed,us,us
+2025-09-09T23:36:51.040Z,45.346,-121.73683333333,-0.84,0.5,ml,3.0,292.0,0.0254,0.05,uw,uw62177962,2025-09-10T04:01:44.430Z,"4 km NNE of Government Camp, Oregon",earthquake,0.75,8.71,0.073984809937108,2.0,reviewed,uw,uw
+2025-09-09T21:30:23.670Z,44.5405,-122.84966666667,-0.77,1.44,ml,7.0,159.0,0.08189,0.14,uw,uw62177827,2025-09-10T04:06:15.670Z,"4 km E of Lebanon, Oregon",explosion,0.84,31.61,0.19973925295574,4.0,reviewed,uw,uw
