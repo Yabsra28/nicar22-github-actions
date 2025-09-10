@@ -12857,3 +12857,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T06:39:04.304Z,32.154,-101.041,4.5517,1.0,ml,12.0,75.0,0.2,0.2,tx,tx2025rvcfoi,2025-09-10T15:32:21.924Z,"22 km S of Westbrook, Texas",earthquake,1.2001494954744,2.7476922996069,0.1,6.0,reviewed,tx,tx
 2025-09-10T15:51:56.320Z,33.4471664,-116.3841629,12.57,0.96,ml,22.0,98.0,0.1051,0.23,ci,ci41288144,2025-09-10T15:53:58.855Z,"21 km N of Borrego Springs, CA",earthquake,0.46,1.2,0.223,6.0,automatic,ci,ci
 2025-09-10T15:45:08.245Z,56.2689,-155.7457,25.8,2.7,ml,,,,0.67,ak,ak025bmo5yvc,2025-09-10T15:46:59.952Z,"122 km SW of Akhiok, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-10T15:54:28.290Z,62.4769,-149.3831,51.3,1.7,ml,,,,0.14,ak,ak025bmo7xv1,2025-09-10T15:55:57.407Z,"37 km E of Chase, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-10T07:32:34.184Z,41.1012,-116.7429,7.9,2.2,ml,12.0,78.75,0.282,0.1243,nn,nn00904079,2025-09-10T16:13:08.286Z,"47 km NE of Valmy, Nevada",earthquake,,3.0,0.15,8.0,reviewed,nn,nn
+2025-09-09T23:50:33.630Z,41.675,-111.70133333333,15.8,0.75,md,12.0,70.0,0.1109,0.09,uu,uu80004758,2025-09-10T16:00:49.360Z,"10 km E of Millville, Utah",earthquake,0.34,0.74,0.084370537982433,10.0,reviewed,uu,uu
