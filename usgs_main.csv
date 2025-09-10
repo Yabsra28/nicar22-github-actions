@@ -12850,3 +12850,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T15:08:49.941Z,61.7967,-149.5432,4.6,1.8,ml,,,,0.78,ak,ak025bmny2x1,2025-09-10T15:11:23.162Z,"17 km WNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-10T15:04:34.117Z,37.5798,-117.8833,4.3,1.5,ml,10.0,150.07,0.223,0.2821,nn,nn00904088,2025-09-10T15:07:23.542Z,"18 km ESE of Dyer, Nevada",earthquake,,2.0,0.28,8.0,automatic,nn,nn
 2025-09-09T15:50:01.408Z,42.5239,-126.4272,10.0,2.7,ml,55.0,225.0,1.554,0.88,us,us7000qv0q,2025-09-10T15:08:56.040Z,"160 km W of Port Orford, Oregon",earthquake,6.79,2.01,0.035,110.0,reviewed,us,us
+2025-09-10T15:12:27.290Z,38.839500427246,-122.811668396,1.9299999475479,0.72,md,9.0,83.0,0.01767,0.01,nc,nc75235967,2025-09-10T15:14:03.729Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.829999983,0.05,10.0,automatic,nc,nc
+2025-09-09T22:54:51.110Z,35.701,-117.556,8.15,0.52,ml,12.0,136.0,0.1135,0.14,ci,ci41287648,2025-09-10T15:11:51.513Z,"14 km NE of Ridgecrest, CA",earthquake,0.39,1.12,0.125,9.0,reviewed,ci,ci
