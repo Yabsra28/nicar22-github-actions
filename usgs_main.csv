@@ -12821,3 +12821,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T12:57:48.003Z,64.9855,-149.9572,16.4,1.2,ml,,,,0.42,ak,ak025bmmgbps,2025-09-10T12:59:17.573Z,"31 km E of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T11:14:50.068Z,-3.2753,142.5914,47.483,4.2,mb,13.0,108.0,2.032,0.87,us,us7000qv74,2025-09-10T13:11:12.040Z,"30 km ESE of Aitape, Papua New Guinea",earthquake,5.56,9.946,0.16,11.0,reviewed,us,us
 2025-09-09T23:35:24.120Z,38.5045,-112.90866666667,2.27,0.1,md,9.0,189.0,0.009439,0.06,uu,uu80117086,2025-09-10T13:18:19.530Z,"14 km NE of Milford, Utah",earthquake,0.4,0.49,0.60702977384762,3.0,reviewed,uu,uu
+2025-09-10T11:03:37.070Z,44.795166666667,-111.30433333333,9.56,0.56,ml,15.0,125.0,0.08888,0.17,uu,uu80117111,2025-09-10T13:20:08.930Z,"9 km WNW of Hebgen Lake Estates, Montana",earthquake,0.67,1.18,0.13653271602073,3.0,reviewed,uu,uu
+2025-09-10T08:20:11.150Z,44.778333333333,-111.05833333333,9.73,1.09,ml,16.0,103.0,0.03866,0.08,uu,uu80117106,2025-09-10T13:24:17.730Z,"10 km E of Hebgen Lake Estates, Montana",earthquake,0.31,0.55,0.14880451489775,5.0,reviewed,uu,uu
+2025-09-10T00:54:37.670Z,33.0256667,-116.2945,7.67,0.58,ml,12.0,105.0,0.07126,0.1,ci,ci41287712,2025-09-10T13:20:59.967Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.28,0.6,0.157,5.0,reviewed,ci,ci
+2025-09-10T00:20:20.780Z,38.5005,-112.9075,2.36,0.79,md,9.0,163.0,0.007558,0.05,uu,uu80117091,2025-09-10T13:29:19.070Z,"14 km NE of Milford, Utah",earthquake,0.32,0.38,0.45457662785702,4.0,reviewed,uu,uu
