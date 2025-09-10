@@ -12825,3 +12825,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T08:20:11.150Z,44.778333333333,-111.05833333333,9.73,1.09,ml,16.0,103.0,0.03866,0.08,uu,uu80117106,2025-09-10T13:24:17.730Z,"10 km E of Hebgen Lake Estates, Montana",earthquake,0.31,0.55,0.14880451489775,5.0,reviewed,uu,uu
 2025-09-10T00:54:37.670Z,33.0256667,-116.2945,7.67,0.58,ml,12.0,105.0,0.07126,0.1,ci,ci41287712,2025-09-10T13:20:59.967Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.28,0.6,0.157,5.0,reviewed,ci,ci
 2025-09-10T00:20:20.780Z,38.5005,-112.9075,2.36,0.79,md,9.0,163.0,0.007558,0.05,uu,uu80117091,2025-09-10T13:29:19.070Z,"14 km NE of Milford, Utah",earthquake,0.32,0.38,0.45457662785702,4.0,reviewed,uu,uu
+2025-09-10T06:45:11.340Z,44.799,-110.845,4.12,0.27,ml,9.0,139.0,0.01137,0.09,uu,uu80117101,2025-09-10T13:53:22.970Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.4,0.48,0.69939207635492,2.0,reviewed,uu,uu
