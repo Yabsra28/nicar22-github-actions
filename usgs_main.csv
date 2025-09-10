@@ -12785,3 +12785,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T08:43:23.240Z,38.824165344238,-122.84666442871,1.7999999523163,0.64,md,11.0,88.0,0.008659,0.02,nc,nc75235877,2025-09-10T08:44:57.488Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.670000017,0.23,11.0,automatic,nc,nc
 2025-09-10T08:22:52.968Z,69.2314,-146.9565,0.0,2.8,ml,,,,0.86,ak,ak025bmjv3m4,2025-09-10T08:26:39.799Z,"126 km SSE of Prudhoe Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-10T08:46:14.987Z,63.5522,-150.8462,0.0,1.8,ml,,,,0.74,ak,ak025bmk05ve,2025-09-10T08:48:14.716Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-10T09:20:18.330Z,39.542999267578,-123.38466644287,6.0199999809265,1.73,md,12.0,100.0,0.08245,0.04,nc,nc75235887,2025-09-10T09:21:52.824Z,"11 km NNE of Brooktrails, CA",earthquake,0.29,0.910000026,0.09,7.0,automatic,nc,nc
+2025-09-10T09:13:32.449Z,37.2123,-116.5,3.4,0.8,ml,23.0,172.56,0.135,0.1967,nn,nn00904080,2025-09-10T09:15:44.362Z,"40 km NE of Beatty, Nevada",earthquake,,10.0,0.21,16.0,automatic,nn,nn
+2025-09-10T03:07:52.350Z,19.162333333333,-64.5555,32.62,3.12,md,11.0,277.0,0.6841,0.55,pr,pr71495253,2025-09-10T09:03:41.720Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.72,26.77,0.20161493424294,9.0,reviewed,pr,pr
+2025-09-09T18:15:23.882Z,32.353,-102.067,6.9824,0.6,ml,13.0,72.0,0.0,0.1,tx,tx2025rudphr,2025-09-10T09:06:24.790Z,"36 km NW of Stanton, Texas",earthquake,0.47331976444782,0.66739788971361,0.2,11.0,reviewed,tx,tx
