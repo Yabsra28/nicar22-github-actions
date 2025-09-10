@@ -12789,3 +12789,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T09:13:32.449Z,37.2123,-116.5,3.4,0.8,ml,23.0,172.56,0.135,0.1967,nn,nn00904080,2025-09-10T09:15:44.362Z,"40 km NE of Beatty, Nevada",earthquake,,10.0,0.21,16.0,automatic,nn,nn
 2025-09-10T03:07:52.350Z,19.162333333333,-64.5555,32.62,3.12,md,11.0,277.0,0.6841,0.55,pr,pr71495253,2025-09-10T09:03:41.720Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.72,26.77,0.20161493424294,9.0,reviewed,pr,pr
 2025-09-09T18:15:23.882Z,32.353,-102.067,6.9824,0.6,ml,13.0,72.0,0.0,0.1,tx,tx2025rudphr,2025-09-10T09:06:24.790Z,"36 km NW of Stanton, Texas",earthquake,0.47331976444782,0.66739788971361,0.2,11.0,reviewed,tx,tx
+2025-09-10T09:31:23.298Z,31.69,-103.83,5.0,1.7,ml,13.0,188.0,0.1,0.5,tx,tx2025rvhyar,2025-09-10T09:36:31.366Z,"21 km W of Mentone, Texas",earthquake,0.0,,0.1,8.0,automatic,tx,tx
+2025-09-10T09:30:55.582Z,32.092,-102.023,4.1565,2.9,ml,75.0,36.0,0.1,0.5,tx,tx2025rvhxtv,2025-09-10T09:36:29.040Z,"11 km NNE of Midland, Texas",earthquake,0.0,0.65903007984161,0.2,44.0,automatic,tx,tx
