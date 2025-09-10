@@ -12846,3 +12846,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T06:14:52.460Z,32.1851667,-117.6953333,15.63,2.75,ml,19.0,271.0,0.4428,0.29,ci,ci41287880,2025-09-10T14:47:39.203Z,"64 km WSW of Rosarito, B.C., MX",earthquake,1.01,2.25,0.142,94.0,reviewed,ci,ci
 2025-09-09T21:03:21.879Z,28.377,-99.744,4.9539,1.9,ml,8.0,112.0,0.3,0.2,tx,tx2025rujdon,2025-09-10T14:43:02.838Z,"7 km SSE of Asherton, Texas",earthquake,6.0698911271727,3.1440331809019,0.2,6.0,reviewed,tx,tx
 2025-09-09T15:21:34.306Z,41.2198,-116.669,12.098,2.6,ml,9.0,97.0,0.893,0.79,us,us7000qv0i,2025-09-10T14:45:41.040Z,"61 km NE of Valmy, Nevada",earthquake,3.25,7.259,0.032,126.0,reviewed,us,us
+2025-09-10T15:08:52.494Z,62.6409,-149.936,73.5,2.1,ml,,,,0.69,ak,ak025bmny4sh,2025-09-10T15:11:20.255Z,"23 km NNE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-09-10T15:08:49.941Z,61.7967,-149.5432,4.6,1.8,ml,,,,0.78,ak,ak025bmny2x1,2025-09-10T15:11:23.162Z,"17 km WNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-10T15:04:34.117Z,37.5798,-117.8833,4.3,1.5,ml,10.0,150.07,0.223,0.2821,nn,nn00904088,2025-09-10T15:07:23.542Z,"18 km ESE of Dyer, Nevada",earthquake,,2.0,0.28,8.0,automatic,nn,nn
+2025-09-09T15:50:01.408Z,42.5239,-126.4272,10.0,2.7,ml,55.0,225.0,1.554,0.88,us,us7000qv0q,2025-09-10T15:08:56.040Z,"160 km W of Port Orford, Oregon",earthquake,6.79,2.01,0.035,110.0,reviewed,us,us
