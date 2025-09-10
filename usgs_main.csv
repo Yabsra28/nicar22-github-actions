@@ -12784,3 +12784,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T22:04:16.968Z,32.43,-102.075,8.6426,0.9,ml,17.0,78.0,0.0,0.1,tx,tx2025rulebs,2025-09-10T08:07:22.793Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.53713384309247,0.77684717666458,0.1,11.0,reviewed,tx,tx
 2025-09-10T08:43:23.240Z,38.824165344238,-122.84666442871,1.7999999523163,0.64,md,11.0,88.0,0.008659,0.02,nc,nc75235877,2025-09-10T08:44:57.488Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.670000017,0.23,11.0,automatic,nc,nc
 2025-09-10T08:22:52.968Z,69.2314,-146.9565,0.0,2.8,ml,,,,0.86,ak,ak025bmjv3m4,2025-09-10T08:26:39.799Z,"126 km SSE of Prudhoe Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-10T08:46:14.987Z,63.5522,-150.8462,0.0,1.8,ml,,,,0.74,ak,ak025bmk05ve,2025-09-10T08:48:14.716Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
