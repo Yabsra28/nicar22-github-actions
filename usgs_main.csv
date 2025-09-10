@@ -12862,3 +12862,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T23:50:33.630Z,41.675,-111.70133333333,15.8,0.75,md,12.0,70.0,0.1109,0.09,uu,uu80004758,2025-09-10T16:00:49.360Z,"10 km E of Millville, Utah",earthquake,0.34,0.74,0.084370537982433,10.0,reviewed,uu,uu
 2025-09-10T16:21:36.993Z,61.5283,-147.7981,22.9,1.6,ml,,,,0.86,ak,ak025bmombib,2025-09-10T16:23:21.962Z,"32 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T16:19:17.630Z,33.9365005,-117.1971664,13.94,1.25,ml,16.0,110.0,0.02299,0.1,ci,ci41288168,2025-09-10T16:21:34.202Z,"3 km ENE of Moreno Valley, CA",earthquake,0.4,0.68,0.46,6.0,automatic,ci,ci
+2025-09-10T16:56:01.170Z,60.2219,-152.7458,103.8,2.0,ml,,,,0.32,ak,ak025bmotqt1,2025-09-10T17:07:42.040Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-10T16:41:25.320Z,33.5875,-116.6198333,12.81,0.33,ml,13.0,78.0,0.02262,0.12,ci,ci41288216,2025-09-10T16:58:36.605Z,"6 km NE of Anza, CA",earthquake,0.3,0.46,0.1,4.0,reviewed,ci,ci
