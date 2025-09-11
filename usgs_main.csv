@@ -13043,3 +13043,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T11:36:05.445Z,31.662,-104.412,4.097,2.2,ml,33.0,71.0,0.0,0.4,tx,tx2025rxhule,2025-09-11T11:41:31.305Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.009149312973,0.1,24.0,automatic,tx,tx
 2025-09-11T11:51:24.111Z,60.1057,-139.7641,1.1,1.9,ml,,,,1.15,ak,ak025bo9cwgr,2025-09-11T11:54:05.282Z,"62 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-11T11:47:52.570Z,36.0908333,-117.6143333,2.66,1.06,ml,21.0,68.0,0.1067,0.14,ci,ci41288912,2025-09-11T11:51:25.659Z,"30 km E of Coso Junction, CA",earthquake,0.22,0.75,0.091,18.0,automatic,ci,ci
+2025-09-11T12:35:15.910Z,33.2673333,-116.4263333,4.66,1.04,ml,50.0,34.0,0.007734,0.21,ci,ci41288936,2025-09-11T12:38:52.194Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.35,0.181,26.0,automatic,ci,ci
+2025-09-11T12:01:18.510Z,33.6528333,-116.9505,12.34,1.28,ml,66.0,22.0,0.04077,0.2,ci,ci41288928,2025-09-11T12:12:04.630Z,"11 km S of Hemet, CA",earthquake,0.15,0.34,0.22,27.0,automatic,ci,ci
+2025-09-11T11:56:23.204Z,66.3707,-157.5142,11.5,2.8,ml,,,,0.9,ak,ak025bo9dyz4,2025-09-11T12:00:11.160Z,"60 km SSW of Shungnak, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-11T11:17:03.720Z,35.3235,-97.93966667,7.12,1.27,ml,58.0,98.0,0.06928640364,0.29,ok,ok2025rvcp,2025-09-11T12:14:04.351Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.4,0.21,25.0,reviewed,ok,ok
+2025-09-11T11:05:34.250Z,35.3245,-97.94,6.34,0.94,ml,48.0,64.0,0.06838658022,0.21,ok,ok2025rvcg,2025-09-11T12:33:46.071Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.4,0.23,24.0,reviewed,ok,ok
+2025-09-11T06:21:10.840Z,36.028,-82.254166666667,5.05,1.81,md,7.0,141.0,0.3716,0.16,se,se60504108,2025-09-11T12:43:07.470Z,"8 km W of Bakersville, North Carolina",earthquake,0.65,3.22,0.072829197746307,7.0,reviewed,se,se
+2025-09-11T03:37:20.518Z,36.6387,-116.2787,5.9,0.1,ml,8.0,213.84,0.049,0.0597,nn,nn00904148,2025-09-11T12:15:33.785Z,"52 km SE of Beatty, Nevada",earthquake,,2.0,0.17,2.0,reviewed,nn,nn
+2025-09-11T03:24:15.953Z,36.7045,-116.3056,9.0,-0.5,ml,12.0,123.27,0.027,0.0643,nn,nn00904147,2025-09-11T12:12:28.425Z,"46 km ESE of Beatty, Nevada",earthquake,,1.0,0.08,2.0,reviewed,nn,nn
