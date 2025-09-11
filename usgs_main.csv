@@ -13068,3 +13068,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T17:36:27.769Z,34.50033333,-97.20816667,0.0,1.38,ml,24.0,81.0,0.1376729839,0.44,ok,ok2025rttq,2025-09-11T13:20:25.946Z,"8 km W of Davis, Oklahoma",quarry blast,,0.8,0.2,11.0,reviewed,ok,ok
 2025-09-10T15:40:42.079Z,36.31033333,-95.18183333,0.0,1.45,ml,14.0,185.0,0.188962919,0.85,ok,ok2025rtpu,2025-09-11T13:28:43.240Z,"3 km NW of Salina, Oklahoma",quarry blast,,1.6,0.18,5.0,reviewed,ok,ok
 2025-09-10T14:23:38.950Z,35.61066667,-98.05,6.77,1.63,ml,50.0,57.0,0.1520701586,0.14,ok,ok2025rtng,2025-09-11T13:36:28.912Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.22,18.0,reviewed,ok,ok
+2025-09-11T13:40:57.466Z,31.525,-104.175,4.3301,1.4,ml,29.0,75.0,0.1,0.4,tx,tx2025rxlyci,2025-09-11T13:45:33.648Z,"43 km WNW of Toyah, Texas",earthquake,0.0,1.1211857795715,0.2,21.0,automatic,tx,tx
+2025-09-11T13:35:02.485Z,61.4395,-152.0566,105.6,2.0,ml,,,,0.31,ak,ak025boagajs,2025-09-11T13:37:20.373Z,"61 km WNW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-09-11T13:26:56.220Z,44.8,-110.85066666667,6.01,2.11,ml,25.0,79.0,0.01167,0.16,uu,uu80117196,2025-09-11T13:41:53.360Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.3,0.64,0.3871221857916,11.0,reviewed,uu,uu
+2025-09-11T11:14:43.940Z,40.496833333333,-112.16483333333,-0.19,1.14,md,20.0,56.0,0.06986,0.21,uu,uu80117191,2025-09-11T13:37:34.450Z,"7 km SSW of Bingham Canyon, Utah",earthquake,0.42,1.21,0.36507149114744,10.0,reviewed,uu,uu
+2025-09-11T07:26:24.833Z,32.397,-102.144,6.8848,0.7,ml,21.0,54.0,0.0,0.1,tx,tx2025rwzndl,2025-09-11T13:36:05.142Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.57004553812558,0.50687784753657,0.0,7.0,reviewed,tx,tx
+2025-09-10T18:33:54.462Z,32.258,-101.934,5.6152,0.7,ml,18.0,70.0,0.0,0.1,tx,tx2025rvzxrd,2025-09-11T13:38:20.146Z,"19 km NW of Stanton, Texas",earthquake,0.40185697069141,1.3702238742493,0.1,14.0,reviewed,tx,tx
+2025-09-10T17:22:27.446Z,32.108,-101.92,6.7627,0.8,ml,13.0,78.0,0.1,0.1,tx,tx2025rvxocl,2025-09-11T13:41:11.793Z,"12 km W of Stanton, Texas",earthquake,1.94025831066,1.4663704384168,0.2,11.0,reviewed,tx,tx
