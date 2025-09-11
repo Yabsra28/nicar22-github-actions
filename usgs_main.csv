@@ -13151,3 +13151,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T18:40:59.580Z,33.6618333,-116.7525,15.31,0.7,ml,32.0,35.0,0.06601,0.15,ci,ci41289232,2025-09-11T18:44:31.563Z,"9 km SSW of Idyllwild, CA",earthquake,0.25,0.41,0.165,16.0,automatic,ci,ci
 2025-09-11T18:27:13.412Z,51.5107,159.4531,10.0,4.7,mb,34.0,137.0,1.593,0.87,us,us7000qvit,2025-09-11T18:48:45.040Z,"173 km SSE of Vilyuchinsk, Russia",earthquake,9.64,1.65,0.096,33.0,reviewed,us,us
 2025-09-11T02:51:04.120Z,46.214666666667,-122.15866666667,6.43,-0.13,md,7.0,114.0,0.03369,0.03,uw,uw62178772,2025-09-11T18:45:35.400Z,"39 km SSE of Morton, Washington",earthquake,0.48,0.45,0.13510905965648,4.0,reviewed,uw,uw
+2025-09-11T19:04:09.808Z,32.106,-102.133,4.2888,2.1,ml,67.0,33.0,0.0,0.4,tx,tx2025rxwqqc,2025-09-11T19:07:59.556Z,"13 km NNW of Midland, Texas",earthquake,0.0,0.63210290670395,0.2,43.0,automatic,tx,tx
+2025-09-11T19:01:49.846Z,32.111,-102.147,4.1207,1.7,ml,22.0,71.0,0.0,0.4,tx,tx2025rxwone,2025-09-11T19:06:18.255Z,"14 km NNW of Midland, Texas",earthquake,0.0,1.5772840976715,0.1,6.0,automatic,tx,tx
+2025-09-11T19:00:25.524Z,32.109,-102.145,4.1012,2.8,ml,78.0,40.0,0.0,0.4,tx,tx2025rxwniy,2025-09-11T19:06:24.425Z,"13 km NNW of Midland, Texas",earthquake,0.0,0.60560816526413,0.2,54.0,automatic,tx,tx
+2025-09-11T18:55:56.434Z,59.6238,-152.9735,89.8,2.2,ml,,,,0.38,ak,ak025bodjv27,2025-09-11T19:05:15.040Z,"66 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-11T18:02:36.150Z,31.664,-104.37,3.19,1.8,ml,15.0,146.0,0.0,0.4,tx,tx2025rxupou,2025-09-11T19:00:59.767Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.8152681589127,0.2,12.0,automatic,tx,tx
+2025-09-11T18:02:36.141Z,31.661,-104.377,3.7212,1.8,ml,25.0,87.0,0.0,0.4,tx,tx2025rxupkv,2025-09-11T19:04:52.052Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.1634001731873,0.2,16.0,automatic,tx,tx
