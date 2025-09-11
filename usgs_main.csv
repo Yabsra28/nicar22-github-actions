@@ -13039,3 +13039,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T11:22:09.420Z,33.2865,-115.6783333,6.2,1.35,ml,39.0,69.0,0.08366,0.21,ci,ci41288904,2025-09-11T11:25:41.807Z,"9 km SE of Bombay Beach, CA",earthquake,0.26,1.16,0.19,26.0,automatic,ci,ci
 2025-09-11T11:15:19.176Z,60.8976,-150.9084,15.1,1.4,ml,,,,0.25,ak,ak025bo956b1,2025-09-11T11:16:45.438Z,"12 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-11T09:43:35.559Z,49.7853,155.8372,61.18,4.5,mb,63.0,126.0,3.525,0.63,us,us7000qvem,2025-09-11T11:16:46.040Z,"101 km SSW of Severo-Kuril’sk, Russia",earthquake,10.14,7.209,0.05,118.0,reviewed,us,us
+2025-09-11T11:45:04.884Z,39.5754,-120.0577,8.0,0.9,ml,10.0,99.24,0.081,0.1173,nn,nn00904145,2025-09-11T11:47:08.246Z,"6 km NW of Verdi, California",earthquake,,1.2,0.1,7.0,automatic,nn,nn
+2025-09-11T11:36:05.445Z,31.662,-104.412,4.097,2.2,ml,33.0,71.0,0.0,0.4,tx,tx2025rxhule,2025-09-11T11:41:31.305Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.009149312973,0.1,24.0,automatic,tx,tx
