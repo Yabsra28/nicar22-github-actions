@@ -12981,3 +12981,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T05:06:44.390Z,38.813835144043,-122.79866790772,3.25,0.78,md,18.0,57.0,0.006421,0.01,nc,nc75236222,2025-09-11T05:08:20.838Z,"5 km NNW of The Geysers, CA",earthquake,0.29,0.529999971,0.08,18.0,automatic,nc,nc
 2025-09-11T04:57:59.310Z,36.580665588379,-121.16033172607,9.039999961853,1.66,md,24.0,58.0,0.02208,0.26,nc,nc75236212,2025-09-11T04:59:36.294Z,"6 km  of Pinnacles, CA",earthquake,0.51,1.35000002,0.19,16.0,automatic,nc,nc
 2025-09-11T04:54:11.361Z,36.4322,-116.5858,3.9,0.8,ml,21.0,131.82,0.155,0.1815,nn,nn00904138,2025-09-11T04:56:18.595Z,"24 km E of Furnace Creek, California",earthquake,,17.3,0.17,14.0,automatic,nn,nn
+2025-09-11T05:24:02.830Z,35.1635,-119.235,21.97,1.4,ml,36.0,41.0,0.1522,0.21,ci,ci41288760,2025-09-11T05:27:22.662Z,"19 km NE of Maricopa, CA",earthquake,0.26,0.8,0.243,27.0,automatic,ci,ci
+2025-09-11T05:14:18.200Z,63.0947,-151.4245,1.5,1.6,ml,,,,0.72,ak,ak025bo5kcvw,2025-09-11T05:16:16.619Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T05:05:54.396Z,51.4168,159.6228,35.508,4.8,mb,34.0,98.0,1.717,0.71,us,us7000qvdq,2025-09-11T05:30:45.040Z,"187 km SSE of Vilyuchinsk, Russia",earthquake,9.55,6.768,0.103,29.0,reviewed,us,us
+2025-09-11T04:54:21.990Z,51.5117,159.8403,10.0,5.3,mb,61.0,121.0,1.681,1.18,us,us7000qvdj,2025-09-11T05:13:57.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.97,1.873,0.039,222.0,reviewed,us,us
+2025-09-11T04:53:55.986Z,51.4916,159.6916,10.0,5.0,mb,33.0,164.0,1.662,1.41,us,us7000qvdn,2025-09-11T05:21:46.040Z,"182 km SSE of Vilyuchinsk, Russia",earthquake,10.6,1.9,0.072,62.0,reviewed,us,us
