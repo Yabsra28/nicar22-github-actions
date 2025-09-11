@@ -13031,3 +13031,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T10:23:41.435Z,63.2203,-150.7019,115.4,1.4,ml,,,,0.32,ak,ak025bo8li5b,2025-09-11T10:25:34.557Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-09-11T10:08:11.849Z,-3.7084,-103.0068,10.0,4.9,mb,68.0,147.0,13.062,0.88,us,us7000qveq,2025-09-11T10:27:38.040Z,central East Pacific Rise,earthquake,7.74,1.87,0.028,411.0,reviewed,us,us
 2025-09-11T10:07:53.036Z,59.5094,-153.8121,133.2,1.9,ml,,,,0.53,ak,ak025bo8i3l3,2025-09-11T10:10:38.480Z,"35 km SSE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-11T11:06:45.128Z,61.8178,-150.7476,65.6,1.7,ml,,,,0.42,ak,ak025bo93av4,2025-09-11T11:08:44.046Z,"32 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-11T11:04:38.795Z,29.313,-97.339,10.236,1.6,ml,7.0,105.0,0.1,0.5,tx,tx2025rxgtkp,2025-09-11T11:06:29.141Z,"18 km W of Yoakum, Texas",earthquake,0.0,8.161961555481,0.1,7.0,automatic,tx,tx
+2025-09-11T11:00:25.330Z,40.337001800537,-124.81066894531,14.989999771118,2.93,md,59.0,236.0,0.3612,0.19,nc,nc75236307,2025-09-11T11:07:20.560Z,"45 km WNW of Petrolia, CA",earthquake,1.44,1.15999997,0.12,33.0,automatic,nc,nc
+2025-09-11T10:52:00.160Z,33.9735,-116.7506667,10.03,0.54,ml,30.0,78.0,0.07767,0.12,ci,ci41288896,2025-09-11T10:59:48.665Z,"7 km NNE of Cabazon, CA",earthquake,0.18,0.34,0.122,13.0,automatic,ci,ci
+2025-09-11T10:40:40.533Z,51.3877,159.5975,36.118,4.9,mb,58.0,122.0,1.739,1.1,us,us7000qves,2025-09-11T11:06:56.040Z,"190 km SSE of Vilyuchinsk, Russia",earthquake,8.53,6.905,0.05,125.0,reviewed,us,us
