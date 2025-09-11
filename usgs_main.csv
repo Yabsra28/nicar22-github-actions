@@ -13127,3 +13127,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T16:30:38.540Z,19.083666666667,-66.999833333333,9.52,3.07,md,9.0,313.0,0.6219,0.31,pr,pr71495353,2025-09-11T16:52:22.340Z,"64 km N of Isabela, Puerto Rico",earthquake,4.2,6.05,0.074134407825385,6.0,reviewed,pr,pr
 2025-09-10T22:06:58.161Z,31.677,-104.422,6.7664,1.0,ml,16.0,79.0,0.0,0.2,tx,tx2025rwgzer,2025-09-11T17:05:25.274Z,"55 km S of Whites City, New Mexico",earthquake,0.92674155046595,0.64517824710524,0.1,14.0,reviewed,tx,tx
 2025-09-10T17:55:01.604Z,31.677,-104.415,5.2283,1.0,ml,11.0,76.0,0.0,0.1,tx,tx2025rvypvx,2025-09-11T17:00:59.242Z,"55 km S of Whites City, New Mexico",earthquake,0.92204158889443,0.68381847912044,0.2,16.0,reviewed,tx,tx
+2025-09-11T17:30:59.260Z,33.2501678,-116.2779999,10.97,1.22,ml,34.0,67.0,0.06075,0.21,ci,ci41289160,2025-09-11T17:33:04.758Z,"9 km E of Borrego Springs, CA",earthquake,0.34,0.58,0.308,6.0,automatic,ci,ci
+2025-09-11T17:15:50.110Z,18.862,-67.321166666667,8.94,2.96,md,12.0,222.0,0.44,0.14,pr,pr71495363,2025-09-11T17:32:23.710Z,"47 km NNW of San Antonio, Puerto Rico",earthquake,0.63,0.68,0.073916741141136,9.0,reviewed,pr,pr
