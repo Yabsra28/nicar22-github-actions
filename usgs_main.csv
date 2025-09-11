@@ -13036,3 +13036,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T11:00:25.330Z,40.337001800537,-124.81066894531,14.989999771118,2.93,md,59.0,236.0,0.3612,0.19,nc,nc75236307,2025-09-11T11:07:20.560Z,"45 km WNW of Petrolia, CA",earthquake,1.44,1.15999997,0.12,33.0,automatic,nc,nc
 2025-09-11T10:52:00.160Z,33.9735,-116.7506667,10.03,0.54,ml,30.0,78.0,0.07767,0.12,ci,ci41288896,2025-09-11T10:59:48.665Z,"7 km NNE of Cabazon, CA",earthquake,0.18,0.34,0.122,13.0,automatic,ci,ci
 2025-09-11T10:40:40.533Z,51.3877,159.5975,36.118,4.9,mb,58.0,122.0,1.739,1.1,us,us7000qves,2025-09-11T11:06:56.040Z,"190 km SSE of Vilyuchinsk, Russia",earthquake,8.53,6.905,0.05,125.0,reviewed,us,us
+2025-09-11T11:22:09.420Z,33.2865,-115.6783333,6.2,1.35,ml,39.0,69.0,0.08366,0.21,ci,ci41288904,2025-09-11T11:25:41.807Z,"9 km SE of Bombay Beach, CA",earthquake,0.26,1.16,0.19,26.0,automatic,ci,ci
+2025-09-11T11:15:19.176Z,60.8976,-150.9084,15.1,1.4,ml,,,,0.25,ak,ak025bo956b1,2025-09-11T11:16:45.438Z,"12 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T09:43:35.559Z,49.7853,155.8372,61.18,4.5,mb,63.0,126.0,3.525,0.63,us,us7000qvem,2025-09-11T11:16:46.040Z,"101 km SSW of Severo-Kuril’sk, Russia",earthquake,10.14,7.209,0.05,118.0,reviewed,us,us
