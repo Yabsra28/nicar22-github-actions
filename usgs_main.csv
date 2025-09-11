@@ -13058,3 +13058,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T21:22:18.839Z,35.32683333,-97.939,8.5,0.95,ml,24.0,87.0,0.06568710995,0.11,ok,ok2025rubb,2025-09-11T13:11:28.996Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,10.0,reviewed,ok,ok
 2025-09-10T20:07:11.990Z,35.7605,-83.998666666667,9.91,1.51,md,8.0,105.0,0.174,0.14,se,se60613756,2025-09-11T13:08:56.030Z,"2 km W of Maryville, Tennessee",earthquake,0.35,0.99,0.11384880670644,5.0,reviewed,se,se
 2025-09-10T18:40:29.530Z,35.131833333333,-82.8685,0.03,2.11,md,7.0,78.0,0.0692,0.29,se,se60504103,2025-09-11T13:15:57.580Z,"4 km WSW of Rosman, North Carolina",earthquake,1.56,6.84,0.060892272566023,6.0,reviewed,se,se
+2025-09-11T13:33:36.994Z,61.035,-148.9283,17.1,1.2,ml,,,,0.22,ak,ak025boafxs3,2025-09-11T13:35:11.153Z,"16 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T13:28:26.218Z,61.7912,-152.1337,115.9,1.7,ml,,,,0.3,ak,ak025boaeud9,2025-09-11T13:29:58.251Z,"44 km WSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-11T13:20:57.070Z,38.828998565674,-122.86666870117,2.4100000858307,0.4,md,10.0,114.0,0.007788,0.02,nc,nc75236327,2025-09-11T13:22:31.432Z,"11 km NW of The Geysers, CA",earthquake,0.45,0.949999988,0.28,10.0,automatic,nc,nc
+2025-09-11T13:15:58.161Z,62.571,-149.7489,10.1,1.4,ml,,,,0.35,ak,ak025boac4iw,2025-09-11T13:17:41.472Z,"22 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-11T08:46:30.551Z,31.969,-101.969,8.374,0.6,ml,20.0,46.0,0.1,0.1,tx,tx2025rxceje,2025-09-11T13:33:38.302Z,"10 km ESE of Midland, Texas",earthquake,0.55387669248273,1.3353616188176,0.1,16.0,reviewed,tx,tx
+2025-09-11T07:42:28.090Z,44.5665,-112.20466666667,4.81,1.49,ml,22.0,105.0,0.1381,0.14,mb,mb90111233,2025-09-11T13:26:40.020Z,"22 km N of Spencer, Idaho",earthquake,0.33,7.62,0.23319984376633,26.0,reviewed,mb,mb
+2025-09-10T21:29:26.130Z,36.4975,-89.543666666667,8.42,1.84,md,30.0,57.0,0.04144,0.08,nm,nm60613766,2025-09-11T13:31:24.180Z,"6 km ESE of Marston, Missouri",earthquake,0.14,0.39,0.095644486747034,23.0,reviewed,nm,nm
+2025-09-10T17:36:27.769Z,34.50033333,-97.20816667,0.0,1.38,ml,24.0,81.0,0.1376729839,0.44,ok,ok2025rttq,2025-09-11T13:20:25.946Z,"8 km W of Davis, Oklahoma",quarry blast,,0.8,0.2,11.0,reviewed,ok,ok
+2025-09-10T15:40:42.079Z,36.31033333,-95.18183333,0.0,1.45,ml,14.0,185.0,0.188962919,0.85,ok,ok2025rtpu,2025-09-11T13:28:43.240Z,"3 km NW of Salina, Oklahoma",quarry blast,,1.6,0.18,5.0,reviewed,ok,ok
+2025-09-10T14:23:38.950Z,35.61066667,-98.05,6.77,1.63,ml,50.0,57.0,0.1520701586,0.14,ok,ok2025rtng,2025-09-11T13:36:28.912Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.22,18.0,reviewed,ok,ok
