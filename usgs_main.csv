@@ -13078,3 +13078,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T13:50:32.620Z,40.849334716797,-123.67199707031,22.10000038147,1.73,md,7.0,99.0,0.1978,0.09,nc,nc75236347,2025-09-11T13:52:10.717Z,"11 km SSW of Willow Creek, CA",earthquake,0.73,1.49000001,0.09,2.0,automatic,nc,nc
 2025-09-11T13:48:18.417Z,31.64,-104.389,3.8143,1.7,ml,23.0,76.0,0.0,0.4,tx,tx2025rxmelm,2025-09-11T13:52:07.570Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.174859046936,0.1,19.0,automatic,tx,tx
 2025-09-11T13:19:49.580Z,17.991,-66.814166666667,12.39,2.36,md,9.0,141.0,0.05475,0.14,pr,pr71495338,2025-09-11T13:47:59.400Z,"0 km ESE of Indios, Puerto Rico",earthquake,0.44,0.59,0.094540814850036,4.0,reviewed,pr,pr
+2025-09-11T14:06:38.537Z,61.4296,-149.9294,33.1,1.6,ml,,,,0.54,ak,ak025boavl65,2025-09-11T14:08:29.422Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T14:04:22.482Z,63.098,-144.2957,7.2,1.9,ml,,,,0.85,ak,ak025boav4i0,2025-09-11T14:07:10.705Z,"33 km NW of Mentasta Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-11T14:02:17.660Z,35.7653333,-117.5778333,6.24,0.93,ml,20.0,60.0,0.05278,0.13,ci,ci41288952,2025-09-11T14:08:51.291Z,"16 km W of Searles Valley, CA",earthquake,0.2,0.43,0.261,16.0,automatic,ci,ci
+2025-09-11T09:13:18.708Z,31.646,-104.137,2.1521,1.0,ml,20.0,52.0,0.1,0.1,tx,tx2025rxdbmd,2025-09-11T14:13:55.765Z,"49 km NW of Toyah, Texas",earthquake,0.47715113729542,0.98607484693495,0.2,19.0,reviewed,tx,tx
+2025-09-10T23:37:13.332Z,31.657,-104.314,7.5354,1.0,ml,15.0,68.0,0.0,0.1,tx,tx2025rwjzbb,2025-09-11T14:02:24.631Z,"57 km S of Whites City, New Mexico",earthquake,1.0320670689114,0.91998750986599,0.2,19.0,reviewed,tx,tx
+2025-09-10T22:54:30.272Z,31.647,-104.256,7.5867,1.1,ml,22.0,67.0,0.0,0.1,tx,tx2025rwiofr,2025-09-11T14:22:36.804Z,"57 km NW of Toyah, Texas",earthquake,0.98695157610342,1.2824500106453,0.2,22.0,reviewed,tx,tx
