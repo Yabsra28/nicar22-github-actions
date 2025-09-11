@@ -13023,3 +13023,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T08:54:38.740Z,33.2543333,-116.3688333,4.4,0.64,ml,43.0,52.0,0.04279,0.21,ci,ci41288872,2025-09-11T08:58:06.018Z,"1 km ESE of Borrego Springs, CA",earthquake,0.24,0.44,0.133,17.0,automatic,ci,ci
 2025-09-11T08:51:43.620Z,36.1908333,-118.3066667,5.52,0.91,ml,20.0,85.0,0.03904,0.17,ci,ci41288864,2025-09-11T08:55:12.551Z,"29 km WSW of Olancha, CA",earthquake,0.25,0.45,0.201,13.0,automatic,ci,ci
 2025-09-11T08:41:32.795Z,59.5747,-152.069,64.1,1.8,ml,,,,0.5,ak,ak025bo7ih5r,2025-09-11T08:51:04.743Z,"25 km NW of Seldovia, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-11T09:23:27.690Z,38.822166442871,-122.84166717529,1.6499999761581,0.33,md,7.0,81.0,0.005271,0.01,nc,nc75236297,2025-09-11T09:25:05.320Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.10000002,0.2,7.0,automatic,nc,nc
