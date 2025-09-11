@@ -13019,3 +13019,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T08:19:51.730Z,33.5325,-116.7103333,3.49,0.46,ml,22.0,74.0,0.0398,0.12,ci,ci41288848,2025-09-11T08:23:14.582Z,"4 km SW of Anza, CA",earthquake,0.17,0.39,0.099,14.0,automatic,ci,ci
 2025-09-11T08:15:25.264Z,62.4409,-150.5998,63.6,1.8,ml,,,,0.7,ak,ak025bo7cvym,2025-09-11T08:17:44.558Z,"10 km SE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-11T08:01:51.560Z,38.820835113525,-122.78283691406,1.289999961853,0.96,md,9.0,72.0,0.00775,0.08,nc,nc75236272,2025-09-11T08:17:21.383Z,"5 km W of Cobb, CA",earthquake,0.41,0.560000002,0.14,12.0,automatic,nc,nc
+2025-09-11T08:29:35.280Z,32.3343333,-115.061,11.29,2.6,ml,17.0,269.0,0.1205,0.3,ci,ci41288856,2025-09-11T08:33:09.897Z,"7 km NE of Guadalupe Victoria, B.C., MX",earthquake,1.47,0.98,0.192,26.0,automatic,ci,ci
