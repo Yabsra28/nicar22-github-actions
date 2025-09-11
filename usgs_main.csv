@@ -13041,3 +13041,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T09:43:35.559Z,49.7853,155.8372,61.18,4.5,mb,63.0,126.0,3.525,0.63,us,us7000qvem,2025-09-11T11:16:46.040Z,"101 km SSW of Severo-Kuril’sk, Russia",earthquake,10.14,7.209,0.05,118.0,reviewed,us,us
 2025-09-11T11:45:04.884Z,39.5754,-120.0577,8.0,0.9,ml,10.0,99.24,0.081,0.1173,nn,nn00904145,2025-09-11T11:47:08.246Z,"6 km NW of Verdi, California",earthquake,,1.2,0.1,7.0,automatic,nn,nn
 2025-09-11T11:36:05.445Z,31.662,-104.412,4.097,2.2,ml,33.0,71.0,0.0,0.4,tx,tx2025rxhule,2025-09-11T11:41:31.305Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.009149312973,0.1,24.0,automatic,tx,tx
+2025-09-11T11:51:24.111Z,60.1057,-139.7641,1.1,1.9,ml,,,,1.15,ak,ak025bo9cwgr,2025-09-11T11:54:05.282Z,"62 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-11T11:47:52.570Z,36.0908333,-117.6143333,2.66,1.06,ml,21.0,68.0,0.1067,0.14,ci,ci41288912,2025-09-11T11:51:25.659Z,"30 km E of Coso Junction, CA",earthquake,0.22,0.75,0.091,18.0,automatic,ci,ci
