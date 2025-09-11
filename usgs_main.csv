@@ -13075,3 +13075,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T07:26:24.833Z,32.397,-102.144,6.8848,0.7,ml,21.0,54.0,0.0,0.1,tx,tx2025rwzndl,2025-09-11T13:36:05.142Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.57004553812558,0.50687784753657,0.0,7.0,reviewed,tx,tx
 2025-09-10T18:33:54.462Z,32.258,-101.934,5.6152,0.7,ml,18.0,70.0,0.0,0.1,tx,tx2025rvzxrd,2025-09-11T13:38:20.146Z,"19 km NW of Stanton, Texas",earthquake,0.40185697069141,1.3702238742493,0.1,14.0,reviewed,tx,tx
 2025-09-10T17:22:27.446Z,32.108,-101.92,6.7627,0.8,ml,13.0,78.0,0.1,0.1,tx,tx2025rvxocl,2025-09-11T13:41:11.793Z,"12 km W of Stanton, Texas",earthquake,1.94025831066,1.4663704384168,0.2,11.0,reviewed,tx,tx
+2025-09-11T13:50:32.620Z,40.849334716797,-123.67199707031,22.10000038147,1.73,md,7.0,99.0,0.1978,0.09,nc,nc75236347,2025-09-11T13:52:10.717Z,"11 km SSW of Willow Creek, CA",earthquake,0.73,1.49000001,0.09,2.0,automatic,nc,nc
+2025-09-11T13:48:18.417Z,31.64,-104.389,3.8143,1.7,ml,23.0,76.0,0.0,0.4,tx,tx2025rxmelm,2025-09-11T13:52:07.570Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.174859046936,0.1,19.0,automatic,tx,tx
+2025-09-11T13:19:49.580Z,17.991,-66.814166666667,12.39,2.36,md,9.0,141.0,0.05475,0.14,pr,pr71495338,2025-09-11T13:47:59.400Z,"0 km ESE of Indios, Puerto Rico",earthquake,0.44,0.59,0.094540814850036,4.0,reviewed,pr,pr
