@@ -13051,3 +13051,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T06:21:10.840Z,36.028,-82.254166666667,5.05,1.81,md,7.0,141.0,0.3716,0.16,se,se60504108,2025-09-11T12:43:07.470Z,"8 km W of Bakersville, North Carolina",earthquake,0.65,3.22,0.072829197746307,7.0,reviewed,se,se
 2025-09-11T03:37:20.518Z,36.6387,-116.2787,5.9,0.1,ml,8.0,213.84,0.049,0.0597,nn,nn00904148,2025-09-11T12:15:33.785Z,"52 km SE of Beatty, Nevada",earthquake,,2.0,0.17,2.0,reviewed,nn,nn
 2025-09-11T03:24:15.953Z,36.7045,-116.3056,9.0,-0.5,ml,12.0,123.27,0.027,0.0643,nn,nn00904147,2025-09-11T12:12:28.425Z,"46 km ESE of Beatty, Nevada",earthquake,,1.0,0.08,2.0,reviewed,nn,nn
+2025-09-11T13:09:37.143Z,39.6576,-117.6751,10.8,1.9,ml,8.0,159.67,0.345,0.3046,nn,nn00904149,2025-09-11T13:12:28.981Z,"55 km WNW of Austin, Nevada",earthquake,,0.7,0.18,5.0,automatic,nn,nn
+2025-09-11T13:04:46.057Z,63.5631,-150.8033,7.0,1.4,ml,,,,0.68,ak,ak025boa9qpp,2025-09-11T13:06:44.405Z,"45 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T12:52:59.090Z,61.4254,-149.9069,33.6,2.7,ml,,,,0.2,ak,ak025bo9ymhh,2025-09-11T13:09:06.260Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-11T01:28:42.109Z,34.94133333,-97.77483333,7.96,0.91,ml,37.0,81.0,0.06118799283,0.32,ok,ok2025rujf,2025-09-11T12:55:51.726Z,"2 km N of Alex, Oklahoma",earthquake,,0.9,0.25,20.0,reviewed,ok,ok
+2025-09-10T21:22:18.839Z,35.32683333,-97.939,8.5,0.95,ml,24.0,87.0,0.06568710995,0.11,ok,ok2025rubb,2025-09-11T13:11:28.996Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,10.0,reviewed,ok,ok
+2025-09-10T20:07:11.990Z,35.7605,-83.998666666667,9.91,1.51,md,8.0,105.0,0.174,0.14,se,se60613756,2025-09-11T13:08:56.030Z,"2 km W of Maryville, Tennessee",earthquake,0.35,0.99,0.11384880670644,5.0,reviewed,se,se
+2025-09-10T18:40:29.530Z,35.131833333333,-82.8685,0.03,2.11,md,7.0,78.0,0.0692,0.29,se,se60504103,2025-09-11T13:15:57.580Z,"4 km WSW of Rosman, North Carolina",earthquake,1.56,6.84,0.060892272566023,6.0,reviewed,se,se
