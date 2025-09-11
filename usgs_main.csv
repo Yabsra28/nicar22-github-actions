@@ -13134,3 +13134,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T07:25:19.700Z,46.779333333333,-121.9885,6.92,0.55,ml,25.0,114.0,0.03924,0.09,uw,uw62178852,2025-09-11T17:44:00.310Z,"3 km NE of Ashford, Washington",earthquake,0.25,0.42,0.1221928806859,14.0,reviewed,uw,uw
 2025-09-11T05:59:07.236Z,31.662,-104.376,6.8176,1.1,ml,15.0,57.0,0.0,0.1,tx,tx2025rwwqcw,2025-09-11T17:44:28.498Z,"56 km S of Whites City, New Mexico",earthquake,1.3703117541419,1.0698614985975,0.2,19.0,reviewed,tx,tx
 2025-09-10T20:45:34.820Z,46.206833333333,-122.145,7.04,-0.22,md,10.0,134.0,0.01058,0.1,uw,uw62178512,2025-09-11T17:53:23.750Z,"40 km SSE of Morton, Washington",earthquake,0.48,0.52,0.16829026789806,6.0,reviewed,uw,uw
+2025-09-11T18:17:55.812Z,65.1039,-148.6744,13.3,1.2,ml,,,,0.54,ak,ak025bodbpst,2025-09-11T18:19:45.083Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-11T18:05:50.129Z,38.6276,-119.7654,0.0,1.3,ml,8.0,121.26,0.284,0.094,nn,nn00904157,2025-09-11T18:08:29.696Z,"7 km S of Markleeville, California",earthquake,,37.1,0.55,6.0,automatic,nn,nn
+2025-09-11T18:00:31.007Z,39.137,-119.0664,1.3,1.2,ml,8.0,84.15,0.203,0.285,nn,nn00904155,2025-09-11T18:02:49.850Z,"18 km NNE of Yerington, Nevada",earthquake,,6.0,0.3,5.0,automatic,nn,nn
+2025-09-11T17:45:09.238Z,51.6456,159.1928,37.957,4.6,mb,51.0,137.0,1.42,0.79,us,us7000qvin,2025-09-11T18:04:26.040Z,"152 km SSE of Vilyuchinsk, Russia",earthquake,11.52,7.645,0.072,57.0,reviewed,us,us
+2025-09-11T14:43:04.599Z,35.6145,-98.04916667,9.26,1.26,ml,29.0,69.0,0.1511703352,0.2,ok,ok2025rvjk,2025-09-11T17:57:23.697Z,"6 km ENE of Calumet, Oklahoma",earthquake,,1.9,0.27,12.0,reviewed,ok,ok
+2025-09-11T02:17:49.811Z,51.3435,-179.1966,18.3,2.1,ml,,,,0.75,ak,ak025bo3ss6i,2025-09-11T18:11:17.706Z,"187 km WSW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
