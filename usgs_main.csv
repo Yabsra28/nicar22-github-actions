@@ -12970,3 +12970,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T14:35:29.620Z,19.337666666667,-155.11483333333,6.89,1.28,ml,33.0,124.0,0.048,0.1,hv,hv74772462,2025-09-11T03:16:14.070Z,"14 km S of Fern Forest, Hawaii",earthquake,0.37,0.71,0.30124071746166,13.0,reviewed,hv,hv
 2025-09-11T03:23:18.258Z,31.476,-103.92,4.8532,1.6,ml,12.0,74.0,0.1,0.4,tx,tx2025rwrlwh,2025-09-11T03:27:24.287Z,"21 km NW of Toyah, Texas",earthquake,0.0,1.5594127178192,0.1,8.0,automatic,tx,tx
 2025-09-11T03:14:58.065Z,-9.6564,112.8505,35.0,4.9,mb,38.0,78.0,1.744,1.05,us,us7000qvd6,2025-09-11T03:28:16.040Z,"160 km S of Dampit, Indonesia",earthquake,7.02,1.95,0.096,34.0,reviewed,us,us
+2025-09-11T03:47:40.388Z,36.7008,-115.7056,9.2,1.4,ml,26.0,161.67,0.214,0.2754,nn,nn00904129,2025-09-11T03:51:47.938Z,"14 km NNW of Indian Springs, Nevada",earthquake,,1.2,0.28,18.0,automatic,nn,nn
+2025-09-11T03:35:12.298Z,51.5895,159.8937,10.0,5.2,mb,75.0,121.0,1.627,1.36,us,us7000qvdb,2025-09-11T03:53:12.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,8.42,1.869,0.029,386.0,reviewed,us,us
