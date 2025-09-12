@@ -13327,3 +13327,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T08:24:46.145Z,38.0249,-118.7905,8.7,1.1,ml,11.0,92.37,0.319,0.1716,nn,nn00904214,2025-09-12T08:27:14.004Z,"30 km ENE of Lee Vining, California",earthquake,,1.9,0.2,4.0,automatic,nn,nn
 2025-09-12T08:18:48.640Z,35.8598333,-118.4163333,5.62,0.97,ml,26.0,74.0,0.08648,0.16,ci,ci41289720,2025-09-12T08:22:13.013Z,"12 km N of Kernville, CA",earthquake,0.22,0.87,0.226,13.0,automatic,ci,ci
 2025-09-12T09:01:59.777Z,57.645,-156.3099,108.3,2.5,ml,,,,0.21,ak,ak025bpveqp5,2025-09-12T09:04:43.048Z,"66 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-12T09:27:03.872Z,61.8622,-150.5757,37.3,1.9,ml,,,,0.23,ak,ak025bpvk703,2025-09-12T09:29:06.776Z,"31 km WNW of Willow, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2025-09-12T09:24:20.796Z,65.004,-147.0696,6.5,1.1,ml,,,,0.33,ak,ak025bpvjl5r,2025-09-12T09:26:31.142Z,"14 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-12T09:06:45.960Z,18.022333333333,-66.754833333333,12.47,2.07,md,10.0,165.0,0.1189,0.13,pr,pr71495433,2025-09-12T09:25:46.270Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.42,0.7,0.2492870676884,8.0,reviewed,pr,pr
+2025-09-12T08:58:00.887Z,-21.7798,170.8323,174.862,4.7,mb,32.0,78.0,3.245,1.26,us,us7000qvnd,2025-09-12T09:18:13.040Z,"295 km SSE of Isangel, Vanuatu",earthquake,11.09,9.587,0.108,26.0,reviewed,us,us
