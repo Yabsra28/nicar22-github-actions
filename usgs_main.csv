@@ -13402,3 +13402,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T05:03:19.254Z,31.619,-104.126,6.5356,1.0,ml,14.0,57.0,0.0,0.1,tx,tx2025ryqmyp,2025-09-12T14:22:24.358Z,"46 km NW of Toyah, Texas",earthquake,0.62943816523624,0.9123387385583,0.1,12.0,reviewed,tx,tx
 2025-09-12T01:43:18.710Z,35.323,-97.94933333,9.39,1.33,ml,27.0,103.0,0.07198587392,0.07,ok,ok2025rwfe,2025-09-12T14:17:49.743Z,"1 km NNW of Minco, Oklahoma",earthquake,,0.4,0.13,11.0,reviewed,ok,ok
 2025-09-11T22:26:29.358Z,31.606,-104.187,6.0486,1.2,ml,18.0,70.0,0.1,0.1,tx,tx2025rydiqo,2025-09-12T14:19:08.348Z,"49 km NW of Toyah, Texas",earthquake,0.82578378808795,1.3269459855797,0.2,14.0,reviewed,tx,tx
+2025-09-12T14:34:48.575Z,32.114,-102.145,7.2968,1.2,ml,14.0,74.0,0.0,0.3,tx,tx2025rzjjrr,2025-09-12T14:38:30.413Z,"14 km NNW of Midland, Texas",earthquake,0.0,2.6248602867126,0.2,11.0,automatic,tx,tx
+2025-09-12T14:33:23.420Z,34.023,-116.6875,10.48,1.45,ml,63.0,33.0,0.03631,0.17,ci,ci41289888,2025-09-12T14:44:33.940Z,"10 km WSW of Morongo Valley, CA",earthquake,0.14,0.3,0.185,28.0,automatic,ci,ci
+2025-09-12T14:31:25.000Z,38.2001,-117.8266,1.0,1.6,ml,14.0,123.68,0.124,0.3506,nn,nn00904221,2025-09-12T14:34:17.229Z,"32 km SE of Mina, Nevada",earthquake,,3.6,0.48,6.0,automatic,nn,nn
+2025-09-12T09:47:57.040Z,44.763,-111.10883333333,11.73,0.78,ml,16.0,71.0,0.03321,0.15,uu,uu80117261,2025-09-12T14:37:25.940Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.41,0.75,0.15411043754878,4.0,reviewed,uu,uu
