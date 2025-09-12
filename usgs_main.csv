@@ -13284,3 +13284,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T05:59:08.945Z,42.816,-107.6885,9.177,2.9,ml,30.0,77.0,0.874,0.43,us,us7000qve0,2025-09-12T04:21:29.040Z,"37 km NNE of Jeffrey City, Wyoming",earthquake,4.09,8.588,0.045,66.0,reviewed,us,us
 2025-09-12T04:35:55.682Z,64.724,-150.7262,16.2,2.3,ml,,,,0.5,ak,ak025bpsmupc,2025-09-12T04:37:28.493Z,"31 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-12T04:29:36.860Z,38.816665649414,-122.81199645996,2.9000000953674,0.74,md,13.0,74.0,0.006885,0.01,nc,nc75236777,2025-09-12T04:31:11.488Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.930000007,0.08,13.0,automatic,nc,nc
+2025-09-12T04:41:45.830Z,35.8993333,-117.6748333,3.19,0.57,ml,18.0,54.0,0.05237,0.1,ci,ci41289624,2025-09-12T04:45:14.784Z,"21 km E of Little Lake, CA",earthquake,0.15,0.53,0.072,9.0,automatic,ci,ci
+2025-09-11T20:16:33.231Z,46.9901,-66.5535,5.0,2.3,mb_lg,11.0,63.0,0.443,0.74,us,us7000qvm8,2025-09-12T04:43:52.040Z,"80 km W of Miramichi, Canada",earthquake,3.33,1.996,0.228,5.0,reviewed,us,us
