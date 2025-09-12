@@ -13447,3 +13447,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T17:28:14.070Z,34.2446671,-116.439003,4.81,1.8,ml,61.0,44.0,0.05517,0.19,ci,ci41290040,2025-09-12T17:30:41.821Z,"14 km N of Yucca Valley, CA",earthquake,0.18,0.51,0.206,27.0,automatic,ci,ci
 2025-09-12T16:11:30.190Z,19.403,-155.28366666667,-1.14,1.17,ml,11.0,120.0,0.01213,0.38,hv,hv74774377,2025-09-12T17:21:20.140Z,"6 km SW of Volcano, Hawaii",earthquake,0.31,0.52,0.090318896483874,9.0,reviewed,hv,hv
 2025-09-12T17:36:21.820Z,36.88733291626,-121.6113357544,1.0299999713898,1.75,md,12.0,77.0,0.01579,0.06,nc,nc75236977,2025-09-12T17:37:56.983Z,"3 km ESE of Aromas, CA",earthquake,0.26,0.5,0.08,8.0,automatic,nc,nc
+2025-09-12T17:41:32.181Z,57.6199,-154.9921,19.4,1.8,ml,,,,0.85,ak,ak025bq0eq1u,2025-09-12T17:44:20.419Z,"32 km W of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-12T17:29:41.392Z,-10.655,165.1782,35.0,5.1,mb,80.0,100.0,5.155,0.74,us,us7000qvra,2025-09-12T17:49:28.040Z,"68 km W of Lata, Solomon Islands",earthquake,8.71,1.882,0.038,226.0,reviewed,us,us
