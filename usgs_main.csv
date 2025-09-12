@@ -13282,3 +13282,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T04:06:24.140Z,38.81583404541,-122.81133270264,2.7699999809265,1.09,md,27.0,45.0,0.007614,0.03,nc,nc75236757,2025-09-12T04:22:18.915Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.14,29.0,automatic,nc,nc
 2025-09-12T04:02:54.710Z,35.7083333,-117.5118333,6.78,1.91,ml,42.0,57.0,0.08371,0.15,ci,ci41289608,2025-09-12T04:13:44.640Z,"12 km SW of Searles Valley, CA",earthquake,0.14,0.48,0.248,25.0,automatic,ci,ci
 2025-09-11T05:59:08.945Z,42.816,-107.6885,9.177,2.9,ml,30.0,77.0,0.874,0.43,us,us7000qve0,2025-09-12T04:21:29.040Z,"37 km NNE of Jeffrey City, Wyoming",earthquake,4.09,8.588,0.045,66.0,reviewed,us,us
+2025-09-12T04:35:55.682Z,64.724,-150.7262,16.2,2.3,ml,,,,0.5,ak,ak025bpsmupc,2025-09-12T04:37:28.493Z,"31 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-12T04:29:36.860Z,38.816665649414,-122.81199645996,2.9000000953674,0.74,md,13.0,74.0,0.006885,0.01,nc,nc75236777,2025-09-12T04:31:11.488Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.930000007,0.08,13.0,automatic,nc,nc
