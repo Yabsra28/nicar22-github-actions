@@ -13331,3 +13331,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T09:24:20.796Z,65.004,-147.0696,6.5,1.1,ml,,,,0.33,ak,ak025bpvjl5r,2025-09-12T09:26:31.142Z,"14 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-12T09:06:45.960Z,18.022333333333,-66.754833333333,12.47,2.07,md,10.0,165.0,0.1189,0.13,pr,pr71495433,2025-09-12T09:25:46.270Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.42,0.7,0.2492870676884,8.0,reviewed,pr,pr
 2025-09-12T08:58:00.887Z,-21.7798,170.8323,174.862,4.7,mb,32.0,78.0,3.245,1.26,us,us7000qvnd,2025-09-12T09:18:13.040Z,"295 km SSE of Isangel, Vanuatu",earthquake,11.09,9.587,0.108,26.0,reviewed,us,us
+2025-09-12T09:35:12.310Z,36.320499420166,-120.92600250244,9.2600002288818,1.88,md,22.0,72.0,0.02273,0.06,nc,nc75236847,2025-09-12T09:36:49.416Z,"22 km ENE of King City, CA",earthquake,0.21,0.400000006,0.16,21.0,automatic,nc,nc
+2025-09-12T09:31:01.634Z,32.467,-102.04,3.9423,1.5,ml,49.0,85.0,0.1,0.4,tx,tx2025ryzjpv,2025-09-12T09:35:25.046Z,"30 km SSW of Los Ybanez, Texas",earthquake,0.0,0.78958070278168,0.2,31.0,automatic,tx,tx
