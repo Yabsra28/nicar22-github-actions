@@ -13456,3 +13456,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T17:53:15.550Z,33.469,-116.595,10.76,0.89,ml,39.0,43.0,0.02633,0.17,ci,ci41290048,2025-09-12T17:56:54.628Z,"12 km SE of Anza, CA",earthquake,0.18,0.38,0.173,26.0,automatic,ci,ci
 2025-09-12T17:52:08.760Z,38.825832366943,-122.81050109863,0.93999999761581,0.66,md,9.0,75.0,0.002457,0.02,nc,nc75236982,2025-09-12T17:53:46.907Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.670000017,0.26,10.0,automatic,nc,nc
 2025-09-12T17:46:45.705Z,-39.3932,-15.5552,10.0,5.2,mb,101.0,55.0,3.449,0.45,us,us7000qvrf,2025-09-12T18:06:16.040Z,Tristan da Cunha region,earthquake,9.56,1.853,0.057,103.0,reviewed,us,us
+2025-09-12T18:32:44.545Z,61.7816,-148.4047,8.8,1.9,ml,,,,0.86,ak,ak025bq0y95y,2025-09-12T18:34:39.458Z,"3 km ESE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-09-12T18:30:09.860Z,19.398166656494,-155.28700256348,-0.5799999833107,1.89,ml,19.0,45.0,0.01047,0.25999999,hv,hv74774467,2025-09-12T18:33:03.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.25999999,0.2,13.0,automatic,hv,hv
+2025-09-12T18:27:48.097Z,32.0,-101.789,5.0,1.6,ml,7.0,154.0,0.0,0.7,tx,tx2025rzreeh,2025-09-12T18:29:10.253Z,"14 km S of Stanton, Texas",earthquake,0.0,,0.4,5.0,automatic,tx,tx
+2025-09-12T18:27:26.630Z,33.3113333,-116.2381667,4.85,1.12,ml,51.0,24.0,0.07853,0.21,ci,ci41290080,2025-09-12T18:37:53.390Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.54,0.181,28.0,automatic,ci,ci
+2025-09-12T18:05:51.812Z,66.1212,-153.9589,40.1,2.7,ml,,,,1.14,ak,ak025bq0she5,2025-09-12T18:16:07.088Z,"15 km ENE of Hughes, Alaska",earthquake,,9.3,,,automatic,ak,ak
+2025-09-12T17:07:24.610Z,44.7575,-110.806,4.63,1.11,ml,16.0,80.0,0.04422,0.18,uu,uu80117276,2025-09-12T18:37:29.860Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.31,0.55,0.35535019059719,5.0,reviewed,uu,uu
