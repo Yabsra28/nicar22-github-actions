@@ -13270,3 +13270,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T03:14:17.004Z,61.6219,-149.9756,33.3,1.4,ml,,,,0.52,ak,ak025bprwu2s,2025-09-12T03:16:21.402Z,"8 km W of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-12T01:47:25.940Z,18.811333333333,-64.923666666667,22.74,3.34,md,15.0,224.0,0.4839,0.24,pr,pr71495403,2025-09-12T03:15:51.670Z,"51 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.41,16.11,0.07899599025468,4.0,reviewed,pr,pr
 2025-09-12T03:40:56.000Z,33.0201667,-116.283,5.04,0.73,ml,33.0,55.0,0.06759,0.18,ci,ci41289592,2025-09-12T03:44:21.910Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.23,0.46,0.224,12.0,automatic,ci,ci
+2025-09-12T03:54:34.338Z,63.4187,-151.1152,0.0,2.1,ml,,,,0.84,ak,ak025bps5g21,2025-09-12T03:57:07.503Z,"33 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-12T03:45:39.030Z,35.366,-117.8026667,3.54,0.79,ml,26.0,71.0,0.1045,0.15,ci,ci41289600,2025-09-12T03:49:08.492Z,"15 km W of Johannesburg, CA",earthquake,0.23,0.79,0.168,12.0,automatic,ci,ci
+2025-09-12T03:31:04.243Z,-56.3186,-27.81,10.0,5.3,mww,33.0,87.0,5.36,0.75,us,us7000qvly,2025-09-12T03:47:45.040Z,South Sandwich Islands region,earthquake,5.64,1.88,0.11,8.0,reviewed,us,us
