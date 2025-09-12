@@ -13424,3 +13424,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T17:58:43.212Z,31.676,-104.413,5.741,1.1,ml,15.0,86.0,0.0,0.1,tx,tx2025rxumda,2025-09-12T15:21:39.752Z,"55 km S of Whites City, New Mexico",earthquake,1.1847678120195,0.84637679806904,0.2,16.0,reviewed,tx,tx
 2025-09-12T15:38:51.560Z,33.252,-116.2543333,1.87,0.24,ml,9.0,201.0,0.05915,0.19,ci,ci41289936,2025-09-12T15:42:18.782Z,"11 km E of Borrego Springs, CA",earthquake,0.56,0.44,0.091,3.0,automatic,ci,ci
 2025-09-12T15:34:55.230Z,35.896,-117.6696667,4.18,0.04,ml,6.0,151.0,0.0541,0.03,ci,ci41289928,2025-09-12T15:38:18.745Z,"22 km ESE of Little Lake, CA",earthquake,0.32,0.48,0.037,3.0,automatic,ci,ci
+2025-09-12T15:46:30.870Z,40.728168487549,-121.52166748047,10.359999656677,2.22,md,20.0,97.0,0.09914,0.15,nc,nc75236962,2025-09-12T15:48:04.999Z,"21 km SSE of Burney, CA",earthquake,0.48,1.32000005,0.06,14.0,automatic,nc,nc
+2025-09-12T14:13:22.418Z,-52.8897,21.7826,10.0,4.6,mb,18.0,120.0,20.51,0.6,us,us7000qvpa,2025-09-12T15:45:24.040Z,south of Africa,earthquake,8.49,1.928,0.128,18.0,reviewed,us,us
