@@ -13516,3 +13516,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T21:08:56.855Z,63.3787,-145.5609,8.688,3.9,ml,68.0,31.0,0.413,1.17,us,us7000qvti,2025-09-12T21:22:40.040Z,"32 km N of Paxson, Alaska",earthquake,3.65,9.286,0.029,158.0,reviewed,us,us
 2025-09-12T20:53:07.387Z,52.0674,159.8441,25.394,5.2,mww,133.0,122.0,1.204,0.88,us,us7000qvtg,2025-09-12T21:09:25.040Z,"137 km SE of Vilyuchinsk, Russia",earthquake,8.66,5.258,0.098,10.0,reviewed,us,us
 2025-09-12T18:01:24.760Z,54.755833333333,-163.97866666667,-0.72,0.24,ml,6.0,88.0,0.0477,0.14,av,av93763713,2025-09-12T21:16:45.750Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.4,0.19638840575721,6.0,reviewed,av,av
+2025-09-12T21:30:23.851Z,63.345,-145.5496,3.5,1.2,ml,,,,0.84,ak,ak025bq2q2y9,2025-09-12T21:32:48.232Z,"28 km N of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-12T21:24:30.897Z,63.3362,-145.4652,16.8,2.7,ml,,,,0.2,ak,ak025bq2ot75,2025-09-12T21:25:52.414Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-12T21:08:56.456Z,63.3893,-145.4335,8.6,3.8,ml,,,,0.97,ak,ak025bq2lfn2,2025-09-12T21:29:49.859Z,"34 km NNE of Paxson, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-09-12T02:35:11.604Z,57.1728,-154.9991,35.0,2.7,ml,15.0,103.0,0.761,0.42,us,us7000qvmm,2025-09-12T21:35:53.040Z,"54 km SW of Karluk, Alaska",earthquake,3.05,1.999,0.064,32.0,reviewed,us,us
