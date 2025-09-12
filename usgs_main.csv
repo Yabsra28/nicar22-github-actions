@@ -13551,3 +13551,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T23:04:51.496Z,66.2205,-148.044,0.0,1.5,ml,,,,0.73,ak,ak025bq3rfod,2025-09-12T23:07:07.321Z,"32 km WSW of Beaver, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-12T22:45:24.800Z,18.9845,-65.013,48.35,3.08,md,11.0,255.0,0.6735,0.1,pr,pr71495478,2025-09-12T23:02:14.690Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.6,3.69,0.063910473105754,5.0,reviewed,pr,pr
 2025-09-12T14:03:48.508Z,32.104,-102.147,4.1512,1.3,mlv,31.0,47.0,0.0,0.5,tx,tx2025rzikkw,2025-09-12T23:13:48.005Z,"13 km NNW of Midland, Texas",earthquake,0.0,0.9790170788765,0.2,21.0,automatic,tx,tx
+2025-09-12T23:14:37.280Z,36.583831787109,-121.19533538818,1.4700000286102,1.39,md,8.0,84.0,0.01451,0.16,nc,nc75237082,2025-09-12T23:16:12.499Z,"7 km NNW of Pinnacles, CA",earthquake,0.66,0.660000026,0.12,9.0,automatic,nc,nc
+2025-09-12T22:29:25.598Z,52.2202,159.7401,35.0,4.9,mb,69.0,123.0,1.043,1.13,us,us7000qvtx,2025-09-12T23:14:01.040Z,"120 km SE of Vilyuchinsk, Russia",earthquake,7.64,1.91,0.048,135.0,reviewed,us,us
