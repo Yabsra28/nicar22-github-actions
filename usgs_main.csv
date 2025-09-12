@@ -13426,3 +13426,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T15:34:55.230Z,35.896,-117.6696667,4.18,0.04,ml,6.0,151.0,0.0541,0.03,ci,ci41289928,2025-09-12T15:38:18.745Z,"22 km ESE of Little Lake, CA",earthquake,0.32,0.48,0.037,3.0,automatic,ci,ci
 2025-09-12T15:46:30.870Z,40.728168487549,-121.52166748047,10.359999656677,2.22,md,20.0,97.0,0.09914,0.15,nc,nc75236962,2025-09-12T15:48:04.999Z,"21 km SSE of Burney, CA",earthquake,0.48,1.32000005,0.06,14.0,automatic,nc,nc
 2025-09-12T14:13:22.418Z,-52.8897,21.7826,10.0,4.6,mb,18.0,120.0,20.51,0.6,us,us7000qvpa,2025-09-12T15:45:24.040Z,south of Africa,earthquake,8.49,1.928,0.128,18.0,reviewed,us,us
+2025-09-12T16:07:05.900Z,31.611,-104.104,4.4047,1.4,ml,28.0,56.0,0.0,0.3,tx,tx2025rzmmtp,2025-09-12T16:11:24.530Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.000372171402,0.3,21.0,automatic,tx,tx
