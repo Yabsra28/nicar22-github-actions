@@ -13422,3 +13422,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T06:07:24.330Z,39.007166666667,-111.39166666667,-1.0,1.04,ml,11.0,79.0,0.02729,0.17,uu,uu80004793,2025-09-12T15:25:39.740Z,"15 km NW of Emery, Utah",earthquake,0.56,0.43,0.43637108688918,3.0,reviewed,uu,uu
 2025-09-11T18:32:45.469Z,28.766,-99.136,5.1674,2.0,ml,11.0,97.0,0.1,0.3,tx,tx2025rxvppe,2025-09-12T15:24:53.767Z,"8 km NNE of Hilltop, Texas",earthquake,2.5478203836522,1.7755360707771,0.1,6.0,reviewed,tx,tx
 2025-09-11T17:58:43.212Z,31.676,-104.413,5.741,1.1,ml,15.0,86.0,0.0,0.1,tx,tx2025rxumda,2025-09-12T15:21:39.752Z,"55 km S of Whites City, New Mexico",earthquake,1.1847678120195,0.84637679806904,0.2,16.0,reviewed,tx,tx
+2025-09-12T15:38:51.560Z,33.252,-116.2543333,1.87,0.24,ml,9.0,201.0,0.05915,0.19,ci,ci41289936,2025-09-12T15:42:18.782Z,"11 km E of Borrego Springs, CA",earthquake,0.56,0.44,0.091,3.0,automatic,ci,ci
+2025-09-12T15:34:55.230Z,35.896,-117.6696667,4.18,0.04,ml,6.0,151.0,0.0541,0.03,ci,ci41289928,2025-09-12T15:38:18.745Z,"22 km ESE of Little Lake, CA",earthquake,0.32,0.48,0.037,3.0,automatic,ci,ci
