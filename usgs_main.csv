@@ -13509,3 +13509,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T15:56:46.980Z,54.756666666667,-163.98516666667,-1.17,0.03,ml,6.0,92.0,0.04782,0.15,av,av93763423,2025-09-12T21:01:46.630Z,"38 km WSW of False Pass, Alaska",earthquake,0.29,0.55,0.14706427904958,6.0,reviewed,av,av
 2025-09-12T15:49:23.600Z,54.742833333333,-163.98766666667,3.9,0.28,ml,4.0,101.0,0.0339,0.22,av,av93763413,2025-09-12T20:57:40.390Z,"39 km WSW of False Pass, Alaska",earthquake,0.82,2.56,0.24181209514045,4.0,reviewed,av,av
 2025-09-12T14:55:49.630Z,54.755166666667,-163.97566666667,-0.89,0.17,ml,5.0,95.0,0.04748,0.11,av,av93763293,2025-09-12T20:52:43.970Z,"37 km WSW of False Pass, Alaska",earthquake,0.32,0.28,0.28943197503715,5.0,reviewed,av,av
+2025-09-12T21:18:58.812Z,63.3547,-145.4451,2.4,1.7,ml,,,,0.93,ak,ak025bq2nl21,2025-09-12T21:21:53.824Z,"30 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-12T21:17:11.652Z,63.1286,-150.8715,23.7,1.7,ml,,,,1.65,ak,ak025bq2n9p9,2025-09-12T21:20:36.157Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-12T21:14:17.770Z,19.244667053223,-155.52416992188,-0.28000000119209,2.13,ml,44.0,62.0,0.02408,0.340000004,hv,hv74774552,2025-09-12T21:17:48.100Z,"6 km NW of Pāhala, Hawaii",earthquake,0.43,0.209999993,0.21,8.0,automatic,hv,hv
+2025-09-12T21:14:02.345Z,63.3372,-145.3873,9.7,2.0,ml,,,,0.17,ak,ak025bq2mlu2,2025-09-12T21:15:55.135Z,"29 km NNE of Paxson, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-09-12T21:08:56.855Z,63.3787,-145.5609,8.688,3.9,ml,68.0,31.0,0.413,1.17,us,us7000qvti,2025-09-12T21:22:40.040Z,"32 km N of Paxson, Alaska",earthquake,3.65,9.286,0.029,158.0,reviewed,us,us
+2025-09-12T20:53:07.387Z,52.0674,159.8441,25.394,5.2,mww,133.0,122.0,1.204,0.88,us,us7000qvtg,2025-09-12T21:09:25.040Z,"137 km SE of Vilyuchinsk, Russia",earthquake,8.66,5.258,0.098,10.0,reviewed,us,us
+2025-09-12T18:01:24.760Z,54.755833333333,-163.97866666667,-0.72,0.24,ml,6.0,88.0,0.0477,0.14,av,av93763713,2025-09-12T21:16:45.750Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.4,0.19638840575721,6.0,reviewed,av,av
