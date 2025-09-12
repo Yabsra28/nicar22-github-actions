@@ -13346,3 +13346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T11:22:09.415Z,37.0667,-117.6606,0.4,0.5,ml,8.0,201.96,0.39,0.0838,nn,nn00904217,2025-09-12T11:24:44.122Z,"56 km ENE of Independence, California",earthquake,,3191.2,0.38,3.0,automatic,nn,nn
 2025-09-12T11:18:43.660Z,38.828998565674,-122.813331604,0.87000000476837,1.03,md,13.0,61.0,0.006147,0.02,nc,nc75236862,2025-09-12T11:20:18.807Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.579999983,0.07,15.0,automatic,nc,nc
 2025-09-12T11:15:19.430Z,37.133499145508,-119.78700256348,20.790000915527,2.36,md,7.0,100.0,0.08783,0.12,nc,nc75236857,2025-09-12T11:22:18.435Z,"7 km SSW of Yosemite Lakes, CA",earthquake,0.74,0.899999976,0.13,4.0,automatic,nc,nc
+2025-09-12T11:39:17.014Z,60.5726,-151.0056,43.7,1.6,ml,,,,1.13,ak,ak025bpwtnu5,2025-09-12T11:41:40.521Z,"6 km NE of Ridgeway, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2025-09-12T11:38:46.440Z,33.4073333,-116.8865,5.39,0.4,ml,27.0,61.0,0.05718,0.17,ci,ci41289784,2025-09-12T11:42:26.628Z,"4 km SSW of Aguanga, CA",earthquake,0.24,0.63,0.136,9.0,automatic,ci,ci
