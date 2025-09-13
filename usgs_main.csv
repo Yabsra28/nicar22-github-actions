@@ -13830,3 +13830,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T17:51:53.318Z,36.891,-115.9967,6.5,-0.2,ml,8.0,168.0,0.015,0.0665,nn,nn00904305,2025-09-13T22:18:43.814Z,"46 km NW of Indian Springs, Nevada",earthquake,,1.7,0.23,3.0,reviewed,nn,nn
 2025-09-13T22:29:16.860Z,35.8971667,-117.6781667,3.42,0.62,ml,24.0,43.0,0.05542,0.15,ci,ci41291000,2025-09-13T22:32:42.353Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.53,0.093,12.0,automatic,ci,ci
 2025-09-13T04:46:16.789Z,23.9627,122.5318,39.867,4.6,mb,41.0,89.0,0.666,1.05,us,us7000qvxh,2025-09-13T22:32:36.461Z,"73 km SW of Yonakuni, Japan",earthquake,5.08,6.39,0.114,23.0,reviewed,us,us
+2025-09-13T22:45:45.740Z,33.59,-116.618,12.4,0.7,ml,17.0,91.0,0.02552,0.13,ci,ci41291008,2025-09-13T22:49:06.851Z,"6 km NE of Anza, CA",earthquake,0.32,0.41,0.387,13.0,automatic,ci,ci
