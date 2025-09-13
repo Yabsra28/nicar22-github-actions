@@ -13614,3 +13614,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T03:57:55.812Z,-8.0686,-75.7796,10.0,4.9,mb,42.0,124.0,3.064,0.79,us,us7000qvwe,2025-09-13T04:14:52.040Z,"82 km E of Tocache, Peru",earthquake,6.25,1.759,0.041,193.0,reviewed,us,us
 2025-09-12T23:11:47.772Z,50.5073,157.6793,41.241,4.5,mb,57.0,126.0,2.591,0.71,us,us7000qvva,2025-09-13T04:25:15.040Z,"111 km E of Severo-Kuril’sk, Russia",earthquake,10.03,7.252,0.051,113.0,reviewed,us,us
 2025-09-12T11:21:56.140Z,52.781,-169.85433333333,-0.6,0.2,ml,5.0,201.0,0.04647,0.28,av,av93049879,2025-09-13T04:26:10.210Z,"69 km WSW of Nikolski, Alaska",earthquake,1.13,0.58,0.23464014803557,5.0,reviewed,av,av
+2025-09-12T11:26:09.560Z,52.768666666667,-169.882,0.19,0.2,ml,4.0,244.0,0.0555,0.14,av,av93049889,2025-09-13T04:41:29.530Z,"71 km WSW of Nikolski, Alaska",earthquake,0.71,0.34,0.43391052443181,4.0,reviewed,av,av
+2025-09-12T11:24:47.670Z,52.780166666667,-169.90083333333,8.14,-0.12,ml,4.0,223.0,0.02126,0.29,av,av93049884,2025-09-13T04:34:57.690Z,"72 km WSW of Nikolski, Alaska",earthquake,1.98,2.11,0.4668260659767,4.0,reviewed,av,av
