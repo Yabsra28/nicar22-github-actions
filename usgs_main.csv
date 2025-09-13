@@ -13822,3 +13822,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T21:51:52.094Z,60.3838,-149.0539,71.2,1.9,ml,,,,1.06,ak,ak025brqdznt,2025-09-13T21:54:50.654Z,"16 km ENE of Primrose, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-09-13T20:57:14.743Z,32.125,-101.498,3.9832,1.0,ml,10.0,88.0,0.1,0.4,tx,tx2025sbrvtg,2025-09-13T22:00:52.548Z,"12 km W of Forsan, Texas",earthquake,0.0,1.9961395263672,0.3,8.0,automatic,tx,tx
 2025-09-13T04:23:15.080Z,60.124166666667,-153.06433333333,1.2,-0.22,ml,5.0,317.0,0.06704,0.1,av,av93764998,2025-09-13T22:06:54.130Z,"69 km ENE of Pedro Bay, Alaska",earthquake,0.86,0.33,0.39353447297289,5.0,reviewed,av,av
+2025-09-13T22:22:12.250Z,35.8988333,-117.6783333,3.22,0.53,ml,20.0,57.0,0.05396,0.13,ci,ci41290984,2025-09-13T22:26:00.624Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.59,0.095,12.0,automatic,ci,ci
+2025-09-13T22:21:12.352Z,64.6375,-147.5971,7.9,0.4,ml,,,,0.25,ak,ak025brqswpv,2025-09-13T22:23:22.039Z,"17 km SW of North Pole, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-13T22:15:44.746Z,32.098,-101.474,0.9788,1.5,ml,28.0,73.0,0.1,0.7,tx,tx2025sbulmv,2025-09-13T22:21:10.597Z,"10 km W of Forsan, Texas",earthquake,0.0,1.2598865032196,0.2,9.0,automatic,tx,tx
+2025-09-13T22:12:12.513Z,31.645,-104.375,4.3491,1.5,ml,26.0,89.0,0.0,0.4,tx,tx2025sbuikn,2025-09-13T22:16:21.568Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1004594564438,0.2,19.0,automatic,tx,tx
+2025-09-13T19:21:34.096Z,36.7682,-116.2501,9.7,-0.4,ml,8.0,143.9,0.035,0.0303,nn,nn00904306,2025-09-13T22:21:49.979Z,"48 km ESE of Beatty, Nevada",earthquake,,1.6,0.0,1.0,reviewed,nn,nn
+2025-09-13T17:51:53.318Z,36.891,-115.9967,6.5,-0.2,ml,8.0,168.0,0.015,0.0665,nn,nn00904305,2025-09-13T22:18:43.814Z,"46 km NW of Indian Springs, Nevada",earthquake,,1.7,0.23,3.0,reviewed,nn,nn
