@@ -13606,3 +13606,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T03:47:43.833Z,31.713,-104.289,4.412,2.4,ml,37.0,60.0,0.0,0.3,tx,tx2025sajsrj,2025-09-13T03:51:50.051Z,"51 km S of Whites City, New Mexico",earthquake,0.0,0.91321331262589,0.2,27.0,automatic,tx,tx
 2025-09-13T03:42:49.260Z,35.0425,-119.0068333,12.97,1.77,ml,54.0,58.0,0.06516,0.29,ci,ci41290376,2025-09-13T03:51:01.604Z,"13 km NNW of Grapevine, CA",earthquake,0.23,0.59,0.19,27.0,automatic,ci,ci
 2025-09-13T00:17:13.540Z,42.027166666667,-122.78016666667,3.27,0.76,md,6.0,113.0,0.08455,0.12,uw,uw62180027,2025-09-13T03:47:28.660Z,"19 km SSW of Ashland, Oregon",earthquake,0.34,12.73,0.27278692716749,4.0,reviewed,uw,uw
+2025-09-13T04:10:09.128Z,62.7662,-145.8133,241.2,2.8,ml,,,,0.88,ak,ak025brg0qpc,2025-09-13T04:12:47.933Z,"37 km SSW of Paxson, Alaska",earthquake,,10.1,,,automatic,ak,ak
+2025-09-13T03:58:32.048Z,31.714,-104.288,4.0405,1.7,ml,27.0,72.0,0.0,0.3,tx,tx2025sakbzj,2025-09-13T04:02:08.508Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.0499761104584,0.1,18.0,automatic,tx,tx
+2025-09-13T03:56:23.210Z,38.760166168213,-122.7183303833,2.3199999332428,1.07,md,10.0,115.0,0.005301,0.06,nc,nc75237177,2025-09-13T03:57:59.831Z,"3 km WSW of Anderson Springs, CA",earthquake,0.4,0.569999993,0.15,10.0,automatic,nc,nc
+2025-09-13T03:30:42.272Z,52.3506,-175.2273,224.558,4.0,mb,24.0,149.0,0.572,0.51,us,us7000qvwa,2025-09-13T04:01:12.040Z,"72 km WNW of Atka, Alaska",earthquake,12.68,6.754,0.1,27.0,reviewed,us,us
