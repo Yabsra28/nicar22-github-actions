@@ -13831,3 +13831,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T22:29:16.860Z,35.8971667,-117.6781667,3.42,0.62,ml,24.0,43.0,0.05542,0.15,ci,ci41291000,2025-09-13T22:32:42.353Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.53,0.093,12.0,automatic,ci,ci
 2025-09-13T04:46:16.789Z,23.9627,122.5318,39.867,4.6,mb,41.0,89.0,0.666,1.05,us,us7000qvxh,2025-09-13T22:32:36.461Z,"73 km SW of Yonakuni, Japan",earthquake,5.08,6.39,0.114,23.0,reviewed,us,us
 2025-09-13T22:45:45.740Z,33.59,-116.618,12.4,0.7,ml,17.0,91.0,0.02552,0.13,ci,ci41291008,2025-09-13T22:49:06.851Z,"6 km NE of Anza, CA",earthquake,0.32,0.41,0.387,13.0,automatic,ci,ci
+2025-09-13T23:00:17.910Z,35.6996667,-117.5973333,6.89,1.42,ml,44.0,45.0,0.1158,0.13,ci,ci41291024,2025-09-13T23:03:44.197Z,"11 km NE of Ridgecrest, CA",earthquake,0.12,0.39,0.167,26.0,automatic,ci,ci
+2025-09-13T22:50:25.470Z,33.9893333,-117.0333333,13.65,1.83,ml,106.0,18.0,0.0802,0.19,ci,ci41291016,2025-09-13T23:01:25.800Z,"2 km E of Calimesa, CA",earthquake,0.11,0.29,0.11,25.0,automatic,ci,ci
