@@ -13751,3 +13751,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T11:49:36.358Z,-17.6904,-65.8984,10.0,4.6,mb,25.0,87.0,1.943,0.9,us,us7000qvzb,2025-09-13T14:28:23.040Z,"11 km SSE of Cliza, Bolivia",earthquake,7.19,1.933,0.136,18.0,reviewed,us,us
 2025-09-13T14:33:52.000Z,36.131168365479,-120.27500152588,10.970000267029,1.46,md,13.0,186.0,0.01732,0.11,nc,nc75237387,2025-09-13T14:35:29.800Z,"8 km ESE of Coalinga, CA",earthquake,1.22,1.10000002,0.23,6.0,automatic,nc,nc
 2025-09-13T14:27:23.960Z,35.6538333,-117.418,2.9,-0.21,ml,9.0,132.0,0.01218,0.16,ci,ci41290720,2025-09-13T14:30:53.194Z,"13 km S of Searles Valley, CA",earthquake,1.16,0.39,0.071,2.0,automatic,ci,ci
+2025-09-13T14:20:26.390Z,17.969,-66.831666666667,13.24,2.22,md,12.0,200.0,0.03504,0.06,pr,pr71495563,2025-09-13T14:39:35.580Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.64,0.28,0.041602655803558,7.0,reviewed,pr,pr
