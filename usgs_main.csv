@@ -13603,3 +13603,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T03:38:02.344Z,36.7748,-116.2576,12.4,0.5,ml,17.0,61.62,0.053,0.1545,nn,nn00904273,2025-09-13T03:40:00.093Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.46,8.0,automatic,nn,nn
 2025-09-13T03:38:02.036Z,32.181,-101.687,6.7485,1.1,ml,12.0,77.0,0.0,0.2,tx,tx2025sajkig,2025-09-13T03:40:35.072Z,"11 km ENE of Stanton, Texas",earthquake,0.0,2.7545561790466,0.5,9.0,automatic,tx,tx
 2025-09-13T03:37:54.220Z,38.82833480835,-122.8193359375,1.7400000095367,0.7,md,9.0,72.0,0.008756,0.01,nc,nc75237172,2025-09-13T03:39:32.631Z,"8 km NNW of The Geysers, CA",earthquake,0.37,1.08000004,0.56,9.0,automatic,nc,nc
+2025-09-13T03:47:43.833Z,31.713,-104.289,4.412,2.4,ml,37.0,60.0,0.0,0.3,tx,tx2025sajsrj,2025-09-13T03:51:50.051Z,"51 km S of Whites City, New Mexico",earthquake,0.0,0.91321331262589,0.2,27.0,automatic,tx,tx
+2025-09-13T03:42:49.260Z,35.0425,-119.0068333,12.97,1.77,ml,54.0,58.0,0.06516,0.29,ci,ci41290376,2025-09-13T03:51:01.604Z,"13 km NNW of Grapevine, CA",earthquake,0.23,0.59,0.19,27.0,automatic,ci,ci
+2025-09-13T00:17:13.540Z,42.027166666667,-122.78016666667,3.27,0.76,md,6.0,113.0,0.08455,0.12,uw,uw62180027,2025-09-13T03:47:28.660Z,"19 km SSW of Ashland, Oregon",earthquake,0.34,12.73,0.27278692716749,4.0,reviewed,uw,uw
