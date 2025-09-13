@@ -13698,3 +13698,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T10:03:26.550Z,36.1759987,-118.0341644,3.57,1.17,ml,18.0,56.0,0.1564,0.26,ci,ci41290584,2025-09-13T10:05:31.544Z,"12 km SSW of Olancha, CA",earthquake,0.46,1.83,0.271,7.0,automatic,ci,ci
 2025-09-13T09:52:17.250Z,33.6503333,-116.7206667,14.12,0.44,ml,27.0,57.0,0.04326,0.16,ci,ci41290576,2025-09-13T09:55:59.910Z,"10 km S of Idyllwild, CA",earthquake,0.28,0.45,0.141,8.0,automatic,ci,ci
 2025-09-13T09:50:37.170Z,33.4555,-116.445,14.6,0.58,ml,29.0,73.0,0.1371,0.13,ci,ci41290568,2025-09-13T09:54:12.899Z,"23 km NNW of Borrego Springs, CA",earthquake,0.18,0.46,0.15,14.0,automatic,ci,ci
+2025-09-13T10:25:39.094Z,60.0331,-152.5349,94.3,2.5,ml,,,,0.37,ak,ak025brjomdt,2025-09-13T10:27:27.163Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-13T10:18:11.080Z,38.78783416748,-122.77300262451,2.0999999046326,0.74,md,9.0,76.0,0.01646,0.02,nc,nc75237297,2025-09-13T10:19:49.794Z,"2 km NW of The Geysers, CA",earthquake,0.38,0.790000021,0.07,8.0,automatic,nc,nc
+2025-09-13T10:13:14.860Z,32.6443333,-115.7321667,6.11,1.37,ml,31.0,68.0,0.006976,0.21,ci,ci41290608,2025-09-13T10:16:55.002Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.53,0.191,16.0,automatic,ci,ci
+2025-09-13T10:07:45.990Z,35.5301667,-117.842,28.99,1.38,ml,18.0,149.0,0.1399,0.32,ci,ci41290600,2025-09-13T10:11:14.974Z,"13 km SSW of Inyokern, CA",earthquake,1.64,0.93,0.181,25.0,automatic,ci,ci
