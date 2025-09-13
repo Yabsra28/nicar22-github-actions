@@ -13747,3 +13747,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T19:36:14.684Z,63.1472,-150.985,129.278,2.9,ml,100.0,16.0,0.567,0.54,us,us7000qvsv,2025-09-13T13:49:11.040Z,"57 km SE of Denali National Park, Alaska",earthquake,4.25,5.502,0.027,174.0,reviewed,us,us
 2025-09-13T14:06:27.733Z,29.067,-97.887,6.987,1.5,ml,11.0,86.0,0.1,0.4,tx,tx2025sbefvk,2025-09-13T14:09:31.232Z,"15 km NE of Falls City, Texas",earthquake,0.0,3.7759966850281,0.1,9.0,automatic,tx,tx
 2025-09-13T14:03:33.790Z,33.4873333,-116.5473333,8.36,0.7,ml,23.0,55.0,0.04644,0.11,ci,ci41290704,2025-09-13T14:07:19.084Z,"14 km ESE of Anza, CA",earthquake,0.16,0.37,0.201,17.0,automatic,ci,ci
+2025-09-13T14:17:56.030Z,19.403999328613,-155.26184082031,1.4800000190735,1.75,ml,18.0,61.0,0.006961,0.289999992,hv,hv74775072,2025-09-13T14:20:49.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.33,0.370000005,0.3,16.0,automatic,hv,hv
+2025-09-13T11:49:36.358Z,-17.6904,-65.8984,10.0,4.6,mb,25.0,87.0,1.943,0.9,us,us7000qvzb,2025-09-13T14:28:23.040Z,"11 km SSE of Cliza, Bolivia",earthquake,7.19,1.933,0.136,18.0,reviewed,us,us
