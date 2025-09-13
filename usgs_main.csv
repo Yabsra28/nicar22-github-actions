@@ -13709,3 +13709,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T11:01:08.400Z,35.5966667,-117.3828333,4.69,1.01,ml,28.0,47.0,0.0731,0.15,ci,ci41290640,2025-09-13T11:04:35.230Z,"19 km S of Trona, CA",earthquake,0.17,0.36,0.12,17.0,automatic,ci,ci
 2025-09-13T10:59:23.750Z,34.039,-117.2313333,14.75,0.98,ml,24.0,255.0,0.1033,0.2,ci,ci41290632,2025-09-13T11:03:48.479Z,"3 km ESE of Loma Linda, CA",earthquake,0.74,1.02,0.176,30.0,automatic,ci,ci
 2025-09-13T10:59:11.770Z,34.043,-117.2321667,15.04,0.96,ml,53.0,59.0,0.08611,0.18,ci,ci41290624,2025-09-13T11:02:48.577Z,"3 km ESE of Loma Linda, CA",earthquake,0.17,0.34,0.245,30.0,automatic,ci,ci
+2025-09-13T11:14:46.926Z,31.649,-104.434,3.8125,1.5,ml,24.0,80.0,0.0,0.5,tx,tx2025saynxc,2025-09-13T11:18:36.223Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.3549528121948,0.1,14.0,automatic,tx,tx
+2025-09-13T11:10:05.898Z,35.62872314,-98.02993774,3.831023455,1.77,ml,15.0,91.48384094,0.1648457944,0.7086985488,ok,ok2025rytk,2025-09-13T11:13:53.952Z,"8 km ENE of Calumet, Oklahoma",earthquake,3.606607444,2.470981216,0.39,5.0,automatic,ok,ok
