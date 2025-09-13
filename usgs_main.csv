@@ -13657,3 +13657,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T07:08:44.600Z,34.2701667,-117.6295,10.89,1.13,ml,51.0,36.0,0.03944,0.17,ci,ci41290424,2025-09-13T07:12:11.207Z,"10 km S of Wrightwood, CA",earthquake,0.19,0.33,0.283,30.0,automatic,ci,ci
 2025-09-13T07:03:50.097Z,51.2224,158.7606,35.0,5.2,mb,94.0,143.0,1.805,0.75,us,us7000qvyf,2025-09-13T07:15:51.040Z,"160 km ESE of Ozernovskiy, Russia",earthquake,8.72,1.88,0.044,171.0,reviewed,us,us
 2025-09-12T20:06:39.390Z,56.856833333333,-158.13083333333,15.42,0.27,ml,5.0,168.0,0.01603,0.21,av,av93763968,2025-09-13T07:18:06.410Z,"64 km NNE of Chignik, Alaska",earthquake,1.37,1.42,0.52448693750848,5.0,reviewed,av,av
+2025-09-13T07:37:52.131Z,61.9901,-146.4585,30.0,1.7,ml,,,,1.0,ak,ak025brhyx65,2025-09-13T07:39:59.827Z,"8 km S of Mendeltna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-12T20:10:16.330Z,56.8975,-158.28733333333,15.29,-0.01,ml,5.0,251.0,0.02946,0.24,av,av93049919,2025-09-13T07:34:47.340Z,"67 km NNE of Chignik Lagoon, Alaska",earthquake,2.82,2.14,0.33950303134124,5.0,reviewed,av,av
