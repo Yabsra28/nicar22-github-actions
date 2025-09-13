@@ -13764,3 +13764,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T14:42:01.375Z,53.5842,160.0476,64.689,4.1,mb,39.0,168.0,1.01,0.7,us,us7000qvzv,2025-09-13T15:28:02.040Z,"110 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.01,10.935,0.082,41.0,reviewed,us,us
 2025-09-13T15:49:26.860Z,38.827167510986,-122.82083129883,1.6399999856949,1.02,md,18.0,48.0,0.009208,0.02,nc,nc75237417,2025-09-13T15:51:04.566Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.50999999,0.23,19.0,automatic,nc,nc
 2025-09-13T15:40:24.330Z,33.4836667,-116.4235,14.7,0.54,ml,29.0,81.0,0.1497,0.14,ci,ci41290776,2025-09-13T15:50:18.643Z,"23 km SSW of La Quinta, CA",earthquake,0.21,0.56,0.12,11.0,automatic,ci,ci
+2025-09-13T15:59:01.336Z,63.2886,-151.9821,5.5,1.6,ml,,,,0.66,ak,ak025brmuzud,2025-09-13T16:06:23.809Z,"30 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-13T15:57:28.750Z,19.266500473023,-155.37866210938,0.46999999880791,1.82000005,md,53.0,128.0,0.03389,0.200000003,hv,hv74775132,2025-09-13T16:01:21.600Z,"12 km NE of Pāhala, Hawaii",earthquake,0.25,0.370000005,0.150000006,6.0,automatic,hv,hv
