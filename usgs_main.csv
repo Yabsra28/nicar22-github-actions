@@ -13723,3 +13723,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T11:08:25.584Z,-59.5757,-26.0441,35.0,4.9,mb,37.0,103.0,15.295,0.82,us,us7000qvz6,2025-09-13T12:06:29.040Z,South Sandwich Islands region,earthquake,14.11,1.945,0.099,39.0,reviewed,us,us
 2025-09-13T11:06:12.180Z,19.219333333333,-64.809166666667,35.24,3.4,md,12.0,265.0,0.8148,0.3,pr,pr71495553,2025-09-13T12:09:53.300Z,"97 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.76,14.18,0.26501945001464,10.0,reviewed,pr,pr
 2025-09-13T04:19:29.527Z,36.7739,-116.25,8.4,0.4,ml,13.0,119.29,0.04,0.0753,nn,nn00904290,2025-09-13T12:04:47.108Z,"47 km ESE of Beatty, Nevada",earthquake,,1.4,0.07,2.0,reviewed,nn,nn
+2025-09-13T12:55:37.780Z,38.834499359131,-122.811668396,1.7000000476837,0.37,md,7.0,132.0,0.01116,0.01,nc,nc75237357,2025-09-13T12:57:15.036Z,"8 km WNW of Cobb, CA",earthquake,0.85,0.769999981,0.28,8.0,automatic,nc,nc
+2025-09-13T12:47:57.432Z,58.622,-140.0329,8.7,2.7,ml,,,,0.77,ak,ak025brl08rj,2025-09-13T12:51:34.544Z,"104 km S of Yakutat, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-13T12:38:26.280Z,37.445999145508,-119.80183410644,19.14999961853,2.25,md,4.0,215.0,0.05318,0.04,nc,nc75237347,2025-09-13T12:47:18.339Z,"7 km ESE of Bootjack, CA",earthquake,6.99,1.92999995,0.01,2.0,automatic,nc,nc
+2025-09-13T12:37:27.715Z,29.6049,51.3174,10.0,4.6,mb,77.0,71.0,6.359,0.46,us,us7000qvzh,2025-09-13T12:54:38.040Z,"32 km W of Kāzerūn, Iran",earthquake,6.75,1.541,0.058,89.0,reviewed,us,us
+2025-09-13T12:35:01.398Z,60.0983,-139.5639,0.7,1.8,ml,,,,0.63,ak,ak025brkxjuj,2025-09-13T12:36:48.905Z,"62 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-13T12:28:18.520Z,36.0611667,-117.4431667,4.16,1.36,ml,25.0,78.0,0.03728,0.16,ci,ci41290680,2025-09-13T12:31:51.282Z,"33 km N of Searles Valley, CA",earthquake,0.23,0.36,0.185,21.0,automatic,ci,ci
+2025-09-13T08:44:39.086Z,34.382,23.8293,10.0,4.5,mb,30.0,249.0,2.973,0.86,us,us7000qvyu,2025-09-13T12:28:48.040Z,"55 km SSW of Kastrí, Greece",earthquake,10.87,1.986,0.108,25.0,reviewed,us,us
