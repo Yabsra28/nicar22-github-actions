@@ -13659,3 +13659,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T20:06:39.390Z,56.856833333333,-158.13083333333,15.42,0.27,ml,5.0,168.0,0.01603,0.21,av,av93763968,2025-09-13T07:18:06.410Z,"64 km NNE of Chignik, Alaska",earthquake,1.37,1.42,0.52448693750848,5.0,reviewed,av,av
 2025-09-13T07:37:52.131Z,61.9901,-146.4585,30.0,1.7,ml,,,,1.0,ak,ak025brhyx65,2025-09-13T07:39:59.827Z,"8 km S of Mendeltna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-12T20:10:16.330Z,56.8975,-158.28733333333,15.29,-0.01,ml,5.0,251.0,0.02946,0.24,av,av93049919,2025-09-13T07:34:47.340Z,"67 km NNE of Chignik Lagoon, Alaska",earthquake,2.82,2.14,0.33950303134124,5.0,reviewed,av,av
+2025-09-13T07:50:21.272Z,63.337,-145.4692,17.3,2.9,ml,,,,0.26,ak,ak025bri1n3j,2025-09-13T07:51:38.527Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-13T07:41:11.380Z,38.811000823975,-122.78700256348,6.1799998283386,1.01,md,5.0,180.0,0.005426,0.05,nc,nc75237227,2025-09-13T07:42:42.793Z,"5 km NNW of The Geysers, CA",earthquake,2.81,7.5,0.12,3.0,automatic,nc,nc
+2025-09-13T07:40:36.758Z,32.018,-103.797,9.7497,1.4,ml,14.0,97.0,0.0,0.5,tx,tx2025sarlim,2025-09-13T07:44:13.699Z,"34 km SE of Malaga, New Mexico",earthquake,0.0,3.2616844177246,0.2,10.0,automatic,tx,tx
+2025-09-12T18:41:44.040Z,51.845,179.6315,7.13,0.76,ml,5.0,295.0,0.06865,0.2,av,av93049929,2025-09-13T07:46:50.910Z,"257 km W of Adak, Alaska",earthquake,1.29,2.1,0.22827384060221,5.0,reviewed,av,av
