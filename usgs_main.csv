@@ -13593,3 +13593,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T01:01:11.221Z,-6.3434,104.5431,58.93,4.5,mb,38.0,101.0,1.563,0.63,us,us7000qvvx,2025-09-13T02:35:27.040Z,"128 km SW of Bandar Lampung, Indonesia",earthquake,8.66,7.69,0.109,28.0,reviewed,us,us
 2025-09-12T21:22:00.726Z,-5.5391,132.0647,10.0,4.3,mb,25.0,104.0,2.609,0.47,us,us7000qvtm,2025-09-13T02:06:10.040Z,"76 km W of Tual, Indonesia",earthquake,8.71,1.886,0.138,18.0,reviewed,us,us
 2025-09-12T21:20:09.549Z,51.6279,160.5505,10.0,4.5,mb,30.0,127.0,1.82,0.96,us,us7000qvtn,2025-09-13T01:53:06.040Z,"206 km SE of Vilyuchinsk, Russia",earthquake,9.0,1.907,0.113,23.0,reviewed,us,us
+2025-09-13T02:49:19.412Z,32.127,-102.017,1.0493,1.3,ml,6.0,217.0,0.1,0.4,tx,tx2025sahuit,2025-09-13T03:00:12.807Z,"15 km NNE of Midland, Texas",earthquake,0.0,3.9027097225189,0.3,6.0,automatic,tx,tx
+2025-09-13T02:37:54.754Z,53.1043,160.2938,39.465,7.4,mww,104.0,43.0,0.995,1.11,us,us7000qvw5,2025-09-13T03:01:22.024Z,"111 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.91,6.189,0.033,89.0,reviewed,us,us
+2025-09-13T01:46:51.410Z,60.058833333333,-153.08133333333,3.17,-0.22,ml,5.0,188.0,0.009019,0.18,av,av93764668,2025-09-13T02:39:30.500Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.33,1.2,0.37790219826702,5.0,reviewed,av,av
+2025-09-12T11:06:37.860Z,61.326333333333,-152.2455,-1.71,0.25,ml,10.0,106.0,0.09108,0.07,av,av93762803,2025-09-13T02:58:14.760Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,4.04,0.22242044916062,11.0,reviewed,av,av
+2025-09-12T10:52:11.230Z,52.067333333333,-176.1135,-1.77,-0.28,ml,5.0,107.0,0.02246,0.28,av,av93762788,2025-09-13T02:51:47.880Z,"41 km ENE of Adak, Alaska",earthquake,0.75,1.74,0.41793745988829,5.0,reviewed,av,av
