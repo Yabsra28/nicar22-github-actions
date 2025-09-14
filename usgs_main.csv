@@ -13915,3 +13915,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T04:00:13.921Z,-20.5548,-69.999,34.73,3.1,ml,11.0,142.0,0.301,0.8,us,us7000qw4d,2025-09-14T06:19:00.937Z,"32 km SSE of La Tirana, Chile",earthquake,6.89,5.073,0.074,24.0,reviewed,us,us
 2025-09-14T00:28:04.127Z,34.2872,-82.0683,8.993,1.3,ml,8.0,76.0,0.167,0.36,us,us7000qw4e,2025-09-14T06:27:17.040Z,"3 km NE of Coronaca, South Carolina",earthquake,1.51,5.33,0.105,12.0,reviewed,us,us
 2025-09-13T10:34:43.980Z,45.371666666667,-121.65733333333,2.56,0.18,ml,4.0,198.0,0.01403,0.02,uw,uw62180077,2025-09-14T06:24:52.480Z,"10 km NE of Government Camp, Oregon",earthquake,1.0,1.1,0.13758233775111,2.0,reviewed,uw,uw
+2025-09-14T06:48:07.908Z,35.32404327,-97.94551849,6.563539028,1.64,ml,12.0,81.48948669,0.07044610381,0.3593235388,ok,ok2025sagg,2025-09-14T06:50:24.338Z,"1 km N of Minco, Oklahoma",earthquake,4.000957142,6.538459011,0.22,11.0,automatic,ok,ok
