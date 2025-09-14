@@ -14029,3 +14029,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T19:33:33.460Z,39.689834594727,-120.02466583252,4.0300002098083,2.68,md,18.0,149.0,0.2406,0.12,nc,nc75237772,2025-09-14T19:35:07.679Z,"4 km WNW of Cold Springs, NV",earthquake,0.62,3.0,0.2,17.0,automatic,nc,nc
 2025-09-14T20:04:45.645Z,32.109,-102.148,4.4293,1.6,ml,59.0,44.0,0.0,0.4,tx,tx2025sdlvmx,2025-09-14T20:08:35.359Z,"14 km NNW of Midland, Texas",earthquake,0.0,0.69238924980164,0.2,42.0,automatic,tx,tx
 2025-09-14T20:20:27.191Z,31.728,-104.092,4.5169,1.6,ml,40.0,45.0,0.0,0.3,tx,tx2025sdmizx,2025-09-14T20:24:24.679Z,"46 km W of Mentone, Texas",earthquake,0.0,0.84749168157578,0.2,29.0,automatic,tx,tx
+2025-09-14T20:43:57.159Z,37.1925,-114.5547,9.7,2.6,ml,29.0,125.77,0.449,0.2997,nn,nn00904363,2025-09-14T20:46:49.946Z,"47 km S of Caliente, Nevada",earthquake,,0.5,0.32,21.0,automatic,nn,nn
