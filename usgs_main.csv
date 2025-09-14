@@ -14039,3 +14039,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T22:04:05.535Z,63.219,-150.6,128.7,2.0,ml,,,,0.36,ak,ak025bte8lhb,2025-09-14T22:06:45.089Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-14T22:00:14.495Z,35.3139267,-97.967659,2.472100019,2.13,ml,14.0,71.11328125,0.08720839769,0.8077113039,ok,ok2025sbki,2025-09-14T22:02:22.167Z,"2 km W of Minco, Oklahoma",earthquake,2.98127849,2.405984355,0.27,12.0,automatic,ok,ok
 2025-09-14T21:04:17.448Z,31.53,-104.475,2.1125,1.7,ml,20.0,140.0,0.1,1.0,tx,tx2025sdnumo,2025-09-14T22:01:23.316Z,"63 km NNE of Van Horn, Texas",earthquake,0.0,2.268458366394,0.6,12.0,automatic,tx,tx
+2025-09-14T22:20:37.749Z,58.3062,-136.8904,13.4,2.9,ml,,,,0.5,ak,ak025btec3ge,2025-09-14T22:23:44.719Z,"34 km WNW of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
