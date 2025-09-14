@@ -13889,3 +13889,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T03:49:10.846Z,63.3364,-145.4075,1.2,1.7,ml,,,,0.44,ak,ak025bt370ng,2025-09-14T03:51:41.033Z,"29 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-14T03:43:26.400Z,59.7606,-150.7221,40.6,1.4,ml,,,,0.52,ak,ak025bt35rmi,2025-09-14T03:48:27.000Z,"17 km SE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-14T04:23:14.521Z,31.622,-104.505,3.8753,1.8,ml,28.0,142.0,0.0,0.3,tx,tx2025scgqcu,2025-09-14T04:28:13.178Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.4851939678192,0.1,17.0,automatic,tx,tx
+2025-09-13T15:50:17.010Z,46.1975,-122.18766666667,6.92,0.06,ml,14.0,98.0,0.003092,0.14,uw,uw62180122,2025-09-14T04:50:17.780Z,"37 km NNE of Amboy, Washington",earthquake,0.42,0.75,0.075259111088565,9.0,reviewed,uw,uw
