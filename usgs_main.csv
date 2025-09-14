@@ -14007,3 +14007,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T17:18:18.135Z,32.107,-102.154,4.0436,2.3,ml,80.0,45.0,0.0,0.5,tx,tx2025sdghxy,2025-09-14T17:24:13.277Z,"14 km NNW of Midland, Texas",earthquake,0.0,0.59486538171768,0.2,55.0,automatic,tx,tx
 2025-09-14T17:33:50.840Z,33.5155,-116.4551667,5.01,1.63,ml,75.0,32.0,0.1246,0.18,ci,ci41291384,2025-09-14T17:38:56.169Z,"21 km ESE of Anza, CA",earthquake,0.12,0.78,0.172,27.0,reviewed,ci,ci
 2025-09-14T17:30:04.307Z,61.3318,-149.9961,38.2,1.2,ml,,,,0.45,ak,ak025btbf00e,2025-09-14T17:31:20.456Z,"3 km SSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-14T17:48:30.146Z,60.0412,-153.3087,125.0,1.5,ml,,,,0.24,ak,ak025btbiww6,2025-09-14T17:50:20.481Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-14T17:47:03.122Z,32.107,-101.487,4.677,1.2,ml,9.0,84.0,0.1,0.7,tx,tx2025sdhguw,2025-09-14T17:50:20.525Z,"11 km W of Forsan, Texas",earthquake,0.0,2.0077972412109,0.2,7.0,automatic,tx,tx
+2025-09-14T17:16:06.880Z,19.2955,-67.282833333333,25.13,3.16,md,15.0,312.0,0.8395,0.34,pr,pr71495663,2025-09-14T17:48:01.120Z,"91 km NNW of San Antonio, Puerto Rico",earthquake,1.48,22.52,0.12025696771859,7.0,reviewed,pr,pr
