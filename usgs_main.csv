@@ -13951,3 +13951,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T11:06:12.070Z,33.8831673,-116.2046661,6.27,1.06,ml,29.0,71.0,0.04955,0.2,ci,ci41291272,2025-09-14T11:08:34.328Z,"18 km N of Indio, CA",earthquake,0.44,1.04,0.184,5.0,automatic,ci,ci
 2025-09-14T11:17:48.621Z,63.3722,-149.8128,103.1,2.6,ml,,,,0.34,ak,ak025bt7rph6,2025-09-14T11:19:42.012Z,"43 km W of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-14T11:11:48.727Z,26.761,92.2473,10.0,5.9,mb,146.0,38.0,9.088,0.84,us,us7000qw56,2025-09-14T11:36:47.429Z,"14 km E of Udalguri, India",earthquake,9.13,1.843,0.032,362.0,reviewed,us,us
+2025-09-14T11:42:52.003Z,35.32629776,-97.91938019,5.0,1.97,ml,12.0,79.34721375,0.06409693509,0.3960303309,ok,ok2025sapz,2025-09-14T11:45:39.852Z,"2 km ENE of Minco, Oklahoma",earthquake,,0.0,0.31,12.0,automatic,ok,ok
+2025-09-14T11:39:00.520Z,33.471,-116.5081667,7.89,0.83,ml,50.0,57.0,0.08207,0.21,ci,ci41291280,2025-09-14T11:42:31.058Z,"18 km ESE of Anza, CA",earthquake,0.18,0.59,0.14,25.0,automatic,ci,ci
