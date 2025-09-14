@@ -13991,3 +13991,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T15:30:17.210Z,36.022,-117.7791667,1.56,2.32,ml,42.0,41.0,0.01172,0.19,ci,ci41291328,2025-09-14T15:33:59.055Z,"15 km NE of Little Lake, CA",earthquake,0.15,0.19,0.163,25.0,automatic,ci,ci
 2025-09-14T15:40:03.607Z,32.445,-102.072,4.0744,2.4,ml,78.0,87.0,0.0,0.4,tx,tx2025sddbjv,2025-09-14T15:45:47.578Z,"33 km SSW of Los Ybanez, Texas",earthquake,0.0,0.66528171300888,0.2,49.0,automatic,tx,tx
 2025-09-14T15:18:40.041Z,36.7806,75.429,10.0,4.5,mb,25.0,163.0,1.831,1.02,us,us7000qw6a,2025-09-14T15:37:26.040Z,"83 km NE of Barishal, Pakistan",earthquake,9.04,1.965,0.102,28.0,reviewed,us,us
+2025-09-14T15:52:15.230Z,33.255,-116.3785,3.74,0.84,ml,49.0,44.0,0.03496,0.2,ci,ci41291344,2025-09-14T15:56:06.749Z,"0 km WSW of Borrego Springs, CA",earthquake,0.19,0.28,0.193,17.0,automatic,ci,ci
+2025-09-14T15:48:59.100Z,32.376,-101.649,3.298,1.7,ml,49.0,33.0,0.0,0.5,tx,tx2025sddjby,2025-09-14T15:53:23.793Z,"17 km SSE of Ackerly, Texas",earthquake,0.0,0.76278239488602,0.2,28.0,automatic,tx,tx
