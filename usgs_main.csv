@@ -13909,3 +13909,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T05:07:56.678Z,31.042,-103.478,1.0806,1.4,ml,15.0,194.0,0.2,1.1,tx,tx2025scicsp,2025-09-14T06:00:50.317Z,"26 km ENE of Balmorhea, Texas",earthquake,0.0,2.013867855072,0.3,9.0,automatic,tx,tx
 2025-09-14T05:01:23.838Z,51.4676,159.6091,25.09,4.7,mb,42.0,121.0,1.666,0.93,us,us7000qw44,2025-09-14T05:54:28.040Z,"182 km SSE of Vilyuchinsk, Russia",earthquake,9.92,5.924,0.075,55.0,reviewed,us,us
 2025-09-13T23:54:47.810Z,46.293333333333,-122.33583333333,9.53,0.14,ml,6.0,155.0,0.01327,0.09,uw,uw62180357,2025-09-14T06:08:07.610Z,"28 km SSE of Mossyrock, Washington",earthquake,0.51,0.64,0.094837003551191,3.0,reviewed,uw,uw
+2025-09-14T06:32:39.137Z,57.9635,-154.8084,74.2,1.0,ml,,,,0.14,ak,ak025bt4vqh5,2025-09-14T06:33:53.195Z,"48 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-14T06:31:47.240Z,63.6139,-149.6596,30.2,1.6,ml,,,,0.63,ak,ak025bt4vjdw,2025-09-14T06:34:13.361Z,"39 km WSW of Denali Park, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2025-09-14T06:23:49.774Z,31.653,-104.336,3.225,2.1,ml,39.0,78.0,0.1,0.4,tx,tx2025sckqbj,2025-09-14T06:27:59.022Z,"58 km S of Whites City, New Mexico",earthquake,0.0,0.92675369977951,0.2,26.0,automatic,tx,tx
+2025-09-14T04:00:13.921Z,-20.5548,-69.999,34.73,3.1,ml,11.0,142.0,0.301,0.8,us,us7000qw4d,2025-09-14T06:19:00.937Z,"32 km SSE of La Tirana, Chile",earthquake,6.89,5.073,0.074,24.0,reviewed,us,us
+2025-09-14T00:28:04.127Z,34.2872,-82.0683,8.993,1.3,ml,8.0,76.0,0.167,0.36,us,us7000qw4e,2025-09-14T06:27:17.040Z,"3 km NE of Coronaca, South Carolina",earthquake,1.51,5.33,0.105,12.0,reviewed,us,us
+2025-09-13T10:34:43.980Z,45.371666666667,-121.65733333333,2.56,0.18,ml,4.0,198.0,0.01403,0.02,uw,uw62180077,2025-09-14T06:24:52.480Z,"10 km NE of Government Camp, Oregon",earthquake,1.0,1.1,0.13758233775111,2.0,reviewed,uw,uw
