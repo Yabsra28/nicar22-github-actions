@@ -13921,3 +13921,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T07:11:34.180Z,33.5038333,-116.5068333,12.53,0.48,ml,31.0,57.0,0.08021,0.14,ci,ci41291224,2025-09-14T07:19:25.003Z,"16 km ESE of Anza, CA",earthquake,0.17,0.42,0.189,11.0,automatic,ci,ci
 2025-09-14T07:32:37.470Z,36.192,-118.0868333,2.45,0.64,ml,24.0,57.0,0.1874,0.21,ci,ci41291232,2025-09-14T07:36:09.999Z,"12 km SW of Olancha, CA",earthquake,0.27,1.02,0.064,6.0,automatic,ci,ci
 2025-09-14T07:12:17.489Z,6.9494,-76.1732,50.192,5.4,mww,78.0,83.0,2.786,1.22,us,us7000qw4k,2025-09-14T07:35:05.715Z,"5 km N of Uramita, Colombia",earthquake,7.0,7.024,0.046,45.0,reviewed,us,us
+2025-09-14T07:38:00.210Z,35.6801667,-117.5601667,3.95,0.65,ml,20.0,73.0,0.1121,0.13,ci,ci41291240,2025-09-14T07:41:28.265Z,"12 km ENE of Ridgecrest, CA",earthquake,0.21,0.78,0.17,8.0,automatic,ci,ci
