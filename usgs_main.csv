@@ -13984,3 +13984,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T14:53:33.940Z,63.3942,-145.3678,9.1,1.4,ml,,,,1.05,ak,ak025bt9roya,2025-09-14T14:55:40.076Z,"36 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-14T14:49:44.566Z,-2.8175,101.02,66.624,5.3,mb,47.0,167.0,2.466,0.84,us,us7000qw63,2025-09-14T15:07:48.040Z,"93 km SSW of Sungai Penuh, Indonesia",earthquake,10.42,8.415,0.055,113.0,reviewed,us,us
 2025-09-14T11:43:42.119Z,36.16066667,-97.042,7.92,2.03,ml,67.0,35.0,0.0,0.2,ok,ok2025saqb,2025-09-14T15:01:40.627Z,"5 km NNE of Stillwater, Oklahoma",earthquake,,0.4,0.24,28.0,reviewed,ok,ok
+2025-09-14T15:23:08.976Z,60.6833,-151.6362,74.2,1.1,ml,,,,0.28,ak,ak025bta6n5d,2025-09-14T15:25:06.144Z,"18 km WNW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-14T15:18:48.340Z,57.1768,-156.0739,11.5,1.6,ml,,,,0.72,ak,ak025bta5nlu,2025-09-14T15:20:45.697Z,"88 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
