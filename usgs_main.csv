@@ -13917,3 +13917,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T10:34:43.980Z,45.371666666667,-121.65733333333,2.56,0.18,ml,4.0,198.0,0.01403,0.02,uw,uw62180077,2025-09-14T06:24:52.480Z,"10 km NE of Government Camp, Oregon",earthquake,1.0,1.1,0.13758233775111,2.0,reviewed,uw,uw
 2025-09-14T06:48:07.908Z,35.32404327,-97.94551849,6.563539028,1.64,ml,12.0,81.48948669,0.07044610381,0.3593235388,ok,ok2025sagg,2025-09-14T06:50:24.338Z,"1 km N of Minco, Oklahoma",earthquake,4.000957142,6.538459011,0.22,11.0,automatic,ok,ok
 2025-09-14T07:06:53.958Z,60.1052,-153.0392,114.6,0.9,ml,,,,0.23,ak,ak025bt5bmlv,2025-09-14T07:09:16.688Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2025-09-14T07:18:35.870Z,63.2174,-151.2601,1.1,1.0,ml,,,,0.52,ak,ak025bt5e5sz,2025-09-14T07:20:25.073Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-14T07:11:34.180Z,33.5038333,-116.5068333,12.53,0.48,ml,31.0,57.0,0.08021,0.14,ci,ci41291224,2025-09-14T07:19:25.003Z,"16 km ESE of Anza, CA",earthquake,0.17,0.42,0.189,11.0,automatic,ci,ci
