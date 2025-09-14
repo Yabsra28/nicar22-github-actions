@@ -14017,3 +14017,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T18:15:31.499Z,31.684,-104.419,12.374,1.8,ml,8.0,139.0,0.0,0.6,tx,tx2025sdifip,2025-09-14T18:18:33.062Z,"54 km S of Whites City, New Mexico",earthquake,0.0,4.9064908027649,0.2,6.0,automatic,tx,tx
 2025-09-14T14:59:51.115Z,36.7662,-116.2526,9.2,-0.3,ml,6.0,204.59,0.032,0.0375,nn,nn00904360,2025-09-14T18:35:32.606Z,"47 km ESE of Beatty, Nevada",earthquake,,2.3,0.0,1.0,reviewed,nn,nn
 2025-09-14T17:38:05.801Z,51.8767,-173.6497,10.3,3.6,ml,,,,0.79,ak,ak025btbgq76,2025-09-14T18:43:40.950Z,"51 km SE of Atka, Alaska",earthquake,,3.0,,,reviewed,ak,ak
+2025-09-14T18:55:51.749Z,61.8086,-149.634,41.3,1.2,ml,,,,0.27,ak,ak025btc5w6e,2025-09-14T18:57:18.374Z,"20 km N of Meadow Lakes, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-14T17:38:05.631Z,51.8502,-173.6462,18.846,3.8,mb,47.0,114.0,0.49,1.07,us,us7000qw6z,2025-09-14T18:53:04.040Z,"54 km SE of Atka, Alaska",earthquake,5.08,6.021,0.109,22.0,reviewed,us,us
+2025-09-14T04:25:24.040Z,51.674333333333,-178.75933333333,13.15,0.84,ml,0.0,193.0,0.08689,0.16,av,av93767288,2025-09-14T18:51:49.860Z,"148 km W of Adak, Alaska",earthquake,1.61,1.27,0.18954494775021,6.0,reviewed,av,av
