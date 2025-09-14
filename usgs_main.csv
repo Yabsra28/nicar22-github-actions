@@ -14024,3 +14024,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T18:41:52.446Z,25.0699,122.8162,152.535,4.1,mb,30.0,94.0,0.626,0.8,us,us7000qw70,2025-09-14T19:03:22.040Z,"69 km NNW of Yonakuni, Japan",earthquake,4.19,7.11,0.127,17.0,reviewed,us,us
 2025-09-14T18:17:53.517Z,31.661,-104.339,2.9284,1.5,ml,26.0,141.0,0.1,0.4,tx,tx2025sdihbr,2025-09-14T19:03:51.157Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.2062554359436,0.1,13.0,automatic,tx,tx
 2025-09-14T18:17:53.252Z,31.656,-104.342,3.7453,1.5,ml,12.0,174.0,0.1,0.4,tx,tx2025sdihkg,2025-09-14T19:01:09.452Z,"57 km S of Whites City, New Mexico",earthquake,0.0,2.0781953334808,0.1,7.0,automatic,tx,tx
+2025-09-14T19:22:41.170Z,33.9018326,-116.4108353,4.33,1.07,ml,27.0,68.0,0.03879,0.22,ci,ci41291424,2025-09-14T19:24:47.663Z,"9 km NNW of Thousand Palms, CA",earthquake,0.37,0.9,0.151,8.0,automatic,ci,ci
+2025-09-14T18:57:29.195Z,13.0391,121.2643,10.0,4.7,mb,71.0,97.0,7.295,1.1,us,us7000qw73,2025-09-14T19:23:08.040Z,"12 km WSW of Leuteboro, Philippines",earthquake,10.47,1.853,0.059,86.0,reviewed,us,us
