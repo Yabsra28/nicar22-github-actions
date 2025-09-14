@@ -13888,3 +13888,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T03:51:06.490Z,35.32993698,-97.91477203,3.153397322,1.87,ml,13.0,74.69547272,0.06026569754,0.8992292856,ok,ok2025saak,2025-09-14T03:53:46.082Z,"3 km NE of Minco, Oklahoma",earthquake,3.932456922,2.652637232,0.23,13.0,automatic,ok,ok
 2025-09-14T03:49:10.846Z,63.3364,-145.4075,1.2,1.7,ml,,,,0.44,ak,ak025bt370ng,2025-09-14T03:51:41.033Z,"29 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-14T03:43:26.400Z,59.7606,-150.7221,40.6,1.4,ml,,,,0.52,ak,ak025bt35rmi,2025-09-14T03:48:27.000Z,"17 km SE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-14T04:23:14.521Z,31.622,-104.505,3.8753,1.8,ml,28.0,142.0,0.0,0.3,tx,tx2025scgqcu,2025-09-14T04:28:13.178Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.4851939678192,0.1,17.0,automatic,tx,tx
