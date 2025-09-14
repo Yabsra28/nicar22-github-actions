@@ -13980,3 +13980,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T14:27:06.060Z,36.786499023438,-121.30783081055,7.7600002288818,1.37,md,9.0,151.0,0.01288,0.07,nc,nc75237707,2025-09-14T14:28:43.512Z,"1 km ESE of Tres Pinos, CA",earthquake,0.51,1.07000005,0.24,8.0,automatic,nc,nc
 2025-09-14T14:43:15.227Z,62.2382,-151.9659,104.1,0.9,ml,,,,0.22,ak,ak025bt9pici,2025-09-14T14:45:27.996Z,"40 km NW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-14T11:43:35.579Z,35.329,-97.94516667,7.37,1.53,ml,38.0,100.0,0.06568710995,0.1,ok,ok2025saqa,2025-09-14T14:42:35.517Z,"1 km N of Minco, Oklahoma",earthquake,,0.2,0.2,16.0,reviewed,ok,ok
+2025-09-14T15:00:52.603Z,64.4753,-149.4462,18.6,1.7,ml,,,,0.29,ak,ak025bta1t1o,2025-09-14T15:02:58.907Z,"19 km NW of Anderson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-14T14:53:33.940Z,63.3942,-145.3678,9.1,1.4,ml,,,,1.05,ak,ak025bt9roya,2025-09-14T14:55:40.076Z,"36 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-14T14:49:44.566Z,-2.8175,101.02,66.624,5.3,mb,47.0,167.0,2.466,0.84,us,us7000qw63,2025-09-14T15:07:48.040Z,"93 km SSW of Sungai Penuh, Indonesia",earthquake,10.42,8.415,0.055,113.0,reviewed,us,us
+2025-09-14T11:43:42.119Z,36.16066667,-97.042,7.92,2.03,ml,67.0,35.0,0.0,0.2,ok,ok2025saqb,2025-09-14T15:01:40.627Z,"5 km NNE of Stillwater, Oklahoma",earthquake,,0.4,0.24,28.0,reviewed,ok,ok
