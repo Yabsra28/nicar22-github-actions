@@ -13900,3 +13900,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T05:15:28.950Z,38.822334289551,-122.7936630249,1.0499999523163,0.74,md,8.0,130.0,0.01286,0.01,nc,nc75237632,2025-09-14T05:17:06.005Z,"6 km NNW of The Geysers, CA",earthquake,0.4,0.560000002,0.16,8.0,automatic,nc,nc
 2025-09-13T23:38:00.370Z,47.502,-124.01233333333,23.83,1.3,ml,17.0,156.0,0.03164,0.18,uw,uw62180342,2025-09-14T05:23:11.690Z,"9 km WNW of Amanda Park, Washington",earthquake,0.61,0.49,0.18671347456784,7.0,reviewed,uw,uw
 2025-09-13T12:49:52.354Z,-9.1932,124.0556,74.413,4.3,mb,24.0,73.0,1.88,0.69,us,us7000qvzj,2025-09-14T05:29:40.040Z,"36 km W of Pante Makasar, Timor Leste",earthquake,9.41,8.577,0.142,14.0,reviewed,us,us
+2025-09-14T05:31:55.808Z,61.706,-148.0827,22.2,1.4,ml,,,,0.31,ak,ak025bt4a4fw,2025-09-14T05:33:18.304Z,"22 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
