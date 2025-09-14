@@ -14033,3 +14033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T21:03:56.699Z,32.11,-102.156,4.2931,2.5,ml,85.0,52.0,0.0,0.4,tx,tx2025sdntjx,2025-09-14T21:08:50.847Z,"14 km NNW of Midland, Texas",earthquake,0.0,0.57238751649857,0.2,59.0,automatic,tx,tx
 2025-09-14T21:03:56.605Z,32.109,-102.156,4.7154,2.4,ml,32.0,61.0,0.0,0.3,tx,tx2025sdnumc,2025-09-14T21:07:25.687Z,"14 km NNW of Midland, Texas",earthquake,0.0,0.98225504159927,0.2,24.0,automatic,tx,tx
 2025-09-14T21:41:34.028Z,31.659,-102.021,4.062,1.4,ml,37.0,96.0,0.1,0.5,tx,tx2025sdpaxs,2025-09-14T21:45:57.699Z,"37 km S of Midland, Texas",earthquake,0.0,1.1196012496948,0.1,21.0,automatic,tx,tx
+2025-09-14T21:55:02.050Z,38.779499053955,-122.73966979981,1.1200000047684,1.13,md,8.0,88.0,0.0213,0.02,nc,nc75237792,2025-09-14T21:56:37.938Z,"1 km E of The Geysers, CA",earthquake,0.32,0.75999999,0.13,7.0,automatic,nc,nc
