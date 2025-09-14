@@ -14016,3 +14016,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T18:25:17.330Z,33.3491667,-116.3746667,12.86,0.59,ml,25.0,41.0,0.02325,0.16,ci,ci41291408,2025-09-14T18:29:00.296Z,"10 km N of Borrego Springs, CA",earthquake,0.22,0.51,0.091,13.0,automatic,ci,ci
 2025-09-14T18:15:31.499Z,31.684,-104.419,12.374,1.8,ml,8.0,139.0,0.0,0.6,tx,tx2025sdifip,2025-09-14T18:18:33.062Z,"54 km S of Whites City, New Mexico",earthquake,0.0,4.9064908027649,0.2,6.0,automatic,tx,tx
 2025-09-14T14:59:51.115Z,36.7662,-116.2526,9.2,-0.3,ml,6.0,204.59,0.032,0.0375,nn,nn00904360,2025-09-14T18:35:32.606Z,"47 km ESE of Beatty, Nevada",earthquake,,2.3,0.0,1.0,reviewed,nn,nn
+2025-09-14T17:38:05.801Z,51.8767,-173.6497,10.3,3.6,ml,,,,0.79,ak,ak025btbgq76,2025-09-14T18:43:40.950Z,"51 km SE of Atka, Alaska",earthquake,,3.0,,,reviewed,ak,ak
