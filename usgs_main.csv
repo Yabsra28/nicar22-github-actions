@@ -13942,3 +13942,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T09:43:39.215Z,62.1079,-148.9155,44.3,1.0,ml,,,,0.45,ak,ak025bt6qe69,2025-09-14T09:45:52.248Z,"37 km NNW of Sutton-Alpine, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-09-14T09:42:27.210Z,40.518501281738,-124.46083068848,16.590000152588,2.81,md,32.0,249.0,0.188,0.08,nc,nc75237667,2025-09-14T09:48:45.285Z,"18 km W of Ferndale, CA",earthquake,1.13,0.379999995,0.09,28.0,automatic,nc,nc
 2025-09-14T09:42:11.575Z,38.5234,-117.872,1.4,1.5,ml,10.0,117.32,0.377,0.2718,nn,nn00904331,2025-09-14T09:45:20.440Z,"25 km NE of Mina, Nevada",earthquake,,6.1,0.28,8.0,automatic,nn,nn
+2025-09-14T09:50:05.908Z,29.236,-97.539,5.0,2.1,ml,7.0,184.0,0.2,0.2,tx,tx2025scrlqm,2025-09-14T09:51:42.684Z,"10 km ESE of Smiley, Texas",earthquake,0.0,,0.2,7.0,automatic,tx,tx
+2025-09-14T09:49:03.670Z,19.414167404175,-155.30349731445,0.93999999761581,1.88,ml,15.0,197.0,0.008197,0.189999998,hv,hv74775687,2025-09-14T09:52:03.170Z,"7 km WSW of Volcano, Hawaii",earthquake,0.48,0.230000004,0.27,12.0,automatic,hv,hv
+2025-09-14T09:00:53.400Z,52.0237,-176.4035,127.028,4.0,mb,129.0,83.0,0.129,0.69,us,us7000qw4u,2025-09-14T09:55:07.709Z,"22 km NE of Adak, Alaska",earthquake,8.22,3.374,0.045,134.0,reviewed,us,us
