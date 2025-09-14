@@ -13904,3 +13904,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T05:43:28.780Z,33.5033333,-116.5058333,11.91,0.5,ml,31.0,54.0,0.08098,0.14,ci,ci41291208,2025-09-14T05:46:58.769Z,"17 km ESE of Anza, CA",earthquake,0.17,0.45,0.162,10.0,automatic,ci,ci
 2025-09-14T05:41:19.050Z,33.3121667,-116.2388333,5.25,0.52,ml,34.0,74.0,0.07757,0.2,ci,ci41291200,2025-09-14T05:44:41.252Z,"14 km ENE of Borrego Springs, CA",earthquake,0.25,0.49,0.163,7.0,automatic,ci,ci
 2025-09-14T05:17:58.916Z,-6.9975,155.7577,39.19,4.7,mb,47.0,98.0,4.535,0.92,us,us7000qw48,2025-09-14T05:42:22.040Z,"81 km SSE of Panguna, Papua New Guinea",earthquake,7.73,6.21,0.088,39.0,reviewed,us,us
+2025-09-14T06:09:47.150Z,38.837833404541,-122.83483123779,1.6799999475479,0.63,md,8.0,106.0,0.0009119,0.02,nc,nc75237637,2025-09-14T06:11:22.317Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.649999976,0.31,7.0,automatic,nc,nc
+2025-09-14T05:59:20.317Z,61.6637,-150.7153,51.3,1.3,ml,,,,0.58,ak,ak025bt4g1r3,2025-09-14T06:01:01.779Z,"17 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-14T05:07:56.678Z,31.042,-103.478,1.0806,1.4,ml,15.0,194.0,0.2,1.1,tx,tx2025scicsp,2025-09-14T06:00:50.317Z,"26 km ENE of Balmorhea, Texas",earthquake,0.0,2.013867855072,0.3,9.0,automatic,tx,tx
+2025-09-14T05:01:23.838Z,51.4676,159.6091,25.09,4.7,mb,42.0,121.0,1.666,0.93,us,us7000qw44,2025-09-14T05:54:28.040Z,"182 km SSE of Vilyuchinsk, Russia",earthquake,9.92,5.924,0.075,55.0,reviewed,us,us
+2025-09-13T23:54:47.810Z,46.293333333333,-122.33583333333,9.53,0.14,ml,6.0,155.0,0.01327,0.09,uw,uw62180357,2025-09-14T06:08:07.610Z,"28 km SSE of Mossyrock, Washington",earthquake,0.51,0.64,0.094837003551191,3.0,reviewed,uw,uw
