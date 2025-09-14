@@ -14051,3 +14051,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T22:58:04.560Z,38.820667266846,-122.74116516113,0.14000000059605,1.6,md,18.0,123.0,0.02471,0.07,nc,nc75237822,2025-09-14T22:59:42.345Z,"2 km W of Cobb, CA",earthquake,0.3,0.670000017,0.13,18.0,automatic,nc,nc
 2025-09-14T23:33:28.210Z,34.1533333,-117.4243333,6.08,0.33,ml,14.0,109.0,0.0707,0.12,ci,ci41291456,2025-09-14T23:36:55.185Z,"7 km NNE of Fontana, CA",earthquake,0.34,0.54,0.036,4.0,automatic,ci,ci
 2025-09-14T23:31:17.040Z,35.6785,-117.5616667,2.16,0.56,ml,20.0,74.0,0.1131,0.11,ci,ci41291448,2025-09-14T23:34:49.176Z,"12 km ENE of Ridgecrest, CA",earthquake,0.18,0.23,0.114,11.0,automatic,ci,ci
+2025-09-14T23:46:29.908Z,61.1486,-151.6536,68.8,1.4,ml,,,,0.41,ak,ak025btf332m,2025-09-14T23:49:16.517Z,"29 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
