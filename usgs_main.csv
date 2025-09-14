@@ -14005,3 +14005,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T17:04:36.300Z,59.2523,-150.5151,26.4,1.9,ml,,,,0.34,ak,ak025btb9hv2,2025-09-14T17:06:11.609Z,"55 km SE of Halibut Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-14T17:28:46.710Z,36.461833953857,-121.06366729736,6.3200001716614,2.23,md,47.0,37.0,0.007989,0.22,nc,nc75237757,2025-09-14T17:30:21.600Z,"11 km SSE of Pinnacles, CA",earthquake,0.32,0.970000029,0.16,45.0,automatic,nc,nc
 2025-09-14T17:18:18.135Z,32.107,-102.154,4.0436,2.3,ml,80.0,45.0,0.0,0.5,tx,tx2025sdghxy,2025-09-14T17:24:13.277Z,"14 km NNW of Midland, Texas",earthquake,0.0,0.59486538171768,0.2,55.0,automatic,tx,tx
+2025-09-14T17:33:50.840Z,33.5155,-116.4551667,5.01,1.63,ml,75.0,32.0,0.1246,0.18,ci,ci41291384,2025-09-14T17:38:56.169Z,"21 km ESE of Anza, CA",earthquake,0.12,0.78,0.172,27.0,reviewed,ci,ci
+2025-09-14T17:30:04.307Z,61.3318,-149.9961,38.2,1.2,ml,,,,0.45,ak,ak025btbf00e,2025-09-14T17:31:20.456Z,"3 km SSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
