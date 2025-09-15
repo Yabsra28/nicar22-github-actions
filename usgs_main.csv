@@ -14248,3 +14248,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T15:37:27.050Z,54.764166666667,-163.98666666667,-0.52,0.69,ml,5.0,89.0,0.0478,0.25,av,av93770148,2025-09-15T19:37:35.990Z,"38 km WSW of False Pass, Alaska",earthquake,0.5,0.78,0.33720121461893,5.0,reviewed,av,av
 2025-09-15T13:45:55.020Z,54.759166666667,-163.9655,-0.71,0.51,ml,6.0,77.0,0.0531,0.26,av,av93770013,2025-09-15T19:28:43.350Z,"37 km WSW of False Pass, Alaska",earthquake,0.47,0.72,0.29166152426811,6.0,reviewed,av,av
 2025-09-14T22:41:59.270Z,58.175333333333,-155.35533333333,0.36,-0.54,ml,7.0,121.0,0.03786,0.05,av,av93769018,2025-09-15T19:33:04.640Z,"86 km NW of Karluk, Alaska",earthquake,0.22,1.56,0.15222205378111,7.0,reviewed,av,av
+2025-09-15T19:42:16.324Z,62.3108,-151.1824,119.6,1.6,ml,,,,1.17,ak,ak025bv07t8g,2025-09-15T19:45:21.828Z,"29 km SW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-09-15T19:38:31.734Z,60.7535,-149.5045,18.1,1.8,ml,,,,0.67,ak,ak025bv06zk5,2025-09-15T19:40:26.600Z,"15 km SSW of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-15T19:35:36.540Z,32.7851667,-115.4488333,15.65,2.4,ml,40.0,38.0,0.02017,0.28,ci,ci41291944,2025-09-15T19:46:03.620Z,"7 km WSW of Holtville, CA",earthquake,0.3,0.42,0.194,27.0,automatic,ci,ci
+2025-09-15T12:29:33.232Z,31.7,-104.179,5.3308,0.9,ml,17.0,73.0,0.1,0.1,tx,tx2025sesmbf,2025-09-15T19:43:20.096Z,"54 km W of Mentone, Texas",earthquake,0.79654226097022,1.4701621162378,0.2,18.0,reviewed,tx,tx
