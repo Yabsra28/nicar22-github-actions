@@ -14272,3 +14272,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T21:17:31.248Z,62.0806,-149.3998,50.1,1.6,ml,,,,0.71,ak,ak025bv19cp0,2025-09-15T21:19:25.023Z,"25 km ESE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-09-15T21:08:25.190Z,38.822498321533,-122.82382965088,0.28999999165535,1.33,md,14.0,82.0,0.01078,0.16,nc,nc75238117,2025-09-15T21:09:59.768Z,"8 km NW of The Geysers, CA",earthquake,0.41,0.74000001,0.13,14.0,automatic,nc,nc
 2025-09-15T20:56:13.172Z,-20.0415,-69.1368,106.51,4.9,mb,56.0,62.0,0.1,0.83,us,us7000qwdr,2025-09-15T21:20:38.637Z,"63 km ENE of La Tirana, Chile",earthquake,5.12,4.154,0.038,215.0,reviewed,us,us
+2025-09-15T21:37:37.758Z,57.4981,-152.9281,20.0,2.9,ml,,,,1.1,ak,ak025bv1dnin,2025-09-15T21:41:01.704Z,"25 km SW of Womens Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-15T00:56:38.180Z,60.033,-153.08233333333,-0.85,-1.0,ml,5.0,101.0,0.02618,0.13,av,av93769258,2025-09-15T21:44:36.620Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.38,3.8,0.33727874216871,5.0,reviewed,av,av
