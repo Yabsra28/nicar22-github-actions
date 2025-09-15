@@ -14192,3 +14192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T00:59:37.159Z,35.327,-97.9345,5.65,0.87,ml,54.0,63.0,0.06478728652,0.35,ok,ok2025sbqd,2025-09-15T14:50:35.969Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,25.0,reviewed,ok,ok
 2025-09-14T20:46:21.500Z,44.774333333333,-111.11316666667,8.77,0.64,ml,10.0,78.0,0.02235,0.11,uu,uu80117401,2025-09-15T14:54:40.840Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.4,0.8,0.29520145754709,4.0,reviewed,uu,uu
 2025-09-14T17:05:38.759Z,35.3345,-97.93783333,6.9,0.92,ml,37.0,64.0,0.05848852256,0.27,ok,ok2025sbap,2025-09-15T14:55:38.619Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.22,18.0,reviewed,ok,ok
+2025-09-15T15:16:33.952Z,61.9309,-149.2893,39.5,1.8,ml,,,,0.93,ak,ak025buxojk3,2025-09-15T15:19:10.550Z,"21 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-15T15:08:43.533Z,37.0899,-117.0325,2.4,0.8,ml,11.0,138.21,0.278,0.1197,nn,nn00904385,2025-09-15T15:10:58.529Z,"31 km NW of Beatty, Nevada",earthquake,,14.9,0.33,6.0,automatic,nn,nn
+2025-09-15T14:55:27.612Z,31.693,-104.311,6.8689,1.3,ml,20.0,56.0,0.0,0.1,tx,tx2025sexhvk,2025-09-15T15:07:35.827Z,"53 km S of Whites City, New Mexico",earthquake,0.82739685180721,0.78398103927738,0.2,24.0,reviewed,tx,tx
+2025-09-15T04:56:10.400Z,43.368666666667,-110.5525,1.74,0.43,ml,10.0,137.0,0.1113,0.12,mb,mb90111713,2025-09-15T15:08:36.090Z,"20 km ESE of South Park, Wyoming",earthquake,1.37,3.84,0.27558039711957,6.0,reviewed,mb,mb
