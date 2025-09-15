@@ -14280,3 +14280,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T21:57:06.095Z,38.5265,-117.1963,10.2,1.6,ml,9.0,233.25,1.062,0.278,nn,nn00904404,2025-09-15T22:00:00.099Z,"51 km N of Tonopah, Nevada",earthquake,,2.6,0.31,7.0,automatic,nn,nn
 2025-09-15T02:30:42.750Z,51.899,178.2855,7.07,0.57,ml,4.0,344.0,0.1483,0.06,av,av93050019,2025-09-15T22:30:44.860Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.26,4.6,0.12636272650296,4.0,reviewed,av,av
 2025-09-15T02:29:44.620Z,51.900166666667,178.35,-0.61,1.05,ml,4.0,339.0,0.1109,0.1,av,av93769418,2025-09-15T22:24:23.020Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.35,31.61,0.13219246912483,4.0,reviewed,av,av
+2025-09-15T02:32:21.150Z,51.907333333333,178.29183333333,5.26,1.25,ml,6.0,296.0,0.142,0.32,av,av93769423,2025-09-15T22:41:33.150Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.16,3.87,0.1827869426693,6.0,reviewed,av,av
