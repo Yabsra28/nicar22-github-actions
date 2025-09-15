@@ -14172,3 +14172,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T06:55:45.740Z,40.924666666667,-111.56316666667,10.74,1.43,ml,18.0,63.0,0.1441,0.17,uu,uu80117426,2025-09-15T13:28:18.740Z,"11 km SSW of Henefer, Utah",earthquake,0.36,2.25,0.15832808495032,4.0,reviewed,uu,uu
 2025-09-14T17:01:29.331Z,32.376,-102.113,7.6904,0.7,ml,20.0,54.0,0.0,0.2,tx,tx2025sdftom,2025-09-15T13:19:21.195Z,"40 km ENE of McKinney Acres, Texas",earthquake,0.6606552115935,0.93992846434067,0.2,9.0,reviewed,tx,tx
 2025-09-14T16:59:40.743Z,32.003,-103.819,6.3947,1.0,ml,11.0,88.0,0.0,0.1,tx,tx2025sdfqvc,2025-09-15T13:16:32.291Z,"34 km SE of Malaga, New Mexico",earthquake,0.47747341320327,0.54571445765818,0.1,7.0,reviewed,tx,tx
+2025-09-15T13:38:11.650Z,33.8896667,-116.4118333,3.51,2.18,ml,83.0,26.0,0.05095,0.17,ci,ci41291784,2025-09-15T13:41:54.302Z,"8 km NNW of Thousand Palms, CA",earthquake,0.1,0.32,0.121,25.0,automatic,ci,ci
+2025-09-15T07:52:26.239Z,35.54116667,-96.742,6.5,1.32,ml,71.0,46.0,0.006298763968,0.18,ok,ok2025scdw,2025-09-15T13:44:19.391Z,"7 km NW of Prague, Oklahoma",earthquake,,0.3,0.21,27.0,reviewed,ok,ok
