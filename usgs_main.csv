@@ -14088,3 +14088,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T22:24:48.027Z,12.9167,121.1242,109.848,4.3,mb,43.0,108.0,10.42,0.61,us,us7000qw7q,2025-09-15T03:42:04.040Z,"26 km W of Malamig, Philippines",earthquake,9.88,8.854,0.091,34.0,reviewed,us,us
 2025-09-15T04:09:58.833Z,63.2427,-151.6288,0.0,2.1,ml,,,,0.64,ak,ak025bur3bt7,2025-09-15T04:11:57.084Z,"33 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-15T03:57:20.170Z,33.4813333,-116.818,5.45,2.08,ml,100.0,18.0,0.02331,0.23,ci,ci41291536,2025-09-15T04:08:26.540Z,"6 km NE of Aguanga, CA",earthquake,0.13,0.45,0.148,25.0,automatic,ci,ci
+2025-09-15T03:53:25.869Z,36.6748,25.6615,15.464,4.4,mb,49.0,50.0,1.655,0.85,us,us7000qw8t,2025-09-15T04:18:45.040Z,"27 km SW of Amorgós, Greece",earthquake,4.59,3.876,0.091,35.0,reviewed,us,us
