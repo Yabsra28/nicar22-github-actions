@@ -14274,3 +14274,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T20:56:13.172Z,-20.0415,-69.1368,106.51,4.9,mb,56.0,62.0,0.1,0.83,us,us7000qwdr,2025-09-15T21:20:38.637Z,"63 km ENE of La Tirana, Chile",earthquake,5.12,4.154,0.038,215.0,reviewed,us,us
 2025-09-15T21:37:37.758Z,57.4981,-152.9281,20.0,2.9,ml,,,,1.1,ak,ak025bv1dnin,2025-09-15T21:41:01.704Z,"25 km SW of Womens Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-15T00:56:38.180Z,60.033,-153.08233333333,-0.85,-1.0,ml,5.0,101.0,0.02618,0.13,av,av93769258,2025-09-15T21:44:36.620Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.38,3.8,0.33727874216871,5.0,reviewed,av,av
+2025-09-15T21:03:22.980Z,27.4283,52.4709,10.0,4.2,mb,48.0,83.0,4.167,0.48,us,us7000qwdv,2025-09-15T21:50:23.040Z,"43 km WSW of Mohr, Iran",earthquake,9.44,1.935,0.085,39.0,reviewed,us,us
+2025-09-15T08:59:08.080Z,48.678166666667,-122.2365,12.85,1.03,ml,9.0,96.0,0.0504,0.11,uw,uw62181312,2025-09-15T21:53:02.860Z,"4 km SSW of Acme, Washington",earthquake,0.52,0.66,0.071659046694254,8.0,reviewed,uw,uw
