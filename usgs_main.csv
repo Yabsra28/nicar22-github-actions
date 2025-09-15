@@ -14183,3 +14183,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T10:26:43.160Z,44.570833333333,-112.20933333333,6.35,1.08,ml,19.0,96.0,0.1341,0.13,mb,mb90111718,2025-09-15T14:10:39.590Z,"23 km N of Spencer, Idaho",earthquake,0.34,2.22,0.19405526564875,18.0,reviewed,mb,mb
 2025-09-15T08:50:55.286Z,31.967,-102.053,8.3252,0.5,ml,14.0,78.0,0.1,0.1,tx,tx2025selfrx,2025-09-15T14:15:30.586Z,"4 km SE of Midland, Texas",earthquake,0.42130792703101,0.80570032949947,0.1,12.0,reviewed,tx,tx
 2025-09-15T08:42:10.524Z,29.4109,104.0599,10.0,4.7,mb,93.0,64.0,4.799,0.75,us,us7000qw9n,2025-09-15T13:58:59.040Z,"4 km NE of Luocheng, China",earthquake,7.89,1.869,0.058,90.0,reviewed,us,us
+2025-09-15T14:25:44.986Z,61.0229,-147.0499,20.1,1.5,ml,,,,0.5,ak,ak025bux528y,2025-09-15T14:27:28.543Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-15T14:20:42.210Z,31.917,-101.859,3.7728,1.2,ml,20.0,62.0,0.1,0.6,tx,tx2025sewdtb,2025-09-15T14:23:08.637Z,"22 km ESE of Midland, Texas",earthquake,0.0,1.2475872039795,0.2,12.0,automatic,tx,tx
+2025-09-15T07:39:58.666Z,37.9846,38.472,10.0,4.1,mb,23.0,163.0,0.765,0.52,us,us7000qw9g,2025-09-15T14:35:25.040Z,"13 km WSW of Sincik, Turkey",earthquake,7.68,1.942,0.158,11.0,reviewed,us,us
+2025-09-15T01:41:43.890Z,44.531666666667,-110.99583333333,15.45,1.13,ml,18.0,113.0,0.1055,0.17,uu,uu80117416,2025-09-15T14:22:08.460Z,"16 km SSE of West Yellowstone, Montana",earthquake,0.46,1.11,0.14615658191069,6.0,reviewed,uu,uu
+2025-09-15T01:16:59.180Z,40.923833333333,-111.564,6.09,1.37,ml,18.0,63.0,0.1444,0.13,uu,uu80117411,2025-09-15T14:27:41.180Z,"11 km SSW of Henefer, Utah",earthquake,0.28,0.66,0.14303503758283,5.0,reviewed,uu,uu
