@@ -14057,3 +14057,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T00:25:50.720Z,32.8988333,-116.2718333,12.15,1.35,ml,51.0,47.0,0.06162,0.19,ci,ci41291472,2025-09-15T00:36:34.100Z,"26 km ENE of Pine Valley, CA",earthquake,0.18,0.5,0.33,29.0,automatic,ci,ci
 2025-09-15T00:15:39.600Z,32.986,-116.3138333,9.29,0.46,ml,28.0,39.0,0.03252,0.19,ci,ci41291464,2025-09-15T00:19:10.393Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.5,0.06,6.0,automatic,ci,ci
 2025-09-15T00:06:35.039Z,53.1649,160.0384,35.0,5.3,mb,213.0,133.0,0.849,0.82,us,us7000qw84,2025-09-15T00:19:34.040Z,"95 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.43,1.943,0.041,196.0,reviewed,us,us
+2025-09-15T02:19:09.830Z,38.829334259033,-122.85299682617,1.8600000143051,0.61,md,9.0,81.0,0.003515,0.02,nc,nc75237852,2025-09-15T02:20:47.919Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.660000026,0.15,10.0,automatic,nc,nc
+2025-09-15T02:16:43.812Z,31.636,-104.407,3.9822,1.7,ml,22.0,82.0,0.0,0.4,tx,tx2025sdydzx,2025-09-15T02:20:13.441Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.2407100200653,0.1,18.0,automatic,tx,tx
+2025-09-15T02:13:45.180Z,61.9604,-149.6069,33.9,1.4,ml,,,,0.63,ak,ak025bupxaeu,2025-09-15T02:15:52.401Z,"25 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-15T02:11:02.307Z,63.5151,-147.8333,16.1,1.2,ml,,,,0.31,ak,ak025bupwro6,2025-09-15T02:13:04.863Z,"57 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-15T01:59:08.125Z,61.5075,-151.3103,68.9,1.3,ml,,,,0.21,ak,ak025buplmvw,2025-09-15T02:00:30.894Z,"42 km NNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-09-15T01:57:14.900Z,38.773166656494,-122.72049713135,1.9400000572205,1.4,md,11.0,94.0,0.01732,0.06,nc,nc75237847,2025-09-15T02:17:18.509Z,"2 km W of Anderson Springs, CA",earthquake,0.32,0.569999993,0.06,11.0,automatic,nc,nc
+2025-09-15T01:52:44.774Z,-13.7217,-74.7966,94.514,5.0,mb,65.0,134.0,2.636,1.02,us,us7000qw8g,2025-09-15T02:17:11.760Z,"31 km WSW of Vilcanchos, Peru",earthquake,10.43,8.346,0.038,224.0,reviewed,us,us
+2025-09-15T01:42:37.447Z,-27.9223,-72.1488,19.505,4.2,mb,18.0,196.0,0.991,0.94,us,us7000qw8c,2025-09-15T01:59:54.040Z,"154 km WNW of Vallenar, Chile",earthquake,6.27,7.492,0.306,3.0,reviewed,us,us
+2025-09-15T01:41:35.460Z,18.021833333333,-66.816333333333,19.55,2.26,md,9.0,143.0,0.06975,0.14,pr,pr71495678,2025-09-15T01:50:34.840Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.51,0.58,0.06776306449905,6.0,reviewed,pr,pr
+2025-09-15T01:39:54.032Z,53.1957,159.9787,59.455,5.1,mb,95.0,117.0,0.819,0.89,us,us7000qw8d,2025-09-15T01:54:22.040Z,"91 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.01,6.505,0.033,301.0,reviewed,us,us
+2025-09-15T01:14:56.045Z,61.978,-150.3977,16.8,1.9,ml,,,,0.32,ak,ak025bupc3d0,2025-09-15T01:16:35.478Z,"31 km NW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-15T01:12:20.547Z,53.2665,159.9725,56.812,4.6,mb,70.0,127.0,0.833,0.88,us,us7000qw8b,2025-09-15T01:42:39.040Z,"92 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.83,6.768,0.054,102.0,reviewed,us,us
+2025-09-15T01:10:38.712Z,61.4029,-149.969,30.1,2.5,ml,,,,0.51,ak,ak025bupb75o,2025-09-15T01:32:49.040Z,"4 km N of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
