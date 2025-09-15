@@ -14113,3 +14113,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T07:43:15.431Z,31.592,-104.28,3.649,1.7,ml,30.0,75.0,0.1,0.3,tx,tx2025seizkb,2025-09-15T07:47:49.739Z,"55 km WNW of Toyah, Texas",earthquake,0.0,1.081291437149,0.2,22.0,automatic,tx,tx
 2025-09-15T08:17:40.473Z,38.1368,-117.9111,2.6,1.2,ml,9.0,167.04,0.085,0.2276,nn,nn00904375,2025-09-15T08:20:37.147Z,"33 km SSE of Mina, Nevada",earthquake,,1.0,0.35,3.0,automatic,nn,nn
 2025-09-15T08:12:27.895Z,31.728,-104.093,4.0922,1.7,ml,39.0,45.0,0.0,0.4,tx,tx2025sejyok,2025-09-15T08:17:17.913Z,"46 km W of Mentone, Texas",earthquake,0.0,0.84475368261337,0.2,30.0,automatic,tx,tx
+2025-09-15T08:21:20.560Z,38.835498809815,-122.78566741943,2.4700000286102,1.1,md,7.0,160.0,0.02255,0.0,nc,nc75237932,2025-09-15T08:37:17.223Z,"6 km WNW of Cobb, CA",earthquake,0.72,1.45000005,0.12,8.0,automatic,nc,nc
