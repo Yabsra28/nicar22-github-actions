@@ -14213,3 +14213,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T16:34:36.629Z,52.6922,160.7026,24.472,6.0,mww,130.0,105.0,1.288,0.7,us,us7000qwch,2025-09-15T17:09:48.390Z,"145 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.11,5.01,0.069,20.0,reviewed,us,us
 2025-09-14T20:27:30.922Z,31.728,-104.08,6.3947,1.3,ml,23.0,56.0,0.0,0.1,tx,tx2025sdmpch,2025-09-15T16:55:57.153Z,"45 km W of Mentone, Texas",earthquake,0.49474751574276,0.50112776617261,0.2,33.0,reviewed,tx,tx
 2025-09-14T18:59:14.740Z,56.868333333333,-158.173,12.63,-0.2,ml,4.0,112.0,0.03684,0.16,av,av93768698,2025-09-15T16:52:30.890Z,"65 km NNE of Chignik, Alaska",earthquake,1.19,1.46,0.31482158065901,4.0,reviewed,av,av
+2025-09-15T16:09:53.147Z,53.4091,160.4397,56.944,4.4,mb,48.0,112.0,1.144,0.49,us,us7000qwcf,2025-09-15T17:23:12.040Z,"126 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.04,5.188,0.085,40.0,reviewed,us,us
+2025-09-14T22:34:04.642Z,31.619,-104.126,6.5997,1.0,ml,23.0,57.0,0.0,0.1,tx,tx2025sdqudt,2025-09-15T17:18:00.029Z,"46 km NW of Toyah, Texas",earthquake,0.49723919244645,0.57401199929955,0.2,19.0,reviewed,tx,tx
