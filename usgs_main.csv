@@ -14215,3 +14215,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T18:59:14.740Z,56.868333333333,-158.173,12.63,-0.2,ml,4.0,112.0,0.03684,0.16,av,av93768698,2025-09-15T16:52:30.890Z,"65 km NNE of Chignik, Alaska",earthquake,1.19,1.46,0.31482158065901,4.0,reviewed,av,av
 2025-09-15T16:09:53.147Z,53.4091,160.4397,56.944,4.4,mb,48.0,112.0,1.144,0.49,us,us7000qwcf,2025-09-15T17:23:12.040Z,"126 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.04,5.188,0.085,40.0,reviewed,us,us
 2025-09-14T22:34:04.642Z,31.619,-104.126,6.5997,1.0,ml,23.0,57.0,0.0,0.1,tx,tx2025sdqudt,2025-09-15T17:18:00.029Z,"46 km NW of Toyah, Texas",earthquake,0.49723919244645,0.57401199929955,0.2,19.0,reviewed,tx,tx
+2025-09-15T17:34:47.691Z,31.639,-104.445,4.1616,1.8,ml,33.0,93.0,0.0,0.4,tx,tx2025sfcpbg,2025-09-15T17:39:21.765Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.1296104192734,0.2,20.0,automatic,tx,tx
+2025-09-15T17:26:57.730Z,33.046,-114.9891667,4.6,1.92,ml,13.0,78.0,0.07416,0.18,ci,ci41291864,2025-09-15T17:32:14.537Z,"45 km NE of Holtville, CA",earthquake,0.38,1.09,0.479,11.0,automatic,ci,ci
+2025-09-15T17:15:42.675Z,49.4638,159.0221,10.0,5.0,mb,87.0,122.0,3.572,0.45,us,us7000qwci,2025-09-15T17:32:23.040Z,"247 km SE of Severo-Kuril’sk, Russia",earthquake,10.41,1.867,0.028,398.0,reviewed,us,us
+2025-09-15T12:09:30.376Z,31.537,-104.132,8.5095,1.2,ml,24.0,69.0,0.0,0.1,tx,tx2025seruva,2025-09-15T17:38:54.757Z,"40 km NW of Toyah, Texas",earthquake,0.95454491292759,0.81039360790527,0.2,20.0,reviewed,tx,tx
+2025-09-14T18:00:15.270Z,33.5443333,-116.7093333,3.96,0.21,ml,7.0,126.0,0.03141,0.07,ci,ci41291392,2025-09-15T17:29:32.522Z,"4 km WSW of Anza, CA",earthquake,0.31,0.4,0.082,6.0,reviewed,ci,ci
