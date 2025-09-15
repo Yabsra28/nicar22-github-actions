@@ -14110,3 +14110,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T07:28:52.996Z,31.562,-104.021,4.3425,1.1,ml,20.0,81.0,0.0,0.5,tx,tx2025seimzt,2025-09-15T07:34:32.273Z,"34 km NW of Toyah, Texas",earthquake,0.0,1.2476669549942,0.2,13.0,automatic,tx,tx
 2025-09-15T07:14:45.060Z,33.6613333,-116.7258333,14.97,0.19,ml,9.0,216.0,0.04405,0.09,ci,ci41291616,2025-09-15T07:28:24.661Z,"9 km S of Idyllwild, CA",earthquake,1.12,1.73,0.322,5.0,automatic,ci,ci
 2025-09-15T07:12:33.170Z,33.6865,-116.7911667,15.62,0.55,ml,25.0,72.0,0.07353,0.12,ci,ci41291608,2025-09-15T07:28:21.091Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.38,0.228,12.0,automatic,ci,ci
+2025-09-15T07:43:15.431Z,31.592,-104.28,3.649,1.7,ml,30.0,75.0,0.1,0.3,tx,tx2025seizkb,2025-09-15T07:47:49.739Z,"55 km WNW of Toyah, Texas",earthquake,0.0,1.081291437149,0.2,22.0,automatic,tx,tx
