@@ -14149,3 +14149,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T12:09:36.010Z,35.8398333,-117.6788333,9.29,2.58,ml,42.0,30.0,0.07032,0.15,ci,ci41291752,2025-09-15T12:13:19.773Z,"23 km ESE of Little Lake, CA",earthquake,0.14,0.36,0.249,25.0,automatic,ci,ci
 2025-09-15T12:07:08.923Z,61.2726,-146.8522,24.8,2.0,ml,,,,0.37,ak,ak025buvu9d8,2025-09-15T12:09:00.772Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-15T11:54:44.574Z,31.611,-104.104,4.8384,2.2,ml,37.0,57.0,0.0,0.3,tx,tx2025sericp,2025-09-15T11:58:56.251Z,"44 km NW of Toyah, Texas",earthquake,0.0,0.88588172197342,0.2,29.0,automatic,tx,tx
+2025-09-15T12:57:11.644Z,59.5998,-152.0782,63.5,1.5,ml,,,,0.26,ak,ak025buw4zdo,2025-09-15T12:59:05.199Z,"24 km SW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-09-15T12:46:26.920Z,19.402833938599,-155.28733825684,-0.25,1.84,ml,20.0,61.0,0.01254,0.189999998,hv,hv74776422,2025-09-15T12:49:22.900Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.209999993,0.19,15.0,automatic,hv,hv
+2025-09-15T12:42:51.760Z,39.07500076294,-123.13333129883,6.6100001335144,1.46,md,10.0,109.0,0.07048,0.03,nc,nc75237992,2025-09-15T12:44:28.735Z,"7 km SSE of Talmage, CA",earthquake,0.65,1.82000005,0.05,5.0,automatic,nc,nc
+2025-09-15T12:34:38.955Z,63.3429,-145.4435,10.0,0.9,ml,,,,0.29,ak,ak025buw040n,2025-09-15T12:36:38.287Z,"29 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-15T07:18:26.961Z,53.2653,159.8065,66.346,4.4,mb,58.0,114.0,0.738,0.58,us,us7000qw9c,2025-09-15T12:56:19.040Z,"81 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.89,6.783,0.067,63.0,reviewed,us,us
+2025-09-14T23:06:05.683Z,32.125,-102.156,7.3486,0.9,ml,14.0,65.0,0.0,0.1,tx,tx2025sdrvsw,2025-09-15T12:38:56.066Z,"15 km NNW of Midland, Texas",earthquake,0.91669146393763,0.61390052179632,0.2,8.0,reviewed,tx,tx
+2025-09-14T20:03:39.147Z,32.118,-102.16,6.5674,0.9,ml,18.0,64.0,0.0,0.2,tx,tx2025sdlujr,2025-09-15T12:36:09.056Z,"15 km NNW of Midland, Texas",earthquake,0.54110109484011,0.6451482015658,0.2,14.0,reviewed,tx,tx
+2025-09-14T18:15:57.946Z,31.68,-104.426,6.0999,1.6,ml,16.0,69.0,0.0,0.2,tx,tx2025sdiftq,2025-09-15T12:39:13.112Z,"55 km S of Whites City, New Mexico",earthquake,1.2013511692335,0.73518166993886,0.1,22.0,reviewed,tx,tx
