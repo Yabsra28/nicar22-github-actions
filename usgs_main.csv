@@ -14188,3 +14188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T07:39:58.666Z,37.9846,38.472,10.0,4.1,mb,23.0,163.0,0.765,0.52,us,us7000qw9g,2025-09-15T14:35:25.040Z,"13 km WSW of Sincik, Turkey",earthquake,7.68,1.942,0.158,11.0,reviewed,us,us
 2025-09-15T01:41:43.890Z,44.531666666667,-110.99583333333,15.45,1.13,ml,18.0,113.0,0.1055,0.17,uu,uu80117416,2025-09-15T14:22:08.460Z,"16 km SSE of West Yellowstone, Montana",earthquake,0.46,1.11,0.14615658191069,6.0,reviewed,uu,uu
 2025-09-15T01:16:59.180Z,40.923833333333,-111.564,6.09,1.37,ml,18.0,63.0,0.1444,0.13,uu,uu80117411,2025-09-15T14:27:41.180Z,"11 km SSW of Henefer, Utah",earthquake,0.28,0.66,0.14303503758283,5.0,reviewed,uu,uu
+2025-09-15T14:21:59.239Z,79.5808,4.4279,10.0,4.7,mb,92.0,60.0,1.56,0.97,us,us7000qwaq,2025-09-15T14:48:58.040Z,"284 km WNW of Longyearbyen, Svalbard and Jan Mayen",earthquake,8.93,1.868,0.06,85.0,reviewed,us,us
+2025-09-15T00:59:37.159Z,35.327,-97.9345,5.65,0.87,ml,54.0,63.0,0.06478728652,0.35,ok,ok2025sbqd,2025-09-15T14:50:35.969Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,25.0,reviewed,ok,ok
+2025-09-14T20:46:21.500Z,44.774333333333,-111.11316666667,8.77,0.64,ml,10.0,78.0,0.02235,0.11,uu,uu80117401,2025-09-15T14:54:40.840Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.4,0.8,0.29520145754709,4.0,reviewed,uu,uu
+2025-09-14T17:05:38.759Z,35.3345,-97.93783333,6.9,0.92,ml,37.0,64.0,0.05848852256,0.27,ok,ok2025sbap,2025-09-15T14:55:38.619Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.22,18.0,reviewed,ok,ok
