@@ -14201,3 +14201,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T19:56:23.580Z,44.764833333333,-110.80866666667,4.43,0.67,md,9.0,96.0,0.03794,0.09,uu,uu80117386,2025-09-15T15:32:52.790Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.32,0.56,0.16151400256282,5.0,reviewed,uu,uu
 2025-09-14T17:24:09.849Z,35.61133333,-98.04666667,7.35,1.11,ml,30.0,143.0,0.1538698055,0.13,ok,ok2025sbbf,2025-09-15T15:30:49.936Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.16,14.0,reviewed,ok,ok
 2025-09-14T16:20:51.359Z,35.33116667,-97.94233333,10.44,0.6,ml,18.0,102.0,0.06298763968,0.09,ok,ok2025sazd,2025-09-15T15:47:46.675Z,"2 km N of Minco, Oklahoma",earthquake,,0.5,0.15,9.0,reviewed,ok,ok
+2025-09-15T14:59:37.624Z,32.393,-102.144,7.373,0.8,ml,17.0,77.0,0.0,0.2,tx,tx2025sexlkr,2025-09-15T16:08:38.244Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.83613389401947,0.7525771837162,0.1,10.0,reviewed,tx,tx
+2025-09-14T17:51:25.030Z,44.5645,-110.7325,5.84,0.7,md,6.0,157.0,0.07577,0.16,uu,uu80117381,2025-09-15T15:55:25.450Z,"31 km ESE of West Yellowstone, Montana",earthquake,0.9,3.96,0.53839230344841,5.0,reviewed,uu,uu
