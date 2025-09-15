@@ -14105,3 +14105,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T06:16:57.768Z,64.7192,-146.8121,8.3,0.8,ml,,,,0.33,ak,ak025busboy8,2025-09-15T06:19:21.692Z,"13 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-15T06:35:50.749Z,60.0236,-150.5414,60.7,1.9,ml,,,,0.47,ak,ak025busfr0i,2025-09-15T06:37:49.728Z,"29 km NE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-15T07:08:52.810Z,33.6375008,-116.7291641,13.56,2.93,ml,108.0,19.0,0.0558,0.21,ci,ci41291600,2025-09-15T07:12:08.842Z,"10 km NNW of Anza, CA",earthquake,0.18,0.42,0.212,14.0,automatic,ci,ci
+2025-09-15T07:17:53.100Z,37.05899810791,-121.52133178711,5.5900001525879,1.04,md,7.0,169.0,0.04465,0.1,nc,nc75237927,2025-09-15T07:19:28.574Z,"7 km NE of Gilroy, CA",earthquake,0.84,2.24000001,0.17,6.0,automatic,nc,nc
