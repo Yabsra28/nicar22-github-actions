@@ -14267,3 +14267,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T20:39:45.590Z,33.661,-116.727,13.2,0.55,ml,21.0,87.0,0.04506,0.12,ci,ci41291976,2025-09-15T20:43:16.029Z,"9 km S of Idyllwild, CA",earthquake,0.26,0.39,0.092,9.0,automatic,ci,ci
 2025-09-15T20:29:22.163Z,-17.8408,-177.8029,639.511,4.9,mb,50.0,93.0,3.023,1.19,us,us7000qwdj,2025-09-15T20:44:14.040Z,Fiji region,earthquake,13.54,9.453,0.076,55.0,reviewed,us,us
 2025-09-15T10:09:20.452Z,31.608,-103.988,8.8684,0.7,ml,19.0,60.0,0.0,0.1,tx,tx2025senvid,2025-09-15T20:45:39.474Z,"37 km NNW of Toyah, Texas",earthquake,0.64255642931512,0.6253928409441,0.2,18.0,reviewed,tx,tx
+2025-09-14T21:23:39.450Z,46.204333333333,-122.18166666667,6.42,-0.08,md,6.0,132.0,0.03709,0.08,uw,uw62180922,2025-09-15T20:55:55.950Z,"38 km NNE of Amboy, Washington",earthquake,0.37,1.0,0.089414371556934,4.0,reviewed,uw,uw
