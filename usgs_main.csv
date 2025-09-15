@@ -14252,3 +14252,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T19:38:31.734Z,60.7535,-149.5045,18.1,1.8,ml,,,,0.67,ak,ak025bv06zk5,2025-09-15T19:40:26.600Z,"15 km SSW of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-15T19:35:36.540Z,32.7851667,-115.4488333,15.65,2.4,ml,40.0,38.0,0.02017,0.28,ci,ci41291944,2025-09-15T19:46:03.620Z,"7 km WSW of Holtville, CA",earthquake,0.3,0.42,0.194,27.0,automatic,ci,ci
 2025-09-15T12:29:33.232Z,31.7,-104.179,5.3308,0.9,ml,17.0,73.0,0.1,0.1,tx,tx2025sesmbf,2025-09-15T19:43:20.096Z,"54 km W of Mentone, Texas",earthquake,0.79654226097022,1.4701621162378,0.2,18.0,reviewed,tx,tx
+2025-09-15T19:49:54.980Z,19.525499343872,-156.03300476074,1.2799999713898,2.72,ml,49.0,234.0,0.1476,0.319999993,hv,hv74776597,2025-09-15T19:57:27.040Z,"9 km SW of Kahaluu-Keauhou, Hawaii",earthquake,0.86,0.699999988,0.37,11.0,automatic,hv,hv
