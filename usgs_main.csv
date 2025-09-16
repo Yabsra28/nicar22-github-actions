@@ -14421,3 +14421,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T10:15:16.028Z,57.1844,-155.9977,13.6,2.5,ml,,,,0.62,ak,ak025bwi8gxe,2025-09-16T10:16:58.065Z,"91 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-16T10:09:28.160Z,33.2243333,-116.0726667,11.31,0.58,ml,38.0,83.0,0.09437,0.2,ci,ci41292280,2025-09-16T10:12:48.528Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.46,0.183,6.0,automatic,ci,ci
 2025-09-16T08:00:33.690Z,32.747,-100.662,7.9834,1.0,ml,16.0,72.0,0.1,0.2,tx,tx2025sgfhep,2025-09-16T10:01:53.227Z,"15 km NE of Hermleigh, Texas",earthquake,0.700011166808,0.98092148724642,0.1,10.0,reviewed,tx,tx
+2025-09-16T10:24:01.967Z,32.11,-102.19,5.835,0.7,ml,20.0,78.0,0.0,0.2,tx,tx2025sgkauo,2025-09-16T10:44:45.499Z,"16 km NW of Midland, Texas",earthquake,0.79320189048024,0.78680980991565,0.2,7.0,reviewed,tx,tx
+2025-09-16T09:12:21.953Z,32.368,-102.16,8.1299,0.5,ml,18.0,69.0,0.0,0.1,tx,tx2025sghqvs,2025-09-16T10:51:24.536Z,"35 km ENE of McKinney Acres, Texas",earthquake,0.57355731259028,0.57608840321531,0.2,9.0,reviewed,tx,tx
