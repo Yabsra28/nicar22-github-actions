@@ -14474,3 +14474,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T14:34:38.927Z,32.369,-102.111,4.7221,1.2,ml,30.0,45.0,0.0,0.6,tx,tx2025sgsira,2025-09-16T14:38:50.140Z,"40 km E of McKinney Acres, Texas",earthquake,0.0,0.92444747686386,0.2,18.0,automatic,tx,tx
 2025-09-16T06:28:21.825Z,32.193,-101.393,5.4932,1.1,ml,17.0,48.0,0.1,0.2,tx,tx2025sgcfsi,2025-09-16T14:50:55.212Z,"9 km NNW of Forsan, Texas",earthquake,0.83368161491358,1.7077121766068,0.2,7.0,reviewed,tx,tx
 2025-09-16T02:51:05.657Z,32.752,-100.673,4.3457,0.8,ml,9.0,79.0,0.1,0.2,tx,tx2025sfvanb,2025-09-16T14:53:40.102Z,"15 km NNE of Hermleigh, Texas",earthquake,0.70916941364237,1.7586114264253,0.2,5.0,reviewed,tx,tx
+2025-09-16T14:51:37.570Z,32.44,-102.081,6.9435,1.3,ml,16.0,161.0,0.0,0.7,tx,tx2025sgsxkm,2025-09-16T14:54:51.111Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.0,1.4054384231567,0.2,10.0,automatic,tx,tx
+2025-09-16T14:45:46.100Z,17.940833333333,-66.844333333333,10.79,2.26,md,9.0,179.0,0.04758,0.23,pr,pr71495823,2025-09-16T15:08:32.200Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.66,0.97,0.11398853856477,7.0,reviewed,pr,pr
+2025-09-16T02:16:10.223Z,31.554,-104.193,6.6638,1.0,ml,20.0,72.0,0.1,0.1,tx,tx2025sftwkp,2025-09-16T15:11:54.298Z,"46 km NW of Toyah, Texas",earthquake,0.84276348601728,1.0564749150098,0.2,17.0,reviewed,tx,tx
+2025-09-15T20:32:34.329Z,31.666,-104.233,7.1765,1.0,ml,20.0,83.0,0.0,0.1,tx,tx2025sfimij,2025-09-16T15:06:54.401Z,"57 km NW of Toyah, Texas",earthquake,0.74550768226843,0.91660835120462,0.2,19.0,reviewed,tx,tx
