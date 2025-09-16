@@ -14522,3 +14522,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T19:38:23.358Z,36.2334,-115.2853,5.8,1.6,ml,14.0,237.76,0.29,0.3066,nn,nn00904442,2025-09-16T19:41:06.146Z,"13 km NNE of Summerlin South, Nevada",earthquake,,4.9,0.29,12.0,automatic,nn,nn
 2025-09-16T19:38:04.324Z,66.2234,-157.1939,0.0,1.8,ml,,,,0.86,ak,ak025bwnq9xs,2025-09-16T19:40:57.902Z,"68 km NNW of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-16T19:10:30.323Z,51.6649,178.1724,111.493,4.5,mb,81.0,84.0,0.382,0.56,us,us7000qwjm,2025-09-16T19:49:25.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.6,5.193,0.054,101.0,reviewed,us,us
+2025-09-16T19:48:01.823Z,32.107,-102.145,4.6221,1.7,ml,45.0,54.0,0.0,0.5,tx,tx2025shcsnv,2025-09-16T19:52:25.363Z,"13 km NNW of Midland, Texas",earthquake,0.0,0.79755759239197,0.1,27.0,automatic,tx,tx
+2025-09-16T07:42:42.270Z,54.760333333333,-163.95066666667,-2.97,0.21,ml,5.0,132.0,0.05768,0.2,av,av93771323,2025-09-16T20:04:56.620Z,"36 km WSW of False Pass, Alaska",earthquake,0.46,1.02,0.30231615457792,5.0,reviewed,av,av
