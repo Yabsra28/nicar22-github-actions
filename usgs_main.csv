@@ -14416,3 +14416,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T08:58:55.280Z,35.894,-117.6776667,2.64,0.61,ml,14.0,107.0,0.05817,0.08,ci,ci41292248,2025-09-16T09:02:26.163Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.23,0.15,9.0,automatic,ci,ci
 2025-09-16T03:22:45.765Z,32.749,-100.666,6.0791,1.2,ml,15.0,47.0,0.1,0.2,tx,tx2025sfwbun,2025-09-16T09:16:29.917Z,"15 km NE of Hermleigh, Texas",earthquake,0.91328951320052,1.8440257480672,0.1,10.0,reviewed,tx,tx
 2025-09-16T00:33:00.130Z,39.015166666667,-123.11333333333,2.32,1.29,md,23.0,58.0,0.03858,0.08,nc,nc75238172,2025-09-16T09:02:12.543Z,"14 km SSE of Talmage, CA",earthquake,0.17,0.75,0.139,14.0,reviewed,nc,nc
+2025-09-16T09:31:17.060Z,36.0796667,-117.627,2.25,0.97,ml,19.0,73.0,0.1139,0.16,ci,ci41292272,2025-09-16T09:35:06.344Z,"29 km E of Coso Junction, CA",earthquake,0.24,0.94,0.184,16.0,automatic,ci,ci
+2025-09-16T09:17:35.190Z,33.1051667,-116.2215,10.36,0.44,ml,40.0,43.0,0.06754,0.22,ci,ci41292264,2025-09-16T09:21:00.268Z,"9 km WSW of Ocotillo Wells, CA",earthquake,0.22,0.53,0.255,5.0,automatic,ci,ci
