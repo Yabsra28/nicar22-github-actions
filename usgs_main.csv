@@ -14513,3 +14513,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T18:41:59.260Z,36.545166015625,-121.08899688721,5.6300001144409,2.04,md,30.0,59.0,0.05186,0.16,nc,nc75238507,2025-09-16T18:45:16.910Z,"5 km E of Pinnacles, CA",earthquake,0.35,1.23000002,0.24,33.0,automatic,nc,nc
 2025-09-16T18:38:30.990Z,36.0518333,-117.8461667,2.37,0.36,ml,8.0,160.0,0.06599,0.06,ci,ci41292392,2025-09-16T18:41:53.893Z,"9 km E of Coso Junction, CA",earthquake,0.45,0.3,0.119,5.0,automatic,ci,ci
 2025-09-16T18:34:56.958Z,36.7651,-116.2655,12.6,0.1,ml,13.0,103.5,0.057,0.0842,nn,nn00904440,2025-09-16T18:37:05.014Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.13,8.0,automatic,nn,nn
+2025-09-16T19:11:34.530Z,19.403999328613,-155.28866577148,0.20999999344349,1.89,ml,16.0,69.0,0.01102,0.209999993,hv,hv74777217,2025-09-16T19:14:37.530Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.319999993,0.16,12.0,automatic,hv,hv
+2025-09-16T19:01:59.123Z,63.1206,-150.7935,115.6,1.8,ml,,,,0.34,ak,ak025bwnigo8,2025-09-16T19:04:11.988Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-16T01:38:31.332Z,32.753,-100.655,4.9192,0.7,ml,10.0,85.0,0.1,0.1,tx,tx2025sfspzc,2025-09-16T19:14:16.763Z,"16 km NE of Hermleigh, Texas",earthquake,0.71688456523532,1.6356045613364,0.1,6.0,reviewed,tx,tx
