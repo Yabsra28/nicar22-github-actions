@@ -14470,3 +14470,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T23:46:19.003Z,31.608,-103.973,7.3175,1.3,ml,25.0,58.0,0.0,0.1,tx,tx2025sfoxhg,2025-09-16T14:14:06.121Z,"36 km NNW of Toyah, Texas",earthquake,0.46945429619418,0.48310461752512,0.2,27.0,reviewed,tx,tx
 2025-09-15T17:11:24.132Z,31.606,-103.984,7.6892,1.2,ml,10.0,64.0,0.0,0.1,tx,tx2025sfbuzf,2025-09-16T14:19:31.853Z,"37 km NNW of Toyah, Texas",earthquake,0.76948007957597,1.344352358728,0.1,20.0,reviewed,tx,tx
 2025-09-15T15:18:20.998Z,31.606,-103.974,6.8433,1.0,ml,12.0,72.0,0.0,0.1,tx,tx2025seybnv,2025-09-16T14:23:41.885Z,"36 km NNW of Toyah, Texas",earthquake,0.67403952847603,1.7893994538244,0.2,19.0,reviewed,tx,tx
+2025-09-16T14:36:04.153Z,31.666,-104.517,3.7344,1.7,ml,28.0,107.0,0.0,0.4,tx,tx2025sgsjvw,2025-09-16T14:39:47.146Z,"58 km SSW of Whites City, New Mexico",earthquake,0.0,1.2655591964722,0.1,18.0,automatic,tx,tx
+2025-09-16T14:34:38.927Z,32.369,-102.111,4.7221,1.2,ml,30.0,45.0,0.0,0.6,tx,tx2025sgsira,2025-09-16T14:38:50.140Z,"40 km E of McKinney Acres, Texas",earthquake,0.0,0.92444747686386,0.2,18.0,automatic,tx,tx
