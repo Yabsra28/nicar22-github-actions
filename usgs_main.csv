@@ -14499,3 +14499,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6.0,mww,164.0,43.0,2.029,0.71,us,us7000qwir,2025-09-16T17:17:12.040Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55.0,reviewed,us,us
 2025-09-16T16:56:34.649Z,57.0352,-154.695,6.9,2.8,ml,,,,0.39,ak,ak025bwm1wco,2025-09-16T16:58:22.270Z,"33 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-16T15:22:15.594Z,32.749,-100.664,7.2998,1.5,ml,16.0,80.0,0.1,0.2,tx,tx2025sgtxur,2025-09-16T17:08:56.056Z,"15 km NE of Hermleigh, Texas",earthquake,0.63213861779037,1.0660903273117,0.1,11.0,reviewed,tx,tx
+2025-09-16T17:42:13.350Z,37.432498931885,-118.85333251953,4.9899997711182,2.26,md,24.0,101.0,0.1367,0.07,nc,nc75238472,2025-09-16T17:43:51.965Z,"21 km WSW of Toms Place, CA",earthquake,0.26,2.00999999,0.3,27.0,automatic,nc,nc
+2025-09-16T03:04:18.780Z,39.1515,-119.0598,12.7,0.9,ml,10.0,85.31,0.218,0.1396,nn,nn00904416,2025-09-16T17:41:33.525Z,"20 km NNE of Yerington, Nevada",earthquake,,3.7,0.22,5.0,reviewed,nn,nn
