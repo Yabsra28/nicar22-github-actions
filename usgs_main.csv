@@ -14495,3 +14495,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T17:21:43.299Z,35.51733333,-96.78616667,7.81,0.58,ml,20.0,76.0,0.04409134777,0.13,ok,ok2025scwq,2025-09-16T16:00:19.907Z,"9 km WNW of Prague, Oklahoma",earthquake,,0.4,0.19,9.0,reviewed,ok,ok
 2025-09-16T16:11:25.436Z,14.38,-92.9028,50.494,4.9,mww,168.0,140.0,2.03,0.93,us,us7000qwij,2025-09-16T16:29:56.040Z,"64 km SW of Puerto Madero, Mexico",earthquake,7.16,6.223,0.058,29.0,reviewed,us,us
 2025-09-16T16:53:12.090Z,40.297500610352,-124.51132965088,22.420000076294,1.89,md,9.0,307.0,0.1586,0.16,nc,nc75238442,2025-09-16T16:54:46.325Z,"19 km W of Petrolia, CA",earthquake,5.39,1.13999999,0.1,5.0,automatic,nc,nc
+2025-09-16T17:17:10.525Z,61.403,-146.9838,10.0,1.9,ml,,,,0.68,ak,ak025bwmex64,2025-09-16T17:19:15.282Z,"45 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6.0,mww,164.0,43.0,2.029,0.71,us,us7000qwir,2025-09-16T17:17:12.040Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55.0,reviewed,us,us
+2025-09-16T16:56:34.649Z,57.0352,-154.695,6.9,2.8,ml,,,,0.39,ak,ak025bwm1wco,2025-09-16T16:58:22.270Z,"33 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-16T15:22:15.594Z,32.749,-100.664,7.2998,1.5,ml,16.0,80.0,0.1,0.2,tx,tx2025sgtxur,2025-09-16T17:08:56.056Z,"15 km NE of Hermleigh, Texas",earthquake,0.63213861779037,1.0660903273117,0.1,11.0,reviewed,tx,tx
