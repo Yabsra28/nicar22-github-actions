@@ -14546,3 +14546,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T20:50:40.850Z,32.9486667,-116.4603333,7.4,0.83,ml,14.0,82.0,0.04773,0.14,ci,ci41292480,2025-09-16T20:58:22.807Z,"16 km NNE of Pine Valley, CA",earthquake,0.31,0.76,0.201,10.0,automatic,ci,ci
 2025-09-16T15:48:57.840Z,45.319833333333,-112.59783333333,7.13,1.39,ml,10.0,137.0,0.04268,0.06,mb,mb90112018,2025-09-16T21:38:03.030Z,"11 km NNE of Dillon, Montana",earthquake,0.32,0.52,0.15416119323643,15.0,reviewed,mb,mb
 2025-09-16T15:11:18.787Z,32.436,-102.072,7.9834,0.7,ml,15.0,83.0,0.0,0.2,tx,tx2025sgtoiz,2025-09-16T21:32:40.084Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.66858534776139,1.0475622589943,0.1,6.0,reviewed,tx,tx
+2025-09-16T21:38:21.970Z,33.1955,-116.383,14.28,0.68,ml,35.0,50.0,0.07795,0.2,ci,ci41292520,2025-09-16T21:41:53.177Z,"7 km S of Borrego Springs, CA",earthquake,0.25,0.57,0.158,14.0,automatic,ci,ci
+2025-09-16T13:23:44.250Z,54.7625,-163.98116666667,-2.98,0.32,ml,6.0,87.0,0.05,0.2,av,av93771973,2025-09-16T21:43:44.860Z,"38 km WSW of False Pass, Alaska",earthquake,0.37,0.91,0.4298579441642,6.0,reviewed,av,av
