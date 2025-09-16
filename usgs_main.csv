@@ -14472,3 +14472,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T15:18:20.998Z,31.606,-103.974,6.8433,1.0,ml,12.0,72.0,0.0,0.1,tx,tx2025seybnv,2025-09-16T14:23:41.885Z,"36 km NNW of Toyah, Texas",earthquake,0.67403952847603,1.7893994538244,0.2,19.0,reviewed,tx,tx
 2025-09-16T14:36:04.153Z,31.666,-104.517,3.7344,1.7,ml,28.0,107.0,0.0,0.4,tx,tx2025sgsjvw,2025-09-16T14:39:47.146Z,"58 km SSW of Whites City, New Mexico",earthquake,0.0,1.2655591964722,0.1,18.0,automatic,tx,tx
 2025-09-16T14:34:38.927Z,32.369,-102.111,4.7221,1.2,ml,30.0,45.0,0.0,0.6,tx,tx2025sgsira,2025-09-16T14:38:50.140Z,"40 km E of McKinney Acres, Texas",earthquake,0.0,0.92444747686386,0.2,18.0,automatic,tx,tx
+2025-09-16T06:28:21.825Z,32.193,-101.393,5.4932,1.1,ml,17.0,48.0,0.1,0.2,tx,tx2025sgcfsi,2025-09-16T14:50:55.212Z,"9 km NNW of Forsan, Texas",earthquake,0.83368161491358,1.7077121766068,0.2,7.0,reviewed,tx,tx
+2025-09-16T02:51:05.657Z,32.752,-100.673,4.3457,0.8,ml,9.0,79.0,0.1,0.2,tx,tx2025sfvanb,2025-09-16T14:53:40.102Z,"15 km NNE of Hermleigh, Texas",earthquake,0.70916941364237,1.7586114264253,0.2,5.0,reviewed,tx,tx
