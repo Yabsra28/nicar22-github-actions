@@ -14493,3 +14493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T15:47:01.371Z,60.0169,-153.4569,143.8,3.7,ml,,,,0.56,ak,ak025bwleigy,2025-09-16T16:20:14.040Z,"44 km NE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-09-16T00:17:00.040Z,36.0925,-89.406166666667,10.08,1.97,md,27.0,56.0,0.02376,0.09,nm,nm60613891,2025-09-16T16:26:03.340Z,"6 km NNW of Dyersburg, Tennessee",earthquake,0.19,0.41,0.10805002204531,19.0,reviewed,nm,nm
 2025-09-15T17:21:43.299Z,35.51733333,-96.78616667,7.81,0.58,ml,20.0,76.0,0.04409134777,0.13,ok,ok2025scwq,2025-09-16T16:00:19.907Z,"9 km WNW of Prague, Oklahoma",earthquake,,0.4,0.19,9.0,reviewed,ok,ok
+2025-09-16T16:11:25.436Z,14.38,-92.9028,50.494,4.9,mww,168.0,140.0,2.03,0.93,us,us7000qwij,2025-09-16T16:29:56.040Z,"64 km SW of Puerto Madero, Mexico",earthquake,7.16,6.223,0.058,29.0,reviewed,us,us
