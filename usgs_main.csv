@@ -14418,3 +14418,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T00:33:00.130Z,39.015166666667,-123.11333333333,2.32,1.29,md,23.0,58.0,0.03858,0.08,nc,nc75238172,2025-09-16T09:02:12.543Z,"14 km SSE of Talmage, CA",earthquake,0.17,0.75,0.139,14.0,reviewed,nc,nc
 2025-09-16T09:31:17.060Z,36.0796667,-117.627,2.25,0.97,ml,19.0,73.0,0.1139,0.16,ci,ci41292272,2025-09-16T09:35:06.344Z,"29 km E of Coso Junction, CA",earthquake,0.24,0.94,0.184,16.0,automatic,ci,ci
 2025-09-16T09:17:35.190Z,33.1051667,-116.2215,10.36,0.44,ml,40.0,43.0,0.06754,0.22,ci,ci41292264,2025-09-16T09:21:00.268Z,"9 km WSW of Ocotillo Wells, CA",earthquake,0.22,0.53,0.255,5.0,automatic,ci,ci
+2025-09-16T10:15:16.028Z,57.1844,-155.9977,13.6,2.5,ml,,,,0.62,ak,ak025bwi8gxe,2025-09-16T10:16:58.065Z,"91 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-16T10:09:28.160Z,33.2243333,-116.0726667,11.31,0.58,ml,38.0,83.0,0.09437,0.2,ci,ci41292280,2025-09-16T10:12:48.528Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.46,0.183,6.0,automatic,ci,ci
+2025-09-16T08:00:33.690Z,32.747,-100.662,7.9834,1.0,ml,16.0,72.0,0.1,0.2,tx,tx2025sgfhep,2025-09-16T10:01:53.227Z,"15 km NE of Hermleigh, Texas",earthquake,0.700011166808,0.98092148724642,0.1,10.0,reviewed,tx,tx
