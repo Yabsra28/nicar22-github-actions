@@ -14505,3 +14505,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T17:45:06.840Z,35.7635,-117.5758333,11.22,0.62,ml,8.0,231.0,0.05503,0.08,ci,ci41292368,2025-09-16T17:48:33.205Z,"16 km W of Searles Valley, CA",earthquake,0.46,0.32,0.13,7.0,automatic,ci,ci
 2025-09-16T09:50:20.809Z,36.7703,-116.255,9.1,-0.5,ml,21.0,62.84,0.035,0.089,nn,nn00904419,2025-09-16T17:50:56.542Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.17,3.0,reviewed,nn,nn
 2025-09-16T04:07:51.392Z,36.7728,-116.2576,9.2,-0.4,ml,19.0,93.91,0.036,0.0694,nn,nn00904418,2025-09-16T17:47:45.607Z,"47 km ESE of Beatty, Nevada",earthquake,,1.0,0.27,4.0,reviewed,nn,nn
+2025-09-16T18:18:19.313Z,36.7722,-116.263,13.8,-0.5,ml,9.0,93.24,0.056,0.0734,nn,nn00904438,2025-09-16T18:20:23.971Z,"46 km ESE of Beatty, Nevada",earthquake,,2.3,0.37,5.0,automatic,nn,nn
+2025-09-16T18:15:56.524Z,64.2327,-148.1035,4.3,1.7,ml,,,,0.37,ak,ak025bwn00w4,2025-09-16T18:18:38.915Z,"52 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-16T18:02:47.633Z,36.765,-116.277,13.3,-0.1,ml,11.0,90.43,0.053,0.2048,nn,nn00904435,2025-09-16T18:04:34.564Z,"45 km ESE of Beatty, Nevada",earthquake,,1.5,0.33,6.0,automatic,nn,nn
+2025-09-16T17:55:41.470Z,36.533164978027,-121.10099792481,6.7600002288818,1.8,md,23.0,56.0,0.06703,0.24,nc,nc75238477,2025-09-16T18:17:17.863Z,"4 km E of Pinnacles, CA",earthquake,0.52,1.65999997,0.16,19.0,automatic,nc,nc
+2025-09-16T17:21:16.379Z,35.3295,-97.93266667,6.76,1.11,ml,55.0,54.0,0.06208781625,0.19,ok,ok2025sesd,2025-09-16T17:57:30.111Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.3,0.22,26.0,reviewed,ok,ok
