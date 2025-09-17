@@ -14796,3 +14796,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T17:04:54.310Z,33.3843333,-116.8966667,14.65,0.46,ml,37.0,33.0,0.04182,0.18,ci,ci41293152,2025-09-17T17:08:21.250Z,"4 km NW of Palomar Observatory, CA",earthquake,0.21,0.47,0.208,4.0,automatic,ci,ci
 2025-09-17T16:35:04.240Z,51.2608,156.9799,119.394,4.4,mb,49.0,161.0,1.903,0.69,us,us7000qwr8,2025-09-17T17:03:25.040Z,"42 km SE of Ozernovskiy, Russia",earthquake,11.2,6.804,0.063,73.0,reviewed,us,us
 2025-09-17T10:04:12.730Z,46.194666666667,-122.1905,8.09,-0.09,ml,9.0,107.0,0.02162,0.14,uw,uw62190686,2025-09-17T17:07:41.680Z,"37 km NNE of Amboy, Washington",earthquake,0.5,0.69,0.063183852080771,4.0,reviewed,uw,uw
+2025-09-17T17:22:53.390Z,33.4718333,-116.5733333,10.96,0.44,ml,12.0,105.0,0.0332,0.07,ci,ci41293168,2025-09-17T17:29:51.178Z,"13 km SE of Anza, CA",earthquake,0.45,0.63,0.225,11.0,automatic,ci,ci
+2025-09-17T17:21:24.296Z,59.814,-151.3494,50.0,1.4,ml,,,,0.76,ak,ak025by9z5l9,2025-09-17T17:23:22.012Z,"9 km NNW of Fritz Creek, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-09-17T04:46:46.040Z,46.196333333333,-122.18883333333,7.3,0.17,ml,9.0,102.0,0.0229,0.14,uw,uw62190641,2025-09-17T17:11:42.770Z,"37 km NNE of Amboy, Washington",earthquake,0.5,0.81,0.20910838375804,4.0,reviewed,uw,uw
+2025-09-17T02:07:35.490Z,44.806333333333,-111.56983333333,13.7,0.46,ml,9.0,102.0,0.006298,0.16,mb,mb90112268,2025-09-17T17:12:52.650Z,"30 km W of Hebgen Lake Estates, Montana",earthquake,0.36,1.02,0.14640217255473,5.0,reviewed,mb,mb
