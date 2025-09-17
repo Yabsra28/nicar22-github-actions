@@ -14675,3 +14675,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T07:24:59.900Z,33.0931667,-116.0406667,9.33,0.91,ml,38.0,44.0,0.09594,0.2,ci,ci41292832,2025-09-17T07:28:26.725Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.2,0.65,0.137,16.0,automatic,ci,ci
 2025-09-17T07:48:42.260Z,38.795333862305,-122.78133392334,3.5499999523163,1.28,md,23.0,76.0,0.01668,0.03,nc,nc75238682,2025-09-17T07:50:19.247Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.479999989,0.11,22.0,automatic,nc,nc
 2025-09-17T07:44:35.523Z,38.4273,-119.3302,0.0,0.9,ml,10.0,122.85,0.114,0.1744,nn,nn00904466,2025-09-17T07:46:47.904Z,"16 km SE of Walker, California",earthquake,,4.8,0.53,3.0,automatic,nn,nn
+2025-09-17T08:06:33.817Z,60.4522,-142.9533,6.8,2.0,ml,,,,0.26,ak,ak025by4j251,2025-09-17T08:07:44.703Z,"109 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-17T08:03:18.026Z,61.5355,-149.9359,29.4,1.2,ml,,,,0.25,ak,ak025by4idru,2025-09-17T08:06:38.554Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-17T08:00:35.690Z,34.1368333,-117.3488333,10.16,0.38,ml,21.0,84.0,0.1375,0.14,ci,ci41292840,2025-09-17T08:04:26.972Z,"2 km SSW of Muscoy, CA",earthquake,0.25,0.54,0.094,5.0,automatic,ci,ci
+2025-09-17T07:55:31.531Z,32.74,-102.655,5.0,1.3,ml,6.0,251.0,0.5,0.4,tx,tx2025siavsr,2025-09-17T07:57:15.438Z,"2 km NNW of Seminole, Texas",earthquake,0.0,,0.4,6.0,automatic,tx,tx
+2025-09-17T06:38:55.549Z,51.2943,159.7612,10.0,4.8,mb,61.0,128.0,1.862,0.52,us,us7000qwmp,2025-09-17T08:04:28.040Z,"204 km SSE of Vilyuchinsk, Russia",earthquake,8.62,1.886,0.081,47.0,reviewed,us,us
