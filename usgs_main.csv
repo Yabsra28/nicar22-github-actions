@@ -14635,3 +14635,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T03:42:10.485Z,61.7844,-148.51,33.1,1.7,ml,,,,0.5,ak,ak025by1rk3c,2025-09-17T03:43:36.703Z,"2 km WSW of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-09-17T03:39:07.115Z,32.38,-101.645,3.1963,1.7,ml,57.0,35.0,0.0,0.5,tx,tx2025shsitz,2025-09-17T03:43:58.750Z,"17 km SSE of Ackerly, Texas",earthquake,0.0,0.70506906509399,0.1,36.0,automatic,tx,tx
 2025-09-17T03:34:14.460Z,34.1403333,-116.7763333,9.11,1.1,ml,46.0,33.0,0.1081,0.17,ci,ci41292688,2025-09-17T03:42:46.888Z,"15 km SSE of Big Bear City, CA",earthquake,0.16,0.4,0.152,26.0,automatic,ci,ci
+2025-09-17T03:55:18.330Z,38.834999084473,-122.81549835205,1.8999999761581,0.71,md,10.0,97.0,0.01234,0.01,nc,nc75238642,2025-09-17T03:56:53.991Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.889999986,0.34,10.0,automatic,nc,nc
+2025-09-17T03:50:47.930Z,62.9747,-150.7131,108.3,1.4,ml,,,,0.37,ak,ak025by1tcpl,2025-09-17T03:52:52.640Z,"53 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
