@@ -14888,3 +14888,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T21:22:39.866Z,59.8761,-152.1241,78.3,1.5,ml,,,,0.36,ak,ak025bycd4xe,2025-09-17T21:24:11.952Z,"19 km NW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-17T12:29:28.730Z,54.7325,-164.012,10.08,0.41,ml,4.0,142.0,0.02464,0.28,av,av93774223,2025-09-17T21:34:27.400Z,"40 km WSW of False Pass, Alaska",earthquake,1.29,1.79,0.16050619526737,4.0,reviewed,av,av
 2025-09-17T12:24:13.280Z,54.749166666667,-163.9785,-0.65,0.73,ml,5.0,98.0,0.04124,0.15,av,av93774213,2025-09-17T21:31:51.560Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.43,0.32904581838494,5.0,reviewed,av,av
+2025-09-17T13:26:07.210Z,54.783,-164.007,3.33,0.83,ml,4.0,108.0,0.02883,0.11,av,av93774358,2025-09-17T21:44:50.580Z,"39 km WSW of False Pass, Alaska",earthquake,0.41,0.86,0.2257095262069,4.0,reviewed,av,av
+2025-09-17T13:09:23.110Z,54.749666666667,-163.96916666667,6.04,0.62,ml,5.0,103.0,0.04345,0.31,av,av93774318,2025-09-17T21:41:14.460Z,"37 km WSW of False Pass, Alaska",earthquake,0.85,2.31,0.37722201595891,5.0,reviewed,av,av
+2025-09-17T12:40:19.410Z,54.744666666667,-164.02983333333,8.04,0.54,ml,4.0,145.0,0.04005,0.3,av,av93774253,2025-09-17T21:38:23.580Z,"41 km WSW of False Pass, Alaska",earthquake,1.17,1.85,0.16226980777385,4.0,reviewed,av,av
