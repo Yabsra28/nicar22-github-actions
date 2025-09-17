@@ -14916,3 +14916,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T22:51:49.680Z,40.289333343506,-124.52033233643,8.6099996566772,2.45,md,15.0,277.0,0.136,0.14,nc,nc75238957,2025-09-17T22:53:28.330Z,"20 km W of Petrolia, CA",earthquake,3.51,1.52999997,0.06,12.0,automatic,nc,nc
 2025-09-17T22:13:47.100Z,54.760666666667,-163.95366666667,-1.36,0.2,ml,5.0,103.0,0.0571,0.13,av,av93775263,2025-09-17T23:10:42.160Z,"36 km WSW of False Pass, Alaska",earthquake,0.21,0.31,0.11676667007185,5.0,reviewed,av,av
 2025-09-17T19:33:57.350Z,54.7535,-163.97516666667,-0.82,0.28,ml,5.0,97.0,0.04595,0.16,av,av93775038,2025-09-17T22:58:08.110Z,"37 km WSW of False Pass, Alaska",earthquake,0.39,0.5,0.27408001632076,5.0,reviewed,av,av
+2025-09-17T23:21:16.579Z,31.553,-104.197,4.1722,2.4,ml,42.0,73.0,0.1,0.3,tx,tx2025sjfnlv,2025-09-17T23:25:54.229Z,"46 km NW of Toyah, Texas",earthquake,0.0,0.9470032453537,0.2,30.0,automatic,tx,tx
+2025-09-17T23:20:43.966Z,60.5106,-147.5545,19.3,1.6,ml,,,,0.53,ak,ak025bydjl0s,2025-09-17T23:22:42.519Z,"55 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-17T23:05:17.530Z,33.1775,-115.938,6.94,1.44,ml,41.0,52.0,0.03357,0.19,ci,ci40441650,2025-09-17T23:12:17.330Z,"14 km S of Salton City, CA",earthquake,0.21,0.52,0.199,27.0,automatic,ci,ci
