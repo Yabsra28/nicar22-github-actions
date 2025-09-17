@@ -14684,3 +14684,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:43:08.091Z,37.1559,-117.4046,3.7,0.6,ml,12.0,276.87,0.163,0.1777,nn,nn00904469,2025-09-17T08:45:38.082Z,"63 km SSW of Goldfield, Nevada",earthquake,,190.0,0.37,5.0,automatic,nn,nn
 2025-09-17T08:36:17.240Z,32.9865,-116.3083333,8.95,-0.03,ml,20.0,124.0,0.03208,0.18,ci,ci41292856,2025-09-17T08:39:40.207Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.28,0.56,0.051,2.0,automatic,ci,ci
 2025-09-17T08:30:58.890Z,32.9858333,-116.3123333,9.04,0.1,ml,16.0,95.0,0.03204,0.13,ci,ci41292848,2025-09-17T08:34:22.177Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.48,0.018,2.0,automatic,ci,ci
+2025-09-17T08:55:00.470Z,34.0214996,-117.5920029,4.73,1.37,ml,53.0,53.0,0.01725,0.14,ci,ci41292864,2025-09-17T08:57:07.444Z,"5 km SE of Ontario, CA",earthquake,0.23,0.34,0.215,19.0,automatic,ci,ci
+2025-09-17T08:51:47.470Z,38.818000793457,-122.79683685303,2.3099999427795,1.11,md,20.0,45.0,0.01009,0.01,nc,nc75238702,2025-09-17T08:53:23.756Z,"6 km NNW of The Geysers, CA",earthquake,0.25,0.409999996,0.17,20.0,automatic,nc,nc
+2025-09-17T08:48:58.540Z,64.79,-149.7337,10.1,1.4,ml,,,,0.61,ak,ak025by4s44e,2025-09-17T08:51:14.309Z,"35 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
