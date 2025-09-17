@@ -14919,3 +14919,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T23:21:16.579Z,31.553,-104.197,4.1722,2.4,ml,42.0,73.0,0.1,0.3,tx,tx2025sjfnlv,2025-09-17T23:25:54.229Z,"46 km NW of Toyah, Texas",earthquake,0.0,0.9470032453537,0.2,30.0,automatic,tx,tx
 2025-09-17T23:20:43.966Z,60.5106,-147.5545,19.3,1.6,ml,,,,0.53,ak,ak025bydjl0s,2025-09-17T23:22:42.519Z,"55 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-17T23:05:17.530Z,33.1775,-115.938,6.94,1.44,ml,41.0,52.0,0.03357,0.19,ci,ci40441650,2025-09-17T23:12:17.330Z,"14 km S of Salton City, CA",earthquake,0.21,0.52,0.199,27.0,automatic,ci,ci
+2025-09-17T23:33:49.511Z,31.735,-104.117,4.6095,1.5,ml,35.0,45.0,0.0,0.4,tx,tx2025sjfygx,2025-09-17T23:37:32.782Z,"49 km W of Mentone, Texas",earthquake,0.0,0.91183948516846,0.2,25.0,automatic,tx,tx
+2025-09-17T23:28:00.200Z,36.673667907715,-121.35316467285,4.6500000953674,1.59,md,10.0,141.0,0.03415,0.17,nc,nc75238962,2025-09-17T23:29:38.673Z,"13 km SSW of Tres Pinos, CA",earthquake,0.78,1.33000004,0.28,7.0,automatic,nc,nc
+2025-09-17T00:22:29.260Z,58.075666666667,-156.35083333333,10.54,0.56,ml,16.0,146.0,0.2923,0.33,av,av93773023,2025-09-17T23:36:44.560Z,"62 km ESE of Egegik, Alaska",earthquake,0.84,1.49,0.18464184769921,16.0,reviewed,av,av
