@@ -14834,3 +14834,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T19:15:34.303Z,38.7027,-117.1179,16.0,1.5,ml,8.0,191.06,0.517,0.3915,nn,nn00904503,2025-09-17T19:18:30.683Z,"56 km S of Kingston, Nevada",earthquake,,1.8,0.64,5.0,automatic,nn,nn
 2025-09-17T04:58:01.200Z,54.7465,-163.97166666667,3.8,0.86,ml,5.0,104.0,0.03996,0.27,av,av93773543,2025-09-17T19:23:23.420Z,"37 km WSW of False Pass, Alaska",earthquake,0.7,3.45,0.28913028080333,5.0,reviewed,av,av
 2025-09-17T04:38:41.070Z,54.760166666667,-163.989,-1.07,0.65,ml,5.0,93.0,0.05104,0.32,av,av93773508,2025-09-17T19:16:31.340Z,"38 km WSW of False Pass, Alaska",earthquake,0.48,0.79,0.30705773526206,5.0,reviewed,av,av
+2025-09-17T19:34:34.736Z,32.747,-100.668,6.6861,1.6,ml,12.0,153.0,0.1,0.5,tx,tx2025sixzsr,2025-09-17T19:36:37.866Z,"15 km NE of Hermleigh, Texas",earthquake,0.0,2.7455801963806,0.1,8.0,automatic,tx,tx
+2025-09-17T19:29:40.625Z,32.359,-102.059,4.5334,1.7,ml,38.0,62.0,0.1,0.5,tx,tx2025sixvst,2025-09-17T19:34:04.571Z,"36 km NW of Stanton, Texas",earthquake,0.0,0.82846415042877,0.2,25.0,automatic,tx,tx
+2025-09-17T19:29:34.749Z,62.1631,-152.062,108.1,2.7,ml,,,,0.36,ak,ak025byb7rci,2025-09-17T19:31:07.601Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-17T19:26:46.859Z,60.1502,-152.5713,88.2,1.0,ml,,,,0.46,ak,ak025byb754d,2025-09-17T19:28:36.343Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-17T19:26:26.004Z,32.76,-100.671,3.1176,1.6,ml,19.0,132.0,0.1,0.7,tx,tx2025sixtch,2025-09-17T19:29:08.052Z,"16 km NNE of Hermleigh, Texas",earthquake,0.0,1.3622390031815,0.2,12.0,automatic,tx,tx
+2025-09-17T19:22:21.079Z,35.3355,-97.936,7.23,1.78,ml,82.0,55.0,0.05668887571,0.23,ok,ok2025sgrn,2025-09-17T19:32:22.547Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.3,0.24,38.0,reviewed,ok,ok
+2025-09-17T05:40:07.520Z,54.758,-163.9325,-1.56,0.51,ml,5.0,114.0,0.06143,0.27,av,av93773593,2025-09-17T19:33:41.630Z,"35 km WSW of False Pass, Alaska",earthquake,0.4,0.55,0.37750268933707,5.0,reviewed,av,av
+2025-09-17T05:38:38.070Z,54.750666666667,-164.00333333333,8.79,0.58,ml,4.0,112.0,0.04145,0.24,av,av93773588,2025-09-17T19:29:40.420Z,"39 km WSW of False Pass, Alaska",earthquake,1.32,1.5,0.2201476342728,4.0,reviewed,av,av
+2025-09-17T05:06:09.760Z,54.753666666667,-163.97416666667,-1.57,0.46,ml,5.0,97.0,0.04627,0.1,av,av93773558,2025-09-17T19:26:19.380Z,"37 km WSW of False Pass, Alaska",earthquake,0.27,0.3,0.21916942056294,5.0,reviewed,av,av
