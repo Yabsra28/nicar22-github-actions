@@ -14910,3 +14910,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T22:39:32.779Z,36.7724,-116.252,12.1,0.7,ml,21.0,49.53,0.048,0.1003,nn,nn00904519,2025-09-17T22:41:25.229Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.23,14.0,automatic,nn,nn
 2025-09-17T19:11:20.380Z,54.722666666667,-163.9525,5.82,0.22,ml,4.0,155.0,0.0291,0.32,av,av93774978,2025-09-17T22:50:01.790Z,"37 km WSW of False Pass, Alaska",earthquake,1.13,2.58,0.24406516861065,4.0,reviewed,av,av
 2025-09-17T18:52:03.520Z,54.7395,-163.87883333333,15.49,0.94,ml,5.0,149.0,0.07496,0.23,av,av93774963,2025-09-17T22:47:55.120Z,"32 km WSW of False Pass, Alaska",earthquake,1.24,2.08,0.29253347130355,5.0,reviewed,av,av
+2025-09-17T23:09:18.954Z,61.4939,-149.9419,32.9,1.2,ml,,,,0.49,ak,ak025bydh67r,2025-09-17T23:10:57.710Z,"3 km SSE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-17T23:07:54.427Z,63.1514,-152.2116,5.0,1.1,ml,,,,0.52,ak,ak025bydgtiq,2025-09-17T23:09:57.506Z,"49 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-17T22:55:09.459Z,61.22,-147.5908,2.3,1.3,ml,,,,0.52,ak,ak025byd5ktd,2025-09-17T22:57:17.305Z,"63 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-17T22:51:49.680Z,40.289333343506,-124.52033233643,8.6099996566772,2.45,md,15.0,277.0,0.136,0.14,nc,nc75238957,2025-09-17T22:53:28.330Z,"20 km W of Petrolia, CA",earthquake,3.51,1.52999997,0.06,12.0,automatic,nc,nc
+2025-09-17T22:13:47.100Z,54.760666666667,-163.95366666667,-1.36,0.2,ml,5.0,103.0,0.0571,0.13,av,av93775263,2025-09-17T23:10:42.160Z,"36 km WSW of False Pass, Alaska",earthquake,0.21,0.31,0.11676667007185,5.0,reviewed,av,av
+2025-09-17T19:33:57.350Z,54.7535,-163.97516666667,-0.82,0.28,ml,5.0,97.0,0.04595,0.16,av,av93775038,2025-09-17T22:58:08.110Z,"37 km WSW of False Pass, Alaska",earthquake,0.39,0.5,0.27408001632076,5.0,reviewed,av,av
