@@ -14673,3 +14673,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T06:59:41.330Z,33.8806667,-116.1881667,5.56,0.82,ml,38.0,75.0,0.04633,0.15,ci,ci41292824,2025-09-17T07:03:12.200Z,"18 km N of Indio, CA",earthquake,0.19,0.52,0.095,19.0,automatic,ci,ci
 2025-09-17T07:25:52.102Z,60.4785,-143.03,9.4,1.1,ml,,,,0.21,ak,ak025by41qju,2025-09-17T07:27:12.949Z,"106 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-17T07:24:59.900Z,33.0931667,-116.0406667,9.33,0.91,ml,38.0,44.0,0.09594,0.2,ci,ci41292832,2025-09-17T07:28:26.725Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.2,0.65,0.137,16.0,automatic,ci,ci
+2025-09-17T07:48:42.260Z,38.795333862305,-122.78133392334,3.5499999523163,1.28,md,23.0,76.0,0.01668,0.03,nc,nc75238682,2025-09-17T07:50:19.247Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.479999989,0.11,22.0,automatic,nc,nc
+2025-09-17T07:44:35.523Z,38.4273,-119.3302,0.0,0.9,ml,10.0,122.85,0.114,0.1744,nn,nn00904466,2025-09-17T07:46:47.904Z,"16 km SE of Walker, California",earthquake,,4.8,0.53,3.0,automatic,nn,nn
