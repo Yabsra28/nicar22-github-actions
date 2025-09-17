@@ -14691,3 +14691,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T09:04:06.240Z,33.8795,-116.188,5.3,0.84,ml,39.0,75.0,0.04741,0.16,ci,ci41292872,2025-09-17T09:07:38.785Z,"18 km N of Indio, CA",earthquake,0.2,0.37,0.101,20.0,automatic,ci,ci
 2025-09-17T09:00:21.737Z,32.746,-100.653,1.4121,1.8,ml,22.0,80.0,0.1,0.7,tx,tx2025siczpi,2025-09-17T09:04:30.519Z,"15 km NE of Hermleigh, Texas",earthquake,0.0,1.2944194078445,0.1,13.0,automatic,tx,tx
 2025-09-17T03:35:08.824Z,32.378,-101.646,6.3721,0.6,ml,17.0,52.0,0.0,0.1,tx,tx2025shsfgv,2025-09-17T09:22:16.630Z,"17 km SSE of Ackerly, Texas",earthquake,0.48716181887114,0.68575606235769,0.1,6.0,reviewed,tx,tx
+2025-09-17T09:47:49.710Z,33.1268349,-116.0309982,4.77,1.41,ml,61.0,43.0,0.1751,0.23,ci,ci41292888,2025-09-17T09:51:11.805Z,"10 km E of Ocotillo Wells, CA",earthquake,0.26,1.08,0.208,10.0,automatic,ci,ci
