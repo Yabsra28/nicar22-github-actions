@@ -14687,3 +14687,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:55:00.470Z,34.0214996,-117.5920029,4.73,1.37,ml,53.0,53.0,0.01725,0.14,ci,ci41292864,2025-09-17T08:57:07.444Z,"5 km SE of Ontario, CA",earthquake,0.23,0.34,0.215,19.0,automatic,ci,ci
 2025-09-17T08:51:47.470Z,38.818000793457,-122.79683685303,2.3099999427795,1.11,md,20.0,45.0,0.01009,0.01,nc,nc75238702,2025-09-17T08:53:23.756Z,"6 km NNW of The Geysers, CA",earthquake,0.25,0.409999996,0.17,20.0,automatic,nc,nc
 2025-09-17T08:48:58.540Z,64.79,-149.7337,10.1,1.4,ml,,,,0.61,ak,ak025by4s44e,2025-09-17T08:51:14.309Z,"35 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-17T09:12:12.160Z,32.646,-115.7338333,6.97,2.01,ml,43.0,90.0,0.007111,0.26,ci,ci41292880,2025-09-17T09:22:24.230Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.32,0.62,0.248,27.0,automatic,ci,ci
+2025-09-17T09:04:06.240Z,33.8795,-116.188,5.3,0.84,ml,39.0,75.0,0.04741,0.16,ci,ci41292872,2025-09-17T09:07:38.785Z,"18 km N of Indio, CA",earthquake,0.2,0.37,0.101,20.0,automatic,ci,ci
+2025-09-17T09:00:21.737Z,32.746,-100.653,1.4121,1.8,ml,22.0,80.0,0.1,0.7,tx,tx2025siczpi,2025-09-17T09:04:30.519Z,"15 km NE of Hermleigh, Texas",earthquake,0.0,1.2944194078445,0.1,13.0,automatic,tx,tx
+2025-09-17T03:35:08.824Z,32.378,-101.646,6.3721,0.6,ml,17.0,52.0,0.0,0.1,tx,tx2025shsfgv,2025-09-17T09:22:16.630Z,"17 km SSE of Ackerly, Texas",earthquake,0.48716181887114,0.68575606235769,0.1,6.0,reviewed,tx,tx
