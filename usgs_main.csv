@@ -14699,3 +14699,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:58:01.384Z,32.747,-100.666,5.4932,0.8,ml,12.0,72.0,0.1,0.2,tx,tx2025sicxox,2025-09-17T10:21:04.402Z,"15 km NE of Hermleigh, Texas",earthquake,1.342470051089,2.3523688432104,0.1,6.0,reviewed,tx,tx
 2025-09-17T10:42:30.034Z,60.6612,-149.3665,11.7,1.2,ml,,,,2.28,ak,ak025by5xmu3,2025-09-17T10:44:36.985Z,"19 km N of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-17T10:32:57.760Z,38.802165985107,-122.77116394043,2.420000076294,1.09,md,13.0,78.0,0.00908,0.02,nc,nc75238732,2025-09-17T10:34:34.567Z,"3 km NNW of The Geysers, CA",earthquake,0.34,0.579999983,0.25,13.0,automatic,nc,nc
+2025-09-17T10:46:01.780Z,33.4573333,-116.4551667,13.12,0.98,ml,61.0,51.0,0.1284,0.19,ci,ci41292896,2025-09-17T10:49:49.153Z,"23 km ESE of Anza, CA",earthquake,0.17,0.47,0.151,26.0,automatic,ci,ci
