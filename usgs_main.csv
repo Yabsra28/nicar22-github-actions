@@ -14776,3 +14776,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T15:36:32.842Z,62.7815,-149.4809,63.5,1.3,ml,,,,0.07,ak,ak025by8vis4,2025-09-17T15:37:50.875Z,"48 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-17T15:33:37.480Z,35.9945,-117.8805,3.15,0.42,ml,8.0,95.0,0.01546,0.06,ci,ci41293088,2025-09-17T15:40:14.512Z,"7 km NNE of Little Lake, CA",earthquake,0.42,0.55,0.153,7.0,automatic,ci,ci
 2025-09-17T09:54:21.470Z,46.862,-113.58333333333,4.86,0.33,ml,7.0,187.0,0.2332,0.12,mb,mb90112253,2025-09-17T15:35:56.830Z,"14 km NE of Clinton, Montana",earthquake,0.83,8.56,0.32147973951203,3.0,reviewed,mb,mb
+2025-09-17T15:25:24.620Z,32.398,-115.2598333,4.59,1.85,ml,12.0,70.0,0.04381,0.21,ci,ci41293080,2025-09-17T15:42:15.522Z,"8 km NW of Delta, B.C., MX",earthquake,0.55,0.91,0.356,16.0,automatic,ci,ci
+2025-09-17T13:46:04.820Z,44.769833333333,-114.399,5.01,0.82,ml,9.0,84.0,0.4623,0.15,mb,mb90112258,2025-09-17T15:49:55.610Z,"32 km NNW of Challis, Idaho",earthquake,0.45,10.56,0.14148304303684,9.0,reviewed,mb,mb
