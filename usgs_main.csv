@@ -14632,3 +14632,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T01:13:37.809Z,51.4738,-179.9048,14.808,3.2,ml,21.0,176.0,0.503,0.38,us,us7000qwm1,2025-09-17T03:23:54.040Z,"230 km WSW of Adak, Alaska",earthquake,1.84,7.749,0.085,18.0,reviewed,us,us
 2025-09-16T18:19:34.170Z,58.3705,-154.7365,5.26,0.07,ml,13.0,167.0,0.03637,0.23,av,av93772528,2025-09-17T03:10:05.670Z,"90 km N of Karluk, Alaska",earthquake,0.61,0.96,0.28907069442037,13.0,reviewed,av,av
 2025-09-16T18:17:30.370Z,58.364333333333,-154.71733333333,4.7,0.53,ml,15.0,172.0,0.04804,0.2,av,av93772518,2025-09-17T03:04:49.110Z,"89 km N of Karluk, Alaska",earthquake,0.76,0.82,0.23706946269425,15.0,reviewed,av,av
+2025-09-17T03:42:10.485Z,61.7844,-148.51,33.1,1.7,ml,,,,0.5,ak,ak025by1rk3c,2025-09-17T03:43:36.703Z,"2 km WSW of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-09-17T03:39:07.115Z,32.38,-101.645,3.1963,1.7,ml,57.0,35.0,0.0,0.5,tx,tx2025shsitz,2025-09-17T03:43:58.750Z,"17 km SSE of Ackerly, Texas",earthquake,0.0,0.70506906509399,0.1,36.0,automatic,tx,tx
+2025-09-17T03:34:14.460Z,34.1403333,-116.7763333,9.11,1.1,ml,46.0,33.0,0.1081,0.17,ci,ci41292688,2025-09-17T03:42:46.888Z,"15 km SSE of Big Bear City, CA",earthquake,0.16,0.4,0.152,26.0,automatic,ci,ci
