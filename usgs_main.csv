@@ -14793,3 +14793,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T16:49:31.202Z,36.7667,-116.2642,12.4,-0.1,ml,13.0,103.61,0.056,0.0736,nn,nn00904492,2025-09-17T16:51:30.713Z,"46 km ESE of Beatty, Nevada",earthquake,,1.0,0.18,9.0,automatic,nn,nn
 2025-09-17T16:43:01.740Z,33.1751667,-116.5095,14.43,1.4,ml,66.0,26.0,0.1145,0.2,ci,ci41293136,2025-09-17T16:46:30.126Z,"14 km NE of Julian, CA",earthquake,0.15,0.33,0.202,27.0,automatic,ci,ci
 2025-09-17T16:25:02.140Z,35.33816667,-97.94683333,10.62,0.88,ml,18.0,101.0,0.05758869913,0.09,ok,ok2025sglu,2025-09-17T16:44:52.937Z,"2 km N of Minco, Oklahoma",earthquake,,0.7,0.22,9.0,reviewed,ok,ok
+2025-09-17T17:04:54.310Z,33.3843333,-116.8966667,14.65,0.46,ml,37.0,33.0,0.04182,0.18,ci,ci41293152,2025-09-17T17:08:21.250Z,"4 km NW of Palomar Observatory, CA",earthquake,0.21,0.47,0.208,4.0,automatic,ci,ci
+2025-09-17T16:35:04.240Z,51.2608,156.9799,119.394,4.4,mb,49.0,161.0,1.903,0.69,us,us7000qwr8,2025-09-17T17:03:25.040Z,"42 km SE of Ozernovskiy, Russia",earthquake,11.2,6.804,0.063,73.0,reviewed,us,us
+2025-09-17T10:04:12.730Z,46.194666666667,-122.1905,8.09,-0.09,ml,9.0,107.0,0.02162,0.14,uw,uw62190686,2025-09-17T17:07:41.680Z,"37 km NNE of Amboy, Washington",earthquake,0.5,0.69,0.063183852080771,4.0,reviewed,uw,uw
