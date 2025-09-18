@@ -15273,3 +15273,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T23:15:00.526Z,52.4907,160.6812,30.442,5.2,mb,81.0,129.0,1.345,1.21,us,us7000qx5f,2025-09-18T23:29:35.040Z,"152 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.64,5.554,0.039,215.0,reviewed,us,us
 2025-09-18T22:53:41.465Z,-3.6274,135.5228,10.0,5.0,mb,48.0,33.0,1.325,1.17,us,us7000qx58,2025-09-18T23:27:42.040Z,"29 km S of Nabire, Indonesia",earthquake,6.4,1.811,0.075,57.0,reviewed,us,us
 2025-09-18T22:45:44.880Z,53.1393,159.4852,74.788,4.6,mb,64.0,151.0,0.517,0.99,us,us7000qx56,2025-09-18T23:30:14.040Z,"58 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.09,7.533,0.072,57.0,reviewed,us,us
+2025-09-18T23:38:16.360Z,38.659168243408,-122.60866546631,1.3700000047684,1.07,md,5.0,177.0,0.1938,0.05,nc,nc75239317,2025-09-18T23:39:54.065Z,"9 km  of Calistoga, CA",earthquake,2.83,8.88000011,,1.0,automatic,nc,nc
