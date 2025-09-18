@@ -15055,3 +15055,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T09:36:02.610Z,34.8383333,-116.4098333,1.84,1.78,ml,27.0,73.0,0.0622,0.15,ci,ci40443402,2025-09-18T09:39:40.865Z,"26 km WNW of Ludlow, CA",earthquake,0.19,0.3,0.143,27.0,automatic,ci,ci
 2025-09-18T00:48:33.450Z,60.046833333333,-153.08183333333,0.36,-0.88,ml,5.0,106.0,0.01397,0.05,av,av93775408,2025-09-18T09:35:03.510Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.36,1.19,0.33719947244593,5.0,reviewed,av,av
 2025-09-18T09:44:57.225Z,38.1758,-118.2262,4.2,1.1,ml,8.0,110.46,0.232,0.1704,nn,nn00904559,2025-09-18T09:47:34.870Z,"25 km SSW of Mina, Nevada",earthquake,,2.8,0.3,2.0,automatic,nn,nn
+2025-09-18T10:06:32.640Z,35.769,-117.5946667,6.48,0.68,ml,23.0,68.0,0.0467,0.13,ci,ci40443722,2025-09-18T10:10:01.062Z,"17 km W of Searles Valley, CA",earthquake,0.18,0.42,0.214,10.0,automatic,ci,ci
+2025-09-18T10:03:12.531Z,58.919,-154.4506,121.1,1.2,ml,,,,0.38,ak,ak025bzt8l1x,2025-09-18T10:06:44.935Z,"60 km SSE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-09-18T09:52:36.390Z,33.409,-116.4485,12.36,0.87,ml,53.0,54.0,0.1066,0.19,ci,ci40443562,2025-09-18T09:56:06.973Z,"18 km NNW of Borrego Springs, CA",earthquake,0.18,0.52,0.159,26.0,automatic,ci,ci
+2025-09-18T09:52:01.620Z,36.7666,-116.2554,11.4,0.0,ml,18.0,66.22,0.049,0.1343,nn,nn00904560,2025-09-18T09:54:05.915Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.31,12.0,automatic,nn,nn
+2025-09-18T06:58:09.730Z,29.06,-97.818,8.2401,1.1,ml,15.0,75.0,0.0,0.2,tx,tx2025sjureq,2025-09-18T10:07:23.871Z,"21 km NNE of Karnes City, Texas",earthquake,0.57102744393065,0.64048918005133,0.2,10.0,reviewed,tx,tx
