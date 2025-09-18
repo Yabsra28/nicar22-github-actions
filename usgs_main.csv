@@ -15069,3 +15069,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T10:36:49.360Z,33.4061667,-116.4553333,12.98,1.37,ml,76.0,25.0,0.1042,0.21,ci,ci40443922,2025-09-18T10:40:28.590Z,"18 km NNW of Borrego Springs, CA",earthquake,0.17,0.44,0.139,25.0,automatic,ci,ci
 2025-09-18T10:35:49.620Z,33.3236667,-116.3961667,10.91,0.92,ml,48.0,30.0,0.02449,0.2,ci,ci40443914,2025-09-18T10:39:42.255Z,"8 km NNW of Borrego Springs, CA",earthquake,0.2,0.31,0.211,25.0,automatic,ci,ci
 2025-09-18T10:35:04.870Z,33.6543333,-116.9498333,12.03,1.52,ml,77.0,16.0,0.03921,0.19,ci,ci40443906,2025-09-18T10:39:47.465Z,"11 km S of Hemet, CA",earthquake,0.15,0.33,0.218,27.0,automatic,ci,ci
+2025-09-18T10:52:01.210Z,33.538,-116.7168333,6.01,0.5,ml,24.0,40.0,0.03223,0.16,ci,ci40444042,2025-09-18T10:55:22.646Z,"4 km WSW of Anza, CA",earthquake,0.18,0.44,0.194,13.0,automatic,ci,ci
