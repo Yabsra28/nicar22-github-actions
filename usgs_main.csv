@@ -15155,3 +15155,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T22:01:34.520Z,36.066,-97.36483333,24.65,1.33,ml,43.0,63.0,0.1403724541,0.13,ok,ok2025sgwx,2025-09-18T15:52:24.485Z,"3 km E of Mulhall, Oklahoma",earthquake,,0.4,0.24,18.0,reviewed,ok,ok
 2025-09-17T18:37:16.230Z,35.33816667,-97.94166667,9.58,0.79,ml,20.0,98.0,0.05578905228,0.08,ok,ok2025sgqd,2025-09-18T15:58:53.912Z,"2 km N of Minco, Oklahoma",earthquake,,0.6,0.23,10.0,reviewed,ok,ok
 2025-09-17T18:05:28.050Z,33.5731667,-116.7218333,3.82,0.2,ml,13.0,99.0,0.01506,0.14,ci,ci40439242,2025-09-18T16:07:50.956Z,"5 km WNW of Anza, CA",earthquake,0.27,0.43,0.162,7.0,reviewed,ci,ci
+2025-09-18T16:24:18.610Z,36.3315,-118.67,15.08,1.32,ml,14.0,261.0,0.3395,0.16,ci,ci40444682,2025-09-18T16:39:05.388Z,"24 km ESE of Three Rivers, CA",earthquake,1.37,2.52,0.317,16.0,reviewed,ci,ci
+2025-09-18T16:24:09.535Z,63.1868,-151.3222,0.8,1.4,ml,,,,0.52,ak,ak025bzwxohl,2025-09-18T16:29:51.312Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-18T16:23:19.734Z,67.3478,-156.659,0.0,2.0,ml,,,,0.49,ak,ak025bzwxhk5,2025-09-18T16:25:49.667Z,"50 km N of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-18T16:21:28.350Z,33.5686667,-115.9006667,6.7,0.91,ml,32.0,70.0,0.08803,0.2,ci,ci40444522,2025-09-18T16:24:57.511Z,"6 km NE of North Shore, CA",earthquake,0.21,0.72,0.134,15.0,automatic,ci,ci
+2025-09-18T16:16:12.875Z,58.4541,-154.3331,86.9,1.4,ml,,,,0.52,ak,ak025bzwvz0n,2025-09-18T16:18:00.932Z,"94 km WNW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-09-17T19:34:08.010Z,32.751,-100.666,4.3197,1.0,ml,7.0,83.0,0.1,0.1,tx,tx2025siyacp,2025-09-18T16:23:15.360Z,"15 km NE of Hermleigh, Texas",earthquake,0.87039929932529,2.0860740210871,0.1,7.0,reviewed,tx,tx
+2025-09-17T17:43:19.510Z,32.404,-102.147,8.125,0.5,ml,13.0,91.0,0.0,0.1,tx,tx2025siuifu,2025-09-18T16:29:31.897Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.81242583305319,0.71957120340953,0.2,11.0,reviewed,tx,tx
