@@ -15111,3 +15111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T13:14:29.350Z,35.33233333,-97.94666667,6.99,1.29,ml,79.0,57.0,0.06298763968,0.38,ok,ok2025siba,2025-09-18T13:34:26.705Z,"2 km N of Minco, Oklahoma",earthquake,,0.5,0.22,32.0,reviewed,ok,ok
 2025-09-18T05:53:52.280Z,35.613,-98.0445,6.37,2.02,ml,98.0,37.0,0.1547696289,0.28,ok,ok2025shmm,2025-09-18T13:43:01.708Z,"6 km E of Calumet, Oklahoma",earthquake,,0.6,0.24,42.0,reviewed,ok,ok
 2025-09-17T19:21:47.647Z,-7.2813,130.141,52.998,4.3,mb,29.0,40.0,4.815,1.07,us,us7000qws4,2025-09-18T13:44:53.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,7.96,7.539,0.116,21.0,reviewed,us,us
+2025-09-18T13:50:44.173Z,31.657,-104.378,3.9876,2.5,ml,41.0,70.0,0.0,0.3,tx,tx2025skiiry,2025-09-18T13:55:09.765Z,"57 km S of Whites City, New Mexico",earthquake,0.0,0.92870712280273,0.2,30.0,automatic,tx,tx
+2025-09-18T13:46:40.920Z,38.835834503174,-122.79550170898,1.789999961853,0.72,md,11.0,107.0,0.004779,0.02,nc,nc75239167,2025-09-18T13:48:19.410Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.569999993,0.07,11.0,automatic,nc,nc
+2025-09-18T13:44:50.849Z,38.5397,-115.933,15.1,2.6,ml,10.0,175.54,1.329,0.2607,nn,nn00904581,2025-09-18T13:47:36.286Z,"86 km WSW of Preston, Nevada",earthquake,,1.7,0.6,5.0,automatic,nn,nn
+2025-09-18T09:03:58.930Z,44.5685,-112.225,6.94,1.17,ml,25.0,43.0,0.1235,0.18,mb,mb90112458,2025-09-18T13:48:13.600Z,"23 km N of Spencer, Idaho",earthquake,0.34,2.21,0.13162573083254,29.0,reviewed,mb,mb
