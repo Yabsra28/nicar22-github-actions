@@ -15083,3 +15083,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T12:00:02.149Z,48.6434,-123.8017,10.0,2.6,ml,25.0,67.0,0.232,0.62,us,us7000qwwx,2025-09-18T12:12:21.026Z,"16 km SW of Cowichan Bay, Canada",earthquake,1.33,1.972,0.051,50.0,reviewed,us,us
 2025-09-18T11:54:31.320Z,38.799835205078,-122.76916503906,1.5299999713898,1.49,md,19.0,100.0,0.007428,0.04,nc,nc75239122,2025-09-18T11:56:09.562Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.379999995,0.2,20.0,automatic,nc,nc
 2025-09-18T11:50:30.950Z,36.552833557129,-121.05982971191,8.1800003051758,1.67,md,18.0,75.0,0.03036,0.15,nc,nc75239117,2025-09-18T12:07:20.144Z,"8 km E of Pinnacles, CA",earthquake,0.41,1.07000005,0.15,14.0,automatic,nc,nc
+2025-09-18T12:53:58.132Z,64.6814,-149.46,4.3,1.5,ml,,,,1.26,ak,ak025bzuq9l1,2025-09-18T12:56:13.663Z,"18 km WNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-18T12:27:24.207Z,61.739,-146.2543,35.5,1.5,ml,,,,0.82,ak,ak025bzukmck,2025-09-18T12:29:18.756Z,"37 km SSE of Mendeltna, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-09-18T12:14:34.880Z,32.7886667,-115.4488333,13.51,1.38,ml,24.0,55.0,0.0167,0.31,ci,ci40444210,2025-09-18T12:18:02.819Z,"7 km WSW of Holtville, CA",earthquake,0.44,0.73,0.286,13.0,automatic,ci,ci
+2025-09-18T12:12:37.832Z,38.7017,-115.8961,11.537,2.5,ml,27.0,47.0,1.013,1.31,us,us7000qwwz,2025-09-18T12:24:23.040Z,"76 km WSW of Preston, Nevada",earthquake,2.26,8.493,0.05,52.0,reviewed,us,us
+2025-09-18T07:38:55.490Z,35.33416667,-97.938,6.41,0.87,ml,47.0,64.0,0.05848852256,0.25,ok,ok2025shpy,2025-09-18T12:53:44.265Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.21,20.0,reviewed,ok,ok
+2025-09-18T04:15:16.038Z,32.455,-102.117,5.835,0.7,ml,17.0,81.0,0.0,0.2,tx,tx2025sjpguo,2025-09-18T12:35:58.477Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.57739274532934,1.1725250663142,0.2,9.0,reviewed,tx,tx
+2025-09-18T00:03:11.980Z,31.667,-104.468,-0.4626,-0.3,ml,7.0,164.0,0.0,0.1,tx,tx2025sjgxgc,2025-09-18T12:48:24.570Z,"57 km S of Whites City, New Mexico",earthquake,1.6763884102242,1.9927950685622,0.1,5.0,reviewed,tx,tx
