@@ -15013,3 +15013,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T05:15:09.056Z,12.0179,-89.2886,10.0,4.6,mb,81.0,175.0,1.719,1.05,us,us7000qwvk,2025-09-18T05:26:06.040Z,"161 km SSW of Puerto El Triunfo, El Salvador",earthquake,7.83,1.951,0.038,203.0,reviewed,us,us
 2025-09-17T21:36:53.750Z,47.444,-120.699,3.82,0.85,ml,11.0,109.0,0.1909,0.12,uw,uw62190981,2025-09-18T05:24:09.140Z,"17 km S of Leavenworth, Washington",earthquake,0.38,1.05,0.19233758181585,8.0,reviewed,uw,uw
 2025-09-17T21:33:40.620Z,49.1505,-122.18333333333,-0.8,1.16,ml,5.0,313.0,0.1654,0.12,uw,uw62190976,2025-09-18T05:17:01.260Z,"8 km ENE of Mission, Canada",explosion,2.09,31.61,0.086538227348797,4.0,reviewed,uw,uw
+2025-09-18T05:39:39.760Z,35.9273333,-117.7165,2.96,0.81,ml,24.0,38.0,0.05745,0.14,ci,ci40442770,2025-09-18T05:43:06.699Z,"17 km E of Little Lake, CA",earthquake,0.17,0.62,0.13,16.0,automatic,ci,ci
