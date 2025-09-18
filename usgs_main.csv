@@ -15162,3 +15162,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T16:16:12.875Z,58.4541,-154.3331,86.9,1.4,ml,,,,0.52,ak,ak025bzwvz0n,2025-09-18T16:18:00.932Z,"94 km WNW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-09-17T19:34:08.010Z,32.751,-100.666,4.3197,1.0,ml,7.0,83.0,0.1,0.1,tx,tx2025siyacp,2025-09-18T16:23:15.360Z,"15 km NE of Hermleigh, Texas",earthquake,0.87039929932529,2.0860740210871,0.1,7.0,reviewed,tx,tx
 2025-09-17T17:43:19.510Z,32.404,-102.147,8.125,0.5,ml,13.0,91.0,0.0,0.1,tx,tx2025siuifu,2025-09-18T16:29:31.897Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.81242583305319,0.71957120340953,0.2,11.0,reviewed,tx,tx
+2025-09-18T16:47:26.137Z,36.9243,-115.2122,4.8,0.8,ml,10.0,328.18,0.627,0.0994,nn,nn00904586,2025-09-18T16:50:07.110Z,"49 km S of Alamo, Nevada",earthquake,,0.1,0.24,5.0,automatic,nn,nn
+2025-09-18T16:42:10.674Z,36.9052,-115.5058,1.5,0.8,ml,10.0,200.76,0.411,0.1657,nn,nn00904585,2025-09-18T16:44:26.973Z,"40 km NNE of Indian Springs, Nevada",earthquake,,38.4,0.32,5.0,automatic,nn,nn
