@@ -15269,3 +15269,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T23:10:08.146Z,52.8251,160.0341,42.563,4.8,mb,52.0,154.0,0.861,0.77,us,us7000qx5e,2025-09-18T23:22:13.040Z,"98 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.5,9.414,0.049,130.0,reviewed,us,us
 2025-09-18T23:09:18.060Z,34.131,-117.4398333,5.42,1.35,ml,68.0,38.0,0.03136,0.21,ci,ci40445162,2025-09-18T23:12:50.771Z,"4 km NNE of Fontana, CA",earthquake,0.18,0.53,0.224,29.0,automatic,ci,ci
 2025-09-18T22:50:37.439Z,53.3297,160.6801,42.767,4.9,mb,58.0,154.0,1.26,1.1,us,us7000qx57,2025-09-18T23:16:21.040Z,"140 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.11,7.947,0.054,108.0,reviewed,us,us
+2025-09-18T23:29:32.259Z,63.3527,-151.5198,0.0,1.8,ml,,,,0.41,ak,ak025c014u21,2025-09-18T23:31:23.358Z,"23 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-18T23:15:00.526Z,52.4907,160.6812,30.442,5.2,mb,81.0,129.0,1.345,1.21,us,us7000qx5f,2025-09-18T23:29:35.040Z,"152 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.64,5.554,0.039,215.0,reviewed,us,us
+2025-09-18T22:53:41.465Z,-3.6274,135.5228,10.0,5.0,mb,48.0,33.0,1.325,1.17,us,us7000qx58,2025-09-18T23:27:42.040Z,"29 km S of Nabire, Indonesia",earthquake,6.4,1.811,0.075,57.0,reviewed,us,us
+2025-09-18T22:45:44.880Z,53.1393,159.4852,74.788,4.6,mb,64.0,151.0,0.517,0.99,us,us7000qx56,2025-09-18T23:30:14.040Z,"58 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.09,7.533,0.072,57.0,reviewed,us,us
