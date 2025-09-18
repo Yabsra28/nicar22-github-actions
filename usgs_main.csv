@@ -15219,3 +15219,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T16:23:31.010Z,44.812666666667,-111.52233333333,11.49,0.78,ml,14.0,83.0,0.02921,0.21,mb,mb90112578,2025-09-18T20:13:47.640Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.58,0.27662410101269,9.0,reviewed,mb,mb
 2025-09-18T00:44:25.215Z,41.1853,-116.7194,9.6,1.7,ml,8.0,253.72,0.307,0.1158,nn,nn00904603,2025-09-18T20:11:41.621Z,"55 km NE of Valmy, Nevada",earthquake,,2.1,0.19,3.0,reviewed,nn,nn
 2025-09-18T00:22:05.503Z,41.1899,-116.6893,11.2,2.4,ml,10.0,142.39,0.292,0.1306,nn,nn00904606,2025-09-18T20:23:58.423Z,"57 km NE of Valmy, Nevada",earthquake,,3.2,0.39,6.0,reviewed,nn,nn
+2025-09-18T20:36:17.242Z,62.0276,-149.7688,32.0,2.1,ml,,,,0.26,ak,ak025bzze03g,2025-09-18T20:38:18.014Z,"15 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-18T20:34:48.066Z,61.0694,-149.7393,34.8,2.4,ml,,,,0.65,ak,ak025bzzdn16,2025-09-18T20:37:19.704Z,"17 km NNW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-18T20:28:52.790Z,37.319499969482,-118.74383544922,15.029999732971,2.1,md,13.0,134.0,0.2059,0.03,nc,nc75239267,2025-09-18T20:37:15.884Z,"17 km WSW of Round Valley, CA",earthquake,0.42,1.90999997,0.22,13.0,automatic,nc,nc
+2025-09-18T20:17:40.983Z,52.8131,160.8828,10.0,5.4,mb,65.0,97.0,1.368,1.3,us,us7000qx3d,2025-09-18T20:39:36.309Z,"154 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.21,1.888,0.043,185.0,reviewed,us,us
+2025-09-18T19:55:42.853Z,52.9347,160.8045,35.0,4.6,mb,46.0,160.0,1.306,0.74,us,us7000qx3a,2025-09-18T20:29:28.040Z,"146 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.47,1.961,0.087,40.0,reviewed,us,us
+2025-09-18T16:00:58.000Z,44.806166666667,-111.51533333333,9.86,0.0,ml,6.0,139.0,0.06549,0.07,mb,mb90112593,2025-09-18T20:29:12.850Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.5,0.97,0.11029491453795,4.0,reviewed,mb,mb
