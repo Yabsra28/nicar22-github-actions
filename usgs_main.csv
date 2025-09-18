@@ -15265,3 +15265,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T22:58:19.950Z,35.59778976,-99.08052826,11.23873425,2.5,ml,29.0,171.8141565,0.3226193786,1.480289602,ok,ok2025siug,2025-09-18T23:02:11.097Z,"10 km ESE of Butler, Oklahoma",earthquake,7.864234392,4.811361149,0.29,8.0,automatic,ok,ok
 2025-09-18T22:56:34.521Z,61.3938,-141.2441,0.0,1.9,ml,,,,0.48,ak,ak025c00p6yk,2025-09-18T22:58:12.556Z,"89 km E of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-18T22:37:11.238Z,52.9927,160.778,45.467,5.4,mb,107.0,101.0,1.286,0.85,us,us7000qx52,2025-09-18T23:02:46.018Z,"144 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.99,6.166,0.02,818.0,reviewed,us,us
+2025-09-18T23:11:38.026Z,61.6352,-154.0727,40.4,1.4,ml,,,,1.12,ak,ak025c010zm2,2025-09-18T23:14:02.824Z,"78 km ENE of Lime Village, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2025-09-18T23:10:08.146Z,52.8251,160.0341,42.563,4.8,mb,52.0,154.0,0.861,0.77,us,us7000qx5e,2025-09-18T23:22:13.040Z,"98 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.5,9.414,0.049,130.0,reviewed,us,us
+2025-09-18T23:09:18.060Z,34.131,-117.4398333,5.42,1.35,ml,68.0,38.0,0.03136,0.21,ci,ci40445162,2025-09-18T23:12:50.771Z,"4 km NNE of Fontana, CA",earthquake,0.18,0.53,0.224,29.0,automatic,ci,ci
+2025-09-18T22:50:37.439Z,53.3297,160.6801,42.767,4.9,mb,58.0,154.0,1.26,1.1,us,us7000qx57,2025-09-18T23:16:21.040Z,"140 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.11,7.947,0.054,108.0,reviewed,us,us
