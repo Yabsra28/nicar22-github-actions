@@ -15034,3 +15034,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T01:15:31.794Z,31.993,-103.845,7.3303,1.2,ml,26.0,72.0,0.0,0.2,tx,tx2025sjjhzf,2025-09-18T07:17:37.118Z,"33 km SE of Malaga, New Mexico",earthquake,0.65045084153652,0.69427430741696,0.2,18.0,reviewed,tx,tx
 2025-09-18T07:26:59.740Z,38.821834564209,-122.81133270264,2.6800000667572,1.39,md,24.0,50.0,0.001842,0.02,nc,nc75239062,2025-09-18T07:28:37.463Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.389999986,0.13,26.0,automatic,nc,nc
 2025-09-17T14:51:50.795Z,41.171,-116.7182,12.958,2.6,ml,8.0,94.0,0.832,0.5,us,us7000qwp3,2025-09-18T07:27:19.040Z,"54 km NE of Valmy, Nevada",earthquake,2.94,7.589,0.039,88.0,reviewed,us,us
+2025-09-18T07:43:18.220Z,34.0013351,-116.5948334,9.8,1.17,ml,39.0,57.0,0.05764,0.16,ci,ci40442922,2025-09-18T07:45:32.920Z,"5 km SSW of Morongo Valley, CA",earthquake,0.31,0.68,0.195,8.0,automatic,ci,ci
