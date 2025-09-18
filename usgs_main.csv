@@ -15002,3 +15002,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T21:58:35.780Z,48.368666666667,-122.44183333333,15.66,1.15,ml,14.0,82.0,0.01971,0.11,uw,uw62190996,2025-09-18T04:26:13.890Z,"4 km ESE of La Conner, Washington",earthquake,0.27,0.37,0.10489939337933,8.0,reviewed,uw,uw
 2025-09-17T21:10:18.100Z,58.127833333333,-155.56216666667,3.52,0.84,ml,12.0,123.0,0.07508,0.14,av,av93775178,2025-09-18T04:11:11.440Z,"89 km SE of King Salmon, Alaska",earthquake,0.27,0.64,0.28688495744897,12.0,reviewed,av,av
 2025-09-17T20:56:28.590Z,60.046,-153.08483333333,0.12,-1.26,ml,4.0,107.0,0.01559,0.08,av,av93775143,2025-09-18T04:05:14.710Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.36,1.1,0.10668632024364,3.0,reviewed,av,av
+2025-09-18T04:36:18.161Z,62.1963,-150.6729,0.0,2.5,ml,,,,0.83,ak,ak025bzpv2i9,2025-09-18T04:38:12.835Z,"26 km WSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-18T04:31:37.042Z,61.4227,-149.885,34.8,1.6,ml,,,,0.39,ak,ak025bzpu1d4,2025-09-18T04:33:07.333Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-18T04:30:08.051Z,61.5132,-149.9078,42.7,1.1,ml,,,,0.31,ak,ak025bzptret,2025-09-18T04:31:38.588Z,"2 km ESE of Big Lake, Alaska",earthquake,,1.4,,,automatic,ak,ak
