@@ -15073,3 +15073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T11:13:36.010Z,40.36600112915,-124.03800201416,26.760000228882,2.31,md,21.0,129.0,0.06421,0.12,nc,nc75239107,2025-09-18T11:15:14.238Z,"16 km S of Rio Dell, CA",earthquake,0.64,1.48000002,0.14,15.0,automatic,nc,nc
 2025-09-18T10:58:11.851Z,36.7661,-116.2585,13.3,0.4,ml,25.0,43.06,0.052,0.1824,nn,nn00904563,2025-09-18T11:00:17.449Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.29,16.0,automatic,nn,nn
 2025-09-18T10:57:08.788Z,36.7724,-116.2417,12.1,-0.5,ml,10.0,98.12,0.05,0.1903,nn,nn00904562,2025-09-18T10:59:04.887Z,"48 km ESE of Beatty, Nevada",earthquake,,1.8,0.31,6.0,automatic,nn,nn
+2025-09-18T11:26:31.581Z,36.8872,-115.8004,12.0,0.3,ml,18.0,162.62,0.145,0.2409,nn,nn00904566,2025-09-18T11:28:36.911Z,"37 km NNW of Indian Springs, Nevada",earthquake,,0.8,0.28,11.0,automatic,nn,nn
