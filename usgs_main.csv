@@ -15054,3 +15054,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T08:24:19.305Z,31.406,-103.66,3.7499,1.5,ml,22.0,45.0,0.0,0.8,tx,tx2025sjxnhh,2025-09-18T09:04:30.929Z,"12 km WNW of Lindsay, Texas",earthquake,0.0,1.2635024785995,0.2,15.0,automatic,tx,tx
 2025-09-18T09:36:02.610Z,34.8383333,-116.4098333,1.84,1.78,ml,27.0,73.0,0.0622,0.15,ci,ci40443402,2025-09-18T09:39:40.865Z,"26 km WNW of Ludlow, CA",earthquake,0.19,0.3,0.143,27.0,automatic,ci,ci
 2025-09-18T00:48:33.450Z,60.046833333333,-153.08183333333,0.36,-0.88,ml,5.0,106.0,0.01397,0.05,av,av93775408,2025-09-18T09:35:03.510Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.36,1.19,0.33719947244593,5.0,reviewed,av,av
+2025-09-18T09:44:57.225Z,38.1758,-118.2262,4.2,1.1,ml,8.0,110.46,0.232,0.1704,nn,nn00904559,2025-09-18T09:47:34.870Z,"25 km SSW of Mina, Nevada",earthquake,,2.8,0.3,2.0,automatic,nn,nn
