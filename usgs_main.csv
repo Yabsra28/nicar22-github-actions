@@ -15253,3 +15253,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T04:03:58.208Z,41.2011,-116.7057,9.3,1.1,ml,7.0,254.64,0.309,0.1849,nn,nn00904617,2025-09-18T21:58:45.393Z,"57 km NE of Valmy, Nevada",earthquake,,4.6,0.15,3.0,reviewed,nn,nn
 2025-09-18T02:28:12.030Z,57.0385,-135.67733333333,8.03,0.53,ml,4.0,282.0,0.01821,0.12,av,av93775583,2025-09-18T21:54:59.690Z,"21 km W of Sitka, Alaska",earthquake,1.31,0.71,0.15696294804143,4.0,reviewed,av,av
 2025-09-18T02:11:11.470Z,61.328333333333,-152.21266666667,3.5,-0.23,ml,5.0,242.0,0.06887,0.29,av,av93050264,2025-09-18T21:51:48.680Z,"64 km WNW of Beluga, Alaska",earthquake,1.32,1.84,0.1116114024401,3.0,reviewed,av,av
+2025-09-18T22:24:00.570Z,35.8106667,-117.6395,8.3,0.81,ml,20.0,69.0,0.0345,0.15,ci,ci40445058,2025-09-18T22:27:43.112Z,"21 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.195,14.0,automatic,ci,ci
+2025-09-18T22:13:34.800Z,34.118,-118.2076667,8.16,1.2,ml,10.0,108.0,0.05643,0.1,ci,ci40445050,2025-09-18T22:17:07.480Z,"1 km WSW of Highland Park, CA",earthquake,0.65,0.74,0.361,31.0,automatic,ci,ci
+2025-09-18T22:10:18.095Z,52.9089,160.8597,25.026,4.9,mb,73.0,127.0,1.341,0.96,us,us7000qx4y,2025-09-18T22:25:33.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.82,5.729,0.05,125.0,reviewed,us,us
