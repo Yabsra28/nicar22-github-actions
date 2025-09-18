@@ -15047,3 +15047,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T08:25:59.193Z,54.5537,-159.7602,34.328,3.3,ml,31.0,200.0,0.295,0.43,us,us7000qww9,2025-09-18T08:33:17.040Z,"99 km SSE of Sand Point, Alaska",earthquake,6.03,11.006,0.066,30.0,reviewed,us,us
 2025-09-18T08:54:23.259Z,67.3487,-156.6591,0.0,1.8,ml,,,,0.86,ak,ak025bzsco6t,2025-09-18T08:56:42.929Z,"50 km N of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-18T08:19:01.882Z,-54.9458,-129.7378,10.0,4.9,mb,35.0,63.0,31.484,0.45,us,us7000qwwc,2025-09-18T08:53:34.040Z,Pacific-Antarctic Ridge,earthquake,16.34,1.843,0.104,29.0,reviewed,us,us
+2025-09-18T09:19:33.918Z,32.199,-101.22,4.6343,1.3,ml,5.0,268.0,0.2,0.1,tx,tx2025sjzjag,2025-09-18T09:21:50.575Z,"13 km SE of Coahoma, Texas",earthquake,0.0,4.463312625885,0.2,5.0,automatic,tx,tx
+2025-09-18T09:11:47.581Z,62.2448,-150.8523,66.6,2.8,ml,,,,0.37,ak,ak025bzsoxvy,2025-09-18T09:13:14.293Z,"28 km S of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-09-18T09:03:43.790Z,37.801998138428,-122.20666503906,10.920000076294,1.86,md,37.0,43.0,0.08248,0.11,nc,nc75239087,2025-09-18T09:07:09.780Z,"2 km E of Oakland, CA",earthquake,0.22,0.730000019,0.25,25.0,automatic,nc,nc
+2025-09-18T08:59:04.320Z,38.790832519531,-122.74883270264,2.9900000095367,0.29,md,7.0,87.0,0.01213,0.02,nc,nc75239082,2025-09-18T09:22:18.974Z,"2 km NE of The Geysers, CA",earthquake,0.4,1.42999995,0.08,7.0,automatic,nc,nc
+2025-09-18T08:24:19.305Z,31.406,-103.66,3.7499,1.5,ml,22.0,45.0,0.0,0.8,tx,tx2025sjxnhh,2025-09-18T09:04:30.929Z,"12 km WNW of Lindsay, Texas",earthquake,0.0,1.2635024785995,0.2,15.0,automatic,tx,tx
