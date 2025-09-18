@@ -15065,3 +15065,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T10:21:14.750Z,38.792499542236,-122.77600097656,1.2300000190735,1.79,md,30.0,78.0,0.009337,0.04,nc,nc75239102,2025-09-18T10:24:44.990Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.09,33.0,automatic,nc,nc
 2025-09-18T10:11:42.280Z,58.2657,-154.0893,9.9,1.4,ml,,,,0.72,ak,ak025bztad2s,2025-09-18T10:13:37.241Z,"73 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-17T23:56:26.518Z,32.356,-102.068,7.8857,0.6,ml,14.0,64.0,0.0,0.2,tx,tx2025sjgrnd,2025-09-18T10:18:56.926Z,"36 km NW of Stanton, Texas",earthquake,1.1262849035295,1.1672676843666,0.1,6.0,reviewed,tx,tx
+2025-09-18T10:42:55.177Z,31.663,-104.376,3.7268,2.1,ml,33.0,70.0,0.0,0.5,tx,tx2025skccvx,2025-09-18T10:45:39.080Z,"56 km S of Whites City, New Mexico",earthquake,0.0,0.97973167896271,0.1,9.0,automatic,tx,tx
+2025-09-18T10:36:49.360Z,33.4061667,-116.4553333,12.98,1.37,ml,76.0,25.0,0.1042,0.21,ci,ci40443922,2025-09-18T10:40:28.590Z,"18 km NNW of Borrego Springs, CA",earthquake,0.17,0.44,0.139,25.0,automatic,ci,ci
+2025-09-18T10:35:49.620Z,33.3236667,-116.3961667,10.91,0.92,ml,48.0,30.0,0.02449,0.2,ci,ci40443914,2025-09-18T10:39:42.255Z,"8 km NNW of Borrego Springs, CA",earthquake,0.2,0.31,0.211,25.0,automatic,ci,ci
+2025-09-18T10:35:04.870Z,33.6543333,-116.9498333,12.03,1.52,ml,77.0,16.0,0.03921,0.19,ci,ci40443906,2025-09-18T10:39:47.465Z,"11 km S of Hemet, CA",earthquake,0.15,0.33,0.218,27.0,automatic,ci,ci
