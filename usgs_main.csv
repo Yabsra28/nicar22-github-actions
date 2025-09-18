@@ -15256,3 +15256,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T22:24:00.570Z,35.8106667,-117.6395,8.3,0.81,ml,20.0,69.0,0.0345,0.15,ci,ci40445058,2025-09-18T22:27:43.112Z,"21 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.195,14.0,automatic,ci,ci
 2025-09-18T22:13:34.800Z,34.118,-118.2076667,8.16,1.2,ml,10.0,108.0,0.05643,0.1,ci,ci40445050,2025-09-18T22:17:07.480Z,"1 km WSW of Highland Park, CA",earthquake,0.65,0.74,0.361,31.0,automatic,ci,ci
 2025-09-18T22:10:18.095Z,52.9089,160.8597,25.026,4.9,mb,73.0,127.0,1.341,0.96,us,us7000qx4y,2025-09-18T22:25:33.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.82,5.729,0.05,125.0,reviewed,us,us
+2025-09-18T22:32:43.780Z,19.142665863037,-155.48233032227,33.45000076294,2.31,ml,52.0,168.0,0.02294,0.100000001,hv,hv74778942,2025-09-18T22:36:31.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.45,0.569999993,0.99,5.0,automatic,hv,hv
+2025-09-18T22:17:07.343Z,52.9864,160.9015,28.336,4.9,mb,73.0,116.0,1.361,0.77,us,us7000qx50,2025-09-18T22:32:40.040Z,"152 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.86,5.481,0.049,130.0,reviewed,us,us
+2025-09-18T22:08:06.092Z,52.7772,160.866,10.0,4.9,mb,112.0,119.0,1.365,1.04,us,us7000qx4w,2025-09-18T22:29:15.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.52,1.868,0.036,238.0,reviewed,us,us
