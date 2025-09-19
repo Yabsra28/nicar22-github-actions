@@ -15438,3 +15438,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T13:05:26.737Z,41.1828,-116.6577,8.9,3.5,ml,14.0,142.88,0.27,0.1813,nn,nn00904659,2025-09-19T13:37:25.717Z,"58 km NE of Valmy, Nevada",earthquake,,2.2,0.21,8.0,reviewed,nn,nn
 2025-09-19T03:06:16.210Z,44.343833333333,-115.0275,5.05,1.0,ml,11.0,78.0,0.2708,0.13,mb,mb90112608,2025-09-19T13:44:13.370Z,"15 km NNW of Stanley, Idaho",earthquake,0.48,8.21,0.085291408151824,8.0,reviewed,mb,mb
 2025-09-19T01:23:38.410Z,44.811666666667,-111.53016666667,11.4,1.26,ml,22.0,68.0,0.0236,0.23,mb,mb90112603,2025-09-19T13:37:56.650Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.37,0.54,0.19495589512502,19.0,reviewed,mb,mb
+2025-09-19T13:24:29.681Z,-6.3615,155.1454,149.469,4.7,mb,42.0,96.0,3.669,0.52,us,us7000qxas,2025-09-19T13:54:10.040Z,"37 km W of Panguna, Papua New Guinea",earthquake,10.88,7.687,0.082,45.0,reviewed,us,us
+2025-09-19T02:10:57.910Z,47.799333333333,-113.88283333333,8.35,0.23,ml,5.0,150.0,0.08324,0.04,mb,mb90112623,2025-09-19T13:56:51.760Z,"14 km S of Swan Lake, Montana",earthquake,0.69,1.52,0.26103061002218,2.0,reviewed,mb,mb
+2025-09-18T20:06:03.986Z,52.4319,160.6481,10.0,5.1,mb,71.0,134.0,1.352,0.87,us,us7000qx8p,2025-09-19T13:56:48.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.95,1.9,0.074,58.0,reviewed,us,us
