@@ -15460,3 +15460,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T14:54:32.600Z,32.9413333,-116.2625,9.0,0.64,ml,23.0,88.0,0.03683,0.15,ci,ci40446194,2025-09-19T14:57:57.430Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.49,0.194,9.0,automatic,ci,ci
 2025-09-19T14:50:16.601Z,60.0237,-153.0858,124.0,1.9,ml,,,,0.22,ak,ak025c1jfqxo,2025-09-19T14:52:25.678Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-19T13:04:27.382Z,28.845,-99.009,3.7716,1.9,ml,18.0,82.0,0.1,0.4,tx,tx2025smcnsz,2025-09-19T14:54:58.802Z,"9 km ESE of Pearsall, Texas",earthquake,2.3263422219935,1.2045964691559,0.2,7.0,reviewed,tx,tx
+2025-09-19T15:18:02.890Z,38.801998138428,-122.78150177002,3.0,0.71,md,8.0,77.0,0.01126,0.02,nc,nc75239512,2025-09-19T15:19:41.704Z,"4 km NNW of The Geysers, CA",earthquake,0.59,1.30999994,0.06,9.0,automatic,nc,nc
+2025-09-19T15:10:59.418Z,64.955,-149.0702,18.7,1.6,ml,,,,0.15,ak,ak025c1jsp79,2025-09-19T15:12:51.010Z,"25 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-19T14:55:29.171Z,51.422,157.7944,84.495,5.9,mww,62.0,116.0,1.688,0.89,us,us7000qxcd,2025-09-19T15:26:21.015Z,"90 km E of Ozernovskiy, Russia",earthquake,9.28,7.505,0.093,11.0,reviewed,us,us
+2025-09-19T14:32:59.179Z,35.33433333,-97.94433333,7.66,1.42,ml,39.0,66.0,0.0602881694,0.12,ok,ok2025sjzc,2025-09-19T15:25:55.340Z,"2 km N of Minco, Oklahoma",earthquake,,0.2,0.22,17.0,reviewed,ok,ok
+2025-09-19T10:06:42.317Z,-58.9435,-25.0757,10.0,4.8,mb,62.0,82.0,7.834,0.56,us,us7000qx9k,2025-09-19T15:13:56.040Z,South Sandwich Islands region,earthquake,8.34,1.67,0.071,61.0,reviewed,us,us
+2025-09-19T09:02:33.060Z,39.628166666667,-111.2815,-3.4,1.2,ml,13.0,153.0,0.06117,0.23,uu,uu80004888,2025-09-19T15:19:07.590Z,"11 km W of Clear Creek, Utah",earthquake,0.85,1.03,0.059757749111122,2.0,reviewed,uu,uu
+2025-09-18T16:57:02.650Z,47.364833333333,-114.5755,-2.0,0.46,ml,13.0,71.0,0.1123,0.1,mb,mb90112633,2025-09-19T15:25:54.500Z,"17 km E of Paradise, Montana",quarry blast,0.36,31.61,0.12748892752176,2.0,reviewed,mb,mb
