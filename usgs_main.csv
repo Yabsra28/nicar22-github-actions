@@ -15455,3 +15455,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T05:43:05.370Z,44.606833333333,-110.37366666667,5.07,1.91,ml,31.0,43.0,0.04568,0.18,uu,uu80117676,2025-09-19T14:42:00.990Z,"48 km SSE of Mammoth, Wyoming",earthquake,0.29,0.89,0.23708862528165,9.0,reviewed,uu,uu
 2025-09-19T05:07:30.530Z,44.597833333333,-110.36633333333,4.06,0.62,md,7.0,109.0,0.04054,0.07,uu,uu80117671,2025-09-19T14:43:27.130Z,"49 km SSE of Mammoth, Wyoming",earthquake,0.46,0.93,0.28408274099198,3.0,reviewed,uu,uu
 2025-09-19T04:13:43.180Z,39.705,-110.8855,5.36,1.34,md,8.0,231.0,0.1211,0.09,uu,uu80117666,2025-09-19T14:45:34.620Z,"3 km NW of Helper, Utah",earthquake,1.04,31.61,0.080404728398085,6.0,reviewed,uu,uu
+2025-09-19T15:05:02.605Z,64.5983,-149.9054,9.4,1.7,ml,,,,0.92,ak,ak025c1jri8k,2025-09-19T15:07:25.215Z,"37 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-19T15:02:21.550Z,33.485,-116.5186667,12.26,0.57,ml,28.0,55.0,0.07047,0.12,ci,ci40446202,2025-09-19T15:06:28.956Z,"16 km ESE of Anza, CA",earthquake,0.18,0.39,0.133,17.0,automatic,ci,ci
+2025-09-19T14:54:32.600Z,32.9413333,-116.2625,9.0,0.64,ml,23.0,88.0,0.03683,0.15,ci,ci40446194,2025-09-19T14:57:57.430Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.49,0.194,9.0,automatic,ci,ci
+2025-09-19T14:50:16.601Z,60.0237,-153.0858,124.0,1.9,ml,,,,0.22,ak,ak025c1jfqxo,2025-09-19T14:52:25.678Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-19T13:04:27.382Z,28.845,-99.009,3.7716,1.9,ml,18.0,82.0,0.1,0.4,tx,tx2025smcnsz,2025-09-19T14:54:58.802Z,"9 km ESE of Pearsall, Texas",earthquake,2.3263422219935,1.2045964691559,0.2,7.0,reviewed,tx,tx
