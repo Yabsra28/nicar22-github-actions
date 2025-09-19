@@ -15541,3 +15541,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T19:40:50.213Z,59.4604,-152.9568,82.9,2.1,ml,,,,0.52,ak,ak025c1mcue5,2025-09-19T19:42:52.715Z,"59 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-19T19:34:07.584Z,32.38,-101.658,8.88,1.2,ml,9.0,81.0,0.0,0.5,tx,tx2025smpikg,2025-09-19T19:37:36.510Z,"17 km SSE of Ackerly, Texas",earthquake,0.0,2.8344430923462,0.3,7.0,automatic,tx,tx
 2025-09-19T05:06:54.220Z,41.1928,-116.6622,11.5,2.0,ml,7.0,253.85,0.279,0.1229,nn,nn00904690,2025-09-19T19:38:29.938Z,"59 km NE of Valmy, Nevada",earthquake,,3.3,0.24,3.0,reviewed,nn,nn
+2025-09-19T11:25:22.458Z,41.1937,-116.6536,7.2,1.6,ml,7.0,253.87,0.275,0.1426,nn,nn00904691,2025-09-19T19:50:45.257Z,"59 km NE of Valmy, Nevada",earthquake,,3.2,0.37,3.0,reviewed,nn,nn
