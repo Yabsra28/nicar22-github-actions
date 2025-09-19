@@ -15346,3 +15346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T05:20:23.351Z,19.0616,-155.3571,39.927,2.6,ml,27.0,212.0,0.136,0.22,us,us7000qx7p,2025-09-19T05:34:01.040Z,"20 km SE of Pāhala, Hawaii",earthquake,2.94,5.026,0.051,50.0,reviewed,us,us
 2025-09-19T05:09:01.130Z,52.6755,160.67,32.301,4.7,mb,47.0,119.0,1.274,0.6,us,us7000qx7n,2025-09-19T05:28:14.040Z,"144 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.13,5.863,0.043,161.0,reviewed,us,us
 2025-09-19T02:58:15.218Z,53.0581,-161.8968,10.0,4.2,mb,43.0,181.0,1.929,0.73,us,us7000qx6u,2025-09-19T05:31:35.696Z,"223 km SSE of False Pass, Alaska",earthquake,3.67,1.93,0.11,23.0,reviewed,us,us
+2025-09-19T05:43:05.510Z,38.772998809815,-122.73933410644,1.4299999475479,1.11,md,15.0,71.0,0.01042,0.04,nc,nc75239397,2025-09-19T05:44:43.957Z,"2 km ESE of The Geysers, CA",earthquake,0.26,0.389999986,0.16,14.0,automatic,nc,nc
+2025-09-19T05:42:01.000Z,38.822166442871,-122.81233215332,2.7799999713898,1.29,md,20.0,48.0,0.002149,0.02,nc,nc75239392,2025-09-19T05:43:38.998Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.469999999,0.15,21.0,automatic,nc,nc
