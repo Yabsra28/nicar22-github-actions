@@ -15318,3 +15318,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T03:13:32.780Z,34.0395,-117.1245,7.74,0.97,ml,49.0,31.0,0.01081,0.16,ci,ci40445666,2025-09-19T03:16:57.112Z,"4 km SSE of Mentone, CA",earthquake,0.14,0.42,0.246,29.0,automatic,ci,ci
 2025-09-19T03:11:55.957Z,52.8011,160.0465,63.647,4.6,mb,48.0,132.0,0.875,0.83,us,us7000qx6w,2025-09-19T03:27:25.040Z,"99 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.36,5.834,0.042,167.0,reviewed,us,us
 2025-09-19T03:10:15.230Z,37.527500152588,-118.82566833496,4.9400000572205,1.01,md,12.0,222.0,0.06248,0.02,nc,nc75239352,2025-09-19T03:27:16.808Z,"13 km W of Toms Place, CA",earthquake,0.78,1.63,0.14,10.0,automatic,nc,nc
+2025-09-19T03:41:25.598Z,64.8602,-147.3639,16.6,1.1,ml,,,,0.57,ak,ak025c1cu2j3,2025-09-19T03:44:30.961Z,"10 km NE of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-19T03:39:20.897Z,61.9844,-150.6303,17.6,1.7,ml,,,,0.2,ak,ak025c1ctmqh,2025-09-19T03:41:13.030Z,"40 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
