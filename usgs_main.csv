@@ -15467,3 +15467,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T10:06:42.317Z,-58.9435,-25.0757,10.0,4.8,mb,62.0,82.0,7.834,0.56,us,us7000qx9k,2025-09-19T15:13:56.040Z,South Sandwich Islands region,earthquake,8.34,1.67,0.071,61.0,reviewed,us,us
 2025-09-19T09:02:33.060Z,39.628166666667,-111.2815,-3.4,1.2,ml,13.0,153.0,0.06117,0.23,uu,uu80004888,2025-09-19T15:19:07.590Z,"11 km W of Clear Creek, Utah",earthquake,0.85,1.03,0.059757749111122,2.0,reviewed,uu,uu
 2025-09-18T16:57:02.650Z,47.364833333333,-114.5755,-2.0,0.46,ml,13.0,71.0,0.1123,0.1,mb,mb90112633,2025-09-19T15:25:54.500Z,"17 km E of Paradise, Montana",quarry blast,0.36,31.61,0.12748892752176,2.0,reviewed,mb,mb
+2025-09-19T15:33:14.545Z,38.4085,-118.8792,12.5,1.5,ml,9.0,144.45,0.101,0.2646,nn,nn00904674,2025-09-19T15:35:34.005Z,"25 km WSW of Hawthorne, Nevada",earthquake,,0.7,0.11,4.0,automatic,nn,nn
+2025-09-19T15:05:43.289Z,35.32616667,-97.95533333,7.91,1.1,ml,22.0,186.0,0.07198587392,0.1,ok,ok2025skae,2025-09-19T15:35:58.790Z,"1 km NNW of Minco, Oklahoma",earthquake,,0.3,0.17,10.0,reviewed,ok,ok
+2025-09-19T04:23:13.130Z,44.8105,-111.52933333333,11.61,0.57,ml,18.0,67.0,0.02382,0.23,mb,mb90112643,2025-09-19T15:38:33.010Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.45,0.61,0.14644753636866,10.0,reviewed,mb,mb
