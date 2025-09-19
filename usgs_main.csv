@@ -15386,3 +15386,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T09:15:02.420Z,33.2355,-116.3531667,14.47,1.06,ml,47.0,26.0,0.1731,0.19,ci,ci40446138,2025-09-19T09:18:56.682Z,"3 km SE of Borrego Springs, CA",earthquake,0.19,0.46,0.12,28.0,automatic,ci,ci
 2025-09-19T09:11:56.378Z,-58.7694,-24.6102,10.0,5.4,mb,59.0,83.0,7.954,0.44,us,us7000qx91,2025-09-19T09:31:47.040Z,South Sandwich Islands region,earthquake,10.81,1.879,0.058,101.0,reviewed,us,us
 2025-09-19T09:22:34.699Z,-58.8133,-24.8833,10.0,4.8,mb,47.0,79.0,7.852,0.51,us,us7000qx96,2025-09-19T09:42:44.040Z,South Sandwich Islands region,earthquake,7.98,1.905,0.079,50.0,reviewed,us,us
+2025-09-19T09:51:22.020Z,38.820331573486,-122.80533599853,2.4700000286102,1.04,md,18.0,55.0,0.004802,0.03,nc,nc75239447,2025-09-19T09:52:58.966Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.560000002,0.22,18.0,automatic,nc,nc
+2025-09-19T09:49:59.732Z,36.6811,-116.3016,15.2,-0.3,ml,9.0,133.09,0.047,0.1993,nn,nn00904646,2025-09-19T09:51:52.107Z,"48 km ESE of Beatty, Nevada",earthquake,,3.2,0.2,4.0,automatic,nn,nn
+2025-09-19T09:22:09.310Z,52.7713,160.9003,16.444,4.8,mb,41.0,133.0,1.386,0.87,us,us7000qx94,2025-09-19T09:48:15.040Z,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.07,5.282,0.047,138.0,reviewed,us,us
+2025-09-19T05:19:16.832Z,32.747,-100.664,6.7139,0.8,ml,11.0,72.0,0.1,0.2,tx,tx2025slncvu,2025-09-19T09:49:41.717Z,"15 km NE of Hermleigh, Texas",earthquake,1.3647187813182,2.0307849385777,0.1,7.0,reviewed,tx,tx
