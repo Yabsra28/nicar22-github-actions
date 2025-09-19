@@ -15551,3 +15551,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T16:13:40.830Z,46.9545,-114.498,14.11,1.31,ml,13.0,133.0,0.08415,0.12,mb,mb90112663,2025-09-19T20:04:19.460Z,"5 km SSW of Alberton, Montana",earthquake,0.64,0.73,0.11901251495225,8.0,reviewed,mb,mb
 2025-09-19T12:12:05.713Z,41.1828,-116.6731,6.6,2.0,ml,7.0,253.26,0.278,0.1112,nn,nn00904692,2025-09-19T20:03:00.898Z,"57 km NE of Valmy, Nevada",earthquake,,2.4,0.42,3.0,reviewed,nn,nn
 2025-09-19T00:36:14.280Z,58.176833333333,-155.35683333333,1.83,-0.25,ml,9.0,81.0,0.03678,0.05,av,av93777613,2025-09-19T20:06:56.600Z,"86 km NW of Karluk, Alaska",earthquake,0.2,0.42,0.13864502827383,9.0,reviewed,av,av
+2025-09-19T20:27:33.689Z,61.805,-151.5429,60.5,1.5,ml,,,,0.8,ak,ak025c1mvgew,2025-09-19T20:29:46.709Z,"22 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-19T15:15:41.010Z,44.354,-115.02833333333,6.36,2.21,ml,20.0,63.0,0.2801,0.14,mb,mb90112638,2025-09-19T20:27:42.010Z,"16 km NNW of Stanley, Idaho",earthquake,0.37,0.94,0.17856043629697,32.0,reviewed,mb,mb
+2025-09-19T05:25:20.220Z,58.11,-155.2135,4.16,1.21,ml,12.0,140.0,0.0358,0.15,av,av93778083,2025-09-19T20:31:14.860Z,"75 km NW of Karluk, Alaska",earthquake,0.36,0.7,0.41288259826284,13.0,reviewed,av,av
