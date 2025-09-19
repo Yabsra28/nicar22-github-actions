@@ -15398,3 +15398,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T07:06:15.259Z,31.883,-101.712,4.3701,0.7,ml,14.0,79.0,0.0,0.2,tx,tx2025slqqxy,2025-09-19T10:44:25.056Z,"21 km W of Garden City, Texas",earthquake,1.175674266021,1.6660798116766,0.2,6.0,reviewed,tx,tx
 2025-09-19T10:53:07.072Z,32.764,-100.664,2.8319,1.5,ml,17.0,79.0,0.1,0.5,tx,tx2025slyeni,2025-09-19T10:57:26.141Z,"16 km NNE of Hermleigh, Texas",earthquake,0.0,1.3923584222794,0.1,12.0,automatic,tx,tx
 2025-09-19T03:30:44.999Z,32.354,-102.083,6.8604,0.6,ml,20.0,56.0,0.0,0.1,tx,tx2025sljnic,2025-09-19T10:54:30.121Z,"37 km NW of Stanton, Texas",earthquake,0.47368871739462,0.82717832500595,0.2,10.0,reviewed,tx,tx
+2025-09-19T11:01:03.657Z,52.7831,160.9378,16.651,4.9,mb,116.0,164.0,1.406,0.79,us,us7000qx9v,2025-09-19T11:20:04.040Z,"158 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.27,6.038,0.044,160.0,reviewed,us,us
+2025-09-19T10:32:35.622Z,32.529,-102.053,5.0,1.2,ml,5.0,265.0,0.1,0.2,tx,tx2025slxmvj,2025-09-19T11:00:13.156Z,"24 km SSW of Los Ybanez, Texas",earthquake,0.0,,0.4,5.0,automatic,tx,tx
+2025-09-19T09:58:20.229Z,52.3102,160.6687,25.948,4.6,mb,21.0,85.0,1.422,0.99,us,us7000qx9e,2025-09-19T11:15:12.040Z,"161 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.51,5.757,0.125,19.0,reviewed,us,us
