@@ -15313,3 +15313,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T01:49:53.114Z,52.6721,160.5232,35.0,5.0,mb,114.0,78.0,1.189,0.81,us,us7000qx6g,2025-09-19T02:06:30.040Z,"134 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.65,1.893,0.03,360.0,reviewed,us,us
 2025-09-19T01:49:50.097Z,-1.2704,-80.8101,35.0,4.6,mb,35.0,164.0,1.326,1.27,us,us7000qx6e,2025-09-19T02:19:24.593Z,"27 km WNW of Jipijapa, Ecuador",earthquake,4.36,1.933,0.107,26.0,reviewed,us,us
 2025-09-18T21:21:40.658Z,23.9614,121.6776,21.441,4.6,mb,44.0,80.0,0.225,0.49,us,us7000qx4l,2025-09-19T02:12:10.040Z,"7 km ESE of Hualien City, Taiwan",earthquake,3.01,4.45,0.092,35.0,reviewed,us,us
+2025-09-19T03:26:15.390Z,38.82799911499,-122.80066680908,1.5700000524521,0.7,md,8.0,71.0,0.008668,0.01,nc,nc75239357,2025-09-19T03:27:53.834Z,"7 km WNW of Cobb, CA",earthquake,0.48,0.970000029,0.12,10.0,automatic,nc,nc
+2025-09-19T03:22:04.378Z,18.2072,-68.4481,103.867,3.7,ml,22.0,95.0,0.312,0.6,us,us7000qx6y,2025-09-19T03:34:58.040Z,"25 km SE of Boca de Yuma, Dominican Republic",earthquake,7.55,4.63,0.061,35.0,reviewed,us,us
+2025-09-19T03:13:32.780Z,34.0395,-117.1245,7.74,0.97,ml,49.0,31.0,0.01081,0.16,ci,ci40445666,2025-09-19T03:16:57.112Z,"4 km SSE of Mentone, CA",earthquake,0.14,0.42,0.246,29.0,automatic,ci,ci
+2025-09-19T03:11:55.957Z,52.8011,160.0465,63.647,4.6,mb,48.0,132.0,0.875,0.83,us,us7000qx6w,2025-09-19T03:27:25.040Z,"99 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.36,5.834,0.042,167.0,reviewed,us,us
+2025-09-19T03:10:15.230Z,37.527500152588,-118.82566833496,4.9400000572205,1.01,md,12.0,222.0,0.06248,0.02,nc,nc75239352,2025-09-19T03:27:16.808Z,"13 km W of Toms Place, CA",earthquake,0.78,1.63,0.14,10.0,automatic,nc,nc
