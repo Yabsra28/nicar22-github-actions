@@ -15301,3 +15301,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T18:54:40.220Z,46.191666666667,-122.19583333333,7.98,0.01,md,5.0,120.0,0.02045,0.13,uw,uw62191231,2025-09-19T00:39:12.750Z,"36 km NNE of Amboy, Washington",earthquake,0.46,0.96,0.18842438649317,3.0,reviewed,uw,uw
 2025-09-18T18:16:22.910Z,46.514333333333,-122.4705,15.27,0.68,ml,10.0,333.0,0.2267,0.13,uw,uw62191226,2025-09-19T00:37:08.070Z,"2 km SSE of Mossyrock, Washington",earthquake,1.8,2.66,0.14732233868332,5.0,reviewed,uw,uw
 2025-09-18T14:08:55.667Z,36.6301,-116.2664,5.9,-0.2,ml,13.0,126.25,0.06,0.0727,nn,nn00904634,2025-09-19T00:53:47.099Z,"53 km NNW of Pahrump, Nevada",earthquake,,1.9,0.11,2.0,reviewed,nn,nn
+2025-09-19T02:54:23.710Z,33.357,-116.9431667,5.72,0.63,ml,33.0,42.0,0.06747,0.19,ci,ci40445658,2025-09-19T02:57:49.976Z,"7 km W of Palomar Observatory, CA",earthquake,0.2,0.76,0.143,21.0,automatic,ci,ci
+2025-09-19T02:44:27.360Z,37.30016708374,-121.66883087158,5.6100001335144,1.88,md,30.0,47.0,0.04125,0.07,nc,nc75239342,2025-09-19T02:47:46.620Z,"15 km E of Seven Trees, CA",earthquake,0.18,0.370000005,0.15,22.0,automatic,nc,nc
+2025-09-19T02:24:34.896Z,64.4859,-146.9151,0.2,1.2,ml,,,,0.4,ak,ak025c1c50gx,2025-09-19T02:26:20.256Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-19T02:23:24.354Z,60.9794,-141.2314,0.0,1.8,ml,,,,0.91,ak,ak025c1c4rxv,2025-09-19T02:25:03.858Z,"103 km ESE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-19T02:11:15.360Z,33.9775,-116.5706667,8.36,0.87,ml,35.0,31.0,0.04186,0.12,ci,ci40445650,2025-09-19T02:14:39.624Z,"7 km WNW of Desert Hot Springs, CA",earthquake,0.13,0.44,0.153,23.0,automatic,ci,ci
+2025-09-19T02:06:52.845Z,28.649,-98.901,5.6751,2.3,ml,11.0,117.0,0.2,0.4,tx,tx2025slgtbh,2025-09-19T03:00:35.072Z,"22 km NNW of Fowlerton, Texas",earthquake,0.0,5.2775602340698,0.1,9.0,automatic,tx,tx
+2025-09-19T02:04:49.482Z,63.7547,-149.2139,43.3,1.5,ml,,,,1.03,ak,ak025c1c0r9w,2025-09-19T02:06:21.513Z,"15 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-19T02:03:12.990Z,38.835498809815,-122.80599975586,2.2200000286102,1.1,md,18.0,82.0,0.0125,0.02,nc,nc75239337,2025-09-19T02:22:17.373Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.389999986,0.17,19.0,automatic,nc,nc
+2025-09-19T02:00:42.110Z,34.013,-117.1131667,9.19,0.86,ml,45.0,50.0,0.02242,0.17,ci,ci40445642,2025-09-19T02:04:03.935Z,"6 km WNW of Calimesa, CA",earthquake,0.16,0.43,0.175,31.0,automatic,ci,ci
+2025-09-19T01:49:53.114Z,52.6721,160.5232,35.0,5.0,mb,114.0,78.0,1.189,0.81,us,us7000qx6g,2025-09-19T02:06:30.040Z,"134 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.65,1.893,0.03,360.0,reviewed,us,us
+2025-09-19T01:49:50.097Z,-1.2704,-80.8101,35.0,4.6,mb,35.0,164.0,1.326,1.27,us,us7000qx6e,2025-09-19T02:19:24.593Z,"27 km WNW of Jipijapa, Ecuador",earthquake,4.36,1.933,0.107,26.0,reviewed,us,us
+2025-09-18T21:21:40.658Z,23.9614,121.6776,21.441,4.6,mb,44.0,80.0,0.225,0.49,us,us7000qx4l,2025-09-19T02:12:10.040Z,"7 km ESE of Hualien City, Taiwan",earthquake,3.01,4.45,0.092,35.0,reviewed,us,us
