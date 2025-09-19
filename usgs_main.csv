@@ -15363,3 +15363,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T05:59:47.555Z,52.551,160.6281,10.0,4.5,mb,34.0,121.0,1.291,0.53,us,us7000qx80,2025-09-19T06:54:23.040Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.46,1.911,0.094,33.0,reviewed,us,us
 2025-09-19T07:20:50.640Z,38.836833953857,-122.79699707031,1.960000038147,0.7,md,8.0,123.0,0.005429,0.01,nc,nc75239412,2025-09-19T07:22:28.685Z,"7 km WNW of Cobb, CA",earthquake,0.77,1.51999998,0.3,8.0,automatic,nc,nc
 2025-09-19T07:18:48.980Z,36.1523333,-118.0665,3.61,1.26,ml,26.0,59.0,0.1748,0.16,ci,ci40445970,2025-09-19T07:22:17.645Z,"15 km SSW of Olancha, CA",earthquake,0.2,0.94,0.163,22.0,automatic,ci,ci
+2025-09-19T07:07:13.140Z,39.1615,-119.0384,9.285,2.5,ml,29.0,76.0,0.236,0.32,us,us7000qx88,2025-09-19T07:28:58.040Z,"22 km NNE of Yerington, Nevada",earthquake,1.65,8.306,0.048,58.0,reviewed,us,us
