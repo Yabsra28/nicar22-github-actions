@@ -15355,3 +15355,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T06:11:27.550Z,62.3949,-151.0216,85.9,1.6,ml,,,,0.98,ak,ak025c1efy0j,2025-09-19T06:13:40.599Z,"17 km SW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-19T06:07:34.770Z,19.179000854492,-155.52099609375,30.049999237061,2.46,ml,58.0,103.0,0.0604,0.140000001,hv,hv74779237,2025-09-19T06:11:37.670Z,"5 km WSW of Pāhala, Hawaii",earthquake,0.42,0.529999971,0.31,28.0,automatic,hv,hv
 2025-09-19T06:02:21.150Z,19.179666519165,-155.50549316406,29.790000915527,2.58,ml,57.0,98.0,0.04758,0.140000001,hv,hv74779227,2025-09-19T06:23:03.214Z,"3 km SW of Pāhala, Hawaii",earthquake,0.46,0.589999974,0.48,34.0,automatic,hv,hv
+2025-09-19T07:08:33.368Z,31.877,-101.71,4.1511,1.4,ml,36.0,54.0,0.0,0.4,tx,tx2025slqtas,2025-09-19T07:12:24.741Z,"21 km W of Garden City, Texas",earthquake,0.0,0.99843072891235,0.1,24.0,automatic,tx,tx
+2025-09-19T07:06:22.410Z,34.0186667,-116.855,19.0,0.72,ml,42.0,52.0,0.04252,0.16,ci,ci40445962,2025-09-19T07:10:06.994Z,"10 km N of Banning, CA",earthquake,0.18,0.42,0.15,22.0,automatic,ci,ci
+2025-09-19T06:55:37.926Z,60.648,-147.6152,22.4,1.5,ml,,,,0.25,ak,ak025c1epebk,2025-09-19T06:56:59.804Z,"56 km WSW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-19T06:47:40.814Z,52.1639,160.3836,10.0,4.9,mb,46.0,137.0,1.364,1.01,us,us7000qx85,2025-09-19T07:05:26.040Z,"155 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.89,1.877,0.058,95.0,reviewed,us,us
+2025-09-19T06:39:24.050Z,19.2003,-65.0971,78.0,3.52,md,9.0,253.0,0.9931,0.45,pr,pr2025262001,2025-09-19T07:02:17.335Z,"96 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.64,8.61,0.13,3.0,reviewed,pr,pr
+2025-09-19T05:59:47.555Z,52.551,160.6281,10.0,4.5,mb,34.0,121.0,1.291,0.53,us,us7000qx80,2025-09-19T06:54:23.040Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.46,1.911,0.094,33.0,reviewed,us,us
