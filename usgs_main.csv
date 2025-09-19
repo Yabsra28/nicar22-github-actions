@@ -15361,3 +15361,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T06:47:40.814Z,52.1639,160.3836,10.0,4.9,mb,46.0,137.0,1.364,1.01,us,us7000qx85,2025-09-19T07:05:26.040Z,"155 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.89,1.877,0.058,95.0,reviewed,us,us
 2025-09-19T06:39:24.050Z,19.2003,-65.0971,78.0,3.52,md,9.0,253.0,0.9931,0.45,pr,pr2025262001,2025-09-19T07:02:17.335Z,"96 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.64,8.61,0.13,3.0,reviewed,pr,pr
 2025-09-19T05:59:47.555Z,52.551,160.6281,10.0,4.5,mb,34.0,121.0,1.291,0.53,us,us7000qx80,2025-09-19T06:54:23.040Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.46,1.911,0.094,33.0,reviewed,us,us
+2025-09-19T07:20:50.640Z,38.836833953857,-122.79699707031,1.960000038147,0.7,md,8.0,123.0,0.005429,0.01,nc,nc75239412,2025-09-19T07:22:28.685Z,"7 km WNW of Cobb, CA",earthquake,0.77,1.51999998,0.3,8.0,automatic,nc,nc
+2025-09-19T07:18:48.980Z,36.1523333,-118.0665,3.61,1.26,ml,26.0,59.0,0.1748,0.16,ci,ci40445970,2025-09-19T07:22:17.645Z,"15 km SSW of Olancha, CA",earthquake,0.2,0.94,0.163,22.0,automatic,ci,ci
