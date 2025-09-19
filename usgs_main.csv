@@ -15366,3 +15366,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T07:07:13.140Z,39.1615,-119.0384,9.285,2.5,ml,29.0,76.0,0.236,0.32,us,us7000qx88,2025-09-19T07:28:58.040Z,"22 km NNE of Yerington, Nevada",earthquake,1.65,8.306,0.048,58.0,reviewed,us,us
 2025-09-19T07:39:30.570Z,38.822334289551,-122.85633087158,2.5899999141693,0.81,md,12.0,117.0,0.00522,0.02,nc,nc75239422,2025-09-19T07:41:08.925Z,"10 km NW of The Geysers, CA",earthquake,0.41,0.560000002,0.19,13.0,automatic,nc,nc
 2025-09-19T07:21:50.262Z,53.015,161.1154,10.386,4.7,mb,42.0,118.0,1.489,0.89,us,us7000qx8f,2025-09-19T07:40:05.040Z,"166 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.03,5.217,0.044,156.0,reviewed,us,us
+2025-09-19T07:50:02.160Z,38.824333190918,-122.84216308594,1.5199999809265,0.65,md,7.0,112.0,0.01193,0.01,nc,nc75239427,2025-09-19T07:51:38.821Z,"9 km NW of The Geysers, CA",earthquake,0.67,1.52999997,0.16,8.0,automatic,nc,nc
