@@ -15538,3 +15538,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T19:18:10.650Z,38.806331634521,-122.77116394043,2.0999999046326,1.05,md,17.0,108.0,0.01016,0.03,nc,nc75239622,2025-09-19T19:19:46.499Z,"3 km  of The Geysers, CA",earthquake,0.3,0.439999998,0.09,17.0,automatic,nc,nc
 2025-09-19T19:14:51.390Z,32.9041667,-116.9498333,5.05,1.6,ml,45.0,56.0,0.06726,0.19,ci,ci40446322,2025-09-19T19:19:05.032Z,"6 km NNW of Lakeside, CA",earthquake,0.17,0.47,0.178,34.0,automatic,ci,ci
 2025-09-19T07:07:13.274Z,39.1578,-119.0323,11.3,2.4,ml,37.0,74.73,0.237,0.1231,nn,nn00904642,2025-09-19T19:14:01.177Z,"22 km NNE of Yerington, Nevada",earthquake,,1.0,0.29,15.0,reviewed,nn,nn
+2025-09-19T19:40:50.213Z,59.4604,-152.9568,82.9,2.1,ml,,,,0.52,ak,ak025c1mcue5,2025-09-19T19:42:52.715Z,"59 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-19T19:34:07.584Z,32.38,-101.658,8.88,1.2,ml,9.0,81.0,0.0,0.5,tx,tx2025smpikg,2025-09-19T19:37:36.510Z,"17 km SSE of Ackerly, Texas",earthquake,0.0,2.8344430923462,0.3,7.0,automatic,tx,tx
+2025-09-19T05:06:54.220Z,41.1928,-116.6622,11.5,2.0,ml,7.0,253.85,0.279,0.1229,nn,nn00904690,2025-09-19T19:38:29.938Z,"59 km NE of Valmy, Nevada",earthquake,,3.3,0.24,3.0,reviewed,nn,nn
