@@ -15396,3 +15396,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T10:26:54.387Z,38.8877,-118.7278,4.4,1.9,ml,22.0,68.52,0.411,0.2477,nn,nn00904647,2025-09-19T10:29:45.619Z,"10 km SE of Schurz, Nevada",earthquake,,1.1,0.2,11.0,automatic,nn,nn
 2025-09-19T10:40:34.880Z,40.298500061035,-124.53849792481,19.64999961853,1.89,md,9.0,290.0,0.1502,0.04,nc,nc75239452,2025-09-19T10:42:14.369Z,"22 km W of Petrolia, CA",earthquake,3.17,0.49000001,0.11,5.0,automatic,nc,nc
 2025-09-19T07:06:15.259Z,31.883,-101.712,4.3701,0.7,ml,14.0,79.0,0.0,0.2,tx,tx2025slqqxy,2025-09-19T10:44:25.056Z,"21 km W of Garden City, Texas",earthquake,1.175674266021,1.6660798116766,0.2,6.0,reviewed,tx,tx
+2025-09-19T10:53:07.072Z,32.764,-100.664,2.8319,1.5,ml,17.0,79.0,0.1,0.5,tx,tx2025slyeni,2025-09-19T10:57:26.141Z,"16 km NNE of Hermleigh, Texas",earthquake,0.0,1.3923584222794,0.1,12.0,automatic,tx,tx
+2025-09-19T03:30:44.999Z,32.354,-102.083,6.8604,0.6,ml,20.0,56.0,0.0,0.1,tx,tx2025sljnic,2025-09-19T10:54:30.121Z,"37 km NW of Stanton, Texas",earthquake,0.47368871739462,0.82717832500595,0.2,10.0,reviewed,tx,tx
