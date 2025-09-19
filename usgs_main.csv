@@ -15554,3 +15554,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T20:27:33.689Z,61.805,-151.5429,60.5,1.5,ml,,,,0.8,ak,ak025c1mvgew,2025-09-19T20:29:46.709Z,"22 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-19T15:15:41.010Z,44.354,-115.02833333333,6.36,2.21,ml,20.0,63.0,0.2801,0.14,mb,mb90112638,2025-09-19T20:27:42.010Z,"16 km NNW of Stanley, Idaho",earthquake,0.37,0.94,0.17856043629697,32.0,reviewed,mb,mb
 2025-09-19T05:25:20.220Z,58.11,-155.2135,4.16,1.21,ml,12.0,140.0,0.0358,0.15,av,av93778083,2025-09-19T20:31:14.860Z,"75 km NW of Karluk, Alaska",earthquake,0.36,0.7,0.41288259826284,13.0,reviewed,av,av
+2025-09-19T20:11:47.705Z,53.0941,161.1722,10.0,4.8,mb,67.0,136.0,1.524,0.86,us,us7000qxfh,2025-09-19T20:40:47.040Z,"170 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.96,1.889,0.052,115.0,reviewed,us,us
+2025-09-19T16:10:31.760Z,44.586666666667,-112.2205,3.97,0.84,ml,13.0,112.0,0.1244,0.09,mb,mb90112678,2025-09-19T20:47:57.610Z,"25 km N of Spencer, Idaho",earthquake,0.43,5.29,0.078946748348608,6.0,reviewed,mb,mb
+2025-09-19T07:12:59.350Z,61.302,-152.05316666667,2.58,-0.45,ml,5.0,140.0,0.01817,0.04,av,av93778233,2025-09-19T20:39:12.240Z,"55 km WNW of Beluga, Alaska",earthquake,0.38,0.69,0.14774232683714,5.0,reviewed,av,av
