@@ -15771,3 +15771,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T16:56:11.395Z,-31.744,-178.298,10.0,4.6,mb,26.0,126.0,6.443,0.91,us,us7000qxkx,2025-09-20T19:03:42.040Z,Kermadec Islands region,earthquake,6.47,1.959,0.107,26.0,reviewed,us,us
 2025-09-20T16:39:40.940Z,-14.8983,-177.5002,372.075,4.6,mb,102.0,62.0,3.398,1.06,us,us7000qxkv,2025-09-20T18:53:13.040Z,"92 km SE of Alo, Wallis and Futuna",earthquake,6.39,6.431,0.035,251.0,reviewed,us,us
 2025-09-20T16:36:46.640Z,38.118333333333,-122.42866666667,4.5,0.8,md,12.0,66.0,0.05713,0.04,nc,nc75239892,2025-09-20T19:08:24.969Z,"7 km E of Black Point-Green Point, CA",earthquake,0.24,0.74,0.332,8.0,reviewed,nc,nc
+2025-09-20T19:16:55.040Z,33.0295,-116.4118333,10.34,1.04,ml,46.0,34.0,0.05256,0.18,ci,ci40447106,2025-09-20T19:20:21.399Z,"18 km ESE of Julian, CA",earthquake,0.17,0.35,0.171,25.0,automatic,ci,ci
+2025-09-20T19:12:24.068Z,32.372,-101.083,3.0949,1.8,ml,26.0,104.0,0.1,0.3,tx,tx2025soklpy,2025-09-20T19:15:54.388Z,"6 km WNW of Westbrook, Texas",earthquake,0.0,1.2114328145981,0.1,14.0,automatic,tx,tx
+2025-09-20T17:49:15.416Z,49.8916,155.7992,68.778,4.5,mb,75.0,124.0,3.433,0.47,us,us7000qxl4,2025-09-20T19:15:56.040Z,"90 km SSW of Severo-Kuril’sk, Russia",earthquake,10.93,7.579,0.058,87.0,reviewed,us,us
+2025-09-19T20:51:47.730Z,36.9535,-121.5675,3.5,1.12,md,20.0,96.0,0.01179,0.14,nc,nc75239657,2025-09-20T19:17:28.392Z,"6 km S of Gilroy, CA",earthquake,0.32,0.48,0.192,13.0,reviewed,nc,nc
