@@ -15606,3 +15606,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T23:40:08.240Z,19.184833526611,-155.51150512695,32.380001068115,2.33,ml,53.0,94.0,0.0551,0.129999995,hv,hv74779922,2025-09-19T23:43:49.270Z,"4 km WSW of Pāhala, Hawaii",earthquake,0.46,0.560000002,0.4,27.0,automatic,hv,hv
 2025-09-19T23:53:07.399Z,62.868,-149.7478,62.4,1.8,ml,,,,0.67,ak,ak025c1ot9tf,2025-09-19T23:55:19.094Z,"50 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-19T23:48:14.410Z,32.6601667,-115.7901667,10.18,1.72,ml,44.0,68.0,0.05488,0.28,ci,ci40446498,2025-09-19T23:51:52.389Z,"21 km ESE of Ocotillo, CA",earthquake,0.37,0.57,0.199,28.0,automatic,ci,ci
+2025-09-20T01:44:00.320Z,38.773498535156,-122.72799682617,1.1399999856949,1.51,md,22.0,70.0,0.01188,0.04,nc,nc75239752,2025-09-20T01:45:37.508Z,"2 km ESE of The Geysers, CA",earthquake,0.23,0.310000002,0.15,21.0,automatic,nc,nc
+2025-09-20T01:36:13.381Z,60.1764,-152.9599,128.366,3.5,ml,37.0,47.0,0.261,0.8,us,us7000qxhx,2025-09-20T01:44:25.040Z,"72 km WNW of Happy Valley, Alaska",earthquake,5.6,8.119,0.034,117.0,reviewed,us,us
+2025-09-20T01:28:23.645Z,41.2009,-116.6898,10.0,2.8,ml,26.0,46.0,0.869,1.03,us,us7000qxhv,2025-09-20T01:37:46.040Z,"58 km NE of Valmy, Nevada",earthquake,3.69,2.012,0.041,80.0,reviewed,us,us
+2025-09-20T01:03:53.680Z,38.824333190918,-122.80349731445,2.6199998855591,1.08,md,15.0,82.0,0.005222,0.01,nc,nc75239737,2025-09-20T01:22:18.283Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.629999995,0.06,15.0,automatic,nc,nc
+2025-09-20T00:37:47.478Z,61.1636,-147.1508,10.4,1.4,ml,,,,0.39,ak,ak025c2ykb17,2025-09-20T00:39:39.045Z,"41 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-20T00:20:33.462Z,60.2783,-152.7899,8.6,0.9,ml,,,,0.98,ak,ak025c2ygms2,2025-09-20T00:22:08.844Z,"67 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-20T00:13:51.290Z,41.20650100708,-123.34833526611,32.939998626709,2.85,ml,35.0,60.0,0.2348,0.24,nc,nc75239722,2025-09-20T00:27:17.897Z,"22 km SSE of Somes Bar, CA",earthquake,0.52,0.699999988,0.106,5.0,automatic,nc,nc
+2025-09-20T00:07:45.740Z,33.6495,-117.0103333,12.82,0.79,ml,24.0,51.0,0.0008817,0.14,ci,ci40446514,2025-09-20T00:11:07.594Z,"9 km SE of Winchester, CA",earthquake,0.26,0.35,0.185,25.0,automatic,ci,ci
+2025-09-20T00:02:22.070Z,34.3316667,-116.8493333,2.36,0.89,ml,32.0,51.0,0.02437,0.17,ci,ci40446506,2025-09-20T00:06:03.989Z,"8 km N of Big Bear City, CA",earthquake,0.18,0.26,0.189,14.0,automatic,ci,ci
+2025-09-19T22:56:46.079Z,24.4447,119.3339,10.0,4.6,mb,43.0,78.0,1.618,1.13,us,us7000qxha,2025-09-20T01:41:20.441Z,"61 km SE of Dazuocun, China",earthquake,6.93,1.9,0.105,27.0,reviewed,us,us
+2025-09-19T21:45:18.843Z,52.6727,160.2209,35.0,4.3,mb,52.0,162.0,1.015,0.69,us,us7000qxgl,2025-09-20T00:54:24.040Z,"115 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.64,1.965,0.071,57.0,reviewed,us,us
+2025-09-19T04:11:31.694Z,52.7961,160.6756,37.346,4.5,mb,56.0,137.0,1.248,0.49,us,us7000qx89,2025-09-20T01:26:38.040Z,"140 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.18,7.215,0.076,51.0,reviewed,us,us
+2025-09-19T03:47:10.956Z,55.9706,163.1462,10.0,4.4,mb,61.0,130.0,12.314,0.83,us,us7000qx74,2025-09-20T01:16:49.040Z,"50 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,13.29,1.824,0.068,62.0,reviewed,us,us
+2025-09-19T03:18:33.136Z,52.9013,160.0004,63.862,4.3,mb,43.0,134.0,0.826,0.63,us,us7000qx6z,2025-09-20T00:46:51.040Z,"93 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.22,7.58,0.085,39.0,reviewed,us,us
+2025-09-19T02:41:58.515Z,53.0107,160.7467,35.0,4.4,mb,49.0,200.0,1.267,0.9,us,us7000qx6t,2025-09-20T00:30:59.040Z,"142 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,14.2,1.994,0.087,38.0,reviewed,us,us
