@@ -15696,3 +15696,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T09:52:18.652Z,61.9562,-148.7343,36.8,1.3,ml,,,,0.35,ak,ak025c340czt,2025-09-20T09:53:36.441Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-20T10:24:36.710Z,35.7748333,-117.594,10.35,1.46,ml,37.0,55.0,0.04092,0.17,ci,ci40446778,2025-09-20T10:28:11.532Z,"17 km W of Searles Valley, CA",earthquake,0.16,0.36,0.183,25.0,automatic,ci,ci
 2025-09-20T10:18:23.384Z,51.4433,159.3189,30.061,5.1,mb,71.0,114.0,1.635,1.01,us,us7000qxjq,2025-09-20T10:35:35.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.86,5.303,0.039,213.0,reviewed,us,us
+2025-09-20T10:48:29.750Z,33.5353333,-116.7168333,5.92,0.61,ml,40.0,28.0,0.03452,0.15,ci,ci40446794,2025-09-20T10:51:57.696Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.17,19.0,automatic,ci,ci
+2025-09-20T10:44:32.080Z,32.9465,-116.465,7.76,1.43,ml,66.0,30.0,0.05221,0.19,ci,ci40446786,2025-09-20T10:48:08.387Z,"15 km NNE of Pine Valley, CA",earthquake,0.14,0.47,0.161,29.0,automatic,ci,ci
+2025-09-19T18:32:02.940Z,37.987833333333,-122.45033333333,-0.03,1.47,md,18.0,87.0,0.02386,0.1,nc,nc75239602,2025-09-20T10:42:36.141Z,"7 km E of Santa Venetia, CA",quarry blast,0.22,31.61,0.191,14.0,reviewed,nc,nc
