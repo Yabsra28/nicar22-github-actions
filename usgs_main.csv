@@ -15724,3 +15724,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T14:06:44.193Z,-7.1365,155.8194,95.225,4.9,mb,32.0,139.0,4.668,0.54,us,us7000qxk6,2025-09-20T14:25:40.040Z,"97 km SSE of Panguna, Papua New Guinea",earthquake,5.88,11.451,0.061,83.0,reviewed,us,us
 2025-09-19T15:55:35.727Z,-32.1996,-178.5731,35.0,4.8,mb,21.0,219.0,5.932,0.6,us,us7000qxcw,2025-09-20T14:08:50.040Z,south of the Kermadec Islands,earthquake,12.39,1.987,0.102,30.0,reviewed,us,us
 2025-09-19T15:09:21.084Z,31.5096,-115.6154,10.0,2.5,ml,18.0,158.0,0.483,0.65,us,us7000qxcj,2025-09-20T14:11:12.040Z,"63 km ENE of San Vicente, Mexico",earthquake,2.07,1.886,0.091,16.0,reviewed,us,us
+2025-09-20T14:37:21.027Z,63.4237,-145.9578,1.0,1.8,ml,,,,0.4,ak,ak025c36wbgm,2025-09-20T14:39:10.916Z,"41 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-20T03:52:21.532Z,32.802,-100.664,6.2256,1.1,ml,10.0,87.0,0.1,0.1,tx,tx2025snfyvc,2025-09-20T14:34:01.194Z,"19 km WSW of Rotan, Texas",earthquake,0.6862518687921,1.5662684194713,0.2,6.0,reviewed,tx,tx
