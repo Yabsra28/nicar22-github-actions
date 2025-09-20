@@ -15775,3 +15775,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T19:12:24.068Z,32.372,-101.083,3.0949,1.8,ml,26.0,104.0,0.1,0.3,tx,tx2025soklpy,2025-09-20T19:15:54.388Z,"6 km WNW of Westbrook, Texas",earthquake,0.0,1.2114328145981,0.1,14.0,automatic,tx,tx
 2025-09-20T17:49:15.416Z,49.8916,155.7992,68.778,4.5,mb,75.0,124.0,3.433,0.47,us,us7000qxl4,2025-09-20T19:15:56.040Z,"90 km SSW of Severo-Kuril’sk, Russia",earthquake,10.93,7.579,0.058,87.0,reviewed,us,us
 2025-09-19T20:51:47.730Z,36.9535,-121.5675,3.5,1.12,md,20.0,96.0,0.01179,0.14,nc,nc75239657,2025-09-20T19:17:28.392Z,"6 km S of Gilroy, CA",earthquake,0.32,0.48,0.192,13.0,reviewed,nc,nc
+2025-09-20T19:26:29.610Z,60.9629,-146.9001,15.8,1.5,ml,,,,1.28,ak,ak025c39t59t,2025-09-20T19:28:42.801Z,"16 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-20T18:54:35.244Z,4.8776,124.0314,456.318,4.4,mb,45.0,60.0,1.45,0.96,us,us7000qxl8,2025-09-20T19:23:50.040Z,"138 km SSW of Maitum, Philippines",earthquake,12.5,9.01,0.098,30.0,reviewed,us,us
+2025-09-19T22:29:16.750Z,37.6455,-122.5195,4.68,0.62,md,8.0,233.0,0.03642,0.05,nc,nc75239682,2025-09-20T19:23:30.781Z,"5 km NW of Pacifica, CA",earthquake,0.89,0.47,0.084,5.0,reviewed,nc,nc
