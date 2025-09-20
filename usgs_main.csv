@@ -15706,3 +15706,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T02:20:04.480Z,32.795,-100.67,3.668,1.6,mlv,13.0,121.0,0.1,0.2,tx,tx2025sncxht,2025-09-20T11:13:13.912Z,"19 km NNE of Hermleigh, Texas",earthquake,0.0,1.5219430923462,0.2,11.0,automatic,tx,tx
 2025-09-20T11:55:03.290Z,33.5053329,-116.498497,15.11,1.24,ml,18.0,97.0,0.0873,0.16,ci,ci40446826,2025-09-20T11:57:15.025Z,"17 km ESE of Anza, CA",earthquake,0.42,0.91,0.334,12.0,automatic,ci,ci
 2025-09-20T11:48:13.570Z,33.4981667,-116.538,8.09,1.17,ml,71.0,51.0,0.05376,0.2,ci,ci40446818,2025-09-20T11:51:42.996Z,"14 km ESE of Anza, CA",earthquake,0.14,0.41,0.122,28.0,automatic,ci,ci
+2025-09-20T12:28:36.809Z,61.8487,-150.041,27.2,1.6,ml,,,,0.62,ak,ak025c35nk0w,2025-09-20T12:30:41.254Z,"11 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-20T12:26:01.990Z,38.771831512451,-122.72216796875,0.86000001430511,1.07,md,9.0,90.0,0.01044,0.02,nc,nc75239852,2025-09-20T12:27:36.542Z,"3 km W of Anderson Springs, CA",earthquake,0.3,0.439999998,0.3,8.0,automatic,nc,nc
+2025-09-20T12:13:48.920Z,33.8961667,-116.202,9.13,0.8,ml,36.0,70.0,0.03767,0.12,ci,ci40446842,2025-09-20T12:17:58.762Z,"19 km ENE of Thousand Palms, CA",earthquake,0.16,0.31,0.136,17.0,automatic,ci,ci
+2025-09-20T12:02:13.570Z,36.1493333,-118.0661667,3.53,0.87,ml,21.0,59.0,0.174,0.13,ci,ci40446834,2025-09-20T12:05:42.489Z,"16 km NW of Coso Junction, CA",earthquake,0.19,0.59,0.146,12.0,automatic,ci,ci
