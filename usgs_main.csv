@@ -15740,3 +15740,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:15:38.554Z,60.0753,-153.1257,0.0,1.6,ml,,,,0.54,ak,ak025c37d2d6,2025-09-20T15:17:23.835Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-20T15:10:33.040Z,61.4628,-146.3448,64.8,1.1,ml,,,,0.71,ak,ak025c37bzns,2025-09-20T15:12:29.214Z,"36 km N of Valdez, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-09-19T19:01:08.602Z,51.8077,159.7517,29.106,4.6,mb,84.0,154.0,1.392,0.7,us,us7000qxf1,2025-09-20T15:10:17.040Z,"155 km SE of Vilyuchinsk, Russia",earthquake,9.31,6.306,0.059,85.0,reviewed,us,us
+2025-09-19T19:16:47.729Z,42.2194,81.4246,10.0,4.6,mb,56.0,83.0,1.807,0.7,us,us7000qxf5,2025-09-20T15:26:20.040Z,"136 km WNW of Kuqa, China",earthquake,3.91,1.89,0.09,37.0,reviewed,us,us
