@@ -15737,3 +15737,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T14:06:08.600Z,52.929,160.5458,10.0,4.5,mb,35.0,204.0,1.15,0.65,us,us7000qxk7,2025-09-20T14:50:39.040Z,"129 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.25,1.972,0.068,64.0,reviewed,us,us
 2025-09-20T14:02:27.796Z,-6.8605,156.0656,99.026,4.1,mb,17.0,179.0,4.618,0.9,us,us7000qxk5,2025-09-20T14:57:22.040Z,"86 km SE of Kieta, Papua New Guinea",earthquake,13.25,20.952,0.145,15.0,reviewed,us,us
 2025-09-19T22:12:51.901Z,32.129,-102.209,4.4678,0.6,ml,10.0,85.0,0.0,0.2,tx,tx2025smusdb,2025-09-20T14:56:16.355Z,"19 km NW of Midland, Texas",earthquake,1.3005076830343,1.527915091399,0.1,8.0,reviewed,tx,tx
+2025-09-20T15:15:38.554Z,60.0753,-153.1257,0.0,1.6,ml,,,,0.54,ak,ak025c37d2d6,2025-09-20T15:17:23.835Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-20T15:10:33.040Z,61.4628,-146.3448,64.8,1.1,ml,,,,0.71,ak,ak025c37bzns,2025-09-20T15:12:29.214Z,"36 km N of Valdez, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-09-19T19:01:08.602Z,51.8077,159.7517,29.106,4.6,mb,84.0,154.0,1.392,0.7,us,us7000qxf1,2025-09-20T15:10:17.040Z,"155 km SE of Vilyuchinsk, Russia",earthquake,9.31,6.306,0.059,85.0,reviewed,us,us
