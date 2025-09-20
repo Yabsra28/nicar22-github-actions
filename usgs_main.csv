@@ -15669,3 +15669,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T06:49:35.087Z,13.6261,145.4957,37.62,4.8,mb,41.0,87.0,0.611,0.61,us,us7000qxiq,2025-09-20T07:05:03.058Z,"66 km E of Yigo Village, Guam",earthquake,5.69,7.757,0.086,42.0,reviewed,us,us
 2025-09-20T06:47:15.846Z,41.2251,-116.7546,13.747,3.5,ml,18.0,68.0,0.869,0.97,us,us7000qxin,2025-09-20T07:04:47.172Z,"57 km NNE of Valmy, Nevada",earthquake,1.98,7.643,0.033,120.0,reviewed,us,us
 2025-09-20T06:41:48.290Z,-17.6153,-178.791,553.81,4.4,mb,39.0,109.0,2.091,0.77,us,us7000qxip,2025-09-20T06:59:41.040Z,"206 km ENE of Levuka, Fiji",earthquake,11.92,9.705,0.091,35.0,reviewed,us,us
+2025-09-20T06:56:07.387Z,52.9603,161.3886,10.0,5.0,mb,106.0,114.0,1.657,0.47,us,us7000qxis,2025-09-20T07:15:30.040Z,"185 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.09,1.887,0.053,111.0,reviewed,us,us
+2025-09-20T06:47:17.012Z,41.1613,-116.7456,7.7,3.6,ml,14.0,139.25,0.31,0.159,nn,nn00904700,2025-09-20T07:24:56.117Z,"52 km NE of Valmy, Nevada",earthquake,,2.0,0.21,8.0,reviewed,nn,nn
