@@ -15746,3 +15746,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:47:58.757Z,32.351,-102.075,4.9533,1.1,ml,10.0,64.0,0.0,0.3,tx,tx2025sodrmo,2025-09-20T15:50:44.127Z,"36 km NW of Stanton, Texas",earthquake,0.0,1.4678070545197,0.3,6.0,automatic,tx,tx
 2025-09-20T15:31:09.338Z,-58.1161,-24.6544,10.0,5.2,mb,75.0,48.0,7.633,0.73,us,us7000qxkf,2025-09-20T15:49:54.040Z,South Sandwich Islands region,earthquake,8.57,1.862,0.061,89.0,reviewed,us,us
 2025-09-20T04:46:23.000Z,35.148,-82.961,0.06,1.67,md,6.0,119.0,0.09154,0.22,se,se60504153,2025-09-20T15:50:15.600Z,"12 km W of Rosman, North Carolina",earthquake,1.02,6.75,0.13210128251831,6.0,reviewed,se,se
+2025-09-20T16:25:00.179Z,60.7318,-150.4001,34.4,1.6,ml,,,,0.62,ak,ak025c380kgx,2025-09-20T16:26:50.227Z,"26 km SE of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-20T15:59:20.245Z,39.1997,-119.6085,3.0,1.0,ml,10.0,109.46,0.101,0.0462,nn,nn00904711,2025-09-20T16:01:51.702Z,"4 km SSW of Dayton, Nevada",earthquake,,0.8,0.55,6.0,automatic,nn,nn
+2025-09-20T15:41:48.425Z,-23.4386,-68.4177,101.406,4.5,mb,59.0,92.0,0.532,0.86,us,us7000qxkg,2025-09-20T16:04:59.981Z,"62 km SSW of San Pedro de Atacama, Chile",earthquake,6.27,5.448,0.075,56.0,reviewed,us,us
+2025-09-19T20:39:56.836Z,53.2261,160.3356,60.677,4.5,mb,57.0,157.0,1.036,1.04,us,us7000qxg9,2025-09-20T16:23:48.040Z,"115 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.45,8.748,0.07,61.0,reviewed,us,us
