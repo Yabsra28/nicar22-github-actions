@@ -15699,3 +15699,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T10:48:29.750Z,33.5353333,-116.7168333,5.92,0.61,ml,40.0,28.0,0.03452,0.15,ci,ci40446794,2025-09-20T10:51:57.696Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.17,19.0,automatic,ci,ci
 2025-09-20T10:44:32.080Z,32.9465,-116.465,7.76,1.43,ml,66.0,30.0,0.05221,0.19,ci,ci40446786,2025-09-20T10:48:08.387Z,"15 km NNE of Pine Valley, CA",earthquake,0.14,0.47,0.161,29.0,automatic,ci,ci
 2025-09-19T18:32:02.940Z,37.987833333333,-122.45033333333,-0.03,1.47,md,18.0,87.0,0.02386,0.1,nc,nc75239602,2025-09-20T10:42:36.141Z,"7 km E of Santa Venetia, CA",quarry blast,0.22,31.61,0.191,14.0,reviewed,nc,nc
+2025-09-20T11:02:24.420Z,33.4973333,-116.5156667,13.13,1.61,ml,83.0,30.0,0.07236,0.2,ci,ci40446802,2025-09-20T11:06:08.398Z,"16 km ESE of Anza, CA",earthquake,0.14,0.32,0.176,25.0,automatic,ci,ci
+2025-09-20T10:52:12.941Z,57.1863,-156.9148,5.8,2.1,ml,,,,0.81,ak,ak025c34ls5q,2025-09-20T10:54:41.902Z,"46 km SE of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
