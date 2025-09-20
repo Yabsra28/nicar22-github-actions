@@ -15649,3 +15649,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T03:37:04.080Z,19.1976,-64.4843,48.0,3.83,md,15.0,284.0,0.7118,0.4,pr,pr2025263000,2025-09-20T04:01:10.274Z,"101 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.7,12.8,0.12,10.0,reviewed,pr,pr
 2025-09-19T10:33:48.576Z,53.1094,160.0595,44.534,4.5,mb,67.0,62.0,0.855,0.62,us,us7000qx9t,2025-09-20T03:54:30.040Z,"96 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.43,7.095,0.061,78.0,reviewed,us,us
 2025-09-19T09:33:17.762Z,52.7277,160.8061,10.0,4.5,mb,41.0,120.0,1.34,0.35,us,us7000qx9b,2025-09-20T04:04:25.040Z,"151 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.48,1.898,0.077,49.0,reviewed,us,us
+2025-09-20T04:28:10.583Z,61.9762,-149.5022,31.4,1.6,ml,,,,0.79,ak,ak025c30w15u,2025-09-20T04:30:31.683Z,"27 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-20T04:12:40.047Z,53.2515,161.4784,10.0,4.8,mb,46.0,162.0,1.719,0.65,us,us7000qxid,2025-09-20T04:31:42.040Z,"191 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.31,1.938,0.063,79.0,reviewed,us,us
