@@ -15763,3 +15763,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T18:08:34.200Z,33.9968333,-116.784,11.91,1.75,ml,83.0,27.0,0.04302,0.16,ci,ci40447090,2025-09-20T18:12:28.936Z,"9 km N of Cabazon, CA",earthquake,0.11,0.3,0.236,26.0,automatic,ci,ci
 2025-09-20T18:01:46.880Z,38.802833557129,-122.77400207519,3.1500000953674,0.8,md,20.0,74.0,0.01138,0.02,nc,nc75239912,2025-09-20T18:17:21.590Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.540000021,0.11,19.0,automatic,nc,nc
 2025-09-20T15:37:55.614Z,-15.6174,-177.3584,415.387,4.4,mb,115.0,66.0,3.259,0.71,us,us7000qxkh,2025-09-20T18:07:31.040Z,"165 km SSE of Alo, Wallis and Futuna",earthquake,12.11,7.07,0.045,141.0,reviewed,us,us
+2025-09-20T18:37:38.992Z,39.0684,-119.0201,5.7,1.1,ml,10.0,79.39,0.19,0.1469,nn,nn00904715,2025-09-20T18:40:02.217Z,"15 km NE of Yerington, Nevada",earthquake,,1.6,0.29,5.0,automatic,nn,nn
+2025-09-20T18:30:36.770Z,46.234664916992,-122.32033538818,-1.0199999809265,0.769999981,md,12.0,165.0,,0.230000004,uw,uw62192031,2025-09-20T18:32:46.030Z,"35 km SSE of Mossyrock, Washington",earthquake,1.22,2.77999997,,1.0,automatic,uw,uw
+2025-09-20T16:36:41.938Z,53.0948,160.8744,40.571,4.6,mb,131.0,106.0,1.344,0.65,us,us7000qxku,2025-09-20T18:33:17.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.06,7.326,0.047,134.0,reviewed,us,us
