@@ -15685,3 +15685,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T08:18:02.140Z,17.873333333333,-66.405833333333,12.25,2.75,md,14.0,203.0,0.1158,0.22,pr,pr71496078,2025-09-20T08:34:21.390Z,"10 km S of Santa Isabel, Puerto Rico",earthquake,0.8,0.56,0.22618127427318,3.0,reviewed,pr,pr
 2025-09-20T07:46:44.075Z,38.0632,72.9856,10.0,4.7,mb,15.0,263.0,0.467,0.72,us,us7000qxj6,2025-09-20T08:29:18.040Z,"86 km W of Murghob, Tajikistan",earthquake,8.1,1.922,0.142,15.0,reviewed,us,us
 2025-09-20T08:44:24.948Z,59.8752,-152.8988,93.2,2.6,ml,,,,0.25,ak,ak025c33d844,2025-09-20T08:45:42.402Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-20T08:30:00.753Z,60.1111,-151.1346,56.08,2.5,ml,28.0,72.0,0.379,0.44,us,us7000qxjc,2025-09-20T09:02:05.040Z,"19 km SE of Clam Gulch, Alaska",earthquake,3.13,11.416,0.045,64.0,reviewed,us,us
