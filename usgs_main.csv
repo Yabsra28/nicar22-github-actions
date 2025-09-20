@@ -15663,3 +15663,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T06:13:42.720Z,38.794334411621,-122.72333526611,2.2599999904633,0.78,md,8.0,102.0,0.01524,0.01,nc,nc75239812,2025-09-20T06:15:16.675Z,"3 km SSW of Cobb, CA",earthquake,0.39,1.22000003,0.06,7.0,automatic,nc,nc
 2025-09-20T06:07:43.256Z,58.0322,-151.4298,41.7,2.6,ml,,,,0.36,ak,ak025c31ygut,2025-09-20T06:10:11.835Z,"63 km ENE of Kodiak, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-09-20T05:55:38.101Z,-21.2838,-66.6462,228.019,4.7,mb,32.0,55.0,2.185,0.99,us,us7000qxil,2025-09-20T06:08:22.040Z,"58 km SW of Atocha, Bolivia",earthquake,8.69,8.383,0.102,29.0,reviewed,us,us
+2025-09-20T06:35:18.520Z,38.794166564941,-122.72216796875,2.4800000190735,0.76,md,9.0,101.0,0.01576,0.02,nc,nc75239817,2025-09-20T06:36:56.883Z,"3 km S of Cobb, CA",earthquake,0.37,1.00999999,0.05,8.0,automatic,nc,nc
