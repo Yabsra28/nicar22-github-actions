@@ -15719,3 +15719,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T13:50:43.155Z,-17.981,-178.3016,593.972,4.5,mb,53.0,94.0,2.68,1.04,us,us7000qxk3,2025-09-20T14:05:35.040Z,"252 km E of Levuka, Fiji",earthquake,13.55,9.622,0.032,281.0,reviewed,us,us
 2025-09-20T13:49:33.246Z,32.381,-101.973,2.1777,1.1,ml,21.0,59.0,0.0,0.7,tx,tx2025snztla,2025-09-20T14:07:53.480Z,"29 km SW of Ackerly, Texas",earthquake,0.0,1.1296030282974,0.2,10.0,automatic,tx,tx
 2025-09-19T17:18:22.537Z,52.8486,159.1974,10.0,4.4,mb,47.0,164.0,0.375,0.99,us,us7000qxeh,2025-09-20T13:56:35.040Z,"45 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.88,1.869,0.087,38.0,reviewed,us,us
+2025-09-20T14:15:31.790Z,33.0025,-116.2318333,7.49,0.16,ml,24.0,56.0,0.0768,0.18,ci,ci40446946,2025-09-20T14:19:01.229Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.64,0.03,2.0,automatic,ci,ci
+2025-09-20T14:09:40.010Z,17.983833333333,-66.8295,11.98,2.73,md,21.0,145.0,0.03865,0.15,pr,pr71496093,2025-09-20T14:27:36.130Z,"1 km SW of Indios, Puerto Rico",earthquake,0.29,0.45,0.19134463974902,14.0,reviewed,pr,pr
+2025-09-20T14:06:44.193Z,-7.1365,155.8194,95.225,4.9,mb,32.0,139.0,4.668,0.54,us,us7000qxk6,2025-09-20T14:25:40.040Z,"97 km SSE of Panguna, Papua New Guinea",earthquake,5.88,11.451,0.061,83.0,reviewed,us,us
+2025-09-19T15:55:35.727Z,-32.1996,-178.5731,35.0,4.8,mb,21.0,219.0,5.932,0.6,us,us7000qxcw,2025-09-20T14:08:50.040Z,south of the Kermadec Islands,earthquake,12.39,1.987,0.102,30.0,reviewed,us,us
+2025-09-19T15:09:21.084Z,31.5096,-115.6154,10.0,2.5,ml,18.0,158.0,0.483,0.65,us,us7000qxcj,2025-09-20T14:11:12.040Z,"63 km ENE of San Vicente, Mexico",earthquake,2.07,1.886,0.091,16.0,reviewed,us,us
