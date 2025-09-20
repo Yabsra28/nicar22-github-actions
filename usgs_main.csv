@@ -15750,3 +15750,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:59:20.245Z,39.1997,-119.6085,3.0,1.0,ml,10.0,109.46,0.101,0.0462,nn,nn00904711,2025-09-20T16:01:51.702Z,"4 km SSW of Dayton, Nevada",earthquake,,0.8,0.55,6.0,automatic,nn,nn
 2025-09-20T15:41:48.425Z,-23.4386,-68.4177,101.406,4.5,mb,59.0,92.0,0.532,0.86,us,us7000qxkg,2025-09-20T16:04:59.981Z,"62 km SSW of San Pedro de Atacama, Chile",earthquake,6.27,5.448,0.075,56.0,reviewed,us,us
 2025-09-19T20:39:56.836Z,53.2261,160.3356,60.677,4.5,mb,57.0,157.0,1.036,1.04,us,us7000qxg9,2025-09-20T16:23:48.040Z,"115 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.45,8.748,0.07,61.0,reviewed,us,us
+2025-09-19T20:46:50.688Z,53.214,160.9498,33.788,4.6,mb,94.0,160.0,1.399,0.66,us,us7000qxgc,2025-09-20T16:40:46.040Z,"156 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.31,5.499,0.059,86.0,reviewed,us,us
