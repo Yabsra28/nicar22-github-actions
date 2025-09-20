@@ -15741,3 +15741,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:10:33.040Z,61.4628,-146.3448,64.8,1.1,ml,,,,0.71,ak,ak025c37bzns,2025-09-20T15:12:29.214Z,"36 km N of Valdez, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-09-19T19:01:08.602Z,51.8077,159.7517,29.106,4.6,mb,84.0,154.0,1.392,0.7,us,us7000qxf1,2025-09-20T15:10:17.040Z,"155 km SE of Vilyuchinsk, Russia",earthquake,9.31,6.306,0.059,85.0,reviewed,us,us
 2025-09-19T19:16:47.729Z,42.2194,81.4246,10.0,4.6,mb,56.0,83.0,1.807,0.7,us,us7000qxf5,2025-09-20T15:26:20.040Z,"136 km WNW of Kuqa, China",earthquake,3.91,1.89,0.09,37.0,reviewed,us,us
+2025-09-20T15:53:42.262Z,60.3105,-152.1315,77.9,1.8,ml,,,,0.4,ak,ak025c37l85u,2025-09-20T15:55:14.828Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-20T15:48:54.143Z,62.8972,-147.9369,250.0,2.0,ml,,,,0.88,ak,ak025c37k6hy,2025-09-20T15:55:17.612Z,"75 km SE of Cantwell, Alaska",earthquake,,7.5,,,automatic,ak,ak
+2025-09-20T15:47:58.757Z,32.351,-102.075,4.9533,1.1,ml,10.0,64.0,0.0,0.3,tx,tx2025sodrmo,2025-09-20T15:50:44.127Z,"36 km NW of Stanton, Texas",earthquake,0.0,1.4678070545197,0.3,6.0,automatic,tx,tx
+2025-09-20T15:31:09.338Z,-58.1161,-24.6544,10.0,5.2,mb,75.0,48.0,7.633,0.73,us,us7000qxkf,2025-09-20T15:49:54.040Z,South Sandwich Islands region,earthquake,8.57,1.862,0.061,89.0,reviewed,us,us
+2025-09-20T04:46:23.000Z,35.148,-82.961,0.06,1.67,md,6.0,119.0,0.09154,0.22,se,se60504153,2025-09-20T15:50:15.600Z,"12 km W of Rosman, North Carolina",earthquake,1.02,6.75,0.13210128251831,6.0,reviewed,se,se
