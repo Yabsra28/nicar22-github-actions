@@ -15759,3 +15759,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:05:04.906Z,53.1475,159.8436,60.88,4.5,mb,101.0,131.0,0.731,0.68,us,us7000qxkd,2025-09-20T17:31:39.040Z,"81 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.26,7.13,0.054,101.0,reviewed,us,us
 2025-09-20T17:09:21.302Z,53.1156,159.7791,64.946,4.8,mb,155.0,137.0,0.688,0.58,us,us7000qxl0,2025-09-20T17:46:05.040Z,"77 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.19,5.806,0.037,231.0,reviewed,us,us
 2025-09-20T15:15:12.391Z,67.4569,-146.1159,9.876,3.3,ml,51.0,53.0,0.699,0.5,us,us7000qxke,2025-09-20T17:56:11.040Z,"51 km NNE of Venetie, Alaska",earthquake,3.04,6.508,0.035,108.0,reviewed,us,us
+2025-09-20T18:12:42.783Z,37.081,-116.983,7.8,0.9,ml,9.0,316.61,0.342,0.1055,nn,nn00904713,2025-09-20T18:14:41.642Z,"27 km NW of Beatty, Nevada",earthquake,,22.0,0.39,5.0,automatic,nn,nn
+2025-09-20T18:08:34.200Z,33.9968333,-116.784,11.91,1.75,ml,83.0,27.0,0.04302,0.16,ci,ci40447090,2025-09-20T18:12:28.936Z,"9 km N of Cabazon, CA",earthquake,0.11,0.3,0.236,26.0,automatic,ci,ci
+2025-09-20T18:01:46.880Z,38.802833557129,-122.77400207519,3.1500000953674,0.8,md,20.0,74.0,0.01138,0.02,nc,nc75239912,2025-09-20T18:17:21.590Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.540000021,0.11,19.0,automatic,nc,nc
+2025-09-20T15:37:55.614Z,-15.6174,-177.3584,415.387,4.4,mb,115.0,66.0,3.259,0.71,us,us7000qxkh,2025-09-20T18:07:31.040Z,"165 km SSE of Alo, Wallis and Futuna",earthquake,12.11,7.07,0.045,141.0,reviewed,us,us
