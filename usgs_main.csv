@@ -15671,3 +15671,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T06:41:48.290Z,-17.6153,-178.791,553.81,4.4,mb,39.0,109.0,2.091,0.77,us,us7000qxip,2025-09-20T06:59:41.040Z,"206 km ENE of Levuka, Fiji",earthquake,11.92,9.705,0.091,35.0,reviewed,us,us
 2025-09-20T06:56:07.387Z,52.9603,161.3886,10.0,5.0,mb,106.0,114.0,1.657,0.47,us,us7000qxis,2025-09-20T07:15:30.040Z,"185 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.09,1.887,0.053,111.0,reviewed,us,us
 2025-09-20T06:47:17.012Z,41.1613,-116.7456,7.7,3.6,ml,14.0,139.25,0.31,0.159,nn,nn00904700,2025-09-20T07:24:56.117Z,"52 km NE of Valmy, Nevada",earthquake,,2.0,0.21,8.0,reviewed,nn,nn
+2025-09-20T07:34:03.870Z,35.885,-117.7211667,3.94,0.47,ml,17.0,77.0,0.0851,0.13,ci,ci40446602,2025-09-20T07:37:42.314Z,"18 km ESE of Little Lake, CA",earthquake,0.21,0.47,0.065,7.0,automatic,ci,ci
+2025-09-20T07:25:01.943Z,63.3439,-145.5163,0.0,1.6,ml,,,,0.79,ak,ak025c32no5u,2025-09-20T07:26:55.743Z,"28 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
