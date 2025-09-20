@@ -15701,3 +15701,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T18:32:02.940Z,37.987833333333,-122.45033333333,-0.03,1.47,md,18.0,87.0,0.02386,0.1,nc,nc75239602,2025-09-20T10:42:36.141Z,"7 km E of Santa Venetia, CA",quarry blast,0.22,31.61,0.191,14.0,reviewed,nc,nc
 2025-09-20T11:02:24.420Z,33.4973333,-116.5156667,13.13,1.61,ml,83.0,30.0,0.07236,0.2,ci,ci40446802,2025-09-20T11:06:08.398Z,"16 km ESE of Anza, CA",earthquake,0.14,0.32,0.176,25.0,automatic,ci,ci
 2025-09-20T10:52:12.941Z,57.1863,-156.9148,5.8,2.1,ml,,,,0.81,ak,ak025c34ls5q,2025-09-20T10:54:41.902Z,"46 km SE of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-20T11:14:58.600Z,33.1986667,-116.0245,9.78,1.37,ml,59.0,58.0,0.04656,0.21,ci,ci40446810,2025-09-20T11:18:45.782Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.42,0.132,26.0,automatic,ci,ci
+2025-09-20T08:37:54.865Z,32.182,-101.388,2.9927,1.2,mlv,18.0,70.0,0.1,0.4,tx,tx2025snpkwz,2025-09-20T11:16:28.133Z,"8 km NNW of Forsan, Texas",earthquake,0.0,1.305363535881,0.4,13.0,automatic,tx,tx
+2025-09-20T02:20:04.480Z,32.795,-100.67,3.668,1.6,mlv,13.0,121.0,0.1,0.2,tx,tx2025sncxht,2025-09-20T11:13:13.912Z,"19 km NNE of Hermleigh, Texas",earthquake,0.0,1.5219430923462,0.2,11.0,automatic,tx,tx
