@@ -15678,3 +15678,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T07:28:15.797Z,-57.9442,-25.1469,29.415,5.1,mb,52.0,83.0,16.55,0.7,us,us7000qxiw,2025-09-20T07:43:33.040Z,South Sandwich Islands region,earthquake,12.1,4.526,0.082,48.0,reviewed,us,us
 2025-09-20T07:39:10.033Z,53.2099,161.277,29.23,4.9,mb,60.0,172.0,1.594,0.56,us,us7000qxj1,2025-09-20T07:57:45.040Z,"178 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.78,8.595,0.053,111.0,reviewed,us,us
 2025-09-20T07:38:32.860Z,17.872666666667,-66.4,6.28,2.63,md,12.0,203.0,0.1214,0.45,pr,pr71496073,2025-09-20T07:52:13.000Z,"10 km S of Santa Isabel, Puerto Rico",earthquake,1.52,1.07,0.12543137075741,9.0,reviewed,pr,pr
+2025-09-20T08:26:25.464Z,65.7196,-145.6962,0.0,1.6,ml,,,,0.87,ak,ak025c339daq,2025-09-20T08:28:58.493Z,"44 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-20T08:22:18.278Z,61.3768,-150.9434,53.8,1.6,ml,,,,0.47,ak,ak025c338hvn,2025-09-20T08:24:11.318Z,"27 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-20T07:47:03.291Z,36.8886,-104.82,5.126,2.6,ml,12.0,83.0,0.093,0.38,us,us7000qxj2,2025-09-20T08:01:49.040Z,"26 km SSW of Segundo, Colorado",earthquake,1.65,4.433,0.074,34.0,reviewed,us,us
