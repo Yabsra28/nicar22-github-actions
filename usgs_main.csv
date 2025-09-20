@@ -15757,3 +15757,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T17:09:10.910Z,19.351499557495,-155.14250183106,4.5900001525879,1.73,ml,47.0,91.0,0.03689,0.189999998,hv,hv74780507,2025-09-20T17:13:14.530Z,"12 km S of Fern Forest, Hawaii",earthquake,0.43,0.99000001,0.05,4.0,automatic,hv,hv
 2025-09-20T17:33:51.613Z,61.5642,-146.4461,33.1,1.5,ml,,,,0.74,ak,ak025c38ntrt,2025-09-20T17:35:32.342Z,"48 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-20T15:05:04.906Z,53.1475,159.8436,60.88,4.5,mb,101.0,131.0,0.731,0.68,us,us7000qxkd,2025-09-20T17:31:39.040Z,"81 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.26,7.13,0.054,101.0,reviewed,us,us
+2025-09-20T17:09:21.302Z,53.1156,159.7791,64.946,4.8,mb,155.0,137.0,0.688,0.58,us,us7000qxl0,2025-09-20T17:46:05.040Z,"77 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.19,5.806,0.037,231.0,reviewed,us,us
+2025-09-20T15:15:12.391Z,67.4569,-146.1159,9.876,3.3,ml,51.0,53.0,0.699,0.5,us,us7000qxke,2025-09-20T17:56:11.040Z,"51 km NNE of Venetie, Alaska",earthquake,3.04,6.508,0.035,108.0,reviewed,us,us
