@@ -15803,3 +15803,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T22:57:45.775Z,63.916,-148.7292,115.7,1.3,ml,,,,0.34,ak,ak025c3bs4j5,2025-09-20T22:59:42.970Z,"13 km ENE of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-20T23:08:45.441Z,64.9873,-147.4225,6.5,1.3,ml,,,,0.76,ak,ak025c3c320w,2025-09-20T23:10:18.239Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-20T11:51:00.748Z,31.963,-102.082,3.9907,1.1,mlv,9.0,131.0,0.1,0.4,tx,tx2025snvvhl,2025-09-20T23:12:18.389Z,"3 km S of Midland, Texas",earthquake,0.0,1.9266126155853,0.5,6.0,automatic,tx,tx
+2025-09-20T23:26:49.780Z,19.28133392334,-155.32933044434,4.25,2.06,ml,46.0,136.0,0.02542,0.159999996,hv,hv74780767,2025-09-20T23:32:26.250Z,"17 km ENE of Pāhala, Hawaii",earthquake,0.37,0.680000007,0.9,7.0,automatic,hv,hv
+2025-09-20T23:25:47.172Z,32.005,-103.834,4.6019,1.8,ml,19.0,74.0,0.0,0.6,tx,tx2025soswam,2025-09-20T23:31:00.578Z,"33 km SE of Malaga, New Mexico",earthquake,0.0,1.3969416618347,0.2,12.0,automatic,tx,tx
+2025-09-20T23:16:23.342Z,39.176,28.9717,10.0,4.1,mb,29.0,42.0,1.344,1.11,us,us7000qxlu,2025-09-20T23:30:11.040Z,"9 km N of Simav, Turkey",earthquake,3.91,1.96,0.165,10.0,reviewed,us,us
