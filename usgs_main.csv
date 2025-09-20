@@ -15704,3 +15704,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T11:14:58.600Z,33.1986667,-116.0245,9.78,1.37,ml,59.0,58.0,0.04656,0.21,ci,ci40446810,2025-09-20T11:18:45.782Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.42,0.132,26.0,automatic,ci,ci
 2025-09-20T08:37:54.865Z,32.182,-101.388,2.9927,1.2,mlv,18.0,70.0,0.1,0.4,tx,tx2025snpkwz,2025-09-20T11:16:28.133Z,"8 km NNW of Forsan, Texas",earthquake,0.0,1.305363535881,0.4,13.0,automatic,tx,tx
 2025-09-20T02:20:04.480Z,32.795,-100.67,3.668,1.6,mlv,13.0,121.0,0.1,0.2,tx,tx2025sncxht,2025-09-20T11:13:13.912Z,"19 km NNE of Hermleigh, Texas",earthquake,0.0,1.5219430923462,0.2,11.0,automatic,tx,tx
+2025-09-20T11:55:03.290Z,33.5053329,-116.498497,15.11,1.24,ml,18.0,97.0,0.0873,0.16,ci,ci40446826,2025-09-20T11:57:15.025Z,"17 km ESE of Anza, CA",earthquake,0.42,0.91,0.334,12.0,automatic,ci,ci
+2025-09-20T11:48:13.570Z,33.4981667,-116.538,8.09,1.17,ml,71.0,51.0,0.05376,0.2,ci,ci40446818,2025-09-20T11:51:42.996Z,"14 km ESE of Anza, CA",earthquake,0.14,0.41,0.122,28.0,automatic,ci,ci
