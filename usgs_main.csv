@@ -15841,3 +15841,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T03:10:44.813Z,60.5454,-143.7702,20.3,1.4,ml,,,,0.83,ak,ak025c4nq5sx,2025-09-21T03:12:43.777Z,"109 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T03:08:43.040Z,33.257,-115.7336667,4.06,1.49,ml,5.0,304.0,0.1187,0.26,ci,ci40447290,2025-09-21T03:12:15.862Z,"10 km S of Bombay Beach, CA",earthquake,17.81,21.92,0.081,4.0,automatic,ci,ci
 2025-09-21T02:54:25.430Z,53.1667,160.8381,35.0,4.5,mb,44.0,134.0,1.327,0.49,us,us7000qxmj,2025-09-21T03:18:26.040Z,"148 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,1.758,0.079,47.0,reviewed,us,us
+2025-09-21T03:48:41.880Z,35.8971667,-117.6763333,2.29,1.01,ml,26.0,43.0,0.05483,0.16,ci,ci40447330,2025-09-21T03:52:10.617Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.24,0.111,18.0,automatic,ci,ci
+2025-09-21T03:45:56.638Z,61.9832,-150.6908,66.8,1.3,ml,,,,0.66,ak,ak025c4nxorz,2025-09-21T03:47:56.658Z,"37 km E of Skwentna, Alaska",earthquake,,2.0,,,automatic,ak,ak
