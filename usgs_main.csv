@@ -15893,3 +15893,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T08:15:01.640Z,35.8966667,-117.6781667,2.41,0.82,ml,23.0,43.0,0.05588,0.14,ci,ci40447410,2025-09-21T08:18:30.074Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.26,0.159,14.0,automatic,ci,ci
 2025-09-21T07:48:48.047Z,59.632,-152.2761,46.8,1.7,ml,,,,0.75,ak,ak025c4qb56m,2025-09-21T08:01:17.385Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-09-21T07:06:44.550Z,17.9721,-68.3878,81.0,3.59,md,15.0,242.0,0.5418,0.43,pr,pr2025264003,2025-09-21T08:09:19.841Z,"50 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.47,4.55,0.04,8.0,reviewed,pr,pr
+2025-09-21T08:26:10.435Z,62.0629,-150.6226,28.1,1.5,ml,,,,0.57,ak,ak025c4qsomr,2025-09-21T08:27:44.079Z,"34 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-21T08:24:50.580Z,35.892,-117.6811667,2.15,0.02,ml,9.0,117.0,0.06112,0.08,ci,ci40447450,2025-09-21T08:28:14.348Z,"21 km ESE of Little Lake, CA",earthquake,0.28,0.27,0.073,3.0,automatic,ci,ci
+2025-09-21T08:17:27.187Z,53.1379,159.7822,60.694,4.6,mb,40.0,113.0,0.693,0.77,us,us7000qxnu,2025-09-21T08:36:50.040Z,"77 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,5.97,7.218,0.069,62.0,reviewed,us,us
