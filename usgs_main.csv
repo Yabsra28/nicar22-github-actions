@@ -15822,3 +15822,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T00:27:55.030Z,36.581001281738,-121.14083099365,-0.10000000149012,1.28,md,10.0,74.0,0.08155,0.26,nc,nc75240057,2025-09-21T01:57:20.878Z,"5 km NNE of Pinnacles, CA",earthquake,0.68,3.88000011,0.14,6.0,automatic,nc,nc
 2025-09-21T00:11:10.160Z,17.949666666667,-66.942333333333,9.8,2.25,md,7.0,210.0,0.06513,0.18,pr,pr71496123,2025-09-21T00:33:18.530Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.9,0.089456922744561,3.0,reviewed,pr,pr
 2025-09-21T00:06:06.000Z,38.792999267578,-122.74833679199,2.5099999904633,0.73,md,7.0,91.0,0.0117,0.02,nc,nc75240042,2025-09-21T01:32:17.673Z,"2 km NNE of The Geysers, CA",earthquake,0.42,1.37,0.21,7.0,automatic,nc,nc
+2025-09-21T02:50:39.000Z,33.2715,-116.6066667,16.7,0.73,ml,41.0,26.0,0.07978,0.2,ci,ci40447282,2025-09-21T02:54:22.741Z,"3 km ESE of Warner Springs, CA",earthquake,0.22,0.49,0.13,19.0,automatic,ci,ci
+2025-09-21T02:32:12.078Z,63.4502,-148.1866,9.1,1.4,ml,,,,0.64,ak,ak025c4n9dfb,2025-09-21T02:34:03.474Z,"38 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-21T02:29:59.696Z,63.1262,-147.6699,14.4,1.6,ml,,,,0.47,ak,ak025c4n8ty9,2025-09-21T02:31:54.523Z,"70 km ESE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-21T02:22:34.460Z,33.2625,-116.6128333,16.53,2.65,ml,110.0,12.0,0.06946,0.22,ci,ci40447274,2025-09-21T03:04:43.274Z,"3 km SE of Warner Springs, CA",earthquake,0.13,0.38,0.215,25.0,automatic,ci,ci
+2025-09-21T01:59:35.376Z,13.9883,-93.2691,10.0,4.3,mb,42.0,221.0,1.755,0.95,us,us7000qxmd,2025-09-21T02:22:05.040Z,"122 km SW of Puerto Madero, Mexico",earthquake,4.42,1.981,0.062,73.0,reviewed,us,us
+2025-09-21T01:49:00.517Z,31.653,-104.417,4.7307,1.1,ml,18.0,89.0,0.0,0.5,tx,tx2025soxoed,2025-09-21T02:04:11.207Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.4183479547501,0.2,13.0,automatic,tx,tx
+2025-09-20T20:01:17.817Z,52.5346,-169.5608,35.0,3.8,ml,,,,0.54,ak,ak025c3a970j,2025-09-21T02:58:33.092Z,"65 km SW of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
