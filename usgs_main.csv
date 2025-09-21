@@ -15884,3 +15884,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T07:14:56.510Z,33.3398333,-116.2878333,11.74,0.97,ml,56.0,36.0,0.02893,0.21,ci,ci40447402,2025-09-21T07:18:21.644Z,"12 km NE of Borrego Springs, CA",earthquake,0.2,0.3,0.148,27.0,automatic,ci,ci
 2025-09-21T07:29:37.335Z,61.3886,-146.5978,27.2,1.4,ml,,,,1.04,ak,ak025c4q7y91,2025-09-21T07:31:55.178Z,"31 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T07:14:21.263Z,53.168,161.2119,10.0,4.6,mb,41.0,113.0,1.552,0.86,us,us7000qxnj,2025-09-21T07:35:16.040Z,"173 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,6.66,1.835,0.073,56.0,reviewed,us,us
+2025-09-21T06:51:24.200Z,19.7713,-68.2838,35.0,3.81,md,23.0,227.0,1.0245,0.56,pr,pr2025264002,2025-09-21T07:36:14.860Z,"118 km NE of Miches, Dominican Republic",earthquake,2.23,19.37,0.11,22.0,reviewed,pr,pr
