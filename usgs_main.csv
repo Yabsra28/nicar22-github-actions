@@ -15908,3 +15908,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T09:25:55.980Z,33.2306667,-116.1033333,9.91,1.7,ml,73.0,32.0,0.09232,0.18,ci,ci40447466,2025-09-21T09:29:28.939Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.12,0.39,0.148,27.0,automatic,ci,ci
 2025-09-21T09:08:58.898Z,-31.9244,-66.9156,138.171,4.6,mb,99.0,51.0,1.542,0.68,us,us7000qxnx,2025-09-21T09:28:39.040Z,"93 km NNW of Villa General Roca, Argentina",earthquake,6.85,7.301,0.035,251.0,reviewed,us,us
 2025-09-21T09:30:27.572Z,51.1736,-178.0079,19.8,5.6,ml,,,,0.57,ak,ak025c4rf0bd,2025-09-21T09:47:51.741Z,"123 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-09-21T09:50:24.270Z,32.8925,-116.5973333,7.98,0.85,ml,35.0,54.0,0.06764,0.19,ci,ci40447482,2025-09-21T09:54:11.860Z,"10 km NW of Pine Valley, CA",earthquake,0.2,0.61,0.19,10.0,automatic,ci,ci
+2025-09-21T09:30:27.232Z,51.2146,-178.0975,24.684,5.5,mww,135.0,53.0,0.556,1.13,us,us7000qxp1,2025-09-21T09:57:59.410Z,"125 km SW of Adak, Alaska",earthquake,4.0,4.91,0.063,24.0,reviewed,us,us
