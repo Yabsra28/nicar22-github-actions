@@ -15925,3 +15925,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T11:07:35.234Z,50.9904,159.0834,27.703,4.5,mb,34.0,215.0,2.054,0.84,us,us7000qxpa,2025-09-21T11:29:02.040Z,"188 km ESE of Ozernovskiy, Russia",earthquake,15.55,7.382,0.094,33.0,reviewed,us,us
 2025-09-21T11:57:22.420Z,38.789665222168,-122.76782989502,1.8200000524521,1.07,md,15.0,78.0,0.01265,0.02,nc,nc75240212,2025-09-21T11:58:59.994Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.519999981,0.19,15.0,automatic,nc,nc
 2025-09-21T10:30:54.743Z,2.8209,95.3997,18.872,4.4,mb,36.0,204.0,2.645,0.49,us,us7000qxp9,2025-09-21T12:11:20.040Z,"115 km WNW of Sinabang, Indonesia",earthquake,9.79,6.379,0.11,24.0,reviewed,us,us
+2025-09-21T12:46:11.492Z,59.9668,-152.4903,75.7,1.1,ml,,,,0.34,ak,ak025c4tapgd,2025-09-21T12:47:39.247Z,"42 km W of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-09-21T12:13:32.550Z,38.79700088501,-122.75033569336,2.289999961853,0.77,md,13.0,95.0,0.008172,0.02,nc,nc75240217,2025-09-21T12:32:17.460Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.670000017,0.07,13.0,automatic,nc,nc
+2025-09-21T11:24:13.210Z,18.7683,-64.623,13.0,3.46,md,10.0,252.0,0.3533,0.02,pr,pr2025264004,2025-09-21T12:50:53.377Z,"51 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,0.48,1.44,0.16,8.0,reviewed,pr,pr
