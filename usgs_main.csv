@@ -15920,3 +15920,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T05:34:22.295Z,32.181,-101.196,3.3908,2.0,mlv,55.0,76.0,0.1,0.4,tx,tx2025spfbro,2025-09-21T11:17:24.794Z,"16 km SE of Coahoma, Texas",earthquake,0.0,0.90555542707443,0.1,30.0,automatic,tx,tx
 2025-09-21T02:02:58.721Z,32.098,-101.95,3.5108,1.2,mlv,20.0,85.0,0.1,0.5,tx,tx2025soybka,2025-09-21T11:13:38.179Z,"15 km WSW of Stanton, Texas",earthquake,0.0,1.3671180009842,0.4,13.0,automatic,tx,tx
 2025-09-21T00:14:44.536Z,32.109,-101.504,4.899,1.2,mlv,9.0,157.0,0.1,0.5,tx,tx2025soulym,2025-09-21T11:12:17.175Z,"13 km W of Forsan, Texas",earthquake,0.0,1.8082618713379,0.3,6.0,automatic,tx,tx
+2025-09-21T07:51:08.574Z,32.094,-101.486,3.16,1.3,mlv,19.0,89.0,0.1,0.5,tx,tx2025spjpmc,2025-09-21T11:19:12.631Z,"11 km W of Forsan, Texas",earthquake,0.0,1.2314867973328,0.4,13.0,automatic,tx,tx
