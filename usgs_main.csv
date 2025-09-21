@@ -15896,3 +15896,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T08:26:10.435Z,62.0629,-150.6226,28.1,1.5,ml,,,,0.57,ak,ak025c4qsomr,2025-09-21T08:27:44.079Z,"34 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T08:24:50.580Z,35.892,-117.6811667,2.15,0.02,ml,9.0,117.0,0.06112,0.08,ci,ci40447450,2025-09-21T08:28:14.348Z,"21 km ESE of Little Lake, CA",earthquake,0.28,0.27,0.073,3.0,automatic,ci,ci
 2025-09-21T08:17:27.187Z,53.1379,159.7822,60.694,4.6,mb,40.0,113.0,0.693,0.77,us,us7000qxnu,2025-09-21T08:36:50.040Z,"77 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,5.97,7.218,0.069,62.0,reviewed,us,us
+2025-09-21T08:47:27.990Z,38.823333740234,-122.78549957275,0.77999997138977,1.08,md,12.0,72.0,0.01074,0.03,nc,nc75240172,2025-09-21T08:49:05.514Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.439999998,0.18,12.0,automatic,nc,nc
+2025-09-21T08:40:23.143Z,60.9252,-151.095,89.4,1.7,ml,,,,0.32,ak,ak025c4qvpmy,2025-09-21T08:41:58.615Z,"16 km S of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
