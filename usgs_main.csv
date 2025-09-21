@@ -15885,3 +15885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T07:29:37.335Z,61.3886,-146.5978,27.2,1.4,ml,,,,1.04,ak,ak025c4q7y91,2025-09-21T07:31:55.178Z,"31 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T07:14:21.263Z,53.168,161.2119,10.0,4.6,mb,41.0,113.0,1.552,0.86,us,us7000qxnj,2025-09-21T07:35:16.040Z,"173 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,6.66,1.835,0.073,56.0,reviewed,us,us
 2025-09-21T06:51:24.200Z,19.7713,-68.2838,35.0,3.81,md,23.0,227.0,1.0245,0.56,pr,pr2025264002,2025-09-21T07:36:14.860Z,"118 km NE of Miches, Dominican Republic",earthquake,2.23,19.37,0.11,22.0,reviewed,pr,pr
+2025-09-21T07:34:48.073Z,-13.6169,122.3764,10.0,4.9,mb,33.0,53.0,4.261,0.72,us,us7000qxnl,2025-09-21T07:51:54.040Z,northwest of Australia,earthquake,7.86,1.89,0.112,25.0,reviewed,us,us
