@@ -15829,3 +15829,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T01:59:35.376Z,13.9883,-93.2691,10.0,4.3,mb,42.0,221.0,1.755,0.95,us,us7000qxmd,2025-09-21T02:22:05.040Z,"122 km SW of Puerto Madero, Mexico",earthquake,4.42,1.981,0.062,73.0,reviewed,us,us
 2025-09-21T01:49:00.517Z,31.653,-104.417,4.7307,1.1,ml,18.0,89.0,0.0,0.5,tx,tx2025soxoed,2025-09-21T02:04:11.207Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.4183479547501,0.2,13.0,automatic,tx,tx
 2025-09-20T20:01:17.817Z,52.5346,-169.5608,35.0,3.8,ml,,,,0.54,ak,ak025c3a970j,2025-09-21T02:58:33.092Z,"65 km SW of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2025-09-21T03:36:21.310Z,34.4065,-117.7535,8.27,1.07,ml,35.0,79.0,0.06687,0.15,ci,ci40447322,2025-09-21T03:40:26.010Z,"10 km SSE of Llano, CA",earthquake,0.18,0.47,0.174,30.0,automatic,ci,ci
+2025-09-21T03:34:26.244Z,60.0252,-150.2439,35.0,1.6,ml,,,,0.61,ak,ak025c4nv9k0,2025-09-21T03:36:30.882Z,"44 km ENE of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-21T03:30:55.573Z,59.2598,-137.2517,5.0,2.5,ml,15.0,135.0,0.494,0.38,us,us7000qxmp,2025-09-21T03:43:56.040Z,"71 km WSW of Covenant Life, Alaska",earthquake,3.88,2.001,0.066,30.0,reviewed,us,us
+2025-09-21T03:26:04.990Z,33.4891667,-116.4573333,5.03,0.78,ml,50.0,33.0,0.1212,0.2,ci,ci40447314,2025-09-21T03:29:35.464Z,"21 km ESE of Anza, CA",earthquake,0.18,1.2,0.102,23.0,automatic,ci,ci
+2025-09-21T03:25:53.060Z,33.4893333,-116.4598333,4.75,0.66,ml,41.0,39.0,0.1191,0.19,ci,ci40447306,2025-09-21T03:29:20.465Z,"21 km ESE of Anza, CA",earthquake,0.18,0.64,0.12,18.0,automatic,ci,ci
+2025-09-21T03:20:51.849Z,52.248,160.2927,18.751,5.2,mb,82.0,109.0,1.267,1.23,us,us7000qxmn,2025-09-21T03:39:23.040Z,"144 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.66,4.647,0.026,506.0,reviewed,us,us
+2025-09-21T03:20:38.263Z,60.1976,-145.2918,205.6,2.1,ml,,,,1.37,ak,ak025c4nsagi,2025-09-21T03:23:51.175Z,"46 km SSE of Cordova, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-09-21T03:19:40.570Z,33.2311667,-115.6613333,2.87,0.78,ml,10.0,212.0,0.05789,0.16,ci,ci40447298,2025-09-21T03:23:12.881Z,"13 km W of Niland, CA",earthquake,0.69,0.39,0.088,11.0,automatic,ci,ci
+2025-09-21T03:13:57.486Z,60.1011,-152.8917,111.6,1.7,ml,,,,0.38,ak,ak025c4nqtxg,2025-09-21T03:17:16.635Z,"66 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-09-21T03:10:44.813Z,60.5454,-143.7702,20.3,1.4,ml,,,,0.83,ak,ak025c4nq5sx,2025-09-21T03:12:43.777Z,"109 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-21T03:08:43.040Z,33.257,-115.7336667,4.06,1.49,ml,5.0,304.0,0.1187,0.26,ci,ci40447290,2025-09-21T03:12:15.862Z,"10 km S of Bombay Beach, CA",earthquake,17.81,21.92,0.081,4.0,automatic,ci,ci
+2025-09-21T02:54:25.430Z,53.1667,160.8381,35.0,4.5,mb,44.0,134.0,1.327,0.49,us,us7000qxmj,2025-09-21T03:18:26.040Z,"148 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,1.758,0.079,47.0,reviewed,us,us
