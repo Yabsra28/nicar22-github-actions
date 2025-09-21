@@ -15916,3 +15916,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T10:09:29.210Z,38.830001831055,-122.80449676514,1.9400000572205,0.7,md,10.0,82.0,0.007906,0.02,nc,nc75240202,2025-09-21T10:11:05.094Z,"7 km WNW of Cobb, CA",earthquake,0.53,0.550000012,0.23,9.0,automatic,nc,nc
 2025-09-21T10:29:09.560Z,33.5318333,-116.7188333,5.93,0.75,ml,45.0,27.0,0.03686,0.16,ci,ci40447490,2025-09-21T10:32:39.361Z,"5 km WSW of Anza, CA",earthquake,0.14,0.37,0.152,23.0,automatic,ci,ci
 2025-09-21T10:47:41.271Z,60.3042,-152.1207,70.5,1.8,ml,,,,0.11,ak,ak025c4s449b,2025-09-21T10:48:58.961Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-09-21T11:04:25.189Z,36.7283,-116.2306,7.9,-0.2,ml,8.0,135.41,0.015,0.2468,nn,nn00904737,2025-09-21T11:06:26.052Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.05,3.0,automatic,nn,nn
+2025-09-21T05:34:22.295Z,32.181,-101.196,3.3908,2.0,mlv,55.0,76.0,0.1,0.4,tx,tx2025spfbro,2025-09-21T11:17:24.794Z,"16 km SE of Coahoma, Texas",earthquake,0.0,0.90555542707443,0.1,30.0,automatic,tx,tx
+2025-09-21T02:02:58.721Z,32.098,-101.95,3.5108,1.2,mlv,20.0,85.0,0.1,0.5,tx,tx2025soybka,2025-09-21T11:13:38.179Z,"15 km WSW of Stanton, Texas",earthquake,0.0,1.3671180009842,0.4,13.0,automatic,tx,tx
+2025-09-21T00:14:44.536Z,32.109,-101.504,4.899,1.2,mlv,9.0,157.0,0.1,0.5,tx,tx2025soulym,2025-09-21T11:12:17.175Z,"13 km W of Forsan, Texas",earthquake,0.0,1.8082618713379,0.3,6.0,automatic,tx,tx
