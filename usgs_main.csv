@@ -15915,3 +15915,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T10:13:02.706Z,60.0931,-152.891,95.3,0.9,ml,,,,0.48,ak,ak025c4rwqxq,2025-09-21T10:14:41.615Z,"66 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-21T10:09:29.210Z,38.830001831055,-122.80449676514,1.9400000572205,0.7,md,10.0,82.0,0.007906,0.02,nc,nc75240202,2025-09-21T10:11:05.094Z,"7 km WNW of Cobb, CA",earthquake,0.53,0.550000012,0.23,9.0,automatic,nc,nc
 2025-09-21T10:29:09.560Z,33.5318333,-116.7188333,5.93,0.75,ml,45.0,27.0,0.03686,0.16,ci,ci40447490,2025-09-21T10:32:39.361Z,"5 km WSW of Anza, CA",earthquake,0.14,0.37,0.152,23.0,automatic,ci,ci
+2025-09-21T10:47:41.271Z,60.3042,-152.1207,70.5,1.8,ml,,,,0.11,ak,ak025c4s449b,2025-09-21T10:48:58.961Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
