@@ -15864,3 +15864,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T05:38:53.327Z,31.823,-103.177,0.6078,1.9,ml,7.0,258.0,0.2,1.0,tx,tx2025spffmm,2025-09-21T05:40:58.676Z,"8 km NNW of Wink, Texas",earthquake,0.0,4.2189631462097,0.2,5.0,automatic,tx,tx
 2025-09-21T05:24:49.628Z,83.7505,112.2311,10.0,5.1,mb,58.0,75.0,20.771,0.67,us,us7000qxn3,2025-09-21T05:41:15.040Z,north of Severnaya Zemlya,earthquake,11.87,1.912,0.029,393.0,reviewed,us,us
 2025-09-21T05:29:24.489Z,19.454,-68.2785,10.0,3.8,ml,20.0,158.0,0.874,0.6,us,us7000qxn2,2025-09-21T05:47:44.040Z,"96 km ENE of Miches, Dominican Republic",earthquake,3.18,1.986,0.058,39.0,reviewed,us,us
+2025-09-21T06:17:34.420Z,38.757167816162,-122.73500061035,2.7200000286102,0.79,md,10.0,133.0,0.008672,0.02,nc,nc75240122,2025-09-21T06:19:09.219Z,"3 km SSE of The Geysers, CA",earthquake,0.32,0.639999986,0.12,9.0,automatic,nc,nc
+2025-09-21T06:07:45.310Z,35.8983333,-117.6783333,2.19,0.87,ml,26.0,42.0,0.05442,0.15,ci,ci40447378,2025-09-21T06:11:10.691Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.23,0.123,15.0,automatic,ci,ci
+2025-09-21T06:06:22.770Z,32.8098333,-116.1148333,9.28,1.05,ml,28.0,71.0,0.0233,0.28,ci,ci40447370,2025-09-21T06:09:52.670Z,"14 km NW of Ocotillo, CA",earthquake,0.42,0.69,0.359,12.0,automatic,ci,ci
+2025-09-21T05:29:59.180Z,31.444,-104.393,5.0,1.9,ml,13.0,265.0,0.2,0.9,tx,tx2025spexqy,2025-09-21T06:01:11.794Z,"58 km WNW of Toyah, Texas",earthquake,0.0,,0.3,9.0,automatic,tx,tx
