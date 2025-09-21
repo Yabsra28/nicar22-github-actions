@@ -15843,3 +15843,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T02:54:25.430Z,53.1667,160.8381,35.0,4.5,mb,44.0,134.0,1.327,0.49,us,us7000qxmj,2025-09-21T03:18:26.040Z,"148 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,1.758,0.079,47.0,reviewed,us,us
 2025-09-21T03:48:41.880Z,35.8971667,-117.6763333,2.29,1.01,ml,26.0,43.0,0.05483,0.16,ci,ci40447330,2025-09-21T03:52:10.617Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.24,0.111,18.0,automatic,ci,ci
 2025-09-21T03:45:56.638Z,61.9832,-150.6908,66.8,1.3,ml,,,,0.66,ak,ak025c4nxorz,2025-09-21T03:47:56.658Z,"37 km E of Skwentna, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2025-09-21T04:20:38.536Z,61.5011,-149.8767,33.8,1.4,ml,,,,0.55,ak,ak025c4odq31,2025-09-21T04:22:11.752Z,"4 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-21T04:20:30.300Z,39.1087,-119.0553,8.6,1.3,ml,11.0,82.12,0.19,0.1254,nn,nn00904725,2025-09-21T04:22:54.522Z,"16 km NE of Yerington, Nevada",earthquake,,2.6,0.25,5.0,automatic,nn,nn
+2025-09-21T04:18:57.130Z,34.0088333,-117.2103333,13.65,0.69,ml,29.0,80.0,0.08556,0.17,ci,ci40447346,2025-09-21T04:23:49.410Z,"6 km SSW of Redlands, CA",earthquake,0.21,0.61,0.121,20.0,automatic,ci,ci
+2025-09-21T04:03:36.230Z,33.1738333,-116.1196667,10.21,0.7,ml,41.0,37.0,0.04432,0.23,ci,ci40447338,2025-09-21T04:07:05.718Z,"4 km NNE of Ocotillo Wells, CA",earthquake,0.25,0.47,0.122,11.0,automatic,ci,ci
+2025-09-21T04:00:48.580Z,62.9147,-149.7206,71.9,1.4,ml,,,,0.76,ak,ak025c4o9gje,2025-09-21T04:02:34.697Z,"55 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-21T03:35:08.616Z,52.35,159.9862,35.0,4.8,mb,39.0,144.0,1.057,0.63,us,us7000qxmq,2025-09-21T04:01:25.040Z,"121 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.13,1.921,0.074,56.0,reviewed,us,us
