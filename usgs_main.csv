@@ -15989,3 +15989,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T19:42:27.340Z,37.621334075928,-118.82416534424,7.4499998092651,1.2,md,11.0,181.0,0.01902,0.02,nc,nc75240337,2025-09-21T19:44:05.614Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.01,1.13999999,0.09,11.0,automatic,nc,nc
 2025-09-21T19:13:57.567Z,19.1763,-155.4658,35.0,2.6,ml,13.0,158.0,0.174,0.2,us,us7000qxqq,2025-09-21T19:47:59.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,6.25,3.717,0.081,20.0,reviewed,us,us
 2025-09-21T19:20:14.733Z,23.7642,120.906,30.206,4.4,mb,47.0,78.0,0.05,0.61,us,us7000qxqr,2025-09-21T20:16:38.040Z,"15 km E of Lugu, Taiwan",earthquake,3.32,5.498,0.103,27.0,reviewed,us,us
+2025-09-21T20:17:57.095Z,6.5408,-76.22,10.0,4.9,mb,55.0,86.0,2.531,1.17,us,us7000qxqs,2025-09-21T20:34:15.998Z,"19 km WSW of Abriaquí, Colombia",earthquake,7.3,1.892,0.033,282.0,reviewed,us,us
