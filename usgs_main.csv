@@ -15952,3 +15952,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T14:39:53.617Z,52.713,161.1142,10.0,4.6,mb,40.0,113.0,1.526,0.98,us,us7000qxpq,2025-09-21T15:08:06.040Z,"171 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,5.89,1.881,0.051,114.0,reviewed,us,us
 2025-09-21T14:13:54.010Z,19.3325,-68.3983,88.0,3.53,md,15.0,207.0,0.791,0.44,pr,pr2025264005,2025-09-21T15:04:37.730Z,"78 km ENE of Miches, Dominican Republic",earthquake,3.49,3.79,0.16,8.0,reviewed,pr,pr
 2025-09-21T15:11:17.847Z,64.8644,-146.2996,11.0,1.2,ml,,,,0.71,ak,ak025c4uvip4,2025-09-21T15:13:51.660Z,"27 km E of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-21T15:32:33.835Z,36.587,-116.0275,16.0,-0.4,ml,9.0,201.79,0.091,0.2829,nn,nn00904739,2025-09-21T15:34:27.281Z,"32 km W of Indian Springs, Nevada",earthquake,,3.0,0.42,6.0,automatic,nn,nn
