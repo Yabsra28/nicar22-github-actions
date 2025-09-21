@@ -15853,3 +15853,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T04:35:22.159Z,59.1469,-153.2997,17.8,1.6,ml,,,,0.27,ak,ak025c4ogwk7,2025-09-21T04:36:31.187Z,"81 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T04:31:40.570Z,38.840831756592,-122.83716583252,1.8099999427795,1.08,md,16.0,114.0,0.002595,0.01,nc,nc75240112,2025-09-21T04:33:18.485Z,"10 km NNW of The Geysers, CA",earthquake,0.25,0.469999999,0.07,17.0,automatic,nc,nc
 2025-09-20T07:10:08.128Z,37.7247,72.4379,198.227,4.3,mb,40.0,90.0,0.588,0.46,us,us7000qxit,2025-09-21T04:38:11.040Z,"82 km ENE of Khorugh, Tajikistan",earthquake,7.26,7.811,0.153,12.0,reviewed,us,us
+2025-09-21T04:47:13.450Z,35.884666442871,-121.47650146484,9.210000038147,2.59,md,44.0,195.0,0.09327,0.14,nc,nc75240117,2025-09-21T04:51:09.360Z,"17 km SSE of Lopez Point, CA",earthquake,0.59,0.779999971,0.11,47.0,automatic,nc,nc
+2025-09-20T08:04:37.733Z,52.7057,160.8996,21.997,4.5,mb,31.0,120.0,1.4,0.65,us,us7000qxj9,2025-09-21T04:51:28.040Z,"158 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.82,5.954,0.097,31.0,reviewed,us,us
