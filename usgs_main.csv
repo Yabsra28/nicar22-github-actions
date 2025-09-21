@@ -15808,3 +15808,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T23:16:23.342Z,39.176,28.9717,10.0,4.1,mb,29.0,42.0,1.344,1.11,us,us7000qxlu,2025-09-20T23:30:11.040Z,"9 km N of Simav, Turkey",earthquake,3.91,1.96,0.165,10.0,reviewed,us,us
 2025-09-20T23:54:42.524Z,65.213,-149.2355,8.9,1.3,ml,,,,0.59,ak,ak025c3ccwqk,2025-09-20T23:56:35.750Z,"8 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-20T23:23:55.542Z,-19.3927,-69.1511,10.0,4.1,mwr,25.0,98.0,0.277,1.13,us,us7000qxlv,2025-09-20T23:54:47.040Z,"30 km ESE of Camiña, Chile",earthquake,3.14,1.919,0.062,25.0,reviewed,us,us
+2025-09-21T01:40:41.783Z,31.518,-104.159,3.2877,1.8,ml,18.0,160.0,0.1,0.7,tx,tx2025soxhqz,2025-09-21T01:44:06.529Z,"41 km WNW of Toyah, Texas",earthquake,0.0,1.5412510633469,0.1,13.0,automatic,tx,tx
+2025-09-21T01:40:06.700Z,35.7723333,-117.595,7.14,0.59,ml,22.0,54.0,0.04336,0.15,ci,ci40447266,2025-09-21T01:43:40.244Z,"17 km W of Searles Valley, CA",earthquake,0.2,0.37,0.115,13.0,automatic,ci,ci
+2025-09-21T01:35:14.673Z,61.3069,-152.2546,8.1,0.9,ml,,,,0.25,ak,ak025c4mol63,2025-09-21T01:37:10.489Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-21T01:34:06.365Z,-5.6318,152.1707,10.0,4.6,mb,24.0,152.0,1.431,1.21,us,us7000qxmb,2025-09-21T01:52:36.040Z,"142 km S of Kokopo, Papua New Guinea",earthquake,9.27,1.868,0.111,24.0,reviewed,us,us
+2025-09-21T01:22:52.364Z,32.26,-102.251,3.2285,1.1,ml,5.0,198.0,0.1,0.4,tx,tx2025sowswl,2025-09-21T01:24:52.714Z,"26 km E of McKinney Acres, Texas",earthquake,0.0,4.1551623344421,0.3,5.0,automatic,tx,tx
+2025-09-21T01:15:07.050Z,36.1038322,-117.9018326,4.68,3.06,ml,54.0,34.0,0.04044,0.19,ci,ci40447258,2025-09-21T01:42:58.040Z,"8 km NNE of Coso Junction, CA",earthquake,0.21,0.62,0.273,19.0,automatic,ci,ci
+2025-09-21T01:13:35.071Z,52.7951,161.1393,10.0,5.7,mb,89.0,118.0,1.525,1.35,us,us7000qxm7,2025-09-21T01:46:14.406Z,"171 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.56,1.864,0.022,756.0,reviewed,us,us
+2025-09-21T01:13:31.401Z,31.656,-104.19,3.6724,1.6,ml,32.0,63.0,0.1,0.4,tx,tx2025sowkvg,2025-09-21T01:18:05.665Z,"53 km NW of Toyah, Texas",earthquake,0.0,1.042184472084,0.2,19.0,automatic,tx,tx
+2025-09-21T01:01:27.930Z,38.81816482544,-122.80117034912,2.5999999046326,0.72,md,10.0,70.0,0.008698,0.01,nc,nc75240067,2025-09-21T01:17:20.576Z,"6 km NNW of The Geysers, CA",earthquake,0.39,0.910000026,0.3,10.0,automatic,nc,nc
+2025-09-21T00:58:23.865Z,63.0149,-150.1228,94.9,1.7,ml,,,,0.55,ak,ak025c4m83qq,2025-09-21T01:00:52.475Z,"63 km N of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-21T00:37:05.164Z,60.9017,-146.5871,19.6,1.4,ml,,,,0.55,ak,ak025c4m3k9g,2025-09-21T00:38:45.923Z,"6 km NE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-21T00:27:55.030Z,36.581001281738,-121.14083099365,-0.10000000149012,1.28,md,10.0,74.0,0.08155,0.26,nc,nc75240057,2025-09-21T01:57:20.878Z,"5 km NNE of Pinnacles, CA",earthquake,0.68,3.88000011,0.14,6.0,automatic,nc,nc
+2025-09-21T00:11:10.160Z,17.949666666667,-66.942333333333,9.8,2.25,md,7.0,210.0,0.06513,0.18,pr,pr71496123,2025-09-21T00:33:18.530Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.9,0.089456922744561,3.0,reviewed,pr,pr
+2025-09-21T00:06:06.000Z,38.792999267578,-122.74833679199,2.5099999904633,0.73,md,7.0,91.0,0.0117,0.02,nc,nc75240042,2025-09-21T01:32:17.673Z,"2 km NNE of The Geysers, CA",earthquake,0.42,1.37,0.21,7.0,automatic,nc,nc
