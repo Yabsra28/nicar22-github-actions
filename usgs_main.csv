@@ -15979,3 +15979,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T17:54:23.501Z,31.762,-101.941,4.6025,1.5,ml,35.0,92.0,0.1,0.4,tx,tx2025sqdphw,2025-09-21T17:58:16.977Z,"29 km SSE of Midland, Texas",earthquake,0.0,1.0613269805908,0.1,22.0,automatic,tx,tx
 2025-09-21T17:21:48.115Z,-15.4346,-70.2364,216.418,4.4,mb,16.0,141.0,2.197,0.87,us,us7000qxq5,2025-09-21T18:03:30.040Z,"13 km WNW of Juliaca, Peru",earthquake,8.69,10.83,0.138,15.0,reviewed,us,us
 2025-09-21T12:26:46.740Z,46.382166666667,-121.83133333333,8.04,0.72,md,12.0,239.0,0.03502,0.13,uw,uw62192226,2025-09-21T17:57:04.450Z,"27 km SSW of Packwood, Washington",earthquake,0.69,0.33,0.031982841253807,4.0,reviewed,uw,uw
+2025-09-21T18:07:46.570Z,61.3993,-150.0199,33.7,1.8,ml,,,,0.15,ak,ak025c4wn0v5,2025-09-21T18:09:12.703Z,"4 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-21T11:28:50.500Z,33.2515,-116.1941667,11.38,0.17,ml,13.0,75.0,0.07717,0.14,ci,ci37743852,2025-09-21T18:27:29.677Z,"13 km NNW of Ocotillo Wells, CA",earthquake,0.28,0.74,0.085,9.0,reviewed,ci,ci
+2025-09-21T11:28:13.290Z,33.2683333,-116.5965,17.81,0.16,ml,28.0,51.0,0.08106,0.18,ci,ci37743860,2025-09-21T18:34:29.716Z,"4 km ESE of Warner Springs, CA",earthquake,0.27,0.58,0.169,12.0,reviewed,ci,ci
