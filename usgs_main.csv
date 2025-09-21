@@ -15872,3 +15872,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T06:26:58.030Z,35.8978333,-117.6755,2.56,1.26,ml,29.0,43.0,0.05396,0.16,ci,ci40447386,2025-09-21T06:30:26.310Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.29,0.184,24.0,automatic,ci,ci
 2025-09-21T06:18:07.911Z,39.6612,-119.8445,3.2,1.0,ml,8.0,155.02,0.082,0.0443,nn,nn00904726,2025-09-21T06:20:54.486Z,"2 km N of Lemmon Valley, Nevada",earthquake,,0.8,0.21,3.0,automatic,nn,nn
 2025-09-21T05:29:26.770Z,19.4305,-68.4453,55.0,3.92,md,23.0,217.0,0.7561,0.46,pr,pr2025264001,2025-09-21T06:21:44.677Z,"80 km NE of Miches, Dominican Republic",earthquake,2.11,5.82,0.11,20.0,reviewed,pr,pr
+2025-09-21T06:41:56.421Z,60.2756,-147.2298,20.1,1.6,ml,,,,0.42,ak,ak025c4pp4pm,2025-09-21T06:43:33.597Z,"49 km ENE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
