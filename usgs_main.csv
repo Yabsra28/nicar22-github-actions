@@ -16212,3 +16212,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T18:46:29.558Z,51.6206,159.5831,10.0,5.3,mww,94.0,137.0,1.517,0.99,us,us6000rc55,2025-09-22T19:05:55.040Z,"166 km SSE of Vilyuchinsk, Russia",earthquake,10.17,1.88,0.083,14.0,reviewed,us,us
 2025-09-22T19:04:33.418Z,46.1642,-75.2941,10.0,2.8,mb_lg,19.0,94.0,0.519,0.63,us,us6000rc59,2025-09-22T19:20:14.040Z,"23 km NW of Notre-Dame-du-Mont-Carmel, Canada",earthquake,3.3,1.999,0.086,36.0,reviewed,us,us
 2025-09-22T15:44:53.090Z,37.8555,-122.24733333333,7.11,0.86,md,20.0,72.0,0.02099,0.06,nc,nc75240557,2025-09-22T19:22:52.005Z,"3 km SE of Berkeley, CA",earthquake,0.41,0.25,0.241,14.0,reviewed,nc,nc
+2025-09-22T19:33:28.357Z,60.984,-148.3305,30.3,1.0,ml,,,,1.11,ak,ak025c6kxc6b,2025-09-22T19:35:20.773Z,"30 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-22T19:29:00.160Z,36.7673,-116.2585,11.4,-0.2,ml,11.0,133.67,0.052,0.0558,nn,nn00904809,2025-09-22T19:30:55.621Z,"47 km ESE of Beatty, Nevada",earthquake,,1.3,0.35,6.0,automatic,nn,nn
+2025-09-22T19:06:29.050Z,51.6842,159.5327,35.0,4.6,mb,47.0,142.0,1.446,0.9,us,us6000rc5c,2025-09-22T19:26:43.040Z,"158 km SSE of Vilyuchinsk, Russia",earthquake,11.1,1.908,0.076,52.0,reviewed,us,us
