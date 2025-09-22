@@ -16183,3 +16183,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T12:11:37.080Z,36.481,-89.564333333333,10.07,1.47,md,20.0,58.0,0.05993,0.07,nm,nm60614076,2025-09-22T16:07:01.670Z,"6 km SE of Marston, Missouri",earthquake,0.2,0.46,0.12734301474322,14.0,reviewed,nm,nm
 2025-09-22T06:00:39.721Z,41.1424,-116.721,10.2,2.4,ml,13.0,138.83,0.285,0.142,nn,nn00904763,2025-09-22T16:23:34.576Z,"51 km NE of Valmy, Nevada",earthquake,,1.9,0.24,7.0,reviewed,nn,nn
 2025-09-21T19:58:35.556Z,32.089,-101.006,3.3908,1.0,ml,9.0,74.0,0.2,0.1,tx,tx2025sqhseu,2025-09-22T16:19:59.912Z,"28 km N of Sterling City, Texas",earthquake,0.81736887837735,2.4095500867764,0.1,5.0,reviewed,tx,tx
+2025-09-22T15:32:16.180Z,33.7096667,-116.8385,15.73,0.1,ml,8.0,177.0,0.07461,0.23,ci,ci37743916,2025-09-22T16:43:25.783Z,"7 km SE of Valle Vista, CA",earthquake,1.31,2.35,0.131,7.0,reviewed,ci,ci
+2025-09-22T15:32:13.550Z,33.7071667,-116.8368333,15.53,0.06,ml,9.0,103.0,0.07524,0.12,ci,ci37743908,2025-09-22T16:43:16.782Z,"7 km SE of Valle Vista, CA",earthquake,0.46,0.77,0.098,6.0,reviewed,ci,ci
