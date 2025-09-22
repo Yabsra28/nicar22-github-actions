@@ -16105,3 +16105,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T09:57:13.250Z,35.1791667,-118.0441667,17.04,1.79,ml,17.0,329.0,1.144,0.15,ci,ci40447898,2025-09-22T10:01:02.760Z,"8 km NW of California City, CA",earthquake,11.34,12.94,0.234,30.0,automatic,ci,ci
 2025-09-22T09:56:12.500Z,37.86600112915,-122.25150299072,7.8299999237061,4.29,mw,89.0,34.0,0.01169,0.11,nc,nc75240492,2025-09-22T10:22:51.966Z,"2 km ESE of Berkeley, CA",earthquake,0.13,0.330000013,,52.0,reviewed,nc,nc
 2025-09-22T10:37:09.372Z,61.273,-152.2367,1.1,-0.1,ml,,,,0.18,ak,ak025c6fl94p,2025-09-22T10:39:12.713Z,"63 km WNW of Tyonek, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-09-22T10:50:26.678Z,60.9653,-150.6491,34.6,1.8,ml,,,,0.36,ak,ak025c6fo2rv,2025-09-22T10:52:04.926Z,"5 km NNE of Point Possession, Alaska",earthquake,,0.6,,,automatic,ak,ak
