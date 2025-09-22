@@ -16265,3 +16265,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:02:59.809Z,64.7965,-149.0477,18.4,0.9,ml,,,,0.13,ak,ak025c6n4hto,2025-09-22T23:04:25.503Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-22T22:57:57.650Z,37.743000030518,-122.54183197022,13.0,1.02,md,9.0,194.0,0.07438,0.03,nc,nc75240672,2025-09-22T23:16:15.478Z,"4 km WNW of San Francisco Zoo, CA",earthquake,1.74,2.4000001,0.24,5.0,automatic,nc,nc
 2025-09-22T21:29:14.253Z,-19.59,-69.4249,104.369,4.5,mb,28.0,115.0,0.231,0.61,us,us6000rc69,2025-09-22T23:10:31.040Z,"30 km S of Camiña, Chile",earthquake,2.58,4.648,0.135,16.0,reviewed,us,us
+2025-09-22T23:28:34.690Z,38.820167541504,-122.84616851807,2.2200000286102,1.23,md,18.0,107.0,0.01114,0.01,nc,nc75240677,2025-09-22T23:30:12.867Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.1,18.0,automatic,nc,nc
+2025-09-22T23:26:46.333Z,64.998,-147.489,0.0,1.1,ml,,,,1.23,ak,ak025c6n9lyx,2025-09-22T23:28:55.612Z,"7 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-22T23:24:37.120Z,36.1738319,-118.0196686,3.3,1.41,ml,20.0,55.0,0.1447,0.14,ci,ci40448362,2025-09-22T23:26:40.361Z,"12 km S of Olancha, CA",earthquake,0.31,0.99,0.188,9.0,automatic,ci,ci
