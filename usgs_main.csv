@@ -16193,3 +16193,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T16:32:13.967Z,51.6069,159.0344,52.074,5.1,mb,60.0,127.0,1.438,0.75,us,us6000rc2x,2025-09-22T17:02:26.040Z,"153 km SSE of Vilyuchinsk, Russia",earthquake,10.05,7.002,0.073,61.0,reviewed,us,us
 2025-09-22T17:13:43.358Z,51.653,159.3639,35.0,5.3,mww,95.0,77.0,1.441,0.92,us,us6000rc3t,2025-09-22T17:30:01.040Z,"156 km SSE of Vilyuchinsk, Russia",earthquake,9.49,1.892,0.089,12.0,reviewed,us,us
 2025-09-22T17:32:40.591Z,63.094,-150.3544,7.7,1.8,ml,,,,1.15,ak,ak025c6jqa6z,2025-09-22T17:35:03.248Z,"69 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-22T18:16:10.892Z,61.24,-151.3346,68.4,1.4,ml,,,,0.55,ak,ak025c6k881t,2025-09-22T18:17:56.717Z,"17 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-22T17:58:48.633Z,31.572,-104.014,7.045,1.6,ml,14.0,165.0,0.0,0.5,tx,tx2025srzlzp,2025-09-22T18:01:13.100Z,"35 km NW of Toyah, Texas",earthquake,0.0,2.6105122566223,0.2,8.0,automatic,tx,tx
+2025-09-22T17:51:46.839Z,51.6676,159.4966,36.643,4.6,mb,49.0,137.0,1.454,0.72,us,us6000rc4p,2025-09-22T18:09:46.040Z,"159 km SSE of Vilyuchinsk, Russia",earthquake,11.22,7.598,0.076,52.0,reviewed,us,us
+2025-09-22T17:50:13.130Z,33.68,-116.79,15.74,0.69,ml,15.0,78.0,0.06936,0.06,ci,ci40448090,2025-09-22T17:53:52.624Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.42,0.137,13.0,automatic,ci,ci
+2025-09-22T17:49:26.460Z,35.33916667,-97.93516667,7.85,1.24,ml,60.0,55.0,0.05308958201,0.41,ok,ok2025spsb,2025-09-22T18:01:20.265Z,"3 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,27.0,reviewed,ok,ok
