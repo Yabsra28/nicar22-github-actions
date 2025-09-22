@@ -16202,3 +16202,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T18:33:22.149Z,61.7414,-150.0651,52.0,1.2,ml,,,,0.42,ak,ak025c6kbw3a,2025-09-22T18:35:35.277Z,"1 km WSW of Willow, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-09-22T18:33:05.080Z,37.1619,-115.5487,11.7,1.0,ml,8.0,155.46,0.465,0.2552,nn,nn00904807,2025-09-22T18:35:14.639Z,"40 km WSW of Alamo, Nevada",earthquake,,43.5,0.38,4.0,automatic,nn,nn
 2025-09-22T18:18:53.002Z,51.5514,159.4906,10.0,5.6,mww,107.0,77.0,1.562,0.84,us,us6000rc4t,2025-09-22T18:42:47.328Z,"170 km SSE of Vilyuchinsk, Russia",earthquake,9.35,1.852,0.057,30.0,reviewed,us,us
+2025-09-22T18:50:01.230Z,19.411666870117,-155.2696685791,1.7400000095367,1.78,ml,19.0,77.0,0.009251,0.200000003,hv,hv74782377,2025-09-22T18:52:55.620Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.330000013,0.2,16.0,automatic,hv,hv
+2025-09-22T18:40:51.270Z,19.337999343872,-155.14183044434,3.8399999141693,1.94,ml,47.0,110.0,0.04871,0.200000003,hv,hv74782367,2025-09-22T18:44:23.830Z,"14 km S of Fern Forest, Hawaii",earthquake,0.39,1.69000006,0.91,6.0,automatic,hv,hv
+2025-09-22T18:31:52.173Z,-5.9919,130.8661,114.317,5.0,mb,73.0,19.0,3.349,0.92,us,us6000rc4u,2025-09-22T18:47:56.040Z,"212 km W of Tual, Indonesia",earthquake,7.11,6.79,0.058,96.0,reviewed,us,us
