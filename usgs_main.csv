@@ -16064,3 +16064,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T05:42:11.930Z,63.4797,-146.0209,0.0,1.4,ml,,,,0.59,ak,ak025c6cn5vt,2025-09-22T05:44:07.922Z,"48 km NNW of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-22T05:50:21.620Z,66.3365,-149.1062,10.7,2.3,ml,,,,0.72,ak,ak025c6cowcy,2025-09-22T05:52:39.908Z,"36 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-22T05:48:25.180Z,33.9666667,-117.1331667,13.76,0.62,ml,40.0,51.0,0.1207,0.16,ci,ci40447818,2025-09-22T05:51:50.862Z,"8 km WSW of Calimesa, CA",earthquake,0.19,0.55,0.194,21.0,automatic,ci,ci
+2025-09-22T06:10:09.474Z,31.58,-104.027,4.6248,1.6,ml,31.0,47.0,0.0,0.3,tx,tx2025srbzbu,2025-09-22T06:14:06.369Z,"36 km NW of Toyah, Texas",earthquake,0.0,1.0085291862488,0.2,21.0,automatic,tx,tx
+2025-09-22T05:58:41.610Z,38.803165435791,-122.80716705322,0.75,1.11,md,17.0,55.0,0.01044,0.03,nc,nc75240442,2025-09-22T06:32:20.218Z,"5 km NW of The Geysers, CA",earthquake,0.2,0.409999996,0.16,17.0,automatic,nc,nc
+2025-09-22T05:56:14.600Z,34.6296667,-116.6663333,3.98,1.72,ml,45.0,45.0,0.03737,0.14,ci,ci40447826,2025-09-22T05:59:49.916Z,"34 km NE of Lucerne Valley, CA",earthquake,0.15,0.42,0.128,26.0,automatic,ci,ci
