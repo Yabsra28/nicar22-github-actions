@@ -16244,3 +16244,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T20:33:01.276Z,19.0053,121.3677,53.088,4.6,mb,52.0,120.0,3.802,0.82,us,us6000rc62,2025-09-22T21:00:52.040Z,"48 km NNE of Namuac, Philippines",earthquake,11.83,7.928,0.063,74.0,reviewed,us,us
 2025-09-22T21:17:27.096Z,29.149,-97.867,13.94,1.7,ml,5.0,168.0,0.2,0.2,tx,tx2025ssgbeb,2025-09-22T21:19:48.776Z,"13 km SE of Stockdale, Texas",earthquake,0.0,13.525485038757,0.3,5.0,automatic,tx,tx
 2025-09-22T21:16:37.618Z,58.7399,-153.7528,20.8,1.4,ml,,,,0.18,ak,ak025c6m0kxd,2025-09-22T21:18:05.821Z,"90 km NNW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-09-22T21:35:38.510Z,60.0454,-150.6239,41.5,1.6,ml,,,,0.59,ak,ak025c6m4nln,2025-09-22T21:37:27.895Z,"27 km NE of Fox River, Alaska",earthquake,,1.2,,,automatic,ak,ak
