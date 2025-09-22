@@ -16191,3 +16191,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T17:13:24.671Z,62.4263,-151.4572,85.9,1.4,ml,,,,0.62,ak,ak025c6jm6cz,2025-09-22T17:15:48.461Z,"36 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-22T17:02:46.090Z,36.456165313721,-121.07399749756,7.9699997901917,2.22,md,47.0,60.0,0.1252,0.21,nc,nc75240587,2025-09-22T17:12:51.492Z,"10 km SSE of Pinnacles, CA",earthquake,0.3,1.25999999,0.14,42.0,automatic,nc,nc
 2025-09-22T16:32:13.967Z,51.6069,159.0344,52.074,5.1,mb,60.0,127.0,1.438,0.75,us,us6000rc2x,2025-09-22T17:02:26.040Z,"153 km SSE of Vilyuchinsk, Russia",earthquake,10.05,7.002,0.073,61.0,reviewed,us,us
+2025-09-22T17:13:43.358Z,51.653,159.3639,35.0,5.3,mww,95.0,77.0,1.441,0.92,us,us6000rc3t,2025-09-22T17:30:01.040Z,"156 km SSE of Vilyuchinsk, Russia",earthquake,9.49,1.892,0.089,12.0,reviewed,us,us
