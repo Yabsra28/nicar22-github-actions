@@ -16062,3 +16062,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T04:29:24.262Z,52.4528,160.0421,50.131,4.8,mb,58.0,162.0,1.021,0.97,us,us7000qxs5,2025-09-22T04:57:57.040Z,"117 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.49,7.762,0.062,80.0,reviewed,us,us
 2025-09-21T20:00:48.240Z,46.1495,-122.516,8.71,1.53,ml,36.0,98.0,0.1179,0.11,uw,uw62192331,2025-09-22T04:57:24.040Z,"27 km NNW of Amboy, Washington",earthquake,0.23,0.34,0.18134699122465,20.0,reviewed,uw,uw
 2025-09-22T05:42:11.930Z,63.4797,-146.0209,0.0,1.4,ml,,,,0.59,ak,ak025c6cn5vt,2025-09-22T05:44:07.922Z,"48 km NNW of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-22T05:50:21.620Z,66.3365,-149.1062,10.7,2.3,ml,,,,0.72,ak,ak025c6cowcy,2025-09-22T05:52:39.908Z,"36 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-22T05:48:25.180Z,33.9666667,-117.1331667,13.76,0.62,ml,40.0,51.0,0.1207,0.16,ci,ci40447818,2025-09-22T05:51:50.862Z,"8 km WSW of Calimesa, CA",earthquake,0.19,0.55,0.194,21.0,automatic,ci,ci
