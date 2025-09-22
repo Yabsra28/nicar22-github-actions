@@ -16241,3 +16241,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T19:33:04.919Z,34.909,-98.858,0.0,1.37,ml,16.0,140.0,0.4085198345,0.45,ok,ok2025spvn,2025-09-22T20:42:38.109Z,"4 km N of Cooperton, Oklahoma",quarry blast,,0.7,0.27,7.0,reviewed,ok,ok
 2025-09-22T10:55:58.920Z,31.581,-104.021,7.1765,1.4,ml,32.0,64.0,0.0,0.1,tx,tx2025srllox,2025-09-22T20:45:34.498Z,"36 km NW of Toyah, Texas",earthquake,0.57851777984423,0.5168103760044,0.2,36.0,reviewed,tx,tx
 2025-09-22T06:33:00.217Z,31.579,-104.023,6.8176,1.4,ml,17.0,73.0,0.0,0.1,tx,tx2025srctai,2025-09-22T20:50:34.043Z,"36 km NW of Toyah, Texas",earthquake,0.61594140890283,0.60840950086606,0.2,25.0,reviewed,tx,tx
+2025-09-22T20:33:01.276Z,19.0053,121.3677,53.088,4.6,mb,52.0,120.0,3.802,0.82,us,us6000rc62,2025-09-22T21:00:52.040Z,"48 km NNE of Namuac, Philippines",earthquake,11.83,7.928,0.063,74.0,reviewed,us,us
