@@ -16218,3 +16218,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T19:46:48.942Z,62.2261,-149.9078,52.7,1.7,ml,,,,0.22,ak,ak025c6l062m,2025-09-22T19:48:41.827Z,"7 km NNW of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-22T19:45:17.470Z,31.639,-104.388,3.7954,1.5,ml,21.0,76.0,0.0,0.5,tx,tx2025sscztk,2025-09-22T19:48:21.641Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3206976652145,0.2,14.0,automatic,tx,tx
 2025-09-22T19:37:53.657Z,32.106,-101.917,4.2756,1.4,ml,24.0,47.0,0.1,0.5,tx,tx2025ssctjr,2025-09-22T19:41:11.802Z,"12 km WSW of Stanton, Texas",earthquake,0.0,1.1935918331146,0.1,18.0,automatic,tx,tx
+2025-09-22T19:54:46.980Z,35.0565,-118.3353333,-0.86,1.13,ml,23.0,44.0,0.06595,0.18,ci,ci40448218,2025-09-22T19:58:17.775Z,"13 km SE of Tehachapi, CA",earthquake,0.29,0.71,0.204,27.0,automatic,ci,ci
+2025-09-22T19:51:58.038Z,64.503,-147.7906,13.3,1.5,ml,,,,0.69,ak,ak025c6l19cr,2025-09-22T19:54:04.789Z,"34 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-22T19:49:07.389Z,62.3546,-150.1106,10.8,1.4,ml,,,,0.23,ak,ak025c6l0q0i,2025-09-22T19:50:41.718Z,"3 km N of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-22T19:43:31.540Z,39.371833333333,-111.776,3.08,1.37,md,6.0,145.0,0.1378,0.09,uu,uu80117896,2025-09-22T19:57:20.590Z,"16 km W of Ephraim, Utah",earthquake,0.5,6.37,0.32126225060821,4.0,reviewed,uu,uu
+2025-09-22T19:31:36.439Z,51.2916,159.3299,10.0,4.5,mb,44.0,137.0,1.784,0.85,us,us6000rc5j,2025-09-22T19:51:06.040Z,"193 km SSE of Vilyuchinsk, Russia",earthquake,11.52,1.921,0.093,34.0,reviewed,us,us
