@@ -16188,3 +16188,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T16:48:05.050Z,38.815334320068,-122.79516601562,2.3399999141693,1.3,md,23.0,63.0,0.007356,0.02,nc,nc75240582,2025-09-22T16:49:40.861Z,"5 km NNW of The Geysers, CA",earthquake,0.26,0.379999995,0.09,23.0,automatic,nc,nc
 2025-09-22T16:28:53.054Z,51.4263,159.5392,10.0,5.5,mww,83.0,127.0,1.69,1.19,us,us6000rc2r,2025-09-22T16:54:52.236Z,"184 km SSE of Vilyuchinsk, Russia",earthquake,10.22,1.873,0.069,20.0,reviewed,us,us
 2025-09-22T06:47:14.539Z,-6.6467,129.9039,140.908,4.7,mb,27.0,101.0,4.378,0.66,us,us7000qxsi,2025-09-22T16:50:22.040Z,Banda Sea,earthquake,6.55,8.985,0.13,18.0,reviewed,us,us
+2025-09-22T17:13:24.671Z,62.4263,-151.4572,85.9,1.4,ml,,,,0.62,ak,ak025c6jm6cz,2025-09-22T17:15:48.461Z,"36 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-22T17:02:46.090Z,36.456165313721,-121.07399749756,7.9699997901917,2.22,md,47.0,60.0,0.1252,0.21,nc,nc75240587,2025-09-22T17:12:51.492Z,"10 km SSE of Pinnacles, CA",earthquake,0.3,1.25999999,0.14,42.0,automatic,nc,nc
+2025-09-22T16:32:13.967Z,51.6069,159.0344,52.074,5.1,mb,60.0,127.0,1.438,0.75,us,us6000rc2x,2025-09-22T17:02:26.040Z,"153 km SSE of Vilyuchinsk, Russia",earthquake,10.05,7.002,0.073,61.0,reviewed,us,us
