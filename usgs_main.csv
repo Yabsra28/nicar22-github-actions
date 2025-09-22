@@ -16061,3 +16061,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T04:58:34.900Z,19.174667358398,-155.50115966797,30.579999923706,2.75999999,md,60.0,103.0,0.04158,0.119999997,hv,hv74781842,2025-09-22T05:13:26.351Z,"3 km SW of Pāhala, Hawaii",earthquake,0.41,0.560000002,0.239999995,13.0,automatic,hv,hv
 2025-09-22T04:29:24.262Z,52.4528,160.0421,50.131,4.8,mb,58.0,162.0,1.021,0.97,us,us7000qxs5,2025-09-22T04:57:57.040Z,"117 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.49,7.762,0.062,80.0,reviewed,us,us
 2025-09-21T20:00:48.240Z,46.1495,-122.516,8.71,1.53,ml,36.0,98.0,0.1179,0.11,uw,uw62192331,2025-09-22T04:57:24.040Z,"27 km NNW of Amboy, Washington",earthquake,0.23,0.34,0.18134699122465,20.0,reviewed,uw,uw
+2025-09-22T05:42:11.930Z,63.4797,-146.0209,0.0,1.4,ml,,,,0.59,ak,ak025c6cn5vt,2025-09-22T05:44:07.922Z,"48 km NNW of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
