@@ -16260,3 +16260,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T19:17:44.890Z,46.0135,-112.46733333333,-2.0,1.9,ml,11.0,73.0,0.06054,0.11,mb,mb90112918,2025-09-22T22:29:36.180Z,"5 km ENE of Butte, Montana",quarry blast,0.35,31.61,0.30282413870447,23.0,reviewed,mb,mb
 2025-09-22T10:37:19.600Z,44.812666666667,-111.53566666667,10.91,0.45,ml,13.0,109.0,0.02033,0.22,mb,mb90112928,2025-09-22T22:35:27.880Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.43,0.86,0.12960991081306,8.0,reviewed,mb,mb
 2025-09-22T22:42:34.130Z,35.6259995,-117.4713364,6.11,1.33,ml,21.0,48.0,0.05502,0.11,ci,ci40448346,2025-09-22T22:44:36.399Z,"17 km SSW of Searles Valley, CA",earthquake,0.3,0.91,0.323,9.0,automatic,ci,ci
+2025-09-22T23:09:22.885Z,59.908,-152.4354,87.5,1.2,ml,,,,0.21,ak,ak025c6n5wzk,2025-09-22T23:11:25.100Z,"36 km WNW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-09-22T23:03:41.860Z,19.132499694824,-155.48483276367,31.030000686646,2.29,ml,21.0,237.0,0.116,0.170000002,hv,hv74782557,2025-09-22T23:07:11.870Z,"7 km S of Pāhala, Hawaii",earthquake,1.26,1.28999996,0.34,4.0,automatic,hv,hv
+2025-09-22T23:02:59.809Z,64.7965,-149.0477,18.4,0.9,ml,,,,0.13,ak,ak025c6n4hto,2025-09-22T23:04:25.503Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-22T22:57:57.650Z,37.743000030518,-122.54183197022,13.0,1.02,md,9.0,194.0,0.07438,0.03,nc,nc75240672,2025-09-22T23:16:15.478Z,"4 km WNW of San Francisco Zoo, CA",earthquake,1.74,2.4000001,0.24,5.0,automatic,nc,nc
+2025-09-22T21:29:14.253Z,-19.59,-69.4249,104.369,4.5,mb,28.0,115.0,0.231,0.61,us,us6000rc69,2025-09-22T23:10:31.040Z,"30 km S of Camiña, Chile",earthquake,2.58,4.648,0.135,16.0,reviewed,us,us
