@@ -16113,3 +16113,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T11:12:55.000Z,34.295,-119.3585,11.12,1.43,ml,36.0,134.0,0.05622,0.27,ci,ci40447930,2025-09-22T11:16:28.714Z,"12 km W of Ventura, CA",earthquake,0.55,0.51,0.152,27.0,automatic,ci,ci
 2025-09-22T08:06:18.740Z,32.364,-101.215,3.1362,1.3,mlv,13.0,97.0,0.0,0.3,tx,tx2025srfvbg,2025-09-22T11:15:57.510Z,"11 km NE of Coahoma, Texas",earthquake,0.0,1.7109632492065,0.3,10.0,automatic,tx,tx
 2025-09-22T11:31:12.034Z,63.3439,-145.5399,10.8,1.4,ml,,,,0.32,ak,ak025c6g5en7,2025-09-22T11:32:43.454Z,"28 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-22T11:45:40.319Z,62.3649,-150.0776,14.6,1.4,ml,,,,0.55,ak,ak025c6g8gun,2025-09-22T11:47:24.175Z,"4 km NNE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
