@@ -16215,3 +16215,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T19:33:28.357Z,60.984,-148.3305,30.3,1.0,ml,,,,1.11,ak,ak025c6kxc6b,2025-09-22T19:35:20.773Z,"30 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-22T19:29:00.160Z,36.7673,-116.2585,11.4,-0.2,ml,11.0,133.67,0.052,0.0558,nn,nn00904809,2025-09-22T19:30:55.621Z,"47 km ESE of Beatty, Nevada",earthquake,,1.3,0.35,6.0,automatic,nn,nn
 2025-09-22T19:06:29.050Z,51.6842,159.5327,35.0,4.6,mb,47.0,142.0,1.446,0.9,us,us6000rc5c,2025-09-22T19:26:43.040Z,"158 km SSE of Vilyuchinsk, Russia",earthquake,11.1,1.908,0.076,52.0,reviewed,us,us
+2025-09-22T19:46:48.942Z,62.2261,-149.9078,52.7,1.7,ml,,,,0.22,ak,ak025c6l062m,2025-09-22T19:48:41.827Z,"7 km NNW of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-22T19:45:17.470Z,31.639,-104.388,3.7954,1.5,ml,21.0,76.0,0.0,0.5,tx,tx2025sscztk,2025-09-22T19:48:21.641Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3206976652145,0.2,14.0,automatic,tx,tx
+2025-09-22T19:37:53.657Z,32.106,-101.917,4.2756,1.4,ml,24.0,47.0,0.1,0.5,tx,tx2025ssctjr,2025-09-22T19:41:11.802Z,"12 km WSW of Stanton, Texas",earthquake,0.0,1.1935918331146,0.1,18.0,automatic,tx,tx
