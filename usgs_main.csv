@@ -16245,3 +16245,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T21:17:27.096Z,29.149,-97.867,13.94,1.7,ml,5.0,168.0,0.2,0.2,tx,tx2025ssgbeb,2025-09-22T21:19:48.776Z,"13 km SE of Stockdale, Texas",earthquake,0.0,13.525485038757,0.3,5.0,automatic,tx,tx
 2025-09-22T21:16:37.618Z,58.7399,-153.7528,20.8,1.4,ml,,,,0.18,ak,ak025c6m0kxd,2025-09-22T21:18:05.821Z,"90 km NNW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-09-22T21:35:38.510Z,60.0454,-150.6239,41.5,1.6,ml,,,,0.59,ak,ak025c6m4nln,2025-09-22T21:37:27.895Z,"27 km NE of Fox River, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-22T21:51:30.310Z,36.0703316,-117.901001,5.86,1.02,ml,12.0,173.0,0.06016,0.12,ci,ci40448298,2025-09-22T21:53:32.551Z,"5 km ENE of Coso Junction, CA",earthquake,0.5,1.12,0.298,7.0,automatic,ci,ci
+2025-09-22T21:48:30.950Z,32.348,-102.06,3.9665,1.4,ml,19.0,55.0,0.1,0.6,tx,tx2025sshbva,2025-09-22T21:52:10.045Z,"35 km NW of Stanton, Texas",earthquake,0.0,1.0967049598694,0.3,13.0,automatic,tx,tx
+2025-09-22T21:22:21.877Z,32.352,-102.079,6.7139,0.6,ml,12.0,69.0,0.0,0.2,tx,tx2025ssgfka,2025-09-22T21:48:38.958Z,"36 km NW of Stanton, Texas",earthquake,0.81200225132526,1.2862944283679,0.2,6.0,reviewed,tx,tx
+2025-09-22T18:48:43.160Z,47.159833333333,-121.82166666667,-0.77,0.36,md,5.0,189.0,0.04741,0.08,uw,uw62192756,2025-09-22T21:54:39.140Z,"12 km W of Greenwater, Washington",explosion,1.68,31.61,0.1331592764837,4.0,reviewed,uw,uw
+2025-09-21T22:31:55.940Z,51.913166666667,179.60183333333,0.81,0.84,ml,5.0,144.0,0.02349,0.33,av,av93784303,2025-09-22T21:48:23.280Z,"259 km W of Adak, Alaska",earthquake,0.73,3.18,0.18808766564869,4.0,reviewed,av,av
