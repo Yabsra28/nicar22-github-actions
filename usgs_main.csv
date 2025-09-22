@@ -16198,3 +16198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T17:51:46.839Z,51.6676,159.4966,36.643,4.6,mb,49.0,137.0,1.454,0.72,us,us6000rc4p,2025-09-22T18:09:46.040Z,"159 km SSE of Vilyuchinsk, Russia",earthquake,11.22,7.598,0.076,52.0,reviewed,us,us
 2025-09-22T17:50:13.130Z,33.68,-116.79,15.74,0.69,ml,15.0,78.0,0.06936,0.06,ci,ci40448090,2025-09-22T17:53:52.624Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.42,0.137,13.0,automatic,ci,ci
 2025-09-22T17:49:26.460Z,35.33916667,-97.93516667,7.85,1.24,ml,60.0,55.0,0.05308958201,0.41,ok,ok2025spsb,2025-09-22T18:01:20.265Z,"3 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,27.0,reviewed,ok,ok
+2025-09-22T18:36:44.904Z,32.152,-101.534,3.6775,1.1,ml,18.0,80.0,0.1,0.3,tx,tx2025ssasrm,2025-09-22T18:40:08.881Z,"12 km SSW of Big Spring, Texas",earthquake,0.0,1.3956092596054,0.2,13.0,automatic,tx,tx
+2025-09-22T18:33:22.149Z,61.7414,-150.0651,52.0,1.2,ml,,,,0.42,ak,ak025c6kbw3a,2025-09-22T18:35:35.277Z,"1 km WSW of Willow, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-09-22T18:33:05.080Z,37.1619,-115.5487,11.7,1.0,ml,8.0,155.46,0.465,0.2552,nn,nn00904807,2025-09-22T18:35:14.639Z,"40 km WSW of Alamo, Nevada",earthquake,,43.5,0.38,4.0,automatic,nn,nn
+2025-09-22T18:18:53.002Z,51.5514,159.4906,10.0,5.6,mww,107.0,77.0,1.562,0.84,us,us6000rc4t,2025-09-22T18:42:47.328Z,"170 km SSE of Vilyuchinsk, Russia",earthquake,9.35,1.852,0.057,30.0,reviewed,us,us
