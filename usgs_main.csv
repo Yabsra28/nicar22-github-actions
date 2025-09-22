@@ -16268,3 +16268,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:28:34.690Z,38.820167541504,-122.84616851807,2.2200000286102,1.23,md,18.0,107.0,0.01114,0.01,nc,nc75240677,2025-09-22T23:30:12.867Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.1,18.0,automatic,nc,nc
 2025-09-22T23:26:46.333Z,64.998,-147.489,0.0,1.1,ml,,,,1.23,ak,ak025c6n9lyx,2025-09-22T23:28:55.612Z,"7 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-22T23:24:37.120Z,36.1738319,-118.0196686,3.3,1.41,ml,20.0,55.0,0.1447,0.14,ci,ci40448362,2025-09-22T23:26:40.361Z,"12 km S of Olancha, CA",earthquake,0.31,0.99,0.188,9.0,automatic,ci,ci
+2025-09-22T23:38:14.350Z,36.1318321,-117.893837,6.31,1.6,ml,18.0,140.0,0.03461,0.21,ci,ci40448386,2025-09-22T23:40:37.658Z,"11 km NNE of Coso Junction, CA",earthquake,0.65,0.9,0.221,15.0,automatic,ci,ci
+2025-09-22T23:37:29.500Z,60.3323,-152.1951,88.9,1.9,ml,,,,0.4,ak,ak025c6nbxjq,2025-09-22T23:39:08.499Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-22T23:36:40.806Z,35.99101639,-97.96248627,1.250542283,2.3,ml,37.0,47.8366394,0.2482696474,0.6051960735,ok,ok2025sqdo,2025-09-22T23:40:10.577Z,"4 km WNW of Dover, Oklahoma",earthquake,1.975402489,1.699650442,0.33,27.0,automatic,ok,ok
+2025-09-22T21:42:04.293Z,12.0402,-88.4435,10.0,4.5,mb,55.0,177.0,1.425,0.67,us,us6000rc6t,2025-09-22T23:42:32.040Z,"133 km SW of Jiquilillo, Nicaragua",earthquake,6.64,1.979,0.078,48.0,reviewed,us,us
