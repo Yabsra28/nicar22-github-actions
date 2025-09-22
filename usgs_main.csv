@@ -16077,3 +16077,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T02:50:03.240Z,46.87,-121.76366666667,-2.74,0.57,ml,17.0,91.0,0.02153,0.12,uw,uw62192536,2025-09-22T07:01:50.670Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.37,0.1664198954954,6.0,reviewed,uw,uw
 2025-09-22T07:22:10.205Z,62.2206,-150.3319,14.8,1.4,ml,,,,0.44,ak,ak025c6dpqn0,2025-09-22T07:23:52.103Z,"11 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-22T05:46:06.309Z,-22.6455,170.4294,10.0,4.9,mb,38.0,104.0,2.756,0.92,us,us7000qxsd,2025-09-22T07:19:51.040Z,"289 km ESE of Tadine, New Caledonia",earthquake,7.79,1.443,0.101,31.0,reviewed,us,us
+2025-09-22T07:50:25.360Z,40.298332214355,-124.436668396,10.119999885559,2.44,md,21.0,264.0,0.07263,0.1,nc,nc75240467,2025-09-22T07:52:00.292Z,"13 km W of Petrolia, CA",earthquake,1.56,0.519999981,0.13,18.0,automatic,nc,nc
+2025-09-22T07:42:43.580Z,33.5361667,-116.7165,5.59,0.52,ml,32.0,29.0,0.03394,0.12,ci,ci40447858,2025-09-22T07:46:18.991Z,"4 km WSW of Anza, CA",earthquake,0.13,0.33,0.131,17.0,automatic,ci,ci
