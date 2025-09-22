@@ -16167,3 +16167,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T15:32:21.450Z,33.7221667,-116.8363333,14.79,0.97,ml,40.0,61.0,0.08089,0.16,ci,ci40448010,2025-09-22T15:35:53.598Z,"6 km ESE of Valle Vista, CA",earthquake,0.19,0.28,0.206,31.0,automatic,ci,ci
 2025-09-22T15:22:54.182Z,31.649,-104.381,5.4836,1.8,ml,28.0,71.0,0.0,0.5,tx,tx2025sruhqc,2025-09-22T15:28:14.109Z,"58 km S of Whites City, New Mexico",earthquake,0.0,2.2888629436493,0.2,19.0,automatic,tx,tx
 2025-09-22T11:12:34.860Z,44.327,-115.15766666667,8.77,2.68,ml,28.0,65.0,0.3142,0.24,mb,mb90112878,2025-09-22T15:37:10.130Z,"21 km NW of Stanley, Idaho",earthquake,0.43,0.84,0.21119576223318,57.0,reviewed,mb,mb
+2025-09-22T15:39:42.490Z,33.7163333,-116.843,15.59,1.76,ml,73.0,19.0,0.07342,0.18,ci,ci40448026,2025-09-22T15:43:18.067Z,"6 km SE of Valle Vista, CA",earthquake,0.14,0.3,0.198,27.0,automatic,ci,ci
+2025-09-22T03:52:41.410Z,44.3555,-116.1285,7.19,2.09,ml,7.0,136.0,0.06,0.05,mb,mb90112858,2025-09-22T15:43:46.970Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,0.41,0.99,0.18014743257521,21.0,reviewed,mb,mb
