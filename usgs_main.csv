@@ -16153,3 +16153,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T14:26:26.370Z,34.632,-116.6691667,4.11,0.99,ml,25.0,67.0,0.03877,0.12,ci,ci40447986,2025-09-22T14:29:57.153Z,"34 km NE of Lucerne Valley, CA",earthquake,0.17,0.4,0.109,14.0,automatic,ci,ci
 2025-09-22T14:24:10.226Z,18.7317,-106.3347,10.0,5.4,mww,69.0,174.0,5.344,1.29,us,us7000qxtz,2025-09-22T14:45:04.040Z,"159 km SW of José María Morelos, Mexico",earthquake,10.07,1.929,0.05,38.0,reviewed,us,us
 2025-09-22T09:55:57.461Z,32.259,-101.913,7.7881,0.5,ml,12.0,67.0,0.0,0.1,tx,tx2025srjlew,2025-09-22T14:34:12.530Z,"18 km NW of Stanton, Texas",earthquake,0.59505927921302,0.92428543038308,0.2,10.0,reviewed,tx,tx
+2025-09-22T14:44:46.280Z,37.857498168945,-122.24533081055,6.8899998664856,2.26,md,58.0,29.0,0.02019,0.08,nc,nc75240532,2025-09-22T14:52:18.981Z,"3 km SE of Berkeley, CA",earthquake,0.13,0.25999999,0.18,54.0,automatic,nc,nc
+2025-09-22T09:40:26.166Z,32.182,-101.202,8.4717,1.2,ml,18.0,63.0,0.1,0.1,tx,tx2025sriynl,2025-09-22T14:50:29.149Z,"16 km SE of Coahoma, Texas",earthquake,0.69351388376849,1.5127418878145,0.2,6.0,reviewed,tx,tx
