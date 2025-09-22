@@ -16172,3 +16172,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T15:49:02.860Z,33.8241667,-116.8868333,13.97,1.92,ml,87.0,19.0,0.06938,0.17,ci,ci40448042,2025-09-22T15:52:30.800Z,"8 km NE of San Jacinto, CA",earthquake,0.11,0.29,0.243,25.0,automatic,ci,ci
 2025-09-22T14:17:08.838Z,36.7715,-116.2547,9.4,-0.5,ml,18.0,92.88,0.036,0.0609,nn,nn00904795,2025-09-22T15:49:54.809Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.29,4.0,reviewed,nn,nn
 2025-09-22T05:24:03.620Z,44.440833333333,-115.20466666667,7.78,2.06,ml,16.0,98.0,0.422,0.14,mb,mb90112868,2025-09-22T15:50:53.910Z,"32 km NW of Stanley, Idaho",earthquake,0.39,1.47,0.19856810107514,28.0,reviewed,mb,mb
+2025-09-22T16:26:47.713Z,62.279,-150.1935,21.5,1.5,ml,,,,0.39,ak,ak025c6j3kub,2025-09-22T16:28:40.588Z,"4 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-22T16:11:26.840Z,32.8218333,-115.4715,8.17,1.12,ml,21.0,66.0,0.02654,0.24,ci,ci40448058,2025-09-22T16:14:52.167Z,"9 km W of Holtville, CA",earthquake,0.55,0.68,0.144,7.0,automatic,ci,ci
+2025-09-22T16:10:01.930Z,38.825668334961,-122.8073348999,2.7000000476837,1.16,md,23.0,49.0,0.003119,0.03,nc,nc75240572,2025-09-22T16:11:35.626Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.419999987,0.13,23.0,automatic,nc,nc
+2025-09-22T16:09:41.390Z,61.0247,-150.7684,45.7,1.7,ml,,,,0.27,ak,ak025c6izx6j,2025-09-22T16:11:06.937Z,"12 km NNW of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-22T15:59:30.359Z,62.0793,-149.1531,32.4,1.7,ml,,,,0.58,ak,ak025c6ip6iz,2025-09-22T16:01:09.709Z,"37 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-22T15:51:40.989Z,-37.8796,176.3906,201.428,4.2,mb,34.0,74.0,0.719,1.1,us,us6000rc2i,2025-09-22T16:27:32.040Z,"13 km SSW of Maketu, New Zealand",earthquake,6.12,5.107,0.128,17.0,reviewed,us,us
+2025-09-22T15:32:05.510Z,33.5708333,-116.6585,10.37,-0.06,ml,8.0,118.0,0.02369,0.13,ci,ci37743900,2025-09-22T16:29:26.724Z,"2 km NE of Anza, CA",earthquake,0.48,0.81,0.161,8.0,reviewed,ci,ci
+2025-09-22T15:18:12.052Z,13.9436,-93.0376,10.0,4.5,mb,79.0,190.0,1.561,0.8,us,us6000rc2b,2025-09-22T16:18:48.040Z,"108 km SW of Puerto Madero, Mexico",earthquake,9.15,1.971,0.055,97.0,reviewed,us,us
+2025-09-22T12:11:37.080Z,36.481,-89.564333333333,10.07,1.47,md,20.0,58.0,0.05993,0.07,nm,nm60614076,2025-09-22T16:07:01.670Z,"6 km SE of Marston, Missouri",earthquake,0.2,0.46,0.12734301474322,14.0,reviewed,nm,nm
+2025-09-22T06:00:39.721Z,41.1424,-116.721,10.2,2.4,ml,13.0,138.83,0.285,0.142,nn,nn00904763,2025-09-22T16:23:34.576Z,"51 km NE of Valmy, Nevada",earthquake,,1.9,0.24,7.0,reviewed,nn,nn
+2025-09-21T19:58:35.556Z,32.089,-101.006,3.3908,1.0,ml,9.0,74.0,0.2,0.1,tx,tx2025sqhseu,2025-09-22T16:19:59.912Z,"28 km N of Sterling City, Texas",earthquake,0.81736887837735,2.4095500867764,0.1,5.0,reviewed,tx,tx
