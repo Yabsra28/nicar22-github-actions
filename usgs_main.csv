@@ -16347,3 +16347,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T06:57:10.083Z,61.6647,-150.3361,18.8,1.4,ml,,,,0.45,ak,ak025c80v5kw,2025-09-23T06:59:04.139Z,"16 km NE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-23T06:56:41.710Z,18.8915,-65.2955,22.08,3.44,md,25.0,229.0,0.7134,0.25,pr,pr71496353,2025-09-23T07:19:50.370Z,"65 km N of Culebra, Puerto Rico",earthquake,0.84,17.71,0.098600130788812,14.0,reviewed,pr,pr
 2025-09-23T06:26:31.327Z,-22.1481,-67.3488,167.849,4.2,mb,53.0,62.0,1.108,1.1,us,us6000rc8h,2025-09-23T06:58:59.040Z,"121 km NE of San Pedro de Atacama, Chile",earthquake,7.67,6.943,0.081,47.0,reviewed,us,us
+2025-09-23T07:20:31.110Z,37.854499816895,-122.24199676514,6.8899998664856,2.26,md,64.0,30.0,0.01903,0.07,nc,nc75240817,2025-09-23T07:34:13.771Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.25,0.15,66.0,automatic,nc,nc
