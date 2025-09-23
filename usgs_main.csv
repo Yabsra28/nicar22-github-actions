@@ -16397,3 +16397,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T07:32:23.831Z,28.878,-99.083,3.3497,1.6,ml,20.0,66.0,0.0,0.4,tx,tx2025stalch,2025-09-23T12:15:07.778Z,"1 km SE of Pearsall, Texas",earthquake,2.9323763852723,1.3800574093108,0.1,11.0,reviewed,tx,tx
 2025-09-23T02:47:56.979Z,35.993,-97.95783333,4.22,1.33,ml,78.0,36.0,0.04589099462,0.27,ok,ok2025sqjw,2025-09-23T12:23:48.233Z,"4 km WNW of Dover, Oklahoma",earthquake,,0.5,0.26,37.0,reviewed,ok,ok
 2025-09-23T02:15:16.583Z,28.848,-99.075,7.7341,1.9,ml,13.0,83.0,0.0,0.3,tx,tx2025sspxvf,2025-09-23T11:59:33.675Z,"5 km SSE of Pearsall, Texas",earthquake,3.0077111059222,3.6950556050627,0.0,7.0,reviewed,tx,tx
+2025-09-23T13:02:18.440Z,40.245834350586,-124.1378326416,14.5,1.38,md,9.0,74.0,0.01396,0.07,nc,nc75240897,2025-09-23T13:03:53.471Z,"15 km SE of Petrolia, CA",earthquake,0.67,1.73000002,0.06,6.0,automatic,nc,nc
+2025-09-23T12:53:07.698Z,60.1354,-152.3525,87.5,1.4,ml,,,,0.37,ak,ak025c84ew5t,2025-09-23T12:55:24.367Z,"39 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-23T12:51:50.881Z,57.6484,-154.7826,61.2,1.5,ml,,,,0.13,ak,ak025c84ek28,2025-09-23T12:53:57.360Z,"21 km WNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2025-09-23T12:48:55.645Z,59.6551,-152.8124,89.5,1.6,ml,,,,0.44,ak,ak025c84dxa8,2025-09-23T12:51:56.146Z,"56 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-23T12:33:27.450Z,38.818332672119,-122.79416656494,3.1099998950958,1.29,md,24.0,84.0,0.01039,0.01,nc,nc75240892,2025-09-23T12:35:04.439Z,"6 km NNW of The Geysers, CA",earthquake,0.28,0.439999998,0.15,24.0,automatic,nc,nc
+2025-09-23T11:27:52.801Z,32.357,-102.071,7.2754,0.6,ml,15.0,68.0,0.0,0.2,tx,tx2025stifza,2025-09-23T12:34:26.906Z,"36 km NW of Stanton, Texas",earthquake,0.64440448975093,0.93404600311287,0.1,7.0,reviewed,tx,tx
+2025-09-23T09:03:50.270Z,32.088,-101.603,6.4209,0.8,ml,13.0,94.0,0.0,0.1,tx,tx2025stdlwj,2025-09-23T13:04:06.098Z,"18 km ESE of Stanton, Texas",earthquake,0.79439901609483,1.1120620037735,0.1,6.0,reviewed,tx,tx
+2025-09-23T03:37:04.750Z,35.98783333,-97.95733333,6.31,1.34,ml,76.0,55.0,0.04229170093,0.26,ok,ok2025sqlm,2025-09-23T12:36:03.720Z,"4 km W of Dover, Oklahoma",earthquake,,0.5,0.2,33.0,reviewed,ok,ok
+2025-09-22T17:14:36.280Z,35.591,-95.07783333,2.29,1.38,ml,56.0,132.0,0.2510507353,0.32,ok,ok2025spqy,2025-09-23T12:49:41.884Z,"2 km NE of Notiechtown, Oklahoma",earthquake,,1.4,0.11,7.0,reviewed,ok,ok
