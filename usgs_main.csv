@@ -16521,3 +16521,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T21:49:19.430Z,35.3615,-117.7903333,6.76,0.79,ml,26.0,73.0,0.1043,0.14,ci,ci40449130,2025-09-23T21:52:50.214Z,"14 km W of Johannesburg, CA",earthquake,0.21,0.52,0.09,13.0,automatic,ci,ci
 2025-09-23T21:45:13.860Z,32.9543333,-116.4583333,8.43,0.83,ml,24.0,70.0,0.04372,0.15,ci,ci40449114,2025-09-23T21:49:00.674Z,"16 km NNE of Pine Valley, CA",earthquake,0.18,0.52,0.122,9.0,automatic,ci,ci
 2025-09-23T18:50:39.418Z,-6.1642,131.2558,76.484,4.4,mb,57.0,26.0,3.372,1.03,us,us6000rcdj,2025-09-23T21:52:37.040Z,"175 km WSW of Tual, Indonesia",earthquake,7.29,7.775,0.094,33.0,reviewed,us,us
+2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8.0,104.0,0.008628,0.01,nc,nc75241122,2025-09-23T22:08:31.639Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7.0,automatic,nc,nc
+2025-09-23T22:06:46.560Z,38.802665710449,-122.77983093262,0.80000001192093,0.75,md,10.0,112.0,0.0106,0.02,nc,nc75241117,2025-09-23T22:22:16.593Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.709999979,0.4,11.0,automatic,nc,nc
+2025-09-23T22:03:50.995Z,3.8617,127.1634,43.606,4.5,mb,23.0,171.0,1.89,0.29,us,us6000rcf7,2025-09-23T22:24:37.040Z,"253 km NNW of Tobelo, Indonesia",earthquake,8.9,10.413,0.14,15.0,reviewed,us,us
+2025-09-23T21:52:15.710Z,11.9628,-89.3067,10.0,5.0,mww,53.0,152.0,1.776,0.74,us,us6000rcf5,2025-09-23T22:04:26.040Z,"167 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.33,1.91,0.083,14.0,reviewed,us,us
