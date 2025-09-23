@@ -16336,3 +16336,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T05:53:21.340Z,35.51583480835,-120.7756652832,6.710000038147,2.22,md,34.0,51.0,0.1106,0.05,nc,nc75240792,2025-09-23T06:09:21.665Z,"7 km WSW of Templeton, CA",earthquake,0.22,0.819999993,0.12,34.0,automatic,nc,nc
 2025-09-23T05:52:20.690Z,35.340168,-119.8335037,5.67,1.21,ml,13.0,163.0,0.07837,0.15,ci,ci40448522,2025-09-23T05:54:32.760Z,"15 km E of Simmler, CA",earthquake,0.7,2.34,0.259,6.0,automatic,ci,ci
 2025-09-23T05:36:33.652Z,-58.7918,-25.3072,34.281,5.1,mb,64.0,69.0,15.82,1.03,us,us6000rc8b,2025-09-23T05:55:44.040Z,South Sandwich Islands region,earthquake,12.01,5.635,0.07,66.0,reviewed,us,us
+2025-09-23T06:35:43.790Z,37.87166595459,-122.25366973877,8.0600004196167,1.03,md,15.0,61.0,0.006964,0.04,nc,nc75240807,2025-09-23T06:37:23.608Z,"2 km ESE of Berkeley, CA",earthquake,0.3,0.439999998,0.04,8.0,automatic,nc,nc
+2025-09-23T06:35:04.234Z,37.9182,-115.9703,0.0,1.1,ml,11.0,332.28,0.763,0.4282,nn,nn00904847,2025-09-23T06:37:38.453Z,"36 km NNW of Rachel, Nevada",earthquake,,34.9,0.15,7.0,automatic,nn,nn
+2025-09-23T06:19:45.605Z,52.7258,160.2392,35.0,5.0,mb,110.0,119.0,1.008,0.87,us,us6000rc8g,2025-09-23T06:36:59.040Z,"114 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.89,1.906,0.024,569.0,reviewed,us,us
+2025-09-23T05:41:51.200Z,19.3848,-68.3823,59.0,3.72,md,15.0,211.0,0.8115,0.31,pr,pr2025266001,2025-09-23T06:17:20.412Z,"82 km ENE of Miches, Dominican Republic",earthquake,2.28,6.2,0.07,9.0,reviewed,pr,pr
