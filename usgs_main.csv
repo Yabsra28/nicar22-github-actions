@@ -16432,3 +16432,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T14:58:05.690Z,35.6678352,-117.5403366,5.64,1.12,ml,10.0,163.0,0.095,0.09,ci,ci40448818,2025-09-23T15:00:26.897Z,"13 km ENE of Ridgecrest, CA",earthquake,0.66,2.04,0.277,6.0,automatic,ci,ci
 2025-09-23T09:52:51.550Z,28.85,-99.103,8.4722,1.6,ml,10.0,81.0,0.0,0.2,tx,tx2025stfcdh,2025-09-23T15:10:36.980Z,"4 km S of Pearsall, Texas",earthquake,2.2604736545061,1.1691937778755,0.1,6.0,reviewed,tx,tx
 2025-09-22T15:25:15.792Z,31.6,-104.2,6.1255,1.4,ml,18.0,73.0,0.1,0.1,tx,tx2025srujiz,2025-09-23T15:07:05.960Z,"49 km NW of Toyah, Texas",earthquake,1.1842970319871,1.6010273880687,0.2,13.0,reviewed,tx,tx
+2025-09-23T15:26:31.919Z,60.7223,-150.8631,32.4,1.7,ml,,,,0.27,ak,ak025c861gif,2025-09-23T15:27:48.670Z,"21 km NNW of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-23T15:23:36.197Z,64.4217,-148.6926,5.1,1.1,ml,,,,0.48,ak,ak025c860toz,2025-09-23T15:25:37.195Z,"25 km SE of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-23T15:20:24.425Z,60.7912,-150.8188,27.2,1.2,ml,,,,0.32,ak,ak025c8605my,2025-09-23T15:21:42.512Z,"16 km SSW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-23T15:06:49.690Z,35.968166666667,-91.276166666667,15.72,2.02,md,8.0,172.0,0.1419,0.18,nm,nm60504173,2025-09-23T15:20:36.880Z,"4 km E of Strawberry, Arkansas",earthquake,0.65,0.71,0.11473414918646,6.0,reviewed,nm,nm
+2025-09-23T09:11:55.640Z,32.6225,-115.6755,5.68,1.35,ml,5.0,147.0,0.05058,0.11,ci,ci37744036,2025-09-23T15:31:26.689Z,"10 km WNW of Progreso, B.C., MX",earthquake,0.43,0.38,0.112,4.0,reviewed,ci,ci
