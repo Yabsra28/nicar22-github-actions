@@ -16381,3 +16381,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T10:39:14.639Z,66.0675,-149.1299,2.4,1.7,ml,,,,0.69,ak,ak025c8351gn,2025-09-23T10:41:51.547Z,"7 km NNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-23T03:55:37.556Z,28.836,-99.098,8.3515,1.5,ml,13.0,83.0,0.0,0.3,tx,tx2025sstght,2025-09-23T10:46:54.243Z,"6 km S of Pearsall, Texas",earthquake,2.8320972458915,1.2521707711627,0.2,6.0,reviewed,tx,tx
 2025-09-23T01:56:13.493Z,28.781,-99.024,4.9746,1.6,ml,17.0,75.0,0.1,0.4,tx,tx2025ssphky,2025-09-23T10:36:24.176Z,"14 km SSE of Pearsall, Texas",earthquake,3.0678233498632,2.2773644807129,0.1,8.0,reviewed,tx,tx
+2025-09-23T10:48:09.000Z,39.107,-119.0661,3.8,1.2,ml,14.0,75.4,0.182,0.1523,nn,nn00904854,2025-09-23T10:50:31.111Z,"15 km NNE of Yerington, Nevada",earthquake,,13.5,0.26,9.0,automatic,nn,nn
