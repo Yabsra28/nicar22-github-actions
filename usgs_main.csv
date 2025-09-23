@@ -16507,3 +16507,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T17:26:42.942Z,52.1724,158.3384,79.144,4.6,mb,27.0,201.0,0.873,0.63,us,us6000rcdb,2025-09-23T20:13:17.040Z,"84 km S of Vilyuchinsk, Russia",earthquake,12.42,8.545,0.088,38.0,reviewed,us,us
 2025-09-23T20:36:24.182Z,58.2493,-154.9184,1.1,0.8,ml,,,,0.57,ak,ak025c892r3m,2025-09-23T20:38:08.845Z,"80 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-23T19:54:41.867Z,-9.63,119.5847,72.024,4.9,mb,76.0,53.0,0.704,1.03,us,us6000rcdx,2025-09-23T20:39:16.040Z,"44 km ESE of Tambolaka, Indonesia",earthquake,6.26,5.637,0.075,56.0,reviewed,us,us
+2025-09-23T20:51:07.110Z,38.825500488281,-122.79483032227,2.8399999141693,0.76,md,12.0,63.0,0.01209,0.02,nc,nc75241067,2025-09-23T20:52:42.124Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.730000019,0.19,13.0,automatic,nc,nc
