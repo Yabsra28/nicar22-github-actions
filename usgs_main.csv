@@ -16505,3 +16505,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T20:16:28.780Z,38.811500549316,-122.80166625977,0.83999997377396,0.76,md,8.0,81.0,0.006096,0.02,nc,nc75241062,2025-09-23T20:18:05.734Z,"5 km NW of The Geysers, CA",earthquake,0.33,0.589999974,0.16,9.0,automatic,nc,nc
 2025-09-23T20:15:43.795Z,59.8344,-153.0576,17.8,1.4,ml,,,,1.34,ak,ak025c88yakr,2025-09-23T20:17:32.390Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-23T17:26:42.942Z,52.1724,158.3384,79.144,4.6,mb,27.0,201.0,0.873,0.63,us,us6000rcdb,2025-09-23T20:13:17.040Z,"84 km S of Vilyuchinsk, Russia",earthquake,12.42,8.545,0.088,38.0,reviewed,us,us
+2025-09-23T20:36:24.182Z,58.2493,-154.9184,1.1,0.8,ml,,,,0.57,ak,ak025c892r3m,2025-09-23T20:38:08.845Z,"80 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-23T19:54:41.867Z,-9.63,119.5847,72.024,4.9,mb,76.0,53.0,0.704,1.03,us,us6000rcdx,2025-09-23T20:39:16.040Z,"44 km ESE of Tambolaka, Indonesia",earthquake,6.26,5.637,0.075,56.0,reviewed,us,us
