@@ -16377,3 +16377,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T09:26:43.900Z,19.378,-65.7395,9.0,4.0,md,24.0,217.0,1.123,0.37,pr,pr2025266002,2025-09-23T10:07:44.458Z,"105 km N of Suárez, Puerto Rico",earthquake,1.39,2.64,0.1,13.0,reviewed,pr,pr
 2025-09-23T10:26:10.740Z,36.7688,-116.2522,10.2,-0.2,ml,9.0,92.04,0.052,0.0837,nn,nn00904853,2025-09-23T10:27:59.508Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,0.31,5.0,automatic,nn,nn
 2025-09-23T10:14:27.050Z,36.0286674,-117.8951645,3.32,1.21,ml,15.0,78.0,0.02124,0.12,ci,ci40448658,2025-09-23T10:16:30.244Z,"5 km ESE of Coso Junction, CA",earthquake,0.55,0.63,0.337,6.0,automatic,ci,ci
+2025-09-23T10:45:58.900Z,64.4808,-149.2657,10.8,1.4,ml,,,,0.63,ak,ak025c836f6a,2025-09-23T10:47:57.792Z,"12 km SW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-23T10:39:14.639Z,66.0675,-149.1299,2.4,1.7,ml,,,,0.69,ak,ak025c8351gn,2025-09-23T10:41:51.547Z,"7 km NNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-23T03:55:37.556Z,28.836,-99.098,8.3515,1.5,ml,13.0,83.0,0.0,0.3,tx,tx2025sstght,2025-09-23T10:46:54.243Z,"6 km S of Pearsall, Texas",earthquake,2.8320972458915,1.2521707711627,0.2,6.0,reviewed,tx,tx
+2025-09-23T01:56:13.493Z,28.781,-99.024,4.9746,1.6,ml,17.0,75.0,0.1,0.4,tx,tx2025ssphky,2025-09-23T10:36:24.176Z,"14 km SSE of Pearsall, Texas",earthquake,3.0678233498632,2.2773644807129,0.1,8.0,reviewed,tx,tx
