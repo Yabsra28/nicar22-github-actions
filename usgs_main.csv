@@ -16304,3 +16304,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:19:15.529Z,21.1718,95.6911,124.532,4.2,mb,24.0,138.0,2.822,0.71,us,us6000rc6v,2025-09-23T01:22:10.040Z,"36 km NNW of Meiktila, Burma (Myanmar)",earthquake,12.95,11.381,0.132,16.0,reviewed,us,us
 2025-09-22T21:41:05.521Z,32.104,-101.925,8.4473,0.9,ml,26.0,59.0,0.1,0.1,tx,tx2025ssgvnq,2025-09-23T01:16:49.464Z,"13 km WSW of Stanton, Texas",earthquake,0.4805938072912,1.1528781108988,0.1,15.0,reviewed,tx,tx
 2025-09-22T19:51:58.738Z,36.4898,-115.8544,11.6,0.6,ml,16.0,287.68,0.193,0.0715,nn,nn00904834,2025-09-23T01:47:47.714Z,"18 km WSW of Indian Springs, Nevada",earthquake,,3.3,0.14,2.0,reviewed,nn,nn
+2025-09-23T03:04:39.423Z,63.336,-145.4389,7.1,1.7,ml,,,,0.51,ak,ak025c7yrk2v,2025-09-23T03:07:47.008Z,"28 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-23T03:03:12.800Z,33.1466675,-115.9953308,5.72,1.45,ml,67.0,35.0,0.03055,0.27,ci,ci40448498,2025-09-23T03:05:29.825Z,"13 km E of Ocotillo Wells, CA",earthquake,0.23,0.64,0.31,14.0,automatic,ci,ci
+2025-09-23T03:01:06.516Z,28.813,-99.072,9.83,1.6,ml,7.0,103.0,0.3,0.3,tx,tx2025ssrlhu,2025-09-23T03:04:00.719Z,"9 km SSE of Pearsall, Texas",earthquake,0.0,8.0392799377441,0.4,6.0,automatic,tx,tx
+2025-09-23T02:58:43.003Z,63.2585,-150.5594,120.6,1.8,ml,,,,0.3,ak,ak025c7yhpf0,2025-09-23T03:01:20.095Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-23T02:16:25.930Z,19.4686,-68.41,69.0,3.74,md,15.0,219.0,0.7985,0.45,pr,pr2025266000,2025-09-23T03:06:55.385Z,"85 km NE of Miches, Dominican Republic",earthquake,4.11,5.89,0.09,7.0,reviewed,pr,pr
