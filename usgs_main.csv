@@ -16702,3 +16702,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T16:42:11.220Z,33.5341667,-116.7235,5.18,0.69,ml,25.0,44.0,0.03321,0.12,ci,ci40449810,2025-09-24T16:45:52.405Z,"5 km WSW of Anza, CA",earthquake,0.16,0.41,0.179,18.0,automatic,ci,ci
 2025-09-24T16:42:03.382Z,63.2136,-151.5592,14.8,3.1,ml,,,,0.96,ak,ak025c9u9lsp,2025-09-24T16:44:12.440Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T16:36:57.770Z,38.814998626709,-122.81666564941,2.8499999046326,0.93,md,9.0,106.0,0.009839,0.01,nc,nc75241467,2025-09-24T16:38:35.548Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.769999981,0.31,13.0,automatic,nc,nc
+2025-09-24T17:06:54.530Z,34.0063333,-116.8386667,15.78,1.11,ml,31.0,69.0,0.03853,0.15,ci,ci40449858,2025-09-24T17:10:21.504Z,"10 km NNE of Banning, CA",earthquake,0.19,0.48,0.233,29.0,automatic,ci,ci
+2025-09-24T17:03:21.329Z,31.522,-104.018,4.2849,1.5,ml,28.0,61.0,0.0,0.3,tx,tx2025svpbsj,2025-09-24T17:07:11.508Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.1031711101532,0.1,18.0,automatic,tx,tx
+2025-09-24T17:00:28.652Z,31.518,-104.017,5.6604,2.1,ml,42.0,109.0,0.0,0.6,tx,tx2025svozmd,2025-09-24T17:05:50.177Z,"30 km NW of Toyah, Texas",earthquake,0.0,1.8402636051178,0.2,30.0,automatic,tx,tx
