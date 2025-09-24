@@ -16627,3 +16627,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T09:35:43.630Z,38.844501495361,-122.88116455078,2.3199999332428,1.19,md,13.0,147.0,0.006519,0.02,nc,nc75241272,2025-09-24T09:37:20.217Z,"13 km E of Cloverdale, CA",earthquake,0.38,0.5,0.12,13.0,automatic,nc,nc
 2025-09-24T09:30:21.330Z,19.261499404907,-155.40882873535,30.879999160767,2.14,ml,28.0,90.0,0.02616,0.119999997,hv,hv74784117,2025-09-24T09:33:40.050Z,"9 km NE of Pāhala, Hawaii",earthquake,0.63,0.660000026,0.17,5.0,automatic,hv,hv
 2025-09-24T09:00:44.615Z,32.105,-101.939,7.8369,1.9,ml,57.0,48.0,0.1,0.1,tx,tx2025suzcbw,2025-09-24T09:45:48.555Z,"14 km W of Stanton, Texas",earthquake,0.24197299299052,0.50793188735,0.1,38.0,reviewed,tx,tx
+2025-09-24T09:52:01.778Z,56.7784,-158.8009,3.3,2.3,ml,,,,0.88,ak,ak025c9q5po1,2025-09-24T09:54:07.672Z,"54 km NNW of Chignik Lagoon, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-24T09:44:16.343Z,37.35,-117.7507,0.8,1.2,ml,7.0,229.38,1.007,0.1003,nn,nn00904920,2025-09-24T09:47:06.290Z,"44 km SE of Dyer, Nevada",earthquake,,125.0,0.43,6.0,automatic,nn,nn
