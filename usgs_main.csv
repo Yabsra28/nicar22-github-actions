@@ -16736,3 +16736,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T20:31:30.000Z,33.2601667,-116.3673333,4.49,0.79,ml,33.0,61.0,0.04251,0.19,ci,ci41096807,2025-09-24T20:34:55.779Z,"1 km ENE of Borrego Springs, CA",earthquake,0.23,0.45,0.204,19.0,automatic,ci,ci
 2025-09-24T20:40:28.920Z,31.531,-104.02,6.3363,1.7,ml,35.0,58.0,0.0,0.4,tx,tx2025svwhbc,2025-09-24T20:43:33.582Z,"32 km NW of Toyah, Texas",earthquake,0.0,1.9798156023026,0.2,26.0,automatic,tx,tx
 2025-09-24T21:04:21.608Z,31.523,-104.02,4.4103,2.4,ml,42.0,62.0,0.0,0.3,tx,tx2025svxbpd,2025-09-24T21:08:06.794Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.90293169021606,0.2,30.0,automatic,tx,tx
+2025-09-24T21:13:50.403Z,65.2027,-148.4331,12.6,0.8,ml,,,,0.2,ak,ak025c9x2nr4,2025-09-24T21:15:00.609Z,"36 km S of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-24T21:02:37.552Z,66.5764,-148.0589,21.8,1.7,ml,,,,1.24,ak,ak025c9x09vv,2025-09-24T21:09:44.732Z,"38 km NW of Beaver, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-24T20:29:52.392Z,41.9408,-119.6134,1.6,2.0,ml,6.0,127.52,0.515,0.1261,nn,nn00904945,2025-09-24T21:14:50.034Z,"45 km E of Fort Bidwell, California",earthquake,,5.1,0.12,4.0,reviewed,nn,nn
