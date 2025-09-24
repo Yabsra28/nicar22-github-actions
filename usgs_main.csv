@@ -16563,3 +16563,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T03:27:47.016Z,62.5257,-152.1446,7.5,2.5,ml,,,,0.75,ak,ak025c9mfuil,2025-09-24T03:29:50.128Z,"71 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-23T23:23:39.394Z,-40.6324,173.66,126.251,4.3,mb,39.0,64.0,0.621,0.79,us,us6000rcfm,2025-09-24T03:44:32.040Z,"71 km NNE of Marybank, New Zealand",earthquake,5.07,6.948,0.177,9.0,reviewed,us,us
 2025-09-23T20:57:11.020Z,47.165833333333,-121.82533333333,15.91,0.63,ml,12.0,151.0,0.2005,0.08,uw,uw62193221,2025-09-24T03:30:07.340Z,"13 km ESE of Enumclaw, Washington",earthquake,0.53,0.93,0.10624584961783,4.0,reviewed,uw,uw
+2025-09-24T03:52:33.020Z,38.773998260498,-122.77500152588,4.210000038147,0.76,md,11.0,137.0,0.00794,0.17,nc,nc75241207,2025-09-24T03:54:07.667Z,"2 km W of The Geysers, CA",earthquake,0.99,1.15999997,0.05,12.0,automatic,nc,nc
+2025-09-24T03:45:45.900Z,34.196,-117.47,8.62,0.69,ml,22.0,53.0,0.02723,0.14,ci,ci40449258,2025-09-24T03:49:15.845Z,"7 km WSW of Devore, CA",earthquake,0.24,0.34,0.299,17.0,automatic,ci,ci
