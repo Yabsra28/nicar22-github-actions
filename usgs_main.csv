@@ -16579,3 +16579,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T04:45:22.671Z,61.711,-151.9247,100.4,1.7,ml,,,,0.25,ak,ak025c9n538r,2025-09-24T04:46:50.023Z,"41 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T04:41:42.880Z,32.6675,-115.656,9.16,1.25,ml,32.0,48.0,0.06207,0.22,ci,ci40449290,2025-09-24T04:45:12.990Z,"12 km NW of Progreso, B.C., MX",earthquake,0.25,0.57,0.216,17.0,automatic,ci,ci
 2025-09-24T04:38:16.700Z,19.40333366394,-155.42767333984,2.0599999427795,2.11,ml,51.0,29.0,0.04178,0.189999998,hv,hv74783912,2025-09-24T04:42:18.340Z,"20 km WSW of Volcano, Hawaii",earthquake,0.25,0.860000014,0.27,19.0,automatic,hv,hv
+2025-09-24T05:05:23.926Z,61.2241,-150.1315,44.1,1.2,ml,,,,0.55,ak,ak025c9nhyaw,2025-09-24T05:07:40.557Z,"12 km W of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-24T05:00:14.250Z,58.1533,-154.773,10.8,1.4,ml,,,,0.26,ak,ak025c9nguz5,2025-09-24T05:02:37.515Z,"67 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-24T04:59:02.400Z,33.643,-117.0076667,11.98,0.4,ml,17.0,60.0,0.007152,0.1,ci,ci40449322,2025-09-24T05:02:28.916Z,"10 km SE of Winchester, CA",earthquake,0.2,0.32,0.167,9.0,automatic,ci,ci
+2025-09-24T04:56:59.150Z,-23.8183,-69.1031,103.061,5.2,mww,65.0,84.0,1.188,1.42,us,us6000rcgd,2025-09-24T05:10:54.040Z,"133 km E of Antofagasta, Chile",earthquake,5.0,6.452,0.056,31.0,reviewed,us,us
+2025-09-24T04:56:28.904Z,40.4468,-119.8014,14.1,2.1,ml,16.0,153.21,0.282,0.3709,nn,nn00904910,2025-09-24T04:59:27.429Z,"41 km WSW of Empire, Nevada",earthquake,,0.5,0.35,10.0,automatic,nn,nn
+2025-09-24T04:51:07.980Z,35.3516667,-117.7946667,6.11,1.16,ml,40.0,66.0,0.09389,0.18,ci,ci40449314,2025-09-24T04:54:36.090Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.6,0.185,24.0,automatic,ci,ci
