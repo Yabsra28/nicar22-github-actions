@@ -16686,3 +16686,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T14:53:16.434Z,-4.1643,142.4404,117.618,5.0,mww,69.0,47.0,2.386,0.68,us,us6000rcj3,2025-09-24T15:12:22.040Z,"42 km W of Ambunti, Papua New Guinea",earthquake,7.22,6.086,0.086,13.0,reviewed,us,us
 2025-09-24T15:01:47.660Z,32.119,-101.043,4.6143,1.6,ml,28.0,63.0,0.2,0.2,tx,tx2025svlbfc,2025-09-24T15:27:44.983Z,"26 km S of Westbrook, Texas",earthquake,0.77221376013219,1.8263194531391,0.2,18.0,reviewed,tx,tx
 2025-09-23T16:18:06.565Z,51.5004,159.3655,29.201,4.5,mb,78.0,130.0,1.587,0.64,us,us6000rchl,2025-09-24T15:30:13.040Z,"172 km SSE of Vilyuchinsk, Russia",earthquake,9.92,5.778,0.066,68.0,reviewed,us,us
+2025-09-24T15:48:28.867Z,61.5768,-149.2014,30.8,2.6,ml,,,,0.53,ak,ak025c9tpihx,2025-09-24T15:49:55.014Z,"2 km ENE of Gateway, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-24T15:41:10.730Z,35.7518333,-117.607,10.85,0.43,ml,12.0,168.0,0.06423,0.1,ci,ci40449738,2025-09-24T15:44:39.775Z,"16 km NNE of Ridgecrest, CA",earthquake,0.34,0.38,0.152,8.0,automatic,ci,ci
+2025-09-24T15:40:45.870Z,37.721500396729,-122.25716400147,0.76999998092651,1.21,md,4.0,229.0,0.1094,0.03,nc,nc75241442,2025-09-24T15:42:25.211Z,"5 km SSW of Alameda, CA",earthquake,3.58,8.10999966,0.3,5.0,automatic,nc,nc
