@@ -16552,3 +16552,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T21:05:27.266Z,-15.9934,-75.4479,10.0,4.4,mb,32.0,137.0,4.206,0.67,us,us6000rcez,2025-09-24T00:58:21.040Z,"75 km SSW of San Juan, Peru",earthquake,10.08,1.902,0.13,17.0,reviewed,us,us
 2025-09-23T19:09:55.420Z,46.195833333333,-122.17866666667,-1.76,0.25,ml,11.0,100.0,0.00645,0.13,uw,uw62193141,2025-09-24T00:01:16.430Z,"37 km NNE of Amboy, Washington",earthquake,0.4,7.83,0.065589129235324,3.0,reviewed,uw,uw
 2025-09-23T18:36:10.620Z,47.707833333333,-120.28733333333,-0.27,0.56,ml,8.0,91.0,0.05986,0.14,uw,uw62193111,2025-09-24T00:33:54.470Z,"6 km WNW of Entiat, Washington",earthquake,0.33,12.48,0.14252477402528,7.0,reviewed,uw,uw
+2025-09-24T02:22:58.964Z,36.7112,-115.9428,0.5,-0.4,ml,8.0,247.3,0.038,0.2207,nn,nn00904907,2025-09-24T02:25:14.349Z,"28 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.57,4.0,automatic,nn,nn
+2025-09-24T02:15:58.661Z,64.6819,-150.8299,13.3,1.0,ml,,,,0.83,ak,ak025c9lrvbu,2025-09-24T02:17:58.667Z,"36 km SSW of Manley Hot Springs, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-24T02:11:32.310Z,35.9498333,-117.368,2.06,0.57,ml,16.0,159.0,0.09043,0.13,ci,ci40449234,2025-09-24T02:15:12.732Z,"20 km N of Searles Valley, CA",earthquake,0.35,0.43,0.115,8.0,automatic,ci,ci
+2025-09-24T02:10:43.960Z,35.9008333,-117.6688333,3.68,1.32,ml,9.0,128.0,0.0493,0.04,ci,ci40449226,2025-09-24T02:14:05.723Z,"22 km E of Little Lake, CA",earthquake,0.44,1.28,0.095,2.0,automatic,ci,ci
+2025-09-23T21:27:02.170Z,49.8256,155.7497,81.779,4.5,mb,46.0,128.0,3.506,0.66,us,us6000rcf4,2025-09-24T02:37:08.040Z,"98 km SSW of Severo-Kuril’sk, Russia",earthquake,9.95,5.042,0.062,76.0,reviewed,us,us
