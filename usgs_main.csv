@@ -16758,3 +16758,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T22:27:35.000Z,38.813167572021,-122.81749725342,2.8399999141693,1.07,md,18.0,53.0,0.01009,0.02,nc,nc75241567,2025-09-24T22:29:09.223Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.519999981,0.06,20.0,automatic,nc,nc
 2025-09-24T22:27:20.970Z,38.813667297363,-122.81800079346,2.5899999141693,1.49,md,28.0,52.0,0.009961,0.03,nc,nc75241562,2025-09-24T22:30:40.840Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.389999986,0.15,28.0,automatic,nc,nc
 2025-09-24T22:21:55.207Z,9.9222,-70.7174,7.815,6.2,mww,61.0,55.0,1.035,1.03,us,us6000rcnw,2025-09-24T22:35:16.040Z,"24 km ENE of Mene Grande, Venezuela",earthquake,5.27,6.004,0.052,36.0,reviewed,us,us
+2025-09-24T22:40:16.871Z,62.2359,-151.4613,83.1,2.1,ml,,,,0.5,ak,ak025c9xtt3r,2025-09-24T22:42:54.701Z,"27 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
