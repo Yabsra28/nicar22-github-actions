@@ -16689,3 +16689,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T15:48:28.867Z,61.5768,-149.2014,30.8,2.6,ml,,,,0.53,ak,ak025c9tpihx,2025-09-24T15:49:55.014Z,"2 km ENE of Gateway, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-24T15:41:10.730Z,35.7518333,-117.607,10.85,0.43,ml,12.0,168.0,0.06423,0.1,ci,ci40449738,2025-09-24T15:44:39.775Z,"16 km NNE of Ridgecrest, CA",earthquake,0.34,0.38,0.152,8.0,automatic,ci,ci
 2025-09-24T15:40:45.870Z,37.721500396729,-122.25716400147,0.76999998092651,1.21,md,4.0,229.0,0.1094,0.03,nc,nc75241442,2025-09-24T15:42:25.211Z,"5 km SSW of Alameda, CA",earthquake,3.58,8.10999966,0.3,5.0,automatic,nc,nc
+2025-09-24T16:01:14.720Z,33.533,-116.7265,4.93,1.04,ml,42.0,31.0,0.03355,0.16,ci,ci40449770,2025-09-24T16:06:40.421Z,"6 km WSW of Anza, CA",earthquake,0.14,0.42,0.201,29.0,reviewed,ci,ci
+2025-09-24T15:44:12.020Z,44.805166666667,-110.83433333333,5.09,0.82,ml,11.0,110.0,0.02039,0.17,uu,uu80117991,2025-09-24T16:06:52.880Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.43,0.67,0.012724082138744,2.0,reviewed,uu,uu
