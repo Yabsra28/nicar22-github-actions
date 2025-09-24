@@ -16542,3 +16542,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T23:39:01.922Z,38.8705,-118.727,7.0,1.7,ml,14.0,114.73,0.416,0.1303,nn,nn00904899,2025-09-23T23:41:45.755Z,"11 km SE of Schurz, Nevada",earthquake,,1.1,0.14,8.0,automatic,nn,nn
 2025-09-23T23:32:13.346Z,28.869,-99.125,7.8241,2.5,ml,15.0,80.0,0.4,0.5,tx,tx2025suggen,2025-09-23T23:35:54.687Z,"3 km SSW of West Pearsall, Texas",earthquake,0.0,3.4848773479462,0.1,11.0,automatic,tx,tx
 2025-09-23T23:30:34.310Z,33.6833333,-116.7673333,12.94,0.87,ml,27.0,73.0,0.05547,0.13,ci,ci40449194,2025-09-23T23:34:20.616Z,"8 km SW of Idyllwild, CA",earthquake,0.2,0.36,0.188,27.0,automatic,ci,ci
+2025-09-24T01:20:39.704Z,58.7318,-152.796,66.0,1.7,ml,,,,0.76,ak,ak025c9l7gua,2025-09-24T01:22:32.167Z,"75 km N of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-24T00:58:58.280Z,32.7415,-115.8816667,10.82,0.87,ml,27.0,76.0,0.09977,0.2,ci,ci40449218,2025-09-24T01:02:31.127Z,"10 km E of Ocotillo, CA",earthquake,0.28,0.58,0.181,8.0,automatic,ci,ci
+2025-09-24T00:57:10.834Z,64.5388,-149.9345,17.3,1.0,ml,,,,0.46,ak,ak025c9ktwi3,2025-09-24T00:59:11.811Z,"39 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-24T00:45:53.654Z,59.755,-151.8466,35.4,2.0,ml,,,,0.49,ak,ak025c9krf7p,2025-09-24T00:48:09.114Z,"2 km SSW of Anchor Point, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2025-09-24T00:23:04.221Z,28.767,-99.006,3.1619,1.9,ml,6.0,131.0,0.3,0.4,tx,tx2025suhxzm,2025-09-24T00:25:19.020Z,"16 km SSE of Pearsall, Texas",earthquake,0.0,3.8741524219513,0.1,6.0,automatic,tx,tx
+2025-09-24T00:21:31.230Z,38.825832366943,-122.80999755859,2.0,0.76,md,7.0,108.0,0.002435,0.02,nc,nc75241167,2025-09-24T00:23:06.761Z,"7 km NNW of The Geysers, CA",earthquake,0.38,1.69000006,0.25,8.0,automatic,nc,nc
+2025-09-23T23:58:25.422Z,64.9401,-147.75,0.0,1.1,ml,,,,0.85,ak,ak025c8azrri,2025-09-24T00:00:27.206Z,"4 km NW of Farmers Loop, Alaska",earthquake,,30.0,,,automatic,ak,ak
+2025-09-23T21:05:27.266Z,-15.9934,-75.4479,10.0,4.4,mb,32.0,137.0,4.206,0.67,us,us6000rcez,2025-09-24T00:58:21.040Z,"75 km SSW of San Juan, Peru",earthquake,10.08,1.902,0.13,17.0,reviewed,us,us
+2025-09-23T19:09:55.420Z,46.195833333333,-122.17866666667,-1.76,0.25,ml,11.0,100.0,0.00645,0.13,uw,uw62193141,2025-09-24T00:01:16.430Z,"37 km NNE of Amboy, Washington",earthquake,0.4,7.83,0.065589129235324,3.0,reviewed,uw,uw
+2025-09-23T18:36:10.620Z,47.707833333333,-120.28733333333,-0.27,0.56,ml,8.0,91.0,0.05986,0.14,uw,uw62193111,2025-09-24T00:33:54.470Z,"6 km WNW of Entiat, Washington",earthquake,0.33,12.48,0.14252477402528,7.0,reviewed,uw,uw
