@@ -16767,3 +16767,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T18:42:32.483Z,32.12,-101.11,2.2798,1.8,mlv,27.0,78.0,0.2,0.5,tx,tx2025svsjle,2025-09-24T23:16:59.688Z,"24 km E of Forsan, Texas",earthquake,0.0,1.1660389900208,0.1,18.0,automatic,tx,tx
 2025-09-24T13:30:11.808Z,32.404,-101.398,4.2468,1.1,mlv,6.0,169.0,0.0,0.1,tx,tx2025sviach,2025-09-24T23:13:47.738Z,"14 km NNW of Sand Springs, Texas",earthquake,0.0,2.1506354808807,0.3,5.0,automatic,tx,tx
 2025-09-24T22:19:11.992Z,32.663,-16.3194,10.0,4.0,mb,12.0,206.0,7.51,0.86,us,us6000rcp6,2025-09-24T23:29:55.040Z,"40 km ESE of Caniçal, Portugal",earthquake,14.73,2.006,0.299,4.0,reviewed,us,us
+2025-09-24T23:47:31.855Z,31.521,-104.025,4.2093,2.1,ml,34.0,61.0,0.0,0.3,tx,tx2025swcmel,2025-09-24T23:51:19.712Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.0203335285187,0.1,25.0,automatic,tx,tx
+2025-09-24T23:43:29.389Z,66.0241,-148.2534,14.7,1.6,ml,,,,1.15,ak,ak025c9yfww9,2025-09-24T23:46:41.231Z,"38 km E of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-24T23:43:02.490Z,31.658,-104.407,4.4202,1.9,ml,30.0,71.0,0.0,0.5,tx,tx2025swcijk,2025-09-24T23:46:26.980Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.1203942298889,0.1,19.0,automatic,tx,tx
