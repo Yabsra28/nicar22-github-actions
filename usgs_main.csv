@@ -16605,3 +16605,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T06:13:33.160Z,51.599,159.5893,10.0,4.9,mb,48.0,138.0,1.539,0.97,us,us6000rcgv,2025-09-24T06:38:32.040Z,"168 km SSE of Vilyuchinsk, Russia",earthquake,10.43,1.908,0.068,69.0,reviewed,us,us
 2025-09-24T05:53:17.900Z,18.0841,-68.476,90.0,3.65,md,19.0,216.0,0.4401,0.51,pr,pr2025267000,2025-09-24T06:34:06.718Z,"35 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.02,2.49,0.05,7.0,reviewed,pr,pr
 2025-09-24T05:06:33.840Z,18.8705,-64.442666666667,9.67,3.42,md,14.0,277.0,0.3802,0.43,pr,pr71496433,2025-09-24T06:46:47.850Z,"70 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.47,4.3,0.063152647692112,4.0,reviewed,pr,pr
+2025-09-24T06:52:51.950Z,35.9768333,-117.3381667,3.53,1.04,ml,21.0,70.0,0.09657,0.15,ci,ci40449530,2025-09-24T06:56:21.051Z,"24 km N of Trona, CA",earthquake,0.24,0.65,0.105,15.0,automatic,ci,ci
