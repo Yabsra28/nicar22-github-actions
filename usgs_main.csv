@@ -16572,3 +16572,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T21:02:18.320Z,48.4745,-116.5125,-1.07,1.64,md,5.0,263.0,0.4581,0.19,uw,uw62193236,2025-09-24T03:59:39.390Z,"18 km N of Kootenai, Idaho",explosion,1.69,31.61,0.29568690909025,2.0,reviewed,uw,uw
 2025-09-24T04:30:16.967Z,62.4498,-152.0656,0.0,1.6,ml,,,,0.94,ak,ak025c9n1v28,2025-09-24T04:32:29.882Z,"61 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-24T02:36:33.250Z,46.197666666667,-122.177,-1.46,-0.21,mh,5.0,186.0,0.006425,0.16,uw,uw62193326,2025-09-24T04:26:46.430Z,"38 km NNE of Amboy, Washington",earthquake,1.03,2.76,,0.0,reviewed,uw,uw
+2025-09-24T04:47:18.125Z,31.712,-104.276,4.0561,1.9,ml,41.0,50.0,0.0,0.3,tx,tx2025suqrrv,2025-09-24T04:51:57.731Z,"52 km S of Whites City, New Mexico",earthquake,0.0,0.85953485965729,0.2,29.0,automatic,tx,tx
+2025-09-24T04:47:09.340Z,34.1038333,-116.9335,5.64,1.39,ml,75.0,32.0,0.01045,0.15,ci,ci40449306,2025-09-24T04:50:33.109Z,"13 km NE of Yucaipa, CA",earthquake,0.11,0.3,0.147,27.0,automatic,ci,ci
+2025-09-24T04:46:17.657Z,31.71,-104.273,4.1036,1.5,ml,31.0,58.0,0.0,0.3,tx,tx2025suqqve,2025-09-24T04:50:37.719Z,"52 km S of Whites City, New Mexico",earthquake,0.0,0.96959429979324,0.2,22.0,automatic,tx,tx
+2025-09-24T04:45:51.370Z,35.1963333,-118.6226667,7.97,1.7,ml,44.0,43.0,0.06428,0.16,ci,ci40449298,2025-09-24T04:49:18.829Z,"17 km WNW of Tehachapi, CA",earthquake,0.16,0.56,0.26,26.0,automatic,ci,ci
+2025-09-24T04:45:22.671Z,61.711,-151.9247,100.4,1.7,ml,,,,0.25,ak,ak025c9n538r,2025-09-24T04:46:50.023Z,"41 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-24T04:41:42.880Z,32.6675,-115.656,9.16,1.25,ml,32.0,48.0,0.06207,0.22,ci,ci40449290,2025-09-24T04:45:12.990Z,"12 km NW of Progreso, B.C., MX",earthquake,0.25,0.57,0.216,17.0,automatic,ci,ci
+2025-09-24T04:38:16.700Z,19.40333366394,-155.42767333984,2.0599999427795,2.11,ml,51.0,29.0,0.04178,0.189999998,hv,hv74783912,2025-09-24T04:42:18.340Z,"20 km WSW of Volcano, Hawaii",earthquake,0.25,0.860000014,0.27,19.0,automatic,hv,hv
