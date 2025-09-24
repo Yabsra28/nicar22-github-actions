@@ -16616,3 +16616,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T07:24:52.931Z,62.0489,-150.9348,63.0,1.9,ml,,,,0.31,ak,ak025c9osyct,2025-09-24T07:26:44.327Z,"25 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T08:23:32.810Z,45.982833862305,-122.55100250244,16.719999313354,1.7972731590271,ml,26.0,154.0,,0.100000001,uw,uw62193411,2025-09-24T08:26:26.170Z,"11 km NW of Amboy, Washington",earthquake,0.54,0.720000029,0.2791051864624,19.0,automatic,uw,uw
 2025-09-24T07:09:55.371Z,-40.6464,-87.0504,10.0,4.5,mb,36.0,122.0,9.583,0.65,us,us6000rche,2025-09-24T08:38:10.040Z,West Chile Rise,earthquake,13.52,1.958,0.113,23.0,reviewed,us,us
+2025-09-24T08:57:46.940Z,33.872,-117.7608333,9.48,0.97,ml,43.0,69.0,0.0496,0.17,ci,ci40449562,2025-09-24T09:01:19.743Z,"5 km ESE of Yorba Linda, CA",earthquake,0.21,0.36,0.154,26.0,automatic,ci,ci
+2025-09-24T08:55:19.970Z,33.218,-116.76,20.0,0.47,ml,34.0,25.0,0.01796,0.14,ci,ci40449554,2025-09-24T08:59:17.120Z,"3 km S of Lake Henshaw, CA",earthquake,0.19,0.48,0.159,8.0,automatic,ci,ci
+2025-09-24T08:50:38.920Z,63.0283,-151.555,1.2,1.6,ml,,,,0.81,ak,ak025c9pjxhw,2025-09-24T08:52:54.890Z,"57 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
