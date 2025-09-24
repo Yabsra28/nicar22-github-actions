@@ -16719,3 +16719,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T01:21:56.727Z,41.1932,-116.6828,10.6,2.0,ml,8.0,253.99,0.291,0.1772,nn,nn00904943,2025-09-24T18:42:05.563Z,"58 km NE of Valmy, Nevada",earthquake,,2.5,0.16,3.0,reviewed,nn,nn
 2025-09-24T01:13:03.883Z,41.2058,-116.6821,8.7,1.2,ml,7.0,254.81,0.299,0.1511,nn,nn00904942,2025-09-24T18:35:56.930Z,"59 km NE of Valmy, Nevada",earthquake,,2.3,0.13,3.0,reviewed,nn,nn
 2025-09-24T18:48:37.005Z,32.112,-101.923,3.9226,1.4,ml,43.0,34.0,0.1,0.4,tx,tx2025svsorl,2025-09-24T18:51:21.533Z,"12 km W of Stanton, Texas",earthquake,0.0,0.87960433959961,0.2,24.0,automatic,tx,tx
+2025-09-24T19:07:48.941Z,65.7814,-148.3639,9.6,1.7,ml,,,,0.56,ak,ak025c9vui65,2025-09-24T19:10:17.981Z,"29 km NNE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-24T19:04:09.410Z,38.127666473389,-122.15933227539,2.9900000095367,2.07,md,11.0,147.0,0.009334,0.05,nc,nc75241507,2025-09-24T19:05:45.187Z,"7 km E of Vallejo, CA",earthquake,0.77,0.810000002,0.15,7.0,automatic,nc,nc
+2025-09-24T08:56:56.370Z,45.976,-122.535,15.83,0.19,ml,10.0,204.0,0.0917,0.09,uw,uw62193421,2025-09-24T18:56:02.050Z,"10 km NW of Amboy, Washington",earthquake,0.4,0.92,0.083511786096875,3.0,reviewed,uw,uw
