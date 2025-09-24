@@ -16641,3 +16641,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T09:55:05.437Z,37.1647,69.1077,10.0,4.3,mb,13.0,266.0,1.49,0.8,us,us6000rci1,2025-09-24T11:15:57.040Z,"6 km WNW of Dasht-e Archī, Afghanistan",earthquake,4.96,2.001,0.267,4.0,reviewed,us,us
 2025-09-24T09:32:33.422Z,37.1911,69.2656,10.0,4.5,mb,21.0,109.0,1.466,1.07,us,us6000rchy,2025-09-24T11:10:04.040Z,"10 km NE of Dasht-e Archī, Afghanistan",earthquake,6.06,1.939,0.151,13.0,reviewed,us,us
 2025-09-24T05:49:03.508Z,32.117,-101.918,5.9351,,,6.0,131.0,0.1,0.5,tx,tx2025sussxk,2025-09-24T11:13:39.325Z,"12 km W of Stanton, Texas",earthquake,0.0,4.5778455734253,,,automatic,tx,tx
+2025-09-24T11:39:23.920Z,38.792499542236,-122.75833129883,0.86000001430511,0.8,md,9.0,77.0,0.008185,0.01,nc,nc75241327,2025-09-24T11:40:59.040Z,"2 km N of The Geysers, CA",earthquake,0.37,0.680000007,0.11,10.0,automatic,nc,nc
+2025-09-24T11:37:21.470Z,35.61855698,-98.0343399,4.102915764,2.26,ml,41.0,44.92596436,0.1606947929,0.6002175679,ok,ok2025sswv,2025-09-24T11:40:16.640Z,"7 km ENE of Calumet, Oklahoma",earthquake,1.942522662,1.756786478,0.25,36.0,automatic,ok,ok
