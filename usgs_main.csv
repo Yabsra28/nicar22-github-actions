@@ -16729,3 +16729,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T19:41:22.540Z,33.2695,-116.4213333,4.74,0.97,ml,41.0,31.0,0.003729,0.19,ci,ci41096751,2025-09-24T19:45:50.028Z,"5 km WNW of Borrego Springs, CA",earthquake,0.16,0.31,0.178,24.0,automatic,ci,ci
 2025-09-24T17:35:59.801Z,-21.5553,-66.4828,226.641,4.1,mb,25.0,119.0,2.098,1.16,us,us6000rcm3,2025-09-24T19:46:14.040Z,"73 km SSW of Atocha, Bolivia",earthquake,4.89,14.873,0.3,3.0,reviewed,us,us
 2025-09-24T19:57:19.820Z,37.544498443604,-118.94533538818,11.10000038147,1.73,md,17.0,205.0,0.07159,0.03,nc,nc75241522,2025-09-24T19:58:54.692Z,"11 km S of Mammoth Lakes, CA",earthquake,0.69,0.970000029,0.15,17.0,automatic,nc,nc
+2025-09-24T20:23:05.202Z,31.518,-104.025,4.1049,1.4,ml,28.0,62.0,0.0,0.4,tx,tx2025svvruv,2025-09-24T20:26:01.723Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.0990253686905,0.2,19.0,automatic,tx,tx
+2025-09-24T20:19:17.444Z,31.524,-104.018,4.555,2.0,ml,34.0,119.0,0.0,0.2,tx,tx2025svvorr,2025-09-24T20:23:59.703Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.99783980846405,0.2,24.0,automatic,tx,tx
+2025-09-24T18:03:16.297Z,38.9527,142.1281,55.164,4.6,mb,68.0,141.0,2.009,0.71,us,us6000rcm8,2025-09-24T20:15:49.040Z,"38 km ESE of Ōfunato, Japan",earthquake,8.72,6.94,0.077,51.0,reviewed,us,us
