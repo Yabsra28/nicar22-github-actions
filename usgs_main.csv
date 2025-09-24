@@ -16724,3 +16724,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T08:56:56.370Z,45.976,-122.535,15.83,0.19,ml,10.0,204.0,0.0917,0.09,uw,uw62193421,2025-09-24T18:56:02.050Z,"10 km NW of Amboy, Washington",earthquake,0.4,0.92,0.083511786096875,3.0,reviewed,uw,uw
 2025-09-24T15:16:41.124Z,31.527,-104.013,7.7917,1.5,ml,22.0,57.0,0.0,0.1,tx,tx2025svlnyq,2025-09-24T19:14:18.386Z,"31 km NW of Toyah, Texas",earthquake,0.66937310193561,0.54163794467165,0.1,16.0,reviewed,tx,tx
 2025-09-24T08:59:29.510Z,48.726666666667,-122.8175,13.91,0.33,ml,8.0,195.0,0.04878,0.11,uw,uw62193426,2025-09-24T19:19:42.650Z,"17 km NNE of Orcas, Washington",earthquake,0.58,1.09,0.61646882836204,3.0,reviewed,uw,uw
+2025-09-24T19:25:08.572Z,32.192,-101.688,0.8457,1.8,ml,9.0,209.0,0.1,0.5,tx,tx2025svtuee,2025-09-24T19:27:56.822Z,"11 km NE of Stanton, Texas",earthquake,0.0,3.6760361194611,0.1,6.0,automatic,tx,tx
