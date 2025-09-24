@@ -16766,3 +16766,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T22:02:55.136Z,31.994,-102.224,5.6307,2.3,mlv,14.0,81.0,0.0,0.5,tx,tx2025svyzrs,2025-09-24T23:17:22.206Z,"13 km W of Midland, Texas",earthquake,0.0,3.2399415969849,0.3,12.0,automatic,tx,tx
 2025-09-24T18:42:32.483Z,32.12,-101.11,2.2798,1.8,mlv,27.0,78.0,0.2,0.5,tx,tx2025svsjle,2025-09-24T23:16:59.688Z,"24 km E of Forsan, Texas",earthquake,0.0,1.1660389900208,0.1,18.0,automatic,tx,tx
 2025-09-24T13:30:11.808Z,32.404,-101.398,4.2468,1.1,mlv,6.0,169.0,0.0,0.1,tx,tx2025sviach,2025-09-24T23:13:47.738Z,"14 km NNW of Sand Springs, Texas",earthquake,0.0,2.1506354808807,0.3,5.0,automatic,tx,tx
+2025-09-24T22:19:11.992Z,32.663,-16.3194,10.0,4.0,mb,12.0,206.0,7.51,0.86,us,us6000rcp6,2025-09-24T23:29:55.040Z,"40 km ESE of Caniçal, Portugal",earthquake,14.73,2.006,0.299,4.0,reviewed,us,us
