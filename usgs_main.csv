@@ -16745,3 +16745,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T21:41:43.123Z,31.524,-104.024,4.6886,2.1,ml,41.0,61.0,0.0,0.3,tx,tx2025svyhvm,2025-09-24T21:46:29.766Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.9129940867424,0.2,30.0,automatic,tx,tx
 2025-09-24T21:38:28.093Z,31.535,-104.012,4.4359,2.1,ml,32.0,57.0,0.0,0.4,tx,tx2025svyezz,2025-09-24T21:44:29.076Z,"32 km NW of Toyah, Texas",earthquake,0.0,1.0906542539597,0.2,24.0,automatic,tx,tx
 2025-09-24T21:36:01.148Z,31.527,-104.021,4.5977,2.8,ml,44.0,116.0,0.0,0.3,tx,tx2025svyach,2025-09-24T21:47:14.040Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.87952351570129,0.2,34.0,automatic,tx,tx
+2025-09-24T21:54:47.462Z,31.525,-104.245,5.0,1.5,ml,11.0,168.0,0.2,0.8,tx,tx2025svytas,2025-09-24T21:56:45.828Z,"48 km WNW of Toyah, Texas",earthquake,0.0,,0.6,9.0,automatic,tx,tx
+2025-09-24T21:49:17.331Z,31.528,-104.017,5.2737,2.2,ml,44.0,58.0,0.0,0.3,tx,tx2025svyoin,2025-09-24T21:53:27.817Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.7686873674393,0.2,32.0,automatic,tx,tx
+2025-09-24T21:47:20.130Z,36.593166351318,-120.97699737549,-0.10999999940395,1.84,md,21.0,106.0,0.05245,0.26,nc,nc75241552,2025-09-24T21:48:53.924Z,"16 km ENE of Pinnacles, CA",earthquake,0.61,5.98000002,0.17,16.0,automatic,nc,nc
+2025-09-24T21:36:01.012Z,31.53,-104.019,7.6379,2.9,ml,26.0,58.0,0.0,0.1,tx,tx2025svycok,2025-09-24T21:55:24.479Z,"32 km NW of Toyah, Texas",earthquake,0.71170239823417,0.67309566400755,0.1,28.0,reviewed,tx,tx
