@@ -16585,3 +16585,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T04:56:59.150Z,-23.8183,-69.1031,103.061,5.2,mww,65.0,84.0,1.188,1.42,us,us6000rcgd,2025-09-24T05:10:54.040Z,"133 km E of Antofagasta, Chile",earthquake,5.0,6.452,0.056,31.0,reviewed,us,us
 2025-09-24T04:56:28.904Z,40.4468,-119.8014,14.1,2.1,ml,16.0,153.21,0.282,0.3709,nn,nn00904910,2025-09-24T04:59:27.429Z,"41 km WSW of Empire, Nevada",earthquake,,0.5,0.35,10.0,automatic,nn,nn
 2025-09-24T04:51:07.980Z,35.3516667,-117.7946667,6.11,1.16,ml,40.0,66.0,0.09389,0.18,ci,ci40449314,2025-09-24T04:54:36.090Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.6,0.185,24.0,automatic,ci,ci
+2025-09-24T05:23:11.220Z,32.6698333,-115.6561667,10.07,1.27,ml,31.0,59.0,0.06266,0.2,ci,ci40449498,2025-09-24T05:26:37.401Z,"12 km NW of Progreso, B.C., MX",earthquake,0.25,0.43,0.231,15.0,automatic,ci,ci
+2025-09-24T05:15:43.520Z,34.2793333,-117.3778333,4.08,1.29,ml,8.0,306.0,0.3164,0.32,ci,ci40449490,2025-09-24T05:20:19.312Z,"7 km NNE of Devore, CA",earthquake,9.78,24.57,0.344,35.0,automatic,ci,ci
+2025-09-24T05:06:21.704Z,-22.0992,-68.9688,105.123,4.7,mb,44.0,48.0,0.394,0.68,us,us6000rcgf,2025-09-24T05:22:36.040Z,"39 km N of Calama, Chile",earthquake,4.3,4.501,0.054,102.0,reviewed,us,us
