@@ -16709,3 +16709,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T17:13:49.909Z,31.53,-104.018,5.921,2.3,ml,42.0,58.0,0.0,0.3,tx,tx2025svpkzk,2025-09-24T17:17:48.194Z,"32 km NW of Toyah, Texas",earthquake,0.0,1.818648815155,0.2,31.0,automatic,tx,tx
 2025-09-24T12:18:09.530Z,45.066166666667,-116.58733333333,2.28,0.85,md,4.0,198.0,0.4165,0.34,uw,uw62193441,2025-09-24T17:22:28.410Z,southern Idaho,earthquake,5.99,3.18,,1.0,reviewed,uw,uw
 2025-09-24T17:39:16.610Z,31.529,-104.013,5.1825,1.7,ml,33.0,57.0,0.0,0.4,tx,tx2025svqgxj,2025-09-24T17:42:35.710Z,"31 km NW of Toyah, Texas",earthquake,0.0,2.0628886222839,0.2,24.0,automatic,tx,tx
+2025-09-24T18:14:01.056Z,60.7921,-151.7311,77.5,1.4,ml,,,,0.16,ak,ak025c9vaguh,2025-09-24T18:15:32.513Z,"26 km WNW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-24T11:39:48.120Z,46.199,-122.19016666667,5.83,-0.27,md,8.0,137.0,0.03373,0.1,uw,uw62193436,2025-09-24T18:03:48.710Z,"37 km NNE of Amboy, Washington",earthquake,0.41,1.21,0.11392777552828,4.0,reviewed,uw,uw
+2025-09-24T10:54:56.647Z,56.428,-156.3502,50.0,2.7,ml,,,,0.57,ak,ak025c9qrsve,2025-09-24T18:19:30.985Z,"127 km E of Chignik, Alaska",earthquake,,19.8,,,reviewed,ak,ak
+2025-09-24T10:43:30.466Z,56.4465,-156.3257,50.1,2.6,ml,,,,0.58,ak,ak025c9qpawh,2025-09-24T18:17:34.030Z,"129 km E of Chignik, Alaska",earthquake,,20.3,,,reviewed,ak,ak
