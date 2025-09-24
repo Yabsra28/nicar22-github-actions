@@ -16718,3 +16718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T18:21:23.884Z,31.524,-104.021,3.6599,1.9,ml,40.0,119.0,0.0,0.4,tx,tx2025svrrbv,2025-09-24T18:24:35.970Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.92593556642532,0.2,29.0,automatic,tx,tx
 2025-09-24T01:21:56.727Z,41.1932,-116.6828,10.6,2.0,ml,8.0,253.99,0.291,0.1772,nn,nn00904943,2025-09-24T18:42:05.563Z,"58 km NE of Valmy, Nevada",earthquake,,2.5,0.16,3.0,reviewed,nn,nn
 2025-09-24T01:13:03.883Z,41.2058,-116.6821,8.7,1.2,ml,7.0,254.81,0.299,0.1511,nn,nn00904942,2025-09-24T18:35:56.930Z,"59 km NE of Valmy, Nevada",earthquake,,2.3,0.13,3.0,reviewed,nn,nn
+2025-09-24T18:48:37.005Z,32.112,-101.923,3.9226,1.4,ml,43.0,34.0,0.1,0.4,tx,tx2025svsorl,2025-09-24T18:51:21.533Z,"12 km W of Stanton, Texas",earthquake,0.0,0.87960433959961,0.2,24.0,automatic,tx,tx
