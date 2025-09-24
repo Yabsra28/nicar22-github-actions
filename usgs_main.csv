@@ -16615,3 +16615,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T07:29:14.999Z,58.1696,-155.3976,1.1,0.8,ml,,,,0.19,ak,ak025c9oty0b,2025-09-24T07:31:17.172Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-09-24T07:24:52.931Z,62.0489,-150.9348,63.0,1.9,ml,,,,0.31,ak,ak025c9osyct,2025-09-24T07:26:44.327Z,"25 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T08:23:32.810Z,45.982833862305,-122.55100250244,16.719999313354,1.7972731590271,ml,26.0,154.0,,0.100000001,uw,uw62193411,2025-09-24T08:26:26.170Z,"11 km NW of Amboy, Washington",earthquake,0.54,0.720000029,0.2791051864624,19.0,automatic,uw,uw
+2025-09-24T07:09:55.371Z,-40.6464,-87.0504,10.0,4.5,mb,36.0,122.0,9.583,0.65,us,us6000rche,2025-09-24T08:38:10.040Z,West Chile Rise,earthquake,13.52,1.958,0.113,23.0,reviewed,us,us
