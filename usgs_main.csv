@@ -16834,3 +16834,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T06:05:03.453Z,-22.8963,179.2001,580.996,4.5,mb,15.0,192.0,5.237,0.66,us,us6000rcre,2025-09-25T06:22:13.040Z,south of the Fiji Islands,earthquake,23.07,11.966,0.135,16.0,reviewed,us,us
 2025-09-25T05:56:46.295Z,31.521,-104.024,4.3799,1.5,ml,38.0,61.0,0.0,0.4,tx,tx2025swosla,2025-09-25T05:59:55.357Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.95042484998703,0.2,28.0,automatic,tx,tx
 2025-09-25T00:09:09.016Z,30.893,-103.434,3.5703,1.6,mlv,20.0,125.0,0.1,0.7,tx,tx2025swdevs,2025-09-25T06:09:54.432Z,"31 km ESE of Balmorhea, Texas",earthquake,0.0,1.5196338891983,0.2,15.0,automatic,tx,tx
+2025-09-25T06:46:31.850Z,33.5681667,-116.6471667,11.32,0.05,ml,10.0,158.0,0.01395,0.16,ci,ci41097247,2025-09-25T06:51:10.483Z,"3 km ENE of Anza, CA",earthquake,1.03,0.7,0.216,4.0,automatic,ci,ci
+2025-09-25T06:44:36.000Z,33.5781667,-116.6255,12.35,0.67,ml,38.0,43.0,0.01222,0.16,ci,ci41097239,2025-09-25T06:49:11.180Z,"5 km ENE of Anza, CA",earthquake,0.18,0.32,0.173,22.0,automatic,ci,ci
+2025-09-25T06:42:18.698Z,38.1741,-117.9041,4.8,1.3,ml,12.0,135.03,0.068,0.3206,nn,nn00904974,2025-09-25T06:45:13.285Z,"29 km SE of Mina, Nevada",earthquake,,0.8,0.28,8.0,automatic,nn,nn
+2025-09-25T06:39:04.864Z,60.3271,-147.4871,35.2,2.2,ml,,,,1.04,ak,ak025cbbtz9y,2025-09-25T06:41:12.873Z,"41 km NE of Chenega, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2025-09-25T06:35:54.839Z,28.415,-98.974,14.1235,1.7,ml,7.0,219.0,0.5,0.3,tx,tx2025swqadp,2025-09-25T06:39:37.386Z,"16 km WSW of Fowlerton, Texas",earthquake,0.0,5.8524074554443,0.3,7.0,automatic,tx,tx
