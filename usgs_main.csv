@@ -16828,3 +16828,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T18:03:02.073Z,35.1481,-82.9319,9.647,1.9,mb_lg,15.0,49.0,0.155,0.41,us,us6000rcr2,2025-09-25T05:10:10.318Z,"10 km W of Rosman, North Carolina",earthquake,1.64,2.763,0.193,7.0,reviewed,us,us
 2025-09-24T12:58:22.892Z,2.0816,96.6614,30.885,4.5,mb,45.0,130.0,1.196,0.81,us,us6000rcii,2025-09-25T04:56:19.040Z,"54 km SE of Sinabang, Indonesia",earthquake,7.94,6.157,0.094,33.0,reviewed,us,us
 2025-09-25T05:21:20.012Z,31.527,-104.019,4.7263,1.8,ml,39.0,58.0,0.0,0.3,tx,tx2025swnntb,2025-09-25T05:24:45.497Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.94478505849838,0.2,28.0,automatic,tx,tx
+2025-09-25T05:49:03.842Z,62.2237,-150.0136,47.1,2.1,ml,,,,0.37,ak,ak025cbbaor4,2025-09-25T05:50:57.617Z,"10 km NW of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
