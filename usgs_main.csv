@@ -16964,3 +16964,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T14:16:02.230Z,31.486,-115.604,5.74,2.42,ml,9.0,148.0,0.1805,0.22,ci,ci37744252,2025-09-25T17:11:16.140Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,3.16,0.112,9.0,reviewed,ci,ci
 2025-09-25T14:15:47.590Z,31.4943333,-115.6026667,4.41,2.27,ml,10.0,145.0,0.1859,0.19,ci,ci37744244,2025-09-25T17:08:25.120Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.58,2.14,0.111,5.0,reviewed,ci,ci
 2025-09-24T19:38:23.750Z,33.8471667,-117.4943333,-0.44,1.5,ml,45.0,32.0,0.05065,0.26,ci,ci41096663,2025-09-25T17:10:24.202Z,"4 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.207,34.0,reviewed,ci,ci
+2025-09-25T17:10:03.150Z,32.9488333,-116.456,7.9,0.88,ml,24.0,92.0,0.04449,0.18,ci,ci41097639,2025-09-25T17:13:59.156Z,"16 km NNE of Pine Valley, CA",earthquake,0.25,0.66,0.146,14.0,automatic,ci,ci
+2025-09-25T17:02:23.680Z,34.844,-116.4058333,0.96,0.85,ml,11.0,164.0,0.1404,0.14,ci,ci41097631,2025-09-25T17:22:51.268Z,"26 km WNW of Ludlow, CA",earthquake,0.35,0.67,0.12,6.0,reviewed,ci,ci
+2025-09-25T17:02:09.709Z,-47.2513,-13.5322,10.0,5.1,mb,45.0,84.0,10.216,0.64,us,us6000rcvq,2025-09-25T17:18:01.040Z,southern Mid-Atlantic Ridge,earthquake,11.64,1.898,0.078,53.0,reviewed,us,us
+2025-09-25T17:01:03.356Z,30.9586,140.045,10.0,4.6,mb,59.0,100.0,2.159,0.59,us,us6000rcvr,2025-09-25T17:28:50.040Z,"Izu Islands, Japan region",earthquake,4.2,1.88,0.081,46.0,reviewed,us,us
+2025-09-25T14:38:31.810Z,46.598166666667,-119.7945,8.3,1.05,ml,10.0,83.0,0.02595,0.05,uw,uw62193876,2025-09-25T17:31:23.080Z,"13 km SE of Desert Aire, Washington",earthquake,0.28,0.33,0.20149580780929,7.0,reviewed,uw,uw
