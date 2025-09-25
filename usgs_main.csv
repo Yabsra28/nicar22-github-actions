@@ -16989,3 +16989,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T18:11:43.772Z,-19.5034,-69.3284,106.938,5.3,mww,69.0,94.0,0.207,1.32,us,us6000rcw8,2025-09-25T18:40:20.655Z,"23 km SSE of Camiña, Chile",earthquake,4.8,3.146,0.071,19.0,reviewed,us,us
 2025-09-25T18:02:42.340Z,51.4573,159.6642,10.0,5.0,mb,88.0,133.0,1.688,0.75,us,us6000rcw7,2025-09-25T18:23:40.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.74,1.885,0.048,137.0,reviewed,us,us
 2025-09-25T05:14:19.740Z,45.3695,-121.69966666667,-0.07,-0.71,md,5.0,114.0,0.01168,0.05,uw,uw62193781,2025-09-25T18:23:16.750Z,"8 km NNE of Government Camp, Oregon",earthquake,0.37,1.21,0.056383751478976,4.0,reviewed,uw,uw
+2025-09-25T18:50:51.919Z,64.4927,-146.8918,0.0,1.4,ml,,,,0.68,ak,ak025cbj1n1j,2025-09-25T18:53:11.612Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-25T18:49:24.450Z,32.108,-102.149,4.3282,2.0,ml,61.0,46.0,0.0,0.4,tx,tx2025sxoigc,2025-09-25T18:53:46.736Z,"13 km NNW of Midland, Texas",earthquake,0.0,0.67906028032303,0.1,42.0,automatic,tx,tx
+2025-09-25T18:46:41.380Z,35.855,-119.3171667,15.36,2.0,ml,11.0,122.0,0.1894,0.12,ci,ci41097711,2025-09-25T18:53:27.629Z,"12 km NNW of Delano, CA",earthquake,0.65,0.81,0.195,28.0,automatic,ci,ci
+2025-09-25T18:43:14.720Z,33.848,-117.4951667,2.42,1.63,ml,49.0,32.0,0.0517,0.22,ci,ci41097703,2025-09-25T18:49:00.599Z,"4 km SE of Home Gardens, CA",earthquake,0.22,0.39,0.222,36.0,automatic,ci,ci
+2025-09-25T18:26:18.881Z,64.5264,-146.918,9.9,3.4,ml,,,,1.02,ak,ak025cbiwf34,2025-09-25T18:47:24.412Z,"0 km WNW of Salcha, Alaska",earthquake,,0.2,,,reviewed,ak,ak
