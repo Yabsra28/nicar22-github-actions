@@ -16839,3 +16839,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T06:42:18.698Z,38.1741,-117.9041,4.8,1.3,ml,12.0,135.03,0.068,0.3206,nn,nn00904974,2025-09-25T06:45:13.285Z,"29 km SE of Mina, Nevada",earthquake,,0.8,0.28,8.0,automatic,nn,nn
 2025-09-25T06:39:04.864Z,60.3271,-147.4871,35.2,2.2,ml,,,,1.04,ak,ak025cbbtz9y,2025-09-25T06:41:12.873Z,"41 km NE of Chenega, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-09-25T06:35:54.839Z,28.415,-98.974,14.1235,1.7,ml,7.0,219.0,0.5,0.3,tx,tx2025swqadp,2025-09-25T06:39:37.386Z,"16 km WSW of Fowlerton, Texas",earthquake,0.0,5.8524074554443,0.3,7.0,automatic,tx,tx
+2025-09-25T06:57:02.750Z,34.3365,-116.8618333,1.2,1.63,ml,67.0,26.0,0.03067,0.16,ci,ci41097263,2025-09-25T07:00:38.539Z,"8 km N of Big Bear City, CA",earthquake,0.11,0.2,0.144,27.0,automatic,ci,ci
+2025-09-25T06:55:55.585Z,31.527,-104.022,4.0936,1.8,ml,37.0,116.0,0.0,0.4,tx,tx2025swqrif,2025-09-25T07:01:14.656Z,"32 km NW of Toyah, Texas",earthquake,0.0,0.96841824054718,0.2,27.0,automatic,tx,tx
+2025-09-25T06:55:38.603Z,9.894,-70.6699,10.0,5.8,mb,170.0,30.0,1.004,0.69,us,us6000rcrj,2025-09-25T07:12:22.040Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803.0,reviewed,us,us
+2025-09-25T06:46:42.430Z,33.5851667,-116.6225,12.7,0.34,ml,16.0,94.0,0.01964,0.13,ci,ci41097255,2025-09-25T06:51:55.486Z,"6 km NE of Anza, CA",earthquake,0.28,0.4,0.079,5.0,automatic,ci,ci
