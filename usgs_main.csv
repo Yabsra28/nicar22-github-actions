@@ -16813,3 +16813,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T04:19:43.137Z,36.7982,-116.0702,6.3,0.2,ml,14.0,120.35,0.047,0.1179,nn,nn00904973,2025-09-25T04:21:42.241Z,"43 km NW of Indian Springs, Nevada",earthquake,,1.0,0.3,7.0,automatic,nn,nn
 2025-09-25T03:51:39.731Z,9.9272,-70.6916,14.0,6.3,mww,107.0,24.0,1.038,1.09,us,us6000rcqw,2025-09-25T04:27:13.295Z,"27 km ENE of Mene Grande, Venezuela",earthquake,7.35,1.724,0.027,130.0,reviewed,us,us
 2025-09-24T19:29:13.860Z,44.538166666667,-117.4265,-1.46,1.86,ml,7.0,102.0,0.3258,0.46,uw,uw62193606,2025-09-25T04:04:59.150Z,"24 km NNW of Huntington, Oregon",explosion,1.82,31.61,0.043276685982699,2.0,reviewed,uw,uw
+2025-09-25T04:37:41.210Z,34.01,-117.1908333,14.74,0.75,ml,37.0,85.0,0.06991,0.16,ci,ci41096999,2025-09-25T04:41:16.134Z,"5 km S of Redlands, CA",earthquake,0.19,0.45,0.202,28.0,automatic,ci,ci
+2025-09-25T04:36:24.703Z,59.2846,-153.0652,109.8,2.2,ml,,,,0.07,ak,ak025cbamig6,2025-09-25T04:38:22.620Z,"65 km W of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-25T04:33:08.010Z,36.101833343506,-120.66816711426,5.6599998474121,1.18,md,11.0,155.0,0.06698,0.1,nc,nc75241672,2025-09-25T04:34:45.111Z,"23 km ENE of San Ardo, CA",earthquake,0.74,1.27999997,0.2,5.0,automatic,nc,nc
+2025-09-25T04:32:42.694Z,64.2604,-149.9438,17.2,1.7,ml,,,,0.41,ak,ak025cbaloz1,2025-09-25T04:34:27.279Z,"36 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-25T03:54:23.097Z,-9.9124,154.9742,10.0,5.0,mww,29.0,93.0,6.331,0.76,us,us6000rcqx,2025-09-25T04:27:42.040Z,"286 km SW of Gizo, Solomon Islands",earthquake,8.29,1.834,0.098,10.0,reviewed,us,us
