@@ -16810,3 +16810,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T03:50:50.830Z,33.577,-116.6303333,12.58,0.96,ml,47.0,39.0,0.0103,0.19,ci,ci41096975,2025-09-25T03:54:39.473Z,"5 km ENE of Anza, CA",earthquake,0.19,0.34,0.147,28.0,automatic,ci,ci
 2025-09-24T21:21:16.859Z,51.0979,-176.0167,33.422,3.9,mb,36.0,232.0,0.803,0.73,us,us6000rcpy,2025-09-25T03:54:20.507Z,"96 km SSE of Adak, Alaska",earthquake,4.08,7.605,0.118,19.0,reviewed,us,us
 2025-09-24T20:10:09.530Z,45.7085,-118.81466666667,-0.63,1.76,ml,8.0,109.0,0.1355,0.43,uw,uw62193626,2025-09-25T03:53:46.390Z,"4 km NNW of Pendleton, Oregon",explosion,1.66,31.61,0.088340843286857,4.0,reviewed,uw,uw
+2025-09-25T04:19:43.137Z,36.7982,-116.0702,6.3,0.2,ml,14.0,120.35,0.047,0.1179,nn,nn00904973,2025-09-25T04:21:42.241Z,"43 km NW of Indian Springs, Nevada",earthquake,,1.0,0.3,7.0,automatic,nn,nn
+2025-09-25T03:51:39.731Z,9.9272,-70.6916,14.0,6.3,mww,107.0,24.0,1.038,1.09,us,us6000rcqw,2025-09-25T04:27:13.295Z,"27 km ENE of Mene Grande, Venezuela",earthquake,7.35,1.724,0.027,130.0,reviewed,us,us
+2025-09-24T19:29:13.860Z,44.538166666667,-117.4265,-1.46,1.86,ml,7.0,102.0,0.3258,0.46,uw,uw62193606,2025-09-25T04:04:59.150Z,"24 km NNW of Huntington, Oregon",explosion,1.82,31.61,0.043276685982699,2.0,reviewed,uw,uw
