@@ -17045,3 +17045,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T22:16:02.815Z,63.1814,-151.3341,0.0,1.9,ml,,,,0.75,ak,ak025cbl7zbt,2025-09-25T22:17:57.581Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T22:41:57.160Z,31.524,-104.023,4.6447,1.5,ml,32.0,61.0,0.0,0.3,tx,tx2025sxwapy,2025-09-25T22:45:03.024Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.0326788425446,0.2,23.0,automatic,tx,tx
 2025-09-25T22:41:00.490Z,38.789001464844,-122.76782989502,2.0999999046326,0.75,md,10.0,78.0,0.01323,0.01,nc,nc75242077,2025-09-25T22:42:37.927Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.589999974,0.06,11.0,automatic,nc,nc
+2025-09-25T22:50:04.490Z,36.455001831055,-121.0693359375,5.6100001335144,1.74,md,20.0,78.0,0.009164,0.12,nc,nc75242082,2025-09-25T22:51:43.107Z,"11 km SSE of Pinnacles, CA",earthquake,0.32,0.779999971,0.2,19.0,automatic,nc,nc
+2025-09-25T21:11:06.290Z,17.717,-94.2285,180.575,4.7,mb,65.0,112.0,2.458,0.77,us,us6000rcxw,2025-09-25T23:02:15.040Z,"25 km SSE of Cuichapa, Mexico",earthquake,7.74,8.057,0.04,193.0,reviewed,us,us
+2025-09-25T21:04:27.363Z,31.748,-102.577,3.491,1.9,mlv,6.0,121.0,0.3,0.4,tx,tx2025sxsupo,2025-09-25T23:13:22.769Z,"12 km SW of West Odessa, Texas",earthquake,0.0,3.0416705608368,0.2,4.0,automatic,tx,tx
+2025-09-25T04:54:18.220Z,48.706333333333,-112.23833333333,8.94,0.89,ml,3.0,161.0,0.2362,0.05,mb,mb90113278,2025-09-25T22:52:08.510Z,"6 km E of Santa Rita, Montana",earthquake,0.61,31.61,0.16526999359381,4.0,reviewed,mb,mb
