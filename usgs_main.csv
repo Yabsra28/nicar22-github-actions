@@ -16849,3 +16849,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T07:43:49.530Z,33.514,-116.5005,14.11,0.51,ml,18.0,68.0,0.08713,0.09,ci,ci41097279,2025-09-25T07:47:30.200Z,"17 km ESE of Anza, CA",earthquake,0.2,0.39,0.115,7.0,automatic,ci,ci
 2025-09-25T08:06:45.875Z,58.5907,-153.7795,95.0,2.1,ml,,,,0.25,ak,ak025cbctv0r,2025-09-25T08:08:29.479Z,"78 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-25T07:55:28.840Z,33.7176667,-116.7666667,15.52,0.37,ml,23.0,80.0,0.04579,0.16,ci,ci41097287,2025-09-25T07:58:57.951Z,"5 km WSW of Idyllwild, CA",earthquake,0.3,0.52,0.103,7.0,automatic,ci,ci
+2025-09-25T08:38:58.963Z,31.985,-103.803,6.9375,1.8,ml,20.0,62.0,0.0,0.4,tx,tx2025swucgf,2025-09-25T08:41:51.937Z,"36 km NNW of Mentone, Texas",earthquake,0.0,2.2830364704132,0.2,4.0,automatic,tx,tx
+2025-09-25T08:19:16.380Z,33.6775,-116.774,16.29,0.84,ml,45.0,43.0,0.06335,0.15,ci,ci41097295,2025-09-25T08:22:49.647Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.32,0.167,26.0,automatic,ci,ci
