@@ -17056,3 +17056,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T23:31:42.880Z,33.4851667,-116.4625,5.83,1.59,ml,70.0,29.0,0.1171,0.19,ci,ci41097847,2025-09-25T23:35:17.964Z,"21 km ESE of Anza, CA",earthquake,0.13,0.56,0.109,27.0,automatic,ci,ci
 2025-09-25T23:28:36.975Z,65.1699,-150.0841,11.1,1.6,ml,,,,0.6,ak,ak025cblw25t,2025-09-25T23:30:33.784Z,"31 km NE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T23:16:51.181Z,-20.1857,169.0212,40.158,5.3,mww,45.0,123.0,2.826,0.87,us,us6000rcyv,2025-09-25T23:35:36.040Z,"76 km SSW of Isangel, Vanuatu",earthquake,10.02,7.566,0.086,13.0,reviewed,us,us
+2025-09-25T23:34:41.314Z,32.103,-101.918,7.7393,3.4,ml,29.0,70.0,0.1,0.1,tx,tx2025sxxubj,2025-09-25T23:51:19.688Z,"12 km WSW of Stanton, Texas",earthquake,1.4466600431582,0.91294632212314,0.2,42.0,reviewed,tx,tx
+2025-09-25T23:22:37.271Z,51.4133,159.6591,10.0,5.1,mb,66.0,139.0,1.728,1.14,us,usd0013tws,2025-09-25T23:43:16.040Z,"189 km SSE of Vilyuchinsk, Russia",earthquake,9.29,1.893,0.056,102.0,reviewed,us,us
