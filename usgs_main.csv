@@ -17016,3 +17016,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T20:05:24.358Z,52.3425,159.9704,35.0,4.7,mb,64.0,143.0,1.054,0.74,us,us6000rcxd,2025-09-25T20:36:47.040Z,"121 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.74,1.924,0.065,72.0,reviewed,us,us
 2025-09-25T20:39:20.660Z,63.5856,-148.0019,4.7,2.9,ml,,,,0.85,ak,ak025cbk62vn,2025-09-25T20:50:14.040Z,"48 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T04:24:21.720Z,47.497333333333,-113.844,17.14,0.94,ml,11.0,126.0,0.1057,0.12,mb,mb90113228,2025-09-25T20:49:56.150Z,"10 km WSW of Condon, Montana",earthquake,0.46,1.13,0.060361192471024,2.0,reviewed,mb,mb
+2025-09-25T20:29:31.688Z,60.0114,-138.6045,7.818,3.2,ml,36.0,120.0,0.831,0.5,us,us6000rcxl,2025-09-25T20:53:40.040Z,"81 km NE of Yakutat, Alaska",earthquake,3.46,4.796,0.044,68.0,reviewed,us,us
+2025-09-25T20:02:07.658Z,31.134,-103.329,7.324,1.6,ml,17.0,74.0,0.1,0.6,tx,tx2025sxqsxd,2025-09-25T21:00:36.948Z,"27 km WSW of Coyanosa, Texas",earthquake,0.0,3.399688243866,0.2,12.0,automatic,tx,tx
+2025-09-25T03:33:54.650Z,47.498,-113.83583333333,16.18,0.22,ml,8.0,128.0,0.1111,0.07,mb,mb90113233,2025-09-25T20:54:27.350Z,"9 km WSW of Condon, Montana",earthquake,0.64,0.99,0.083521170524229,2.0,reviewed,mb,mb
+2025-09-25T02:21:07.860Z,47.496,-113.84916666667,16.08,0.82,ml,12.0,115.0,0.1023,0.08,mb,mb90113238,2025-09-25T21:04:04.870Z,"11 km WSW of Condon, Montana",earthquake,0.32,0.67,0.18958634198052,9.0,reviewed,mb,mb
+2025-09-25T02:19:20.130Z,47.492,-113.842,16.16,0.64,ml,12.0,60.0,0.1077,0.06,mb,mb90113243,2025-09-25T21:09:36.400Z,"10 km WSW of Condon, Montana",earthquake,0.34,0.6,0.20714572288582,4.0,reviewed,mb,mb
