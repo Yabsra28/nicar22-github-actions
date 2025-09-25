@@ -17040,3 +17040,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T22:10:11.461Z,31.472,-103.836,5.3036,1.5,ml,11.0,59.0,0.1,0.4,tx,tx2025sxuzel,2025-09-25T22:13:12.239Z,"17 km NNW of Toyah, Texas",earthquake,0.0,2.5650861263275,0.1,8.0,automatic,tx,tx
 2025-09-25T22:07:25.422Z,32.394,-102.143,3.8508,1.1,ml,21.0,90.0,0.0,0.5,tx,tx2025sxuwwf,2025-09-25T22:10:39.359Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.0,1.1705549955368,0.2,12.0,automatic,tx,tx
 2025-09-25T22:02:30.030Z,61.4949,-147.4218,108.9,2.3,ml,,,,1.18,ak,ak025cbl51ej,2025-09-25T22:04:53.704Z,"36 km SSE of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-25T22:29:33.572Z,62.1554,-152.0962,99.3,2.2,ml,,,,0.58,ak,ak025cblau0d,2025-09-25T22:32:34.464Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-25T22:21:56.920Z,19.307666778564,-155.21282958984,6.6399998664856,3.79,ml,59.0,98.0,0.02857,0.180000007,hv,hv74785512,2025-09-25T22:32:20.221Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.349999994,0.34,45.0,automatic,hv,hv
+2025-09-25T22:16:02.815Z,63.1814,-151.3341,0.0,1.9,ml,,,,0.75,ak,ak025cbl7zbt,2025-09-25T22:17:57.581Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
