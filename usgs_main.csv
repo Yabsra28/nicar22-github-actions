@@ -17008,3 +17008,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T18:57:59.260Z,44.794166666667,-110.87483333333,5.0,1.66,ml,17.0,111.0,0.01828,0.18,uu,uu80118091,2025-09-25T19:42:26.200Z,"23 km NE of West Yellowstone, Montana",earthquake,0.35,0.44,0.44300995286755,7.0,reviewed,uu,uu
 2025-09-25T19:53:45.103Z,63.1509,-147.6975,7.6,1.9,ml,,,,0.51,ak,ak025cbjnp9q,2025-09-25T19:55:22.337Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-25T19:27:59.798Z,-31.6774,-71.7314,31.651,4.2,mb,32.0,141.0,0.74,0.57,us,us6000rcx0,2025-09-25T19:57:18.040Z,"53 km W of Illapel, Chile",earthquake,4.12,5.52,0.2,7.0,reviewed,us,us
+2025-09-25T20:23:34.933Z,59.5915,-143.1194,6.3,2.5,ml,,,,0.92,ak,ak025cbk2olx,2025-09-25T20:25:38.637Z,"181 km SE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-25T20:20:45.450Z,31.6033325,-115.5764999,8.48,3.18,ml,14.0,173.0,0.4183,0.1,ci,ci41097783,2025-09-25T20:22:57.061Z,"79 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,2.07,0.267,26.0,automatic,ci,ci
+2025-09-25T20:04:07.956Z,38.7352,-117.0932,15.5,1.7,ml,10.0,123.47,0.524,0.3574,nn,nn00905016,2025-09-25T20:06:56.781Z,"52 km S of Kingston, Nevada",earthquake,,1.7,0.62,5.0,automatic,nn,nn
+2025-09-25T19:48:54.862Z,31.467,-103.826,4.8288,1.1,ml,6.0,149.0,0.1,0.4,tx,tx2025sxqhng,2025-09-25T20:00:50.554Z,"17 km N of Toyah, Texas",earthquake,0.0,2.1413986682892,0.1,6.0,automatic,tx,tx
