@@ -16871,3 +16871,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T09:55:04.317Z,58.743,-154.8182,73.1,3.0,ml,,,,0.62,ak,ak025cbdppi7,2025-09-25T09:57:27.766Z,"77 km S of Kokhanok, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2025-09-25T09:50:13.770Z,64.4909,-146.9106,1.1,1.7,ml,,,,0.37,ak,ak025cbdonnl,2025-09-25T09:51:54.755Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T09:46:53.357Z,31.665,-104.404,4.2564,1.8,ml,27.0,70.0,0.0,0.3,tx,tx2025swwind,2025-09-25T09:51:14.423Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.1558263301849,0.1,18.0,automatic,tx,tx
+2025-09-25T10:23:29.585Z,64.5755,-149.6975,0.0,1.6,ml,,,,0.88,ak,ak025cbe4c5a,2025-09-25T10:25:31.838Z,"27 km W of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-25T10:19:59.130Z,38.823333740234,-122.80349731445,2.5899999141693,1.49,md,28.0,35.0,0.005138,0.02,nc,nc75241792,2025-09-25T10:21:35.831Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.360000014,0.17,30.0,automatic,nc,nc
+2025-09-25T10:19:48.240Z,38.823165893555,-122.80316925049,2.5599999427795,0.77,md,12.0,91.0,0.005398,0.01,nc,nc75241787,2025-09-25T10:21:25.896Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.49000001,0.14,13.0,automatic,nc,nc
+2025-09-25T10:18:02.260Z,38.823833465576,-122.80383300781,2.5099999904633,0.44,md,13.0,62.0,0.004895,0.01,nc,nc75241782,2025-09-25T10:19:41.033Z,"7 km NNW of The Geysers, CA",earthquake,0.36,0.819999993,0.26,14.0,automatic,nc,nc
+2025-09-25T10:06:59.700Z,38.825332641602,-122.80300140381,2.5499999523163,1.4,md,26.0,41.0,0.01638,0.02,nc,nc75241777,2025-09-25T10:08:36.037Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.419999987,0.11,26.0,automatic,nc,nc
+2025-09-25T09:59:51.773Z,52.1696,160.1558,35.0,5.2,mb,79.0,120.0,1.255,0.93,us,us6000rcsa,2025-09-25T10:15:51.040Z,"143 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.48,1.901,0.027,450.0,reviewed,us,us
+2025-09-25T09:30:17.433Z,53.0276,160.7287,40.434,4.7,mb,62.0,114.0,1.256,0.8,us,us6000rcs5,2025-09-25T09:59:03.040Z,"140 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.95,7.034,0.043,161.0,reviewed,us,us
