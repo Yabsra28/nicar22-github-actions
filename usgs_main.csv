@@ -17043,3 +17043,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T22:29:33.572Z,62.1554,-152.0962,99.3,2.2,ml,,,,0.58,ak,ak025cblau0d,2025-09-25T22:32:34.464Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-25T22:21:56.920Z,19.307666778564,-155.21282958984,6.6399998664856,3.79,ml,59.0,98.0,0.02857,0.180000007,hv,hv74785512,2025-09-25T22:32:20.221Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.349999994,0.34,45.0,automatic,hv,hv
 2025-09-25T22:16:02.815Z,63.1814,-151.3341,0.0,1.9,ml,,,,0.75,ak,ak025cbl7zbt,2025-09-25T22:17:57.581Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-25T22:41:57.160Z,31.524,-104.023,4.6447,1.5,ml,32.0,61.0,0.0,0.3,tx,tx2025sxwapy,2025-09-25T22:45:03.024Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.0326788425446,0.2,23.0,automatic,tx,tx
+2025-09-25T22:41:00.490Z,38.789001464844,-122.76782989502,2.0999999046326,0.75,md,10.0,78.0,0.01323,0.01,nc,nc75242077,2025-09-25T22:42:37.927Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.589999974,0.06,11.0,automatic,nc,nc
