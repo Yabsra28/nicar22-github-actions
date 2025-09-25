@@ -16885,3 +16885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T10:52:38.035Z,17.9233,-105.8424,10.0,4.4,mb,34.0,206.0,4.696,0.83,us,us6000rcsg,2025-09-25T11:06:44.040Z,"186 km SSW of Emiliano Zapata, Mexico",earthquake,13.29,1.983,0.036,220.0,reviewed,us,us
 2025-09-25T03:01:01.239Z,32.269,-101.174,3.6289,1.0,mlv,5.0,178.0,0.1,0.0,tx,tx2025swiwvo,2025-09-25T11:13:28.959Z,"12 km ESE of Coahoma, Texas",earthquake,0.0,6.0985512733459,0.2,5.0,automatic,tx,tx
 2025-09-24T18:12:58.618Z,32.105,-101.946,8.374,0.9,ml,33.0,47.0,0.0,0.2,tx,tx2025svrjyb,2025-09-25T11:02:51.610Z,"15 km W of Stanton, Texas",earthquake,0.52620833152597,1.004682431202,0.2,17.0,reviewed,tx,tx
+2025-09-25T11:14:44.077Z,32.103,-101.922,3.5783,1.5,ml,58.0,42.0,0.1,0.5,tx,tx2025swzgkx,2025-09-25T11:18:49.446Z,"12 km WSW of Stanton, Texas",earthquake,0.0,0.73449671268463,0.2,36.0,automatic,tx,tx
