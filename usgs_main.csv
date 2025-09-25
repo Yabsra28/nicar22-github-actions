@@ -17032,3 +17032,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T21:10:52.410Z,44.250166666667,-114.36583333333,5.12,0.99,ml,7.0,167.0,0.06907,0.07,mb,mb90113258,2025-09-25T21:33:47.920Z,"2 km ESE of Clayton, Idaho",earthquake,0.44,0.96,0.29456299940833,8.0,reviewed,mb,mb
 2025-09-25T20:50:04.160Z,36.028,-96.54166667,0.0,1.55,ml,69.0,59.0,0.1880630956,0.36,ok,ok2025svko,2025-09-25T21:35:26.311Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.18,32.0,reviewed,ok,ok
 2025-09-25T08:32:29.650Z,46.213333333333,-121.5125,0.78,0.6,ml,5.0,258.0,0.09437,0.38,uw,uw62193816,2025-09-25T21:34:20.780Z,"24 km N of Trout Lake, Washington",earthquake,3.13,28.93,0.075252999903249,2.0,reviewed,uw,uw
+2025-09-25T21:42:34.080Z,58.2471,-155.0756,0.0,0.7,ml,,,,0.41,ak,ak025cbks6r4,2025-09-25T21:43:37.244Z,"84 km NNW of Karluk, Alaska",earthquake,,11.3,,,automatic,ak,ak
+2025-09-25T21:38:46.450Z,39.578666687012,-122.99433135986,-0.79000002145767,1.42,md,11.0,82.0,0.07651,0.1,nc,nc75242052,2025-09-25T21:40:22.296Z,"19 km N of Lake Pillsbury, CA",earthquake,0.43,3.96000004,0.37,4.0,automatic,nc,nc
+2025-09-25T20:31:14.680Z,46.316333333333,-111.62066666667,-2.0,1.68,ml,11.0,94.0,0.3168,0.24,mb,mb90113263,2025-09-25T21:41:10.030Z,"7 km W of Townsend, Montana",quarry blast,0.8,31.61,0.35727905099456,16.0,reviewed,mb,mb
+2025-09-25T17:46:52.241Z,56.3542,-156.5225,15.3,2.3,ml,,,,0.49,ak,ak025cbifgjj,2025-09-25T21:46:59.175Z,"116 km E of Chignik, Alaska",earthquake,,2.6,,,reviewed,ak,ak
