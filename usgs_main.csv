@@ -16947,3 +16947,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T22:25:19.570Z,33.52,-116.5175,12.91,0.47,ml,18.0,69.0,0.07513,0.14,ci,ci41096911,2025-09-25T15:29:04.629Z,"15 km ESE of Anza, CA",earthquake,0.31,0.51,0.2,12.0,reviewed,ci,ci
 2025-09-24T21:38:33.958Z,31.54,-104.007,6.5613,2.1,ml,26.0,56.0,0.0,0.2,tx,tx2025svyfar,2025-09-25T15:35:44.696Z,"32 km NW of Toyah, Texas",earthquake,0.79284056850491,1.1550913147677,0.1,15.0,reviewed,tx,tx
 2025-09-24T21:37:17.790Z,33.4998333,-116.4948333,15.0,0.11,ml,13.0,98.0,0.08986,0.15,ci,ci41096863,2025-09-25T15:23:24.618Z,"18 km ESE of Anza, CA",earthquake,0.37,0.71,0.055,8.0,reviewed,ci,ci
+2025-09-25T15:43:40.120Z,35.896,-117.6713333,3.46,0.47,ml,11.0,96.0,0.05451,0.1,ci,ci41097567,2025-09-25T15:47:07.773Z,"22 km ESE of Little Lake, CA",earthquake,0.2,0.58,0.079,6.0,automatic,ci,ci
+2025-09-25T11:40:31.574Z,51.5191,-174.4515,17.2,4.1,ml,,,,0.89,ak,ak025cbetfcp,2025-09-25T15:48:39.909Z,"77 km SSW of Atka, Alaska",earthquake,,4.2,,,reviewed,ak,ak
