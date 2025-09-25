@@ -16829,3 +16829,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T12:58:22.892Z,2.0816,96.6614,30.885,4.5,mb,45.0,130.0,1.196,0.81,us,us6000rcii,2025-09-25T04:56:19.040Z,"54 km SE of Sinabang, Indonesia",earthquake,7.94,6.157,0.094,33.0,reviewed,us,us
 2025-09-25T05:21:20.012Z,31.527,-104.019,4.7263,1.8,ml,39.0,58.0,0.0,0.3,tx,tx2025swnntb,2025-09-25T05:24:45.497Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.94478505849838,0.2,28.0,automatic,tx,tx
 2025-09-25T05:49:03.842Z,62.2237,-150.0136,47.1,2.1,ml,,,,0.37,ak,ak025cbbaor4,2025-09-25T05:50:57.617Z,"10 km NW of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-09-25T06:19:00.865Z,32.105,-101.92,3.9985,1.2,ml,36.0,42.0,0.1,0.5,tx,tx2025swplno,2025-09-25T06:22:46.698Z,"12 km WSW of Stanton, Texas",earthquake,0.0,0.91228568553925,0.1,21.0,automatic,tx,tx
+2025-09-25T06:07:47.250Z,33.4433333,-116.4355,14.24,0.59,ml,20.0,74.0,0.1327,0.12,ci,ci41097231,2025-09-25T06:11:52.218Z,"22 km NNW of Borrego Springs, CA",earthquake,0.2,0.66,0.298,11.0,automatic,ci,ci
+2025-09-25T06:05:03.453Z,-22.8963,179.2001,580.996,4.5,mb,15.0,192.0,5.237,0.66,us,us6000rcre,2025-09-25T06:22:13.040Z,south of the Fiji Islands,earthquake,23.07,11.966,0.135,16.0,reviewed,us,us
+2025-09-25T05:56:46.295Z,31.521,-104.024,4.3799,1.5,ml,38.0,61.0,0.0,0.4,tx,tx2025swosla,2025-09-25T05:59:55.357Z,"31 km NW of Toyah, Texas",earthquake,0.0,0.95042484998703,0.2,28.0,automatic,tx,tx
+2025-09-25T00:09:09.016Z,30.893,-103.434,3.5703,1.6,mlv,20.0,125.0,0.1,0.7,tx,tx2025swdevs,2025-09-25T06:09:54.432Z,"31 km ESE of Balmorhea, Texas",earthquake,0.0,1.5196338891983,0.2,15.0,automatic,tx,tx
