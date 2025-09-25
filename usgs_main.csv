@@ -16973,3 +16973,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T17:33:55.663Z,58.2038,-152.3555,40.2,2.2,ml,,,,1.36,ak,ak025cbickjy,2025-09-25T17:35:59.499Z,"32 km NNE of Ouzinkie, Alaska",earthquake,,13.3,,,automatic,ak,ak
 2025-09-25T17:32:18.620Z,35.331,-97.94,7.34,1.35,ml,61.0,98.0,0.06208781625,0.38,ok,ok2025svea,2025-09-25T17:40:09.588Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.23,28.0,reviewed,ok,ok
 2025-09-25T17:26:08.859Z,35.33166667,-97.94783333,6.98,1.15,ml,41.0,57.0,0.0638874631,0.26,ok,ok2025svdv,2025-09-25T17:35:16.490Z,"2 km N of Minco, Oklahoma",earthquake,,0.5,0.23,16.0,reviewed,ok,ok
+2025-09-25T17:49:46.333Z,31.475,-103.823,7.5217,2.5,ml,21.0,66.0,0.1,0.4,tx,tx2025sxmiui,2025-09-25T17:53:15.465Z,"17 km N of Toyah, Texas",earthquake,0.0,1.8189477920532,0.1,13.0,automatic,tx,tx
+2025-09-25T17:48:39.359Z,36.9479,-115.6353,2.0,0.9,ml,13.0,287.1,0.263,0.1967,nn,nn00904996,2025-09-25T17:50:47.565Z,"42 km N of Indian Springs, Nevada",earthquake,,0.1,0.12,7.0,automatic,nn,nn
