@@ -16861,3 +16861,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T08:59:30.250Z,33.5295,-116.7266667,5.41,1.0,ml,57.0,28.0,0.03689,0.17,ci,ci41097303,2025-09-25T09:02:54.363Z,"6 km WSW of Anza, CA",earthquake,0.12,0.36,0.203,26.0,automatic,ci,ci
 2025-09-25T08:53:37.557Z,-9.9596,154.9494,10.0,5.1,mww,56.0,39.0,4.954,0.56,us,us6000rcrx,2025-09-25T09:17:35.520Z,"292 km SW of Gizo, Solomon Islands",earthquake,9.29,1.886,0.089,12.0,reviewed,us,us
 2025-09-25T08:42:28.457Z,11.5904,141.9821,65.291,5.1,mb,112.0,71.0,3.447,0.39,us,us6000rcru,2025-09-25T09:02:31.968Z,"257 km NE of Fais, Micronesia",earthquake,9.4,5.903,0.05,131.0,reviewed,us,us
+2025-09-25T09:32:35.260Z,35.3055,-118.5848333,3.55,1.75,ml,47.0,35.0,0.1129,0.21,ci,ci41097319,2025-09-25T09:36:35.586Z,"23 km NNW of Tehachapi, CA",earthquake,0.18,0.81,0.193,26.0,automatic,ci,ci
+2025-09-25T09:32:25.997Z,31.648,-104.275,6.4299,1.6,ml,32.0,68.0,0.0,0.5,tx,tx2025swvwhc,2025-09-25T09:35:37.659Z,"58 km NW of Toyah, Texas",earthquake,0.0,2.0845646858215,0.2,25.0,automatic,tx,tx
+2025-09-25T09:22:17.766Z,31.663,-104.407,3.9714,1.9,ml,33.0,70.0,0.0,0.4,tx,tx2025swvnnk,2025-09-25T09:26:40.036Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.0331764221191,0.1,22.0,automatic,tx,tx
