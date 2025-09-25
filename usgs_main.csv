@@ -16867,3 +16867,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T09:45:11.480Z,37.836666107178,-121.97116851807,6.3099999427795,1.14,md,11.0,70.0,0.02791,0.06,nc,nc75241767,2025-09-25T09:46:51.623Z,"1 km WNW of Diablo, CA",earthquake,0.34,0.569999993,0.2,10.0,automatic,nc,nc
 2025-09-25T09:36:45.996Z,59.8938,-151.7886,49.6,1.8,ml,,,,0.57,ak,ak025cbdlq47,2025-09-25T09:38:17.008Z,"6 km SSW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-25T09:04:12.345Z,-7.9478,114.5037,10.0,4.9,mb,89.0,38.0,0.625,1.55,us,us6000rcry,2025-09-25T09:44:41.575Z,"12 km ENE of Wongsorejo, Indonesia",earthquake,5.02,1.719,0.162,64.0,reviewed,us,us
+2025-09-25T09:55:24.690Z,35.901165,-117.7006683,8.35,1.68,ml,27.0,48.0,0.06198,0.16,ci,ci41097327,2025-09-25T09:57:41.485Z,"19 km ESE of Little Lake, CA",earthquake,0.28,0.69,0.227,19.0,automatic,ci,ci
+2025-09-25T09:55:04.317Z,58.743,-154.8182,73.1,3.0,ml,,,,0.62,ak,ak025cbdppi7,2025-09-25T09:57:27.766Z,"77 km S of Kokhanok, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2025-09-25T09:50:13.770Z,64.4909,-146.9106,1.1,1.7,ml,,,,0.37,ak,ak025cbdonnl,2025-09-25T09:51:54.755Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-25T09:46:53.357Z,31.665,-104.404,4.2564,1.8,ml,27.0,70.0,0.0,0.3,tx,tx2025swwind,2025-09-25T09:51:14.423Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.1558263301849,0.1,18.0,automatic,tx,tx
