@@ -16994,3 +16994,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T18:46:41.380Z,35.855,-119.3171667,15.36,2.0,ml,11.0,122.0,0.1894,0.12,ci,ci41097711,2025-09-25T18:53:27.629Z,"12 km NNW of Delano, CA",earthquake,0.65,0.81,0.195,28.0,automatic,ci,ci
 2025-09-25T18:43:14.720Z,33.848,-117.4951667,2.42,1.63,ml,49.0,32.0,0.0517,0.22,ci,ci41097703,2025-09-25T18:49:00.599Z,"4 km SE of Home Gardens, CA",earthquake,0.22,0.39,0.222,36.0,automatic,ci,ci
 2025-09-25T18:26:18.881Z,64.5264,-146.918,9.9,3.4,ml,,,,1.02,ak,ak025cbiwf34,2025-09-25T18:47:24.412Z,"0 km WNW of Salcha, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-09-25T19:08:34.580Z,38.834331512451,-122.80117034912,2.1300001144409,1.06,md,19.0,56.0,0.009385,0.01,nc,nc75241977,2025-09-25T19:10:12.058Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.469999999,0.09,22.0,automatic,nc,nc
+2025-09-25T19:07:15.564Z,64.4994,-146.8913,0.0,1.6,ml,,,,0.48,ak,ak025cbjds1w,2025-09-25T19:09:19.632Z,"2 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-25T19:01:47.454Z,63.416,-145.0056,0.0,1.8,ml,,,,0.46,ak,ak025cbjck7t,2025-09-25T19:03:58.545Z,"31 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-25T19:00:57.370Z,33.9903333,-116.8035,16.83,1.24,ml,40.0,30.0,0.04484,0.18,ci,ci41097743,2025-09-25T19:06:00.706Z,"8 km N of Cabazon, CA",earthquake,0.22,0.53,0.175,28.0,automatic,ci,ci
+2025-09-25T18:58:19.750Z,33.9356667,-116.982,13.86,1.34,ml,55.0,29.0,0.1471,0.16,ci,ci41097727,2025-09-25T19:01:48.860Z,"1 km NNW of Beaumont, CA",earthquake,0.13,0.36,0.299,29.0,automatic,ci,ci
+2025-09-25T18:57:06.720Z,34.9861667,-118.1881667,1.72,1.33,ml,18.0,53.0,0.1121,0.15,ci,ci41097735,2025-09-25T19:03:09.138Z,"8 km S of Mojave, CA",earthquake,0.22,0.48,0.138,31.0,automatic,ci,ci
+2025-09-25T18:56:25.765Z,59.9457,-152.2468,70.6,1.9,ml,,,,0.39,ak,ak025cbj2vbk,2025-09-25T18:57:58.401Z,"28 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-25T18:55:58.320Z,38.775165557861,-122.72699737549,1.6299999952316,1.59,md,21.0,70.0,0.01108,0.05,nc,nc75241967,2025-09-25T18:57:37.015Z,"3 km ESE of The Geysers, CA",earthquake,0.25,0.360000014,0.13,23.0,automatic,nc,nc
