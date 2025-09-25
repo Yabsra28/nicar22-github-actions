@@ -17012,3 +17012,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T20:20:45.450Z,31.6033325,-115.5764999,8.48,3.18,ml,14.0,173.0,0.4183,0.1,ci,ci41097783,2025-09-25T20:22:57.061Z,"79 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,2.07,0.267,26.0,automatic,ci,ci
 2025-09-25T20:04:07.956Z,38.7352,-117.0932,15.5,1.7,ml,10.0,123.47,0.524,0.3574,nn,nn00905016,2025-09-25T20:06:56.781Z,"52 km S of Kingston, Nevada",earthquake,,1.7,0.62,5.0,automatic,nn,nn
 2025-09-25T19:48:54.862Z,31.467,-103.826,4.8288,1.1,ml,6.0,149.0,0.1,0.4,tx,tx2025sxqhng,2025-09-25T20:00:50.554Z,"17 km N of Toyah, Texas",earthquake,0.0,2.1413986682892,0.1,6.0,automatic,tx,tx
+2025-09-25T20:33:19.092Z,61.4422,-151.9848,5.3,1.2,ml,,,,0.26,ak,ak025cbk4sjp,2025-09-25T20:34:41.727Z,"58 km NW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-09-25T20:05:24.358Z,52.3425,159.9704,35.0,4.7,mb,64.0,143.0,1.054,0.74,us,us6000rcxd,2025-09-25T20:36:47.040Z,"121 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.74,1.924,0.065,72.0,reviewed,us,us
