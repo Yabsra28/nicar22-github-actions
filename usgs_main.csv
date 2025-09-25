@@ -17049,3 +17049,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T21:11:06.290Z,17.717,-94.2285,180.575,4.7,mb,65.0,112.0,2.458,0.77,us,us6000rcxw,2025-09-25T23:02:15.040Z,"25 km SSE of Cuichapa, Mexico",earthquake,7.74,8.057,0.04,193.0,reviewed,us,us
 2025-09-25T21:04:27.363Z,31.748,-102.577,3.491,1.9,mlv,6.0,121.0,0.3,0.4,tx,tx2025sxsupo,2025-09-25T23:13:22.769Z,"12 km SW of West Odessa, Texas",earthquake,0.0,3.0416705608368,0.2,4.0,automatic,tx,tx
 2025-09-25T04:54:18.220Z,48.706333333333,-112.23833333333,8.94,0.89,ml,3.0,161.0,0.2362,0.05,mb,mb90113278,2025-09-25T22:52:08.510Z,"6 km E of Santa Rita, Montana",earthquake,0.61,31.61,0.16526999359381,4.0,reviewed,mb,mb
+2025-09-25T23:18:14.500Z,35.4903333,-118.451,4.14,1.42,ml,35.0,39.0,0.1731,0.14,ci,ci41097839,2025-09-25T23:21:38.742Z,"12 km SSE of Bodfish, CA",earthquake,0.17,0.67,0.175,26.0,automatic,ci,ci
+2025-09-25T23:17:02.850Z,64.9982,-147.4498,0.0,1.3,ml,,,,0.44,ak,ak025cbltmnh,2025-09-25T23:19:06.510Z,"9 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-25T22:48:09.299Z,12.6814,125.2592,35.0,4.6,mb,49.0,125.0,10.836,0.69,us,us6000rcyr,2025-09-25T23:21:56.040Z,"18 km NNE of Cabatuan, Philippines",earthquake,11.5,1.929,0.085,41.0,reviewed,us,us
+2025-09-25T08:47:24.170Z,49.2525,-119.53333333333,9.04,1.1,ml,6.0,177.0,0.09236,0.16,uw,uw62193821,2025-09-25T23:22:47.370Z,"7 km N of Oliver, Canada",earthquake,0.98,1.18,0.076873626967657,4.0,reviewed,uw,uw
