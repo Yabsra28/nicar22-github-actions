@@ -17166,3 +17166,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T09:52:46.658Z,31.47,-103.853,8.1225,2.2,ml,23.0,91.0,0.1,0.4,tx,tx2025sysgrz,2025-09-26T09:56:11.851Z,"18 km NNW of Toyah, Texas",earthquake,0.0,2.1447472572327,0.1,17.0,automatic,tx,tx
 2025-09-26T10:16:26.820Z,35.8278333,-117.672,6.46,0.76,ml,22.0,42.0,0.06173,0.12,ci,ci41098559,2025-09-26T10:19:54.748Z,"23 km N of Ridgecrest, CA",earthquake,0.16,0.43,0.132,14.0,automatic,ci,ci
 2025-09-26T10:07:42.669Z,31.635,-104.152,3.7344,1.7,ml,31.0,117.0,0.1,0.4,tx,tx2025systod,2025-09-26T10:11:57.961Z,"49 km NW of Toyah, Texas",earthquake,0.0,0.97534471750259,0.2,24.0,automatic,tx,tx
+2025-09-26T10:36:13.630Z,38.835666656494,-122.79983520508,1.8700000047684,0.67,md,7.0,112.0,0.007902,0.01,nc,nc75242237,2025-09-26T10:37:48.741Z,"7 km WNW of Cobb, CA",earthquake,0.51,1.59000003,0.17,8.0,automatic,nc,nc
+2025-09-26T10:10:40.618Z,41.2025,-116.7132,7.8,3.5,ml,12.0,142.42,0.314,0.1377,nn,nn00905049,2025-09-26T10:39:31.080Z,"57 km NE of Valmy, Nevada",earthquake,,2.5,0.13,7.0,reviewed,nn,nn
