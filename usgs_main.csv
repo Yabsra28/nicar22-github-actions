@@ -17149,3 +17149,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T06:45:29.022Z,43.4777,-127.2185,10.0,5.9,mww,85.0,167.0,2.318,1.17,us,us6000rd1w,2025-09-26T07:14:27.318Z,"231 km W of Bandon, Oregon",earthquake,7.69,1.869,0.037,69.0,reviewed,us,us
 2025-09-26T06:44:18.590Z,63.6942,-146.8309,250.0,1.7,ml,,,,1.01,ak,ak025cczefer,2025-09-26T06:57:03.187Z,"66 km SW of Delta Junction, Alaska",earthquake,,5.2,,,automatic,ak,ak
 2025-09-26T06:05:02.800Z,38.7154,-118.5615,10.0,3.9,ml,19.0,50.17,0.093,0.1633,nn,nn00905033,2025-09-26T07:09:56.913Z,"18 km ENE of Walker Lake, Nevada",earthquake,,1.2,0.3,10.0,reviewed,nn,nn
+2025-09-26T07:30:58.831Z,32.746,-100.672,3.3473,1.6,ml,14.0,124.0,0.1,0.3,tx,tx2025synoms,2025-09-26T07:34:07.581Z,"14 km NNE of Hermleigh, Texas",earthquake,0.0,1.6347322463989,0.1,10.0,automatic,tx,tx
+2025-09-26T07:29:29.857Z,37.9303,-118.6237,3.3,1.1,ml,8.0,101.53,0.334,0.195,nn,nn00905044,2025-09-26T07:32:09.258Z,"17 km NW of Benton, California",earthquake,,10.4,0.0,2.0,automatic,nn,nn
+2025-09-26T07:22:31.720Z,43.5162,-127.2942,10.0,3.0,ml,42.0,283.0,2.368,0.81,us,us6000rd23,2025-09-26T07:33:03.040Z,"238 km W of Bandon, Oregon",earthquake,12.14,2.025,0.04,82.0,reviewed,us,us
