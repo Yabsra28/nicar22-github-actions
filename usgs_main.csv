@@ -17160,3 +17160,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T08:20:34.163Z,52.2795,160.0765,42.51,4.7,mb,35.0,140.0,1.145,1.08,us,us6000rd29,2025-09-26T08:49:30.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.23,7.713,0.093,35.0,reviewed,us,us
 2025-09-26T08:58:22.430Z,33.1238333,-116.9461667,14.11,1.37,ml,62.0,30.0,0.1247,0.19,ci,ci41098535,2025-09-26T09:01:50.587Z,"4 km NNE of San Pasqual, CA",earthquake,0.16,0.44,0.21,27.0,automatic,ci,ci
 2025-09-26T08:37:32.571Z,36.187,-82.8488,1.848,1.9,mb_lg,33.0,35.0,0.517,1.05,us,us6000rd2b,2025-09-26T09:18:28.424Z,"3 km NNW of Greeneville, Tennessee",earthquake,2.18,6.608,0.295,5.0,reviewed,us,us
+2025-09-26T09:26:59.620Z,32.5193329,-115.5651703,17.4,1.96,ml,22.0,162.0,0.02301,0.29,ci,ci41098551,2025-09-26T09:29:29.429Z,"7 km SSE of Progreso, B.C., MX",earthquake,0.82,1.06,0.217,29.0,automatic,ci,ci
+2025-09-26T09:21:11.380Z,33.8485,-116.8528333,16.9,0.83,ml,47.0,20.0,0.0485,0.18,ci,ci41098543,2025-09-26T09:25:04.400Z,"9 km SSE of Banning, CA",earthquake,0.17,0.49,0.15,29.0,automatic,ci,ci
+2025-09-26T06:46:52.790Z,38.823166666667,-122.79366666667,2.78,0.28,md,21.0,62.0,0.01282,0.03,nc,nc75004123,2025-09-26T09:21:30.728Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.32,0.302,22.0,reviewed,nc,nc
