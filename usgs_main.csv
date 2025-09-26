@@ -17246,3 +17246,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T18:16:03.170Z,38.761001586914,-122.72883605957,2.420000076294,0.96,md,6.0,210.0,0.003163,0.01,nc,nc75242307,2025-09-26T18:17:38.028Z,"3 km SE of The Geysers, CA",earthquake,0.98,1.19000006,0.19,6.0,automatic,nc,nc
 2025-09-26T17:55:10.485Z,31.655,-104.334,4.0903,2.0,ml,33.0,69.0,0.1,0.4,tx,tx2025szigjj,2025-09-26T17:58:58.640Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.0031543970108,0.2,25.0,automatic,tx,tx
 2025-09-26T08:36:55.170Z,33.4906667,-116.5578333,12.01,0.29,ml,18.0,80.0,0.03729,0.1,ci,ci37744372,2025-09-26T18:05:24.910Z,"13 km ESE of Anza, CA",earthquake,0.22,0.44,0.244,7.0,reviewed,ci,ci
+2025-09-26T18:36:01.640Z,34.4056667,-117.7523333,8.24,1.26,ml,21.0,92.0,0.06567,0.1,ci,ci41098831,2025-09-26T18:39:59.892Z,"10 km WSW of Pinon Hills, CA",earthquake,0.17,0.43,0.493,30.0,automatic,ci,ci
+2025-09-26T18:24:35.662Z,37.2755,-115.8215,0.0,0.9,ml,11.0,302.23,0.234,0.4465,nn,nn00905063,2025-09-26T18:26:43.475Z,"41 km S of Rachel, Nevada",earthquake,,0.2,0.1,8.0,automatic,nn,nn
