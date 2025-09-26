@@ -17298,3 +17298,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T23:26:19.169Z,62.0492,-148.3758,28.4,1.6,ml,,,,0.75,ak,ak025cd9exuk,2025-09-26T23:28:06.735Z,"28 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-26T22:28:24.252Z,35.0357,104.6911,10.0,4.8,mb,57.0,50.0,1.226,0.96,us,us6000rd9g,2025-09-26T23:36:37.040Z,"23 km NNW of Hualin, China",earthquake,6.54,1.852,0.063,77.0,reviewed,us,us
 2025-09-26T14:20:10.870Z,59.995833333333,-153.09916666667,1.42,-0.6,ml,5.0,103.0,0.0252,0.07,av,av93791748,2025-09-26T23:30:46.250Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.5,0.54,0.1719990176466,5.0,reviewed,av,av
+2025-09-26T23:53:28.710Z,38.790668487549,-122.76466369629,1.7699999809265,0.74,md,12.0,83.0,0.01067,0.06,nc,nc75242417,2025-09-26T23:55:03.980Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.819999993,0.08,13.0,automatic,nc,nc
