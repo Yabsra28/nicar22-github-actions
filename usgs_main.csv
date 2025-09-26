@@ -17164,3 +17164,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T09:21:11.380Z,33.8485,-116.8528333,16.9,0.83,ml,47.0,20.0,0.0485,0.18,ci,ci41098543,2025-09-26T09:25:04.400Z,"9 km SSE of Banning, CA",earthquake,0.17,0.49,0.15,29.0,automatic,ci,ci
 2025-09-26T06:46:52.790Z,38.823166666667,-122.79366666667,2.78,0.28,md,21.0,62.0,0.01282,0.03,nc,nc75004123,2025-09-26T09:21:30.728Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.32,0.302,22.0,reviewed,nc,nc
 2025-09-26T09:52:46.658Z,31.47,-103.853,8.1225,2.2,ml,23.0,91.0,0.1,0.4,tx,tx2025sysgrz,2025-09-26T09:56:11.851Z,"18 km NNW of Toyah, Texas",earthquake,0.0,2.1447472572327,0.1,17.0,automatic,tx,tx
+2025-09-26T10:16:26.820Z,35.8278333,-117.672,6.46,0.76,ml,22.0,42.0,0.06173,0.12,ci,ci41098559,2025-09-26T10:19:54.748Z,"23 km N of Ridgecrest, CA",earthquake,0.16,0.43,0.132,14.0,automatic,ci,ci
+2025-09-26T10:07:42.669Z,31.635,-104.152,3.7344,1.7,ml,31.0,117.0,0.1,0.4,tx,tx2025systod,2025-09-26T10:11:57.961Z,"49 km NW of Toyah, Texas",earthquake,0.0,0.97534471750259,0.2,24.0,automatic,tx,tx
