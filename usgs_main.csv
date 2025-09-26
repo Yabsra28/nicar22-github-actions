@@ -17152,3 +17152,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T07:30:58.831Z,32.746,-100.672,3.3473,1.6,ml,14.0,124.0,0.1,0.3,tx,tx2025synoms,2025-09-26T07:34:07.581Z,"14 km NNE of Hermleigh, Texas",earthquake,0.0,1.6347322463989,0.1,10.0,automatic,tx,tx
 2025-09-26T07:29:29.857Z,37.9303,-118.6237,3.3,1.1,ml,8.0,101.53,0.334,0.195,nn,nn00905044,2025-09-26T07:32:09.258Z,"17 km NW of Benton, California",earthquake,,10.4,0.0,2.0,automatic,nn,nn
 2025-09-26T07:22:31.720Z,43.5162,-127.2942,10.0,3.0,ml,42.0,283.0,2.368,0.81,us,us6000rd23,2025-09-26T07:33:03.040Z,"238 km W of Bandon, Oregon",earthquake,12.14,2.025,0.04,82.0,reviewed,us,us
+2025-09-26T08:17:08.560Z,38.794334411621,-122.77716827393,4.1100001335144,1.42,md,26.0,76.0,0.008479,0.05,nc,nc75242227,2025-09-26T08:18:42.481Z,"3 km NNW of The Geysers, CA",earthquake,0.3,0.5,0.11,26.0,automatic,nc,nc
+2025-09-26T07:49:07.944Z,53.0869,159.958,68.183,4.6,mb,47.0,133.0,0.792,0.42,us,us6000rd28,2025-09-26T08:09:53.040Z,"89 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.78,7.749,0.069,62.0,reviewed,us,us
