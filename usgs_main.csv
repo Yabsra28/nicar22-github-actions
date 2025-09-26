@@ -17145,3 +17145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T06:32:33.883Z,-15.1011,-173.4965,10.0,5.1,mb,27.0,106.0,2.04,1.02,us,us6000rd1t,2025-09-26T06:48:20.040Z,"99 km NNE of Hihifo, Tonga",earthquake,13.43,1.89,0.058,95.0,reviewed,us,us
 2025-09-25T09:46:32.280Z,37.833833333333,-121.965,6.93,0.75,md,15.0,55.0,0.0332,0.08,nc,nc75241772,2025-09-26T06:44:55.018Z,"1 km W of Diablo, CA",earthquake,0.27,0.4,0.153,9.0,reviewed,nc,nc
 2025-09-25T09:41:17.770Z,37.834833333333,-121.96283333333,6.68,0.75,md,13.0,57.0,0.03363,0.07,nc,nc75241762,2025-09-26T06:51:27.939Z,"0 km W of Diablo, CA",earthquake,0.31,0.53,0.155,7.0,reviewed,nc,nc
+2025-09-26T07:01:38.187Z,35.54325104,-96.76673126,4.926640511,1.54,ml,28.0,54.65740204,0.02466483228,0.458244102,ok,ok2025swes,2025-09-26T07:04:32.875Z,"8 km SE of Sparks, Oklahoma",earthquake,2.314856208,1.983643951,0.6,4.0,automatic,ok,ok
+2025-09-26T06:45:29.022Z,43.4777,-127.2185,10.0,5.9,mww,85.0,167.0,2.318,1.17,us,us6000rd1w,2025-09-26T07:14:27.318Z,"231 km W of Bandon, Oregon",earthquake,7.69,1.869,0.037,69.0,reviewed,us,us
+2025-09-26T06:44:18.590Z,63.6942,-146.8309,250.0,1.7,ml,,,,1.01,ak,ak025cczefer,2025-09-26T06:57:03.187Z,"66 km SW of Delta Junction, Alaska",earthquake,,5.2,,,automatic,ak,ak
+2025-09-26T06:05:02.800Z,38.7154,-118.5615,10.0,3.9,ml,19.0,50.17,0.093,0.1633,nn,nn00905033,2025-09-26T07:09:56.913Z,"18 km ENE of Walker Lake, Nevada",earthquake,,1.2,0.3,10.0,reviewed,nn,nn
