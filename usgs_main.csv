@@ -17158,3 +17158,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T08:34:49.750Z,38.813999176025,-122.78700256348,2.3399999141693,1.07,md,17.0,50.0,0.004991,0.02,nc,nc75242232,2025-09-26T08:36:28.441Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.49000001,0.29,17.0,automatic,nc,nc
 2025-09-26T08:34:40.770Z,33.3696667,-116.3861667,11.57,0.73,ml,41.0,63.0,0.04569,0.21,ci,ci41098511,2025-09-26T08:38:08.091Z,"13 km N of Borrego Springs, CA",earthquake,0.22,0.51,0.1,19.0,automatic,ci,ci
 2025-09-26T08:20:34.163Z,52.2795,160.0765,42.51,4.7,mb,35.0,140.0,1.145,1.08,us,us6000rd29,2025-09-26T08:49:30.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.23,7.713,0.093,35.0,reviewed,us,us
+2025-09-26T08:58:22.430Z,33.1238333,-116.9461667,14.11,1.37,ml,62.0,30.0,0.1247,0.19,ci,ci41098535,2025-09-26T09:01:50.587Z,"4 km NNE of San Pasqual, CA",earthquake,0.16,0.44,0.21,27.0,automatic,ci,ci
+2025-09-26T08:37:32.571Z,36.187,-82.8488,1.848,1.9,mb_lg,33.0,35.0,0.517,1.05,us,us6000rd2b,2025-09-26T09:18:28.424Z,"3 km NNW of Greeneville, Tennessee",earthquake,2.18,6.608,0.295,5.0,reviewed,us,us
