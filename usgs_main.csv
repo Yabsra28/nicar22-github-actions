@@ -17086,3 +17086,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T18:02:44.340Z,44.423666666667,-123.02566666667,-0.33,1.32,ml,8.0,156.0,0.05344,0.29,uw,uw62193996,2025-09-26T01:15:09.670Z,"4 km NW of Brownsville, Oregon",explosion,0.78,31.61,0.10121166429623,5.0,reviewed,uw,uw
 2025-09-25T17:56:44.060Z,43.1515,-124.18066666667,-0.51,1.24,ml,9.0,174.0,0.1827,0.48,uw,uw62193991,2025-09-26T02:20:45.810Z,"2 km S of Coquille, Oregon",explosion,2.06,31.61,0.060064104401752,4.0,reviewed,uw,uw
 2025-09-25T17:52:41.940Z,41.919,-119.67166666667,-1.49,2.09,ml,7.0,214.0,0.303,0.66,uw,uw62193986,2025-09-26T02:12:53.740Z,"40 km E of Fort Bidwell, California",earthquake,3.42,5.65,0.063960544664472,3.0,reviewed,uw,uw
+2025-09-26T02:46:28.239Z,61.2547,-148.4446,30.0,2.4,ml,,,,0.68,ak,ak025ccx155z,2025-09-26T02:48:32.341Z,"33 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-26T02:45:25.887Z,60.5519,-152.807,7.2,2.1,ml,,,,0.42,ak,ak025ccx0x9o,2025-09-26T02:46:34.887Z,"81 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-26T02:39:08.224Z,-15.2392,-73.4762,79.868,4.9,mb,45.0,136.0,4.325,0.76,us,us6000rd0d,2025-09-26T02:55:25.040Z,"2 km WNW of Quilcata, Peru",earthquake,9.53,8.087,0.041,187.0,reviewed,us,us
+2025-09-26T02:37:00.638Z,28.826,-99.113,4.8012,2.4,ml,12.0,144.0,0.3,0.5,tx,tx2025sydved,2025-09-26T02:39:56.784Z,"7 km SSW of Pearsall, Texas",earthquake,0.0,2.4274318218231,0.1,8.0,automatic,tx,tx
+2025-09-26T02:35:43.209Z,35.99111557,-97.96118927,2.982430458,1.51,ml,12.0,107.6553268,0.04273883998,0.4742270493,ok,ok2025svvy,2025-09-26T02:46:32.461Z,"4 km WNW of Dover, Oklahoma",earthquake,3.848224356,2.752357202,0.51,5.0,automatic,ok,ok
+2025-09-26T02:34:25.955Z,63.6318,-148.3167,92.7,1.8,ml,,,,0.39,ak,ak025ccwykeb,2025-09-26T02:36:24.828Z,"31 km ESE of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-25T21:42:40.090Z,47.5975,-122.69483333333,23.84,0.8,ml,4.0,200.0,0.09423,0.04,uw,uw62194156,2025-09-26T02:48:57.940Z,"0 km E of Erlands Point-Kitsap Lake, Washington",earthquake,0.83,0.74,0.02944259408083,2.0,reviewed,uw,uw
+2025-09-25T21:16:57.740Z,49.009,-122.163,-0.68,1.49,ml,6.0,229.0,0.05234,0.05,uw,uw62194131,2025-09-26T02:40:45.730Z,"7 km E of Sumas, Washington",explosion,1.41,31.61,0.06560547793649,4.0,reviewed,uw,uw
