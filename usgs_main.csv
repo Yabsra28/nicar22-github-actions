@@ -17094,3 +17094,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T02:34:25.955Z,63.6318,-148.3167,92.7,1.8,ml,,,,0.39,ak,ak025ccwykeb,2025-09-26T02:36:24.828Z,"31 km ESE of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-25T21:42:40.090Z,47.5975,-122.69483333333,23.84,0.8,ml,4.0,200.0,0.09423,0.04,uw,uw62194156,2025-09-26T02:48:57.940Z,"0 km E of Erlands Point-Kitsap Lake, Washington",earthquake,0.83,0.74,0.02944259408083,2.0,reviewed,uw,uw
 2025-09-25T21:16:57.740Z,49.009,-122.163,-0.68,1.49,ml,6.0,229.0,0.05234,0.05,uw,uw62194131,2025-09-26T02:40:45.730Z,"7 km E of Sumas, Washington",explosion,1.41,31.61,0.06560547793649,4.0,reviewed,uw,uw
+2025-09-26T03:33:04.715Z,61.3474,-141.1802,10.6,1.9,ml,,,,0.51,ak,ak025ccxjqnb,2025-09-26T03:35:16.907Z,"93 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-26T03:28:26.111Z,28.81,-99.109,5.1696,2.1,ml,8.0,238.0,0.3,0.5,tx,tx2025syfnli,2025-09-26T03:32:35.119Z,"9 km S of Pearsall, Texas",earthquake,0.0,6.3761944770813,0.2,7.0,automatic,tx,tx
+2025-09-26T03:17:24.815Z,36.4488,70.9507,191.668,4.7,mb,62.0,82.0,2.226,0.88,us,us6000rd14,2025-09-26T03:34:16.040Z,"47 km SSE of Jurm, Afghanistan",earthquake,7.84,6.926,0.052,115.0,reviewed,us,us
+2025-09-26T03:12:34.035Z,62.595,-152.165,0.0,2.3,ml,,,,0.93,ak,ak025ccxfavf,2025-09-26T03:14:37.872Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-26T03:11:53.784Z,63.386,-150.6613,33.0,1.7,ml,,,,1.49,ak,ak025ccxf4oi,2025-09-26T03:14:01.361Z,"55 km ESE of Denali National Park, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-09-26T03:02:55.879Z,61.3816,-150.1109,20.1,2.8,ml,,,,0.77,ak,ak025ccxd7g2,2025-09-26T03:04:19.031Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-26T03:02:41.570Z,31.566,-103.907,4.7243,1.2,ml,21.0,118.0,0.1,1.2,tx,tx2025syerel,2025-09-26T03:05:49.960Z,"29 km NNW of Toyah, Texas",earthquake,0.0,1.7117259502411,0.1,7.0,automatic,tx,tx
+2025-09-26T02:59:26.895Z,62.1238,-151.1749,73.8,1.8,ml,,,,0.18,ak,ak025ccx3xdd,2025-09-26T03:01:04.938Z,"18 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-26T02:56:08.491Z,63.5562,-149.63,13.7,1.4,ml,,,,1.06,ak,ak025ccx38sx,2025-09-26T03:06:44.706Z,"38 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-26T02:55:17.370Z,33.4893333,-116.4871667,13.23,0.99,ml,42.0,62.0,0.09628,0.18,ci,ci41097927,2025-09-26T02:59:05.777Z,"19 km ESE of Anza, CA",earthquake,0.22,0.45,0.123,28.0,automatic,ci,ci
+2025-09-26T02:51:06.267Z,51.5931,159.0288,35.0,4.8,mb,22.0,196.0,1.451,0.51,us,us6000rd11,2025-09-26T03:21:38.040Z,"154 km SSE of Vilyuchinsk, Russia",earthquake,15.92,1.973,0.116,23.0,reviewed,us,us
+2025-09-26T02:41:30.953Z,-15.5781,167.905,136.338,4.6,mb,22.0,255.0,6.025,0.88,us,us6000rd0g,2025-09-26T03:07:42.040Z,"76 km NE of Norsup, Vanuatu",earthquake,14.09,11.828,0.133,18.0,reviewed,us,us
+2025-09-26T00:41:42.400Z,46.599333333333,-119.79433333333,8.23,0.67,ml,4.0,191.0,0.02521,0.03,uw,uw62194336,2025-09-26T03:08:37.600Z,"12 km SE of Desert Aire, Washington",earthquake,0.73,0.69,0.12073712302989,3.0,reviewed,uw,uw
