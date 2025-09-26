@@ -17256,3 +17256,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T19:17:03.058Z,60.9493,-150.7809,35.1,1.5,ml,,,,0.78,ak,ak025cd6z8qp,2025-09-26T19:19:09.088Z,"5 km WNW of Point Possession, Alaska",earthquake,,8.8,,,automatic,ak,ak
 2025-09-26T17:25:02.343Z,-2.3936,-77.3723,10.87,4.2,mb,23.0,133.0,1.107,0.74,us,us6000rd6t,2025-09-26T19:23:28.040Z,"82 km E of Macas, Ecuador",earthquake,5.26,5.187,0.146,14.0,reviewed,us,us
 2025-09-26T00:12:45.690Z,58.087333333333,-156.3,12.35,0.4,ml,11.0,188.0,0.2816,0.27,av,av93790948,2025-09-26T19:30:13.650Z,"64 km ESE of Egegik, Alaska",earthquake,0.93,1.03,0.14625764188398,10.0,reviewed,av,av
+2025-09-26T19:38:14.550Z,19.370000839233,-155.07099914551,3.4800000190735,1.95,ml,44.0,134.0,0.0325,0.289999992,hv,hv74786037,2025-09-26T19:42:38.480Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.66,1.13999999,0.85,8.0,automatic,hv,hv
+2025-09-26T19:35:48.720Z,38.822498321533,-122.80599975586,2.4400000572205,0.8,md,16.0,57.0,0.003306,0.01,nc,nc75242327,2025-09-26T19:37:23.841Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.660000026,0.11,15.0,automatic,nc,nc
