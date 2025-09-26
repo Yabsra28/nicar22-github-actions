@@ -17175,3 +17175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T10:34:30.644Z,37.9048,143.9906,10.0,4.6,mb,56.0,130.0,3.666,0.82,us,us6000rd45,2025-09-26T10:57:05.040Z,"230 km ESE of Onagawa Chō, Japan",earthquake,9.47,1.904,0.089,38.0,reviewed,us,us
 2025-09-26T10:05:41.293Z,41.2161,-116.7118,7.5,2.9,ml,15.0,77.37,0.322,0.1389,nn,nn00905046,2025-09-26T10:57:54.817Z,"58 km NE of Valmy, Nevada",earthquake,,2.0,0.13,10.0,reviewed,nn,nn
 2025-09-26T10:05:02.418Z,43.6477,-127.1286,10.0,3.0,ml,27.0,280.0,1.512,1.33,us,us6000rd41,2025-09-26T11:14:55.040Z,"228 km WNW of Bandon, Oregon",earthquake,11.28,2.024,0.036,102.0,reviewed,us,us
+2025-09-26T11:26:59.820Z,38.038166046143,-122.23332977295,8.1000003814697,1.89,md,40.0,55.0,0.03436,0.09,nc,nc75242247,2025-09-26T11:30:20.510Z,"2 km WSW of Crockett, CA",earthquake,0.2,0.330000013,0.11,37.0,automatic,nc,nc
