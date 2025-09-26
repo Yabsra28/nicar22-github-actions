@@ -17253,3 +17253,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T18:51:20.870Z,33.8828333,-116.8928333,11.96,1.3,ml,48.0,47.0,0.0934,0.16,ci,ci41098847,2025-09-26T19:00:46.944Z,"5 km SSW of Banning, CA",earthquake,0.16,0.55,0.282,29.0,automatic,ci,ci
 2025-09-26T18:06:03.760Z,20.0345,-155.55666666667,31.17,2.47,ml,21.0,191.0,0.2006,0.12,hv,hv74785987,2025-09-26T18:55:35.340Z,"9 km S of Kukuihaele, Hawaii",earthquake,0.69,0.88,0.19230348558791,10.0,reviewed,hv,hv
 2025-09-26T13:52:57.980Z,19.361166666667,-155.48833333333,7.77,1.5,ml,41.0,41.0,0.0313,0.14,hv,hv74785897,2025-09-26T19:09:57.910Z,"17 km N of Pāhala, Hawaii",earthquake,0.26,0.5,0.26574315589902,19.0,reviewed,hv,hv
+2025-09-26T19:17:03.058Z,60.9493,-150.7809,35.1,1.5,ml,,,,0.78,ak,ak025cd6z8qp,2025-09-26T19:19:09.088Z,"5 km WNW of Point Possession, Alaska",earthquake,,8.8,,,automatic,ak,ak
+2025-09-26T17:25:02.343Z,-2.3936,-77.3723,10.87,4.2,mb,23.0,133.0,1.107,0.74,us,us6000rd6t,2025-09-26T19:23:28.040Z,"82 km E of Macas, Ecuador",earthquake,5.26,5.187,0.146,14.0,reviewed,us,us
