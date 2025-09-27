@@ -17437,3 +17437,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T17:31:54.570Z,62.3814,-149.1219,28.3,1.8,ml,,,,0.81,ak,ak025ceteu0x,2025-09-27T17:34:00.777Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-27T17:47:16.080Z,33.9793333,-116.8241667,7.1,1.25,ml,59.0,25.0,0.05732,0.15,ci,ci41099655,2025-09-27T17:51:03.417Z,"8 km NNW of Cabazon, CA",earthquake,0.12,0.5,0.157,28.0,automatic,ci,ci
 2025-09-27T02:09:32.750Z,38.823166666667,-122.766,2.46,0.3,md,16.0,79.0,0.007908,0.02,nc,nc75242472,2025-09-27T17:48:13.455Z,"4 km W of Cobb, CA",earthquake,0.22,0.32,0.105,13.0,reviewed,nc,nc
+2025-09-27T18:05:09.154Z,59.9354,-151.6094,71.1,1.6,ml,,,,0.29,ak,ak025cetulib,2025-09-27T18:06:59.724Z,"6 km E of Happy Valley, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-09-27T18:04:49.411Z,36.18520737,-96.97680664,3.697967291,1.73,ml,11.0,74.37976074,0.2017573714,0.329253167,ok,ok2025sywc,2025-09-27T18:06:37.991Z,"6 km SW of Glencoe, Oklahoma",earthquake,3.484449767,3.026034182,0.6,6.0,automatic,ok,ok
