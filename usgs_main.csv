@@ -17379,3 +17379,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T10:35:52.250Z,33.172,-116.1393333,9.76,0.76,ml,46.0,39.0,0.02896,0.22,ci,ci41099351,2025-09-27T10:39:22.469Z,"3 km NNW of Ocotillo Wells, CA",earthquake,0.24,0.43,0.211,7.0,automatic,ci,ci
 2025-09-27T10:29:19.670Z,18.045,-67.014166666667,24.31,2.3,md,10.0,130.0,0.05163,0.06,pr,pr71496598,2025-09-27T10:44:00.230Z,"4 km E of Lajas, Puerto Rico",earthquake,0.51,0.67,0.050552034039854,7.0,reviewed,pr,pr
 2025-09-27T10:25:14.612Z,53.5794,160.3435,42.517,4.6,mb,39.0,103.0,1.159,0.98,us,us6000rdb5,2025-09-27T10:44:35.040Z,"127 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.25,7.786,0.059,86.0,reviewed,us,us
+2025-09-27T10:47:57.860Z,38.792331695557,-122.80449676514,3.1900000572205,1.06,md,16.0,72.0,0.004152,0.02,nc,nc75242577,2025-09-27T10:49:35.043Z,"4 km WNW of The Geysers, CA",earthquake,0.35,0.569999993,0.25,17.0,automatic,nc,nc
+2025-09-27T09:29:09.635Z,-2.9484,129.6426,16.039,4.5,mb,31.0,86.0,2.603,0.9,us,us6000rdaz,2025-09-27T10:54:31.040Z,"84 km ENE of Masohi, Indonesia",earthquake,9.1,5.02,0.108,25.0,reviewed,us,us
