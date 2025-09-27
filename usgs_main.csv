@@ -17401,3 +17401,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T06:54:04.020Z,46.904166666667,-112.52033333333,8.51,1.16,ml,14.0,128.0,0.06254,0.12,mb,mb90113363,2025-09-27T12:56:50.860Z,"13 km ESE of Lincoln, Montana",earthquake,0.58,0.49,0.1759560059774,14.0,reviewed,mb,mb
 2025-09-26T19:56:24.510Z,44.808333333333,-111.54433333333,11.43,0.88,ml,12.0,105.0,0.01298,0.19,mb,mb90113318,2025-09-27T13:09:24.100Z,"28 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.71,0.035860489103083,8.0,reviewed,mb,mb
 2025-09-26T16:53:51.390Z,45.726333333333,-112.12766666667,4.5,0.22,ml,6.0,123.0,0.11,0.11,mb,mb90113373,2025-09-27T13:07:53.660Z,"16 km S of Whitehall, Montana",earthquake,0.52,3.12,0.17596598916507,2.0,reviewed,mb,mb
+2025-09-27T13:20:59.520Z,38.830833435059,-122.81883239746,1.7000000476837,1.15,md,18.0,53.0,0.0101,0.01,nc,nc75242622,2025-09-27T13:22:35.409Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.409999996,0.17,19.0,automatic,nc,nc
+2025-09-27T13:16:18.491Z,62.2205,-152.3334,121.1,1.4,ml,,,,0.42,ak,ak025ceqxt2x,2025-09-27T13:18:23.777Z,"55 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-27T13:12:31.765Z,39.1041,-119.0612,0.0,1.4,ml,13.0,76.75,0.183,0.1217,nn,nn00905095,2025-09-27T13:14:58.120Z,"15 km NE of Yerington, Nevada",earthquake,,11.6,0.51,6.0,automatic,nn,nn
+2025-09-27T13:02:33.259Z,14.4737,146.8179,35.0,4.8,mb,24.0,162.0,1.247,0.82,us,us6000rdbs,2025-09-27T13:28:58.040Z,"140 km ESE of San Jose Village, Northern Mariana Islands",earthquake,9.01,1.957,0.107,27.0,reviewed,us,us
+2025-09-27T01:16:29.181Z,39.4493,-120.287,7.0,0.8,ml,5.0,157.55,0.101,0.07,nn,nn00905094,2025-09-27T13:15:18.597Z,"16 km NNE of Soda Springs, California",earthquake,,3.8,0.25,4.0,reviewed,nn,nn
