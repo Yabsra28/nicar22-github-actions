@@ -17425,3 +17425,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T16:03:15.618Z,64.4922,-146.9033,2.9,1.6,ml,,,,0.56,ak,ak025cesnbd5,2025-09-27T16:04:58.013Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-27T15:36:12.022Z,33.1302,-108.1912,9.622,2.0,ml,17.0,70.0,0.687,0.6,us,us6000rdcc,2025-09-27T15:56:28.040Z,"10 km N of Trout Valley, New Mexico",earthquake,2.03,7.682,0.069,28.0,reviewed,us,us
 2025-09-27T15:07:48.795Z,33.1565,-108.1495,13.388,2.9,ml,28.0,54.0,0.694,0.48,us,us6000rdc8,2025-09-27T16:08:15.040Z,"13 km NNE of Trout Valley, New Mexico",earthquake,1.53,7.357,0.041,78.0,reviewed,us,us
+2025-09-27T16:31:11.520Z,19.32183265686,-155.54032897949,15.329999923706,1.95,ml,40.0,69.0,0.08285,0.129999995,hv,hv74786482,2025-09-27T16:34:51.470Z,"14 km NNW of Pāhala, Hawaii",earthquake,0.35,0.720000029,0.06,3.0,automatic,hv,hv
+2025-09-27T16:17:35.030Z,35.8775,-117.7013333,3.39,0.98,ml,25.0,39.0,0.08152,0.17,ci,ci41099503,2025-09-27T16:21:14.046Z,"20 km ESE of Little Lake, CA",earthquake,0.19,0.67,0.135,20.0,automatic,ci,ci
