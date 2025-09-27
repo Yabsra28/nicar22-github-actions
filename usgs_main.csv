@@ -17473,3 +17473,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T22:13:03.150Z,52.9291,160.4585,35.0,4.4,mb,26.0,158.0,1.098,1.31,us,us6000rdda,2025-09-27T23:25:32.040Z,"123 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.79,1.964,0.108,26.0,reviewed,us,us
 2025-09-27T23:41:56.646Z,59.813,-152.1263,60.6,1.7,ml,,,,0.58,ak,ak025cex1kz4,2025-09-27T23:44:05.972Z,"17 km WNW of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-09-27T23:35:27.303Z,59.8291,-153.0414,100.7,1.9,ml,,,,0.22,ak,ak025cex08ey,2025-09-27T23:37:14.725Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-27T23:49:49.940Z,64.9832,-147.435,1.4,1.4,ml,,,,0.92,ak,ak025cex3a6q,2025-09-27T23:51:52.181Z,"9 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
