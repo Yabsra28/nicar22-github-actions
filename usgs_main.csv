@@ -17354,3 +17354,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T06:54:50.141Z,31.719,-104.359,4.0789,1.5,ml,26.0,108.0,0.1,0.4,tx,tx2025taiceb,2025-09-27T06:57:49.965Z,"50 km S of Whites City, New Mexico",earthquake,0.0,1.0366603136063,0.1,19.0,automatic,tx,tx
 2025-09-27T06:53:20.500Z,35.6196667,-117.3901667,5.75,1.89,ml,37.0,64.0,0.05294,0.15,ci,ci41099151,2025-09-27T06:57:03.849Z,"16 km S of Trona, CA",earthquake,0.15,0.39,0.162,26.0,automatic,ci,ci
 2025-09-27T06:49:20.191Z,43.3596,-127.5586,10.0,3.1,ml,27.0,291.0,1.934,1.05,us,us6000rdaf,2025-09-27T06:56:02.040Z,"257 km W of Bandon, Oregon",earthquake,10.25,2.026,0.045,64.0,reviewed,us,us
+2025-09-27T07:17:14.044Z,-17.5364,167.6841,10.0,5.0,mb,26.0,152.0,4.395,0.74,us,us6000rdak,2025-09-27T07:33:11.040Z,"70 km WNW of Port-Vila, Vanuatu",earthquake,9.59,1.92,0.12,22.0,reviewed,us,us
+2025-09-26T22:16:29.720Z,38.5511,24.1501,10.0,3.4,ml,14.0,107.0,1.493,0.72,us,us6000rd9a,2025-09-27T07:35:28.040Z,"4 km SE of Oxílithos, Greece",earthquake,5.09,1.829,0.074,24.0,reviewed,us,us
