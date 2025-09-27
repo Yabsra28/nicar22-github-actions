@@ -17329,3 +17329,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T04:02:10.978Z,51.3003,159.1798,39.546,4.7,mb,31.0,135.0,1.756,0.54,us,us6000rda3,2025-09-27T04:20:51.040Z,"187 km E of Ozernovskiy, Russia",earthquake,11.99,8.193,0.094,34.0,reviewed,us,us
 2025-09-26T09:22:22.980Z,44.4165,-122.47066666667,7.48,1.04,ml,16.0,55.0,0.1497,0.32,uw,uw62194531,2025-09-27T04:28:47.690Z,"2 km NNE of Cascadia, Oregon",earthquake,0.5,27.88,0.056851410520762,6.0,reviewed,uw,uw
 2025-09-26T08:00:38.710Z,45.076666666667,-124.21783333333,7.82,1.23,ml,14.0,224.0,0.2002,0.45,uw,uw62194506,2025-09-27T04:17:39.770Z,"18 km W of Neskowin, Oregon",earthquake,1.68,38.62,0.23479913375527,4.0,reviewed,uw,uw
+2025-09-27T04:35:34.730Z,64.9314,-148.2918,15.3,1.1,ml,,,,0.65,ak,ak025celp0ht,2025-09-27T04:37:47.353Z,"16 km NW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-27T03:49:50.637Z,-7.1921,129.2933,133.013,4.2,mb,13.0,114.0,5.165,0.51,us,us6000rda1,2025-09-27T04:42:08.040Z,"292 km ENE of Lospalos, Timor Leste",earthquake,9.88,9.317,0.236,6.0,reviewed,us,us
+2025-09-26T15:10:16.010Z,46.336833333333,-122.2395,10.39,0.13,ml,5.0,255.0,0.03785,0.06,uw,uw62194621,2025-09-27T04:43:56.550Z,"24 km S of Morton, Washington",earthquake,1.22,0.88,0.14223300087466,5.0,reviewed,uw,uw
