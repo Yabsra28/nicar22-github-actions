@@ -17463,3 +17463,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T22:12:47.000Z,43.585,-127.622,12.0,5.2,Mi,41.0,179.9999856,1.843343,1.33,at,at00t39ppb,2025-09-27T22:26:56.861Z,"265 km W of Bandon, Oregon",earthquake,0.0,0.0,,6.0,reviewed,at,at
 2025-09-27T22:10:26.003Z,61.2079,-150.1707,35.6,1.8,ml,,,,0.92,ak,ak025cew9ft4,2025-09-27T22:12:47.161Z,"14 km W of Anchorage, Alaska",earthquake,,19.6,,,automatic,ak,ak
 2025-09-27T22:12:49.949Z,43.461,-127.1422,10.0,5.1,mww,67.0,186.0,1.634,1.27,us,us6000rdd9,2025-09-27T22:30:43.183Z,"225 km W of Bandon, Oregon",earthquake,6.47,1.97,0.066,22.0,reviewed,us,us
+2025-09-27T22:47:21.658Z,31.526,-104.02,5.1209,1.9,ml,38.0,58.0,0.0,0.4,tx,tx2025tbnraw,2025-09-27T22:50:50.605Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.9202651977539,0.2,28.0,automatic,tx,tx
+2025-09-27T22:40:03.810Z,34.197,-117.482,3.75,0.97,ml,41.0,48.0,0.01813,0.19,ci,ci41099823,2025-09-27T22:43:50.739Z,"7 km SSE of Lytle Creek, CA",earthquake,0.21,0.29,0.148,30.0,automatic,ci,ci
+2025-09-27T21:35:57.370Z,38.831666666667,-122.80133333333,1.6,0.3,md,18.0,52.0,0.01072,0.03,nc,nc75242737,2025-09-27T22:45:34.879Z,"7 km W of Cobb, CA",earthquake,0.19,0.43,0.214,17.0,reviewed,nc,nc
+2025-09-27T05:18:30.050Z,46.2005,-122.19,-1.27,-0.58,mh,5.0,167.0,0.0009343,0.17,uw,uw62194911,2025-09-27T22:41:11.450Z,"37 km NNE of Amboy, Washington",earthquake,1.16,0.75,,0.0,reviewed,uw,uw
