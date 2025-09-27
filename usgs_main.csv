@@ -17384,3 +17384,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T11:11:13.530Z,34.7275,-116.3053333,4.92,1.38,ml,31.0,44.0,0.1046,0.16,ci,ci41099359,2025-09-27T11:14:41.718Z,"13 km W of Ludlow, CA",earthquake,0.16,0.54,0.211,26.0,automatic,ci,ci
 2025-09-27T10:54:54.862Z,31.246,-103.465,6.692,1.6,ml,31.0,57.0,0.1,0.5,tx,tx2025taqbcx,2025-09-27T10:58:40.437Z,"15 km SSE of Lindsay, Texas",earthquake,0.0,1.74762403965,0.2,24.0,automatic,tx,tx
 2025-09-27T11:24:07.000Z,35.7869987,-118.0306702,7.43,0.98,ml,8.0,140.0,0.09782,0.05,ci,ci41099367,2025-09-27T11:26:09.497Z,"20 km SW of Little Lake, CA",earthquake,0.67,1.75,0.159,3.0,automatic,ci,ci
+2025-09-27T11:31:37.739Z,37.0846,-117.0479,6.4,0.8,ml,8.0,191.11,0.274,0.0832,nn,nn00905091,2025-09-27T11:33:45.969Z,"32 km NW of Beatty, Nevada",earthquake,,32.1,0.44,5.0,automatic,nn,nn
