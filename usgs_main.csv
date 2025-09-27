@@ -17344,3 +17344,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T06:17:08.746Z,63.3356,-151.5233,1.0,1.7,ml,,,,0.71,ak,ak025cemryt6,2025-09-27T06:18:57.696Z,"24 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-27T06:05:20.596Z,61.5863,-146.4371,27.2,1.7,ml,,,,0.63,ak,ak025cempf4r,2025-09-27T06:06:55.647Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-26T21:06:06.160Z,47.542166666667,-121.71983333333,9.12,1.2,ml,5.0,199.0,0.1295,0.06,uw,uw62194781,2025-09-27T05:57:37.590Z,"7 km NE of North Bend, Washington",earthquake,0.92,0.99,0.10733458924191,4.0,reviewed,uw,uw
+2025-09-27T06:37:03.086Z,61.9843,-150.7017,13.7,1.6,ml,,,,0.69,ak,ak025cemw8p0,2025-09-27T06:39:28.040Z,"36 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-27T06:34:22.630Z,38.838001251221,-122.78283691406,1.9500000476837,1.0,md,13.0,75.0,0.005877,0.02,nc,nc75242527,2025-09-27T06:35:59.206Z,"5 km WNW of Cobb, CA",earthquake,0.33,0.579999983,0.23,15.0,automatic,nc,nc
+2025-09-27T06:33:57.377Z,63.1515,-150.5668,109.2,1.5,ml,,,,1.12,ak,ak025cemvi0p,2025-09-27T06:36:37.757Z,"72 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-09-27T06:24:12.410Z,38.820999145508,-122.80516815185,2.9500000476837,1.08,md,28.0,36.0,0.004518,0.02,nc,nc75242522,2025-09-27T06:25:48.966Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.1,29.0,automatic,nc,nc
