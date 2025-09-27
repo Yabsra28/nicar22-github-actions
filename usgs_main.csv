@@ -17387,3 +17387,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T11:31:37.739Z,37.0846,-117.0479,6.4,0.8,ml,8.0,191.11,0.274,0.0832,nn,nn00905091,2025-09-27T11:33:45.969Z,"32 km NW of Beatty, Nevada",earthquake,,32.1,0.44,5.0,automatic,nn,nn
 2025-09-27T11:41:44.910Z,33.7053333,-116.7596667,15.97,1.2,ml,70.0,25.0,0.04077,0.17,ci,ci41099375,2025-09-27T11:45:10.920Z,"5 km SW of Idyllwild, CA",earthquake,0.13,0.27,0.269,27.0,automatic,ci,ci
 2025-09-27T11:41:44.840Z,38.761001586914,-122.70532989502,0.17000000178814,1.17,md,10.0,74.0,0.008585,0.06,nc,nc75242587,2025-09-27T11:43:19.481Z,"2 km SW of Anderson Springs, CA",earthquake,0.34,0.50999999,0.23,9.0,automatic,nc,nc
+2025-09-27T11:47:44.959Z,60.4909,-143.007,2.1,1.6,ml,,,,0.49,ak,ak025cepxn3z,2025-09-27T11:49:34.075Z,"105 km S of McCarthy, Alaska",earthquake,,1.8,,,automatic,ak,ak
