@@ -17381,3 +17381,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T10:25:14.612Z,53.5794,160.3435,42.517,4.6,mb,39.0,103.0,1.159,0.98,us,us6000rdb5,2025-09-27T10:44:35.040Z,"127 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.25,7.786,0.059,86.0,reviewed,us,us
 2025-09-27T10:47:57.860Z,38.792331695557,-122.80449676514,3.1900000572205,1.06,md,16.0,72.0,0.004152,0.02,nc,nc75242577,2025-09-27T10:49:35.043Z,"4 km WNW of The Geysers, CA",earthquake,0.35,0.569999993,0.25,17.0,automatic,nc,nc
 2025-09-27T09:29:09.635Z,-2.9484,129.6426,16.039,4.5,mb,31.0,86.0,2.603,0.9,us,us6000rdaz,2025-09-27T10:54:31.040Z,"84 km ENE of Masohi, Indonesia",earthquake,9.1,5.02,0.108,25.0,reviewed,us,us
+2025-09-27T11:11:13.530Z,34.7275,-116.3053333,4.92,1.38,ml,31.0,44.0,0.1046,0.16,ci,ci41099359,2025-09-27T11:14:41.718Z,"13 km W of Ludlow, CA",earthquake,0.16,0.54,0.211,26.0,automatic,ci,ci
+2025-09-27T10:54:54.862Z,31.246,-103.465,6.692,1.6,ml,31.0,57.0,0.1,0.5,tx,tx2025taqbcx,2025-09-27T10:58:40.437Z,"15 km SSE of Lindsay, Texas",earthquake,0.0,1.74762403965,0.2,24.0,automatic,tx,tx
