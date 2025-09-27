@@ -17408,3 +17408,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T01:16:29.181Z,39.4493,-120.287,7.0,0.8,ml,5.0,157.55,0.101,0.07,nn,nn00905094,2025-09-27T13:15:18.597Z,"16 km NNE of Soda Springs, California",earthquake,,3.8,0.25,4.0,reviewed,nn,nn
 2025-09-27T14:02:33.304Z,38.1824,-117.803,3.2,1.4,ml,8.0,125.25,0.144,0.1695,nn,nn00905097,2025-09-27T14:05:26.970Z,"35 km SE of Mina, Nevada",earthquake,,2.0,0.4,3.0,automatic,nn,nn
 2025-09-27T13:37:18.035Z,37.7661,144.1882,10.0,4.8,mb,31.0,133.0,3.871,0.87,us,us6000rdbz,2025-09-27T13:52:39.040Z,"251 km ESE of Onagawa Chō, Japan",earthquake,9.7,1.905,0.053,109.0,reviewed,us,us
+2025-09-27T14:31:05.833Z,37.1065,-117.0457,2.4,0.7,ml,12.0,136.19,0.259,0.1932,nn,nn00905098,2025-09-27T14:33:17.458Z,"33 km NW of Beatty, Nevada",earthquake,,12.4,0.5,5.0,automatic,nn,nn
