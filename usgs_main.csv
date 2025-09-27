@@ -17369,3 +17369,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T08:53:38.820Z,38.78783416748,-122.74983215332,0.66000002622604,1.29,md,15.0,83.0,0.01123,0.02,nc,nc75242552,2025-09-27T08:55:14.224Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.479999989,0.08,15.0,automatic,nc,nc
 2025-09-27T08:50:14.981Z,63.1475,-147.6871,6.8,1.8,ml,,,,0.7,ak,ak025ceo5x4q,2025-09-27T08:52:26.477Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-27T08:30:22.844Z,-6.6822,132.4396,10.0,4.6,mb,22.0,106.0,3.743,0.59,us,us6000rdas,2025-09-27T08:51:26.040Z,"121 km SSW of Tual, Indonesia",earthquake,10.33,1.869,0.129,18.0,reviewed,us,us
+2025-09-27T09:22:14.791Z,31.648,-104.374,4.0961,1.7,ml,24.0,71.0,0.1,0.3,tx,tx2025tamzgm,2025-09-27T09:25:07.368Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1536185741425,0.1,18.0,automatic,tx,tx
+2025-09-27T09:14:55.514Z,36.7352,-116.3433,15.4,0.1,ml,10.0,269.83,0.105,0.2362,nn,nn00905087,2025-09-27T09:16:55.849Z,"41 km ESE of Beatty, Nevada",earthquake,,1.4,0.55,5.0,automatic,nn,nn
