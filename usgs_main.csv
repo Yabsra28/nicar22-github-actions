@@ -17412,3 +17412,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T14:02:49.110Z,-7.3724,128.1401,172.152,4.6,mb,29.0,93.0,4.503,1.1,us,us6000rdc1,2025-09-27T14:43:12.040Z,"178 km NE of Lospalos, Timor Leste",earthquake,10.18,6.949,0.103,28.0,reviewed,us,us
 2025-09-27T14:52:50.870Z,32.6978333,-115.7775,9.18,1.2,ml,26.0,69.0,0.06479,0.21,ci,ci41099471,2025-09-27T14:56:51.257Z,"21 km ESE of Ocotillo, CA",earthquake,0.32,0.68,0.259,10.0,automatic,ci,ci
 2025-09-27T14:50:11.290Z,38.823665618896,-122.84283447266,1.4800000190735,0.76,md,9.0,118.0,0.006121,0.01,nc,nc75242632,2025-09-27T14:51:49.839Z,"9 km NW of The Geysers, CA",earthquake,0.53,0.660000026,0.17,10.0,automatic,nc,nc
+2025-09-27T15:16:19.330Z,19.313833236694,-155.21966552734,-0.6700000166893,1.82,ml,47.0,128.0,0.03277,0.180000007,hv,hv74786432,2025-09-27T15:19:54.150Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.159999996,1.02,4.0,automatic,hv,hv
+2025-09-27T15:09:57.658Z,37.1242,-117.0456,2.5,0.6,ml,10.0,141.12,0.246,0.2625,nn,nn00905100,2025-09-27T15:12:07.419Z,"34 km NW of Beatty, Nevada",earthquake,,14.0,0.61,6.0,automatic,nn,nn
+2025-09-27T15:07:15.713Z,62.8891,-143.6856,12.7,1.8,ml,,,,0.38,ak,ak025ces2qmr,2025-09-27T15:08:58.469Z,"5 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
