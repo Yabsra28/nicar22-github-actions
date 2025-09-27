@@ -17375,3 +17375,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T09:08:55.277Z,-2.944,129.4827,20.338,5.1,mb,56.0,38.0,2.725,0.75,us,us6000rdax,2025-09-27T09:25:53.040Z,"69 km NE of Masohi, Indonesia",earthquake,7.78,5.269,0.076,56.0,reviewed,us,us
 2025-09-27T10:12:40.730Z,38.82816696167,-122.80216979981,1.8200000524521,1.06,md,20.0,46.0,0.02087,0.02,nc,nc75242567,2025-09-27T10:14:14.903Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.379999995,0.08,20.0,automatic,nc,nc
 2025-09-27T09:49:28.910Z,-19.514,168.9742,138.286,5.0,mb,43.0,123.0,3.397,0.64,us,us6000rdb2,2025-09-27T10:07:27.040Z,"32 km W of Isangel, Vanuatu",earthquake,11.69,7.855,0.045,158.0,reviewed,us,us
+2025-09-27T10:40:14.102Z,60.9356,-147.1388,20.6,1.8,ml,,,,0.38,ak,ak025cepan42,2025-09-27T10:41:56.040Z,"26 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-27T10:35:52.250Z,33.172,-116.1393333,9.76,0.76,ml,46.0,39.0,0.02896,0.22,ci,ci41099351,2025-09-27T10:39:22.469Z,"3 km NNW of Ocotillo Wells, CA",earthquake,0.24,0.43,0.211,7.0,automatic,ci,ci
+2025-09-27T10:29:19.670Z,18.045,-67.014166666667,24.31,2.3,md,10.0,130.0,0.05163,0.06,pr,pr71496598,2025-09-27T10:44:00.230Z,"4 km E of Lajas, Puerto Rico",earthquake,0.51,0.67,0.050552034039854,7.0,reviewed,pr,pr
+2025-09-27T10:25:14.612Z,53.5794,160.3435,42.517,4.6,mb,39.0,103.0,1.159,0.98,us,us6000rdb5,2025-09-27T10:44:35.040Z,"127 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.25,7.786,0.059,86.0,reviewed,us,us
