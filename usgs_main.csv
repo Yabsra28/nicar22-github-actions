@@ -17490,3 +17490,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T02:10:25.204Z,60.6287,-149.6998,31.2,2.0,ml,,,,0.26,ak,ak025cg7w454,2025-09-28T02:11:59.782Z,"16 km NNE of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-28T02:07:30.025Z,62.705,-151.834,10.3,1.2,ml,,,,0.89,ak,ak025cg7vhd6,2025-09-28T02:09:53.294Z,"59 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T02:04:16.950Z,33.9063333,-116.8885,10.44,0.84,ml,39.0,34.0,0.1049,0.15,ci,ci41099951,2025-09-28T02:09:12.429Z,"2 km SSW of Banning, CA",earthquake,0.15,0.32,0.21,31.0,automatic,ci,ci
+2025-09-28T03:42:22.430Z,33.642334,-116.753334,11.42,1.21,ml,24.0,38.0,0.07144,0.22,ci,ci41099991,2025-09-28T03:44:28.909Z,"11 km SSW of Idyllwild, CA",earthquake,0.46,1.09,0.269,14.0,automatic,ci,ci
+2025-09-28T03:35:44.890Z,38.835166931152,-122.81950378418,1.6299999952316,0.71,md,11.0,69.0,0.01294,0.01,nc,nc75242832,2025-09-28T03:37:22.115Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.709999979,0.25,11.0,automatic,nc,nc
+2025-09-28T03:16:48.869Z,60.1748,-152.5905,95.3,1.7,ml,,,,0.96,ak,ak025cg8ivva,2025-09-28T03:19:07.987Z,"53 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
