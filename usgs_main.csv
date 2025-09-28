@@ -17518,3 +17518,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T05:41:34.820Z,17.805666666667,-66.8785,9.12,2.89,md,19.0,236.0,0.1681,0.37,pr,pr71496648,2025-09-28T06:02:05.680Z,"18 km S of Guánica, Puerto Rico",earthquake,0.92,1.23,0.11304249239939,14.0,reviewed,pr,pr
 2025-09-28T05:25:43.120Z,-21.1721,-68.6675,122.735,4.6,mb,38.0,67.0,0.776,1.11,us,us6000rde6,2025-09-28T06:13:42.040Z,"43 km W of Ollagüe, Chile",earthquake,4.73,5.842,0.072,58.0,reviewed,us,us
 2025-09-27T21:13:49.170Z,49.4585,-120.5155,4.47,1.89,ml,8.0,226.0,0.5973,0.58,uw,uw62195096,2025-09-28T06:12:30.460Z,"0 km W of Princeton, Canada",explosion,2.28,31.61,0.089720729781776,6.0,reviewed,uw,uw
+2025-09-28T06:37:48.911Z,31.803,-101.669,3.1567,1.1,ml,10.0,89.0,0.1,0.3,tx,tx2025tcdgll,2025-09-28T06:39:42.543Z,"19 km WSW of Garden City, Texas",earthquake,0.0,1.8779647350311,0.2,8.0,automatic,tx,tx
