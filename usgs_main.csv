@@ -17536,3 +17536,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T08:55:36.140Z,33.319,-116.8986667,17.51,1.13,ml,60.0,24.0,0.04583,0.18,ci,ci41100047,2025-09-28T08:59:04.558Z,"5 km SW of Palomar Observatory, CA",earthquake,0.15,0.4,0.156,26.0,automatic,ci,ci
 2025-09-28T08:52:59.832Z,-23.8619,178.842,556.297,5.5,mww,56.0,71.0,6.131,0.82,us,us6000rdex,2025-09-28T09:10:19.040Z,south of the Fiji Islands,earthquake,13.37,8.405,0.075,17.0,reviewed,us,us
 2025-09-28T09:39:32.022Z,61.3692,-146.7456,19.6,1.7,ml,,,,0.58,ak,ak025cgc8do2,2025-09-28T09:41:25.892Z,"34 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-28T10:20:24.153Z,39.1486,-119.0458,1.9,2.0,ml,25.0,74.07,0.223,0.184,nn,nn00905114,2025-09-28T10:23:06.342Z,"20 km NNE of Yerington, Nevada",earthquake,,3.3,0.28,13.0,automatic,nn,nn
+2025-09-28T10:12:01.302Z,57.136,-157.9582,129.6,2.6,ml,,,,0.55,ak,ak025cgcnyki,2025-09-28T10:13:59.451Z,"52 km SSW of Pilot Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-28T10:11:29.345Z,28.831,-99.115,10.3109,1.9,ml,6.0,101.0,0.3,0.3,tx,tx2025tckios,2025-09-28T10:14:04.698Z,"7 km SSW of Pearsall, Texas",earthquake,0.0,7.1225361824036,0.1,6.0,automatic,tx,tx
+2025-09-28T09:59:16.848Z,39.3231,28.9177,10.0,5.4,mww,111.0,36.0,1.425,0.85,us,us6000rdf2,2025-09-28T10:22:27.663Z,"26 km NNW of Simav, Turkey",earthquake,4.9,1.825,0.089,12.0,reviewed,us,us
+2025-09-28T09:58:52.163Z,62.8679,-149.9544,226.9,1.7,ml,,,,0.65,ak,ak025cgcchts,2025-09-28T10:01:30.915Z,"47 km N of Chase, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-28T09:58:48.800Z,36.803833007812,-121.53216552734,5.1300001144409,1.77,md,28.0,71.0,0.0273,0.17,nc,nc75242902,2025-09-28T10:17:18.503Z,"5 km S of San Juan Bautista, CA",earthquake,0.38,0.519999981,0.16,22.0,automatic,nc,nc
