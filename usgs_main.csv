@@ -17665,3 +17665,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T20:02:47.704Z,63.0767,-150.465,102.2,3.0,ml,,,,0.67,ak,ak025cgik8x1,2025-09-28T20:54:38.424Z,"66 km NNE of Petersville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-09-28T21:43:23.960Z,34.0373333,-117.0788333,9.5,1.5,ml,83.0,20.0,0.02794,0.18,ci,ci41100335,2025-09-28T21:47:25.961Z,"3 km W of Yucaipa, CA",earthquake,0.11,0.28,0.145,27.0,automatic,ci,ci
 2025-09-28T21:40:47.554Z,60.4419,-142.9529,5.2,1.6,ml,,,,0.35,ak,ak025cgjdtub,2025-09-28T21:42:34.912Z,"110 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-28T22:15:58.287Z,63.5652,-150.861,0.0,1.8,ml,,,,0.73,ak,ak025cgjtxdg,2025-09-28T22:17:53.470Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-28T22:11:23.348Z,64.7067,-149.1932,23.3,1.4,ml,,,,1.02,ak,ak025cgjsztf,2025-09-28T22:14:19.873Z,"12 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-28T18:40:03.560Z,44.586833333333,-112.2225,10.26,2.34,ml,25.0,83.0,0.3026,0.24,mb,mb90113598,2025-09-28T22:16:39.370Z,"25 km N of Spencer, Idaho",earthquake,0.41,1.05,0.22436720408044,49.0,reviewed,mb,mb
