@@ -17502,3 +17502,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T04:51:58.390Z,38.730499267578,-122.71133422852,-0.75999999046326,1.65,md,8.0,158.0,0.0328,0.17,nc,nc75242837,2025-09-28T05:07:18.295Z,"5 km SSW of Anderson Springs, CA",earthquake,1.11,2.02999997,0.08,7.0,automatic,nc,nc
 2025-09-28T04:14:52.900Z,46.772166666667,-120.3515,7.36,0.88,ml,13.0,59.0,0.09316,0.1,uw,uw62195206,2025-09-28T05:04:47.740Z,"18 km NE of Selah, Washington",earthquake,0.25,0.27,0.17935653784671,13.0,reviewed,uw,uw
 2025-09-27T12:47:03.110Z,14.5367,147.0045,10.0,4.6,mb,40.0,145.0,1.362,1.02,us,us6000rdbp,2025-09-28T04:57:11.040Z,"153 km ESE of Saipan, Northern Mariana Islands",earthquake,9.1,1.904,0.088,39.0,reviewed,us,us
+2025-09-27T23:05:46.850Z,46.140833333333,-122.6505,14.27,0.77,ml,19.0,116.0,0.06419,0.11,uw,uw62195171,2025-09-28T05:23:07.540Z,"19 km E of Kelso, Washington",earthquake,0.35,0.64,0.12882522624584,12.0,reviewed,uw,uw
+2025-09-27T07:47:32.739Z,-21.1828,-68.77,112.361,4.4,mb,24.0,74.0,0.684,1.08,us,us6000rdam,2025-09-28T05:24:25.040Z,"53 km W of Ollagüe, Chile",earthquake,7.06,6.913,0.139,15.0,reviewed,us,us
+2025-09-27T06:22:57.754Z,68.4136,-148.6646,9.072,2.6,ml,15.0,50.0,0.347,0.75,us,us6000rdac,2025-09-28T05:27:48.040Z,"127 km NNE of Wiseman, Alaska",earthquake,2.52,7.289,0.044,68.0,reviewed,us,us
