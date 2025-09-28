@@ -17631,3 +17631,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T17:57:42.677Z,60.1164,-151.7993,65.8,1.4,ml,,,,0.22,ak,ak025cgh3q7v,2025-09-28T17:59:34.592Z,"10 km NW of Ninilchik, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-09-28T17:49:32.330Z,35.8605,-117.684,7.18,1.86,ml,41.0,38.0,0.08327,0.18,ci,ci41100231,2025-09-28T18:34:17.945Z,"22 km ESE of Little Lake, CA",earthquake,0.16,0.54,0.162,25.0,reviewed,ci,ci
 2025-09-28T17:14:49.138Z,31.527,-104.019,4.5363,1.7,ml,31.0,58.0,0.0,0.3,tx,tx2025tcyivc,2025-09-28T18:04:43.865Z,"31 km NW of Toyah, Texas",earthquake,0.0,1.0911160707474,0.2,19.0,automatic,tx,tx
+2025-09-28T19:31:45.581Z,60.586,-142.1784,14.0,1.1,ml,,,,0.07,ak,ak025cgi511a,2025-09-28T19:33:48.584Z,"102 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-28T19:21:45.347Z,59.8644,-153.6646,123.6,2.9,ml,,,,0.15,ak,ak025cgi2vuu,2025-09-28T19:22:59.300Z,"26 km ENE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-09-28T19:21:00.177Z,61.4532,-150.6529,41.6,2.0,ml,,,,0.37,ak,ak025cgi2sdd,2025-09-28T19:22:24.919Z,"12 km SW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2025-09-28T19:20:58.570Z,38.834499359131,-122.81583404541,1.6399999856949,0.3,md,10.0,83.0,0.01197,0.01,nc,nc75243062,2025-09-28T19:22:32.586Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.03999996,0.17,12.0,automatic,nc,nc
+2025-09-28T19:19:57.460Z,35.8621667,-117.6833333,7.26,0.73,ml,26.0,39.0,0.08372,0.16,ci,ci41100271,2025-09-28T19:23:42.956Z,"22 km ESE of Little Lake, CA",earthquake,0.18,0.55,0.185,17.0,automatic,ci,ci
+2025-09-28T19:04:44.060Z,32.8165,-116.1263333,8.68,1.15,ml,39.0,48.0,0.03475,0.22,ci,ci41100263,2025-09-28T19:08:10.140Z,"15 km NW of Ocotillo, CA",earthquake,0.23,0.64,0.178,23.0,automatic,ci,ci
+2025-09-28T19:04:37.610Z,40.596332550049,-122.43733215332,9.7200002670288,1.78,md,9.0,81.0,0.09021,0.4,nc,nc75243047,2025-09-28T19:22:16.544Z,"5 km ESE of Shasta, CA",earthquake,1.86,3.6400001,0.1,4.0,automatic,nc,nc
+2025-09-28T18:41:24.372Z,-11.5584,166.3016,77.046,5.2,mww,69.0,110.0,6.594,0.91,us,us6000rdgx,2025-09-28T19:00:44.040Z,"107 km SSE of Lata, Solomon Islands",earthquake,9.31,6.57,0.086,13.0,reviewed,us,us
