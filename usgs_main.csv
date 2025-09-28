@@ -17663,3 +17663,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T20:21:44.445Z,61.7019,-151.3039,79.3,1.8,ml,,,,0.75,ak,ak025cgiobe4,2025-09-28T20:24:30.734Z,"32 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-28T20:06:05.420Z,18.856833333333,-65.5655,53.24,3.08,md,8.0,236.0,0.6426,0.34,pr,pr71496703,2025-09-28T20:29:31.460Z,"55 km NNE of Vieques, Puerto Rico",earthquake,6.04,10.62,0.19819738869359,4.0,reviewed,pr,pr
 2025-09-28T20:02:47.704Z,63.0767,-150.465,102.2,3.0,ml,,,,0.67,ak,ak025cgik8x1,2025-09-28T20:54:38.424Z,"66 km NNE of Petersville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-09-28T21:43:23.960Z,34.0373333,-117.0788333,9.5,1.5,ml,83.0,20.0,0.02794,0.18,ci,ci41100335,2025-09-28T21:47:25.961Z,"3 km W of Yucaipa, CA",earthquake,0.11,0.28,0.145,27.0,automatic,ci,ci
+2025-09-28T21:40:47.554Z,60.4419,-142.9529,5.2,1.6,ml,,,,0.35,ak,ak025cgjdtub,2025-09-28T21:42:34.912Z,"110 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
