@@ -17573,3 +17573,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T13:22:09.560Z,62.0124,-144.5905,6.1,1.9,ml,,,,0.78,ak,ak025cgeif6k,2025-09-28T13:24:07.372Z,"37 km NNE of Kenny Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-28T13:21:04.598Z,19.1439,-64.6279,41.619,3.0,ml,13.0,269.0,0.72,0.3,us,us6000rdfl,2025-09-28T13:35:35.040Z,"91 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.54,25.745,0.074,24.0,reviewed,us,us
 2025-09-28T13:20:39.753Z,31.132,-101.167,5.0,1.4,ml,10.0,133.0,0.2,0.6,tx,tx2025tcqpml,2025-09-28T13:24:21.833Z,"28 km ESE of Big Lake, Texas",earthquake,0.0,,0.2,6.0,automatic,tx,tx
+2025-09-28T13:51:16.796Z,61.5101,-146.7754,25.9,2.4,ml,,,,0.56,ak,ak025cgeoni9,2025-09-28T13:53:02.543Z,"48 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-28T13:21:05.310Z,19.2098,-64.581,23.0,3.66,md,20.0,272.0,0.7411,0.35,pr,pr2025271000,2025-09-28T13:49:41.952Z,"99 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.59,26.69,0.21,16.0,reviewed,pr,pr
+2025-09-28T10:26:02.600Z,35.53483333,-96.7565,6.43,1.02,ml,52.0,48.0,0.01529699821,0.14,ok,ok2025tacm,2025-09-28T13:53:10.991Z,"8 km NW of Prague, Oklahoma",earthquake,,0.2,0.18,22.0,reviewed,ok,ok
+2025-09-28T07:07:59.442Z,36.6451,-116.2717,6.7,0.0,ml,14.0,112.53,0.054,0.0809,nn,nn00905122,2025-09-28T13:50:30.305Z,"52 km SE of Beatty, Nevada",earthquake,,1.4,0.18,4.0,reviewed,nn,nn
+2025-09-27T21:21:15.100Z,46.077333333333,-110.38633333333,9.63,1.76,ml,16.0,159.0,0.4475,0.2,mb,mb90113418,2025-09-28T13:48:55.520Z,"23 km ENE of Wilsall, Montana",earthquake,0.69,1.3,0.18624499813352,18.0,reviewed,mb,mb
