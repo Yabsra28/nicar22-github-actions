@@ -17546,3 +17546,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T10:23:22.910Z,57.9326,-155.225,13.1,1.1,ml,,,,0.13,ak,ak025cgcqd43,2025-09-28T10:24:56.407Z,"61 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-28T10:06:12.680Z,-19.915,-175.7405,171.099,4.5,mb,44.0,95.0,5.547,0.69,us,us6000rdf7,2025-09-28T10:29:05.040Z,"145 km W of Pangai, Tonga",earthquake,11.27,7.446,0.07,59.0,reviewed,us,us
 2025-09-27T22:53:39.550Z,35.436166666667,-120.71983333333,7.06,1.17,md,16.0,84.0,0.04458,0.07,nc,nc75242747,2025-09-28T10:26:37.427Z,"7 km SW of Atascadero, CA",earthquake,0.23,0.46,0.146,10.0,reviewed,nc,nc
+2025-09-28T10:48:22.032Z,31.695,-101.975,4.028,1.6,ml,36.0,51.0,0.1,0.4,tx,tx2025tclojb,2025-09-28T10:55:38.013Z,"34 km SSE of Midland, Texas",earthquake,0.0,1.0094527006149,0.2,28.0,automatic,tx,tx
