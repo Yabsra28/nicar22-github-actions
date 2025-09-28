@@ -17524,3 +17524,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T07:06:02.672Z,60.3703,-143.0703,21.1,1.4,ml,,,,0.48,ak,ak025cgaudkb,2025-09-28T07:08:04.473Z,"118 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-28T06:57:08.310Z,37.3001,-116.611,0.0,0.0,ml,9.0,170.12,0.241,0.2635,nn,nn00905108,2025-09-28T06:59:32.223Z,"45 km NNE of Beatty, Nevada",earthquake,,1764.4,0.34,4.0,automatic,nn,nn
 2025-09-28T06:51:33.470Z,63.3334,-145.5739,8.1,1.5,ml,,,,0.47,ak,ak025cgaink3,2025-09-28T06:53:03.662Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-28T07:12:42.740Z,32.9336667,-116.2276667,10.67,0.69,ml,39.0,43.0,0.067,0.21,ci,ci41100031,2025-09-28T07:16:14.834Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.22,0.55,0.192,11.0,automatic,ci,ci
+2025-09-28T07:11:25.360Z,62.0042,-147.9778,26.5,1.9,ml,,,,0.64,ak,ak025cgavhw8,2025-09-28T07:13:04.514Z,"27 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
