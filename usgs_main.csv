@@ -17528,3 +17528,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T07:11:25.360Z,62.0042,-147.9778,26.5,1.9,ml,,,,0.64,ak,ak025cgavhw8,2025-09-28T07:13:04.514Z,"27 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-28T07:30:46.848Z,60.5721,-147.5303,14.5,1.9,ml,,,,0.93,ak,ak025cgazm5o,2025-09-28T07:32:46.344Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-09-28T07:29:53.590Z,44.817665100098,-110.85316467285,1.0599999427795,3.3,ml,31.0,36.0,0.1088,0.550000012,uu,uu80118176,2025-09-28T07:33:35.580Z,"21 km SW of Mammoth, Wyoming",earthquake,0.95,12.8000002,0.51,22.0,automatic,uu,uu
+2025-09-28T07:38:38.960Z,44.822334289551,-110.85566711426,1.0900000333786,3.01,ml,28.0,47.0,0.1069,0.469999999,uu,uu80118201,2025-09-28T07:47:33.040Z,"21 km SW of Mammoth, Wyoming",earthquake,0.89,12.29,0.45,19.0,automatic,uu,uu
