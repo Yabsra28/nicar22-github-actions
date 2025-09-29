@@ -17894,3 +17894,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T21:02:29.500Z,38.838832855225,-122.80016326904,1.5599999427795,1.18,md,18.0,70.0,0.00768,0.02,nc,nc75243502,2025-09-29T21:04:05.925Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.419999987,0.15,19.0,automatic,nc,nc
 2025-09-29T10:27:34.719Z,41.1856,-116.7507,6.0,2.2,ml,8.0,253.96,0.327,0.1397,nn,nn00905179,2025-09-29T21:14:47.080Z,"53 km NE of Valmy, Nevada",earthquake,,3.4,0.33,3.0,reviewed,nn,nn
 2025-09-29T06:24:06.674Z,31.677,-104.446,5.1891,2.0,ml,33.0,64.0,0.0,0.1,tx,tx2025tdynnc,2025-09-29T21:09:07.684Z,"55 km S of Whites City, New Mexico",earthquake,1.0772299278616,0.41644342527585,0.1,21.0,reviewed,tx,tx
+2025-09-29T21:30:37.230Z,38.841835021973,-122.88066864014,2.6500000953674,1.05,md,13.0,157.0,0.004212,0.02,nc,nc75243517,2025-09-29T21:32:16.238Z,"12 km E of Cloverdale, CA",earthquake,0.63,0.540000021,0.28,13.0,automatic,nc,nc
+2025-09-29T13:32:56.033Z,63.1738,-150.5614,114.7,3.6,ml,,,,0.67,ak,ak025ci2409y,2025-09-29T21:23:11.968Z,"71 km SE of Denali National Park, Alaska",earthquake,,0.4,,,reviewed,ak,ak
