@@ -17864,3 +17864,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T18:01:15.540Z,45.7925,-122.53716666667,0.79,1.94,ml,4.0,174.0,0.1625,0.5,uw,uw62195691,2025-09-29T18:26:34.580Z,"1 km NNW of Battle Ground, Washington",earthquake,7.38,42.4,0.15366983467264,2.0,reviewed,uw,uw
 2025-09-29T15:19:28.890Z,46.436166666667,-120.71333333333,7.99,0.91,ml,7.0,200.0,0.155,0.19,uw,uw62195646,2025-09-29T18:36:32.010Z,"6 km NNE of White Swan, Washington",earthquake,1.1,15.37,0.10960343049441,4.0,reviewed,uw,uw
 2025-09-29T16:07:10.350Z,34.023,-117.2228333,15.07,0.88,ml,25.0,75.0,0.08613,0.19,ci,ci41100607,2025-09-29T18:52:42.732Z,"4 km SE of Loma Linda, CA",earthquake,0.26,0.62,0.178,13.0,reviewed,ci,ci
+2025-09-29T19:12:00.407Z,64.4865,-146.9061,8.5,1.1,ml,,,,0.59,ak,ak025ci5k7fs,2025-09-29T19:13:42.900Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-29T19:01:14.830Z,33.8591667,-117.5056667,1.65,1.2,ml,40.0,56.0,0.04897,0.21,ci,ci41100719,2025-09-29T19:04:45.823Z,"2 km SSE of Home Gardens, CA",earthquake,0.26,0.34,0.336,31.0,automatic,ci,ci
+2025-09-29T18:55:10.375Z,64.4674,-146.8917,9.3,0.9,ml,,,,0.58,ak,ak025ci580e5,2025-09-29T18:56:26.209Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-29T18:38:36.501Z,33.187,-108.1078,10.104,2.7,ml,19.0,72.0,0.707,0.66,us,us6000rdmj,2025-09-29T19:11:04.678Z,"17 km N of Lake Roberts Heights, New Mexico",earthquake,3.85,8.543,0.056,42.0,reviewed,us,us
+2025-09-29T09:45:12.050Z,46.186,-122.19533333333,5.79,-0.03,ml,6.0,149.0,0.07145,0.06,uw,uw62195586,2025-09-29T18:59:52.790Z,"36 km NNE of Amboy, Washington",earthquake,0.33,1.21,0.1246669789361,4.0,reviewed,uw,uw
