@@ -17888,3 +17888,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T09:36:23.407Z,41.1664,-116.7115,7.1,1.9,ml,10.0,158.19,0.291,0.1717,nn,nn00905178,2025-09-29T20:28:55.004Z,"54 km NE of Valmy, Nevada",earthquake,,3.0,0.35,5.0,reviewed,nn,nn
 2025-09-29T20:36:44.820Z,19.420333862305,-155.27299499512,2.789999961853,1.76,ml,17.0,84.0,0.008376,0.140000001,hv,hv74788087,2025-09-29T20:39:42.560Z,"4 km WSW of Volcano, Hawaii",earthquake,0.29,0.400000006,0.19,14.0,automatic,hv,hv
 2025-09-29T20:22:57.256Z,32.096,-101.002,6.5186,1.9,ml,21.0,73.0,0.2,0.1,tx,tx2025tfaijf,2025-09-29T20:42:55.024Z,"28 km S of Westbrook, Texas",earthquake,0.71036061149775,1.7506230238764,0.1,31.0,reviewed,tx,tx
+2025-09-29T20:48:55.707Z,59.764,-151.8865,41.3,2.1,ml,,,,0.93,ak,ak025ci6dh36,2025-09-29T20:55:04.554Z,"3 km WSW of Anchor Point, Alaska",earthquake,,18.1,,,automatic,ak,ak
