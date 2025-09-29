@@ -17746,3 +17746,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T08:00:23.970Z,38.791999816895,-122.74649810791,1.8700000047684,1.58,md,30.0,89.0,0.01161,0.05,nc,nc75243262,2025-09-29T08:22:18.195Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.360000014,0.14,30.0,automatic,nc,nc
 2025-09-29T07:33:41.950Z,18.004166666667,-66.728833333333,13.24,2.56,md,7.0,188.0,0.1228,0.08,pr,pr71496733,2025-09-29T08:11:16.200Z,"1 km NW of Tallaboa, Puerto Rico",earthquake,0.83,0.65,0.25211548331635,5.0,reviewed,pr,pr
 2025-09-29T08:31:51.619Z,43.331,-128.1435,10.0,4.0,mb,36.0,218.0,3.007,0.78,us,us6000rdjm,2025-09-29T08:51:57.476Z,off the coast of Oregon,earthquake,12.13,2.012,0.195,7.0,reviewed,us,us
+2025-09-29T05:42:36.979Z,9.0746,-84.057,29.266,4.5,mb,72.0,157.0,0.665,0.81,us,us6000rdjb,2025-09-29T09:09:55.320Z,"41 km SSE of Quepos, Costa Rica",earthquake,7.24,7.323,0.06,82.0,reviewed,us,us
