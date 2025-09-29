@@ -17696,3 +17696,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T00:25:15.570Z,17.9075,-66.928333333333,12.4,2.25,md,5.0,237.0,0.08183,0.06,pr,pr71496728,2025-09-29T00:42:15.740Z,"7 km SSW of Guánica, Puerto Rico",earthquake,1.02,0.49,0.13746637105277,4.0,reviewed,pr,pr
 2025-09-29T00:08:19.644Z,36.7689,-115.8258,8.3,1.1,ml,27.0,137.1,0.099,0.1887,nn,nn00905143,2025-09-29T00:10:28.826Z,"26 km NNW of Indian Springs, Nevada",earthquake,,0.9,0.29,16.0,automatic,nn,nn
 2025-09-28T23:42:29.940Z,19.221,-64.4281,66.0,3.77,md,8.0,289.0,0.731,0.22,pr,pr2025271001,2025-09-29T00:37:47.423Z,"105 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.11,8.69,0.12,6.0,reviewed,pr,pr
+2025-09-29T02:46:07.820Z,38.784832000732,-122.75900268555,2.4300000667572,0.76,md,10.0,75.0,0.01504,0.02,nc,nc75243217,2025-09-29T03:07:18.955Z,"1 km  of The Geysers, CA",earthquake,0.34,1.05999994,0.21,10.0,automatic,nc,nc
+2025-09-29T02:42:17.113Z,41.1772,-116.7505,5.0,2.8,ml,30.0,41.0,0.827,1.24,us,us6000rdim,2025-09-29T03:02:55.040Z,"53 km NE of Valmy, Nevada",earthquake,3.3,0.912,0.044,67.0,reviewed,us,us
+2025-09-29T02:38:58.384Z,60.8644,-151.5793,61.4,1.6,ml,,,,0.13,ak,ak025chvlj8u,2025-09-29T02:40:08.380Z,"25 km NW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-09-29T02:38:14.876Z,31.525,-104.019,6.9202,2.8,ml,28.0,62.0,0.1,0.1,tx,tx2025tdrawq,2025-09-29T02:49:26.531Z,"31 km NW of Toyah, Texas",earthquake,0.78611930249966,0.70280877233572,0.2,59.0,reviewed,tx,tx
+2025-09-29T02:22:25.644Z,32.361,-102.18,4.1697,1.3,ml,29.0,72.0,0.0,0.6,tx,tx2025tdqnge,2025-09-29T03:00:55.577Z,"33 km E of McKinney Acres, Texas",earthquake,0.0,0.95675361156464,0.2,16.0,automatic,tx,tx
+2025-09-29T01:58:41.766Z,-23.039,-68.2207,158.822,4.4,mb,17.0,79.0,0.095,0.83,us,us6000rdii,2025-09-29T02:56:12.040Z,"14 km S of San Pedro de Atacama, Chile",earthquake,7.64,3.3,0.218,6.0,reviewed,us,us
+2025-09-29T01:57:37.575Z,64.4899,-146.9387,5.7,1.6,ml,,,,0.45,ak,ak025chv44n1,2025-09-29T02:09:45.684Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-29T01:33:02.907Z,-30.6003,-177.9876,35.0,4.7,mb,30.0,133.0,7.593,0.86,us,us6000rdih,2025-09-29T02:15:23.040Z,"Kermadec Islands, New Zealand",earthquake,9.39,1.92,0.12,21.0,reviewed,us,us
