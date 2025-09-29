@@ -17724,3 +17724,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T16:47:50.430Z,46.849666666667,-121.94416666667,11.0,0.6,ml,21.0,62.0,0.008574,0.07,uw,uw62195371,2025-09-29T04:44:04.020Z,"12 km NNE of Ashford, Washington",earthquake,0.3,0.37,0.21889619460932,12.0,reviewed,uw,uw
 2025-09-28T11:51:08.210Z,46.195,-122.2,-1.72,0.0,mh,11.0,68.0,0.007949,0.25,uw,uw62195271,2025-09-29T04:57:33.250Z,"36 km NNE of Amboy, Washington",earthquake,0.64,21.57,,0.0,reviewed,uw,uw
 2025-09-28T09:57:12.090Z,47.604333333333,-121.7655,13.77,0.53,ml,6.0,158.0,0.1027,0.05,uw,uw62195246,2025-09-29T05:07:11.670Z,"9 km NNE of Snoqualmie, Washington",earthquake,0.54,0.96,0.059868241533073,2.0,reviewed,uw,uw
+2025-09-29T05:41:18.770Z,33.3628333,-116.699,12.27,0.78,ml,55.0,28.0,0.1156,0.18,ci,ci41100423,2025-09-29T05:45:59.745Z,"11 km NW of Warner Springs, CA",earthquake,0.16,0.46,0.084,26.0,automatic,ci,ci
+2025-09-29T05:39:25.185Z,61.948,-148.0268,32.1,1.9,ml,,,,0.55,ak,ak025chxdz7q,2025-09-29T05:41:08.148Z,"25 km NW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
