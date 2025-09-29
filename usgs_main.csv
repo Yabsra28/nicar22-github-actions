@@ -17843,3 +17843,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T06:46:37.739Z,61.2759,-152.1921,16.4,0.6,ml,,,,0.07,ak,ak025chy0vhw,2025-09-29T17:06:47.403Z,"61 km WNW of Tyonek, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2025-09-29T05:54:21.002Z,31.706,-104.529,5.9204,1.7,ml,13.0,67.0,0.0,0.3,tx,tx2025tdxnqg,2025-09-29T16:51:23.895Z,"54 km SSW of Whites City, New Mexico",earthquake,1.2921863230175,0.85492035305443,0.2,7.0,reviewed,tx,tx
 2025-09-28T21:11:47.762Z,32.125,-102.205,6.0791,0.6,ml,11.0,84.0,0.0,0.1,tx,tx2025tdgfol,2025-09-29T16:51:05.893Z,"18 km NW of Midland, Texas",earthquake,1.236927120047,1.2571593267907,0.4,5.0,reviewed,tx,tx
+2025-09-29T17:12:28.261Z,29.217,-97.538,11.0335,2.3,ml,5.0,217.0,0.1,0.2,tx,tx2025teuagg,2025-09-29T17:15:37.046Z,"11 km ESE of Smiley, Texas",earthquake,0.0,14.384279251099,0.0,5.0,automatic,tx,tx
+2025-09-29T17:10:34.820Z,33.1691666,-116.116333,8.34,1.12,ml,20.0,111.0,0.1163,0.16,ci,ci41100639,2025-09-29T17:12:52.857Z,"3 km NNE of Ocotillo Wells, CA",earthquake,0.38,1.3,0.282,4.0,automatic,ci,ci
+2025-09-29T12:03:40.050Z,46.429833333333,-113.19133333333,4.83,1.45,ml,21.0,61.0,0.1492,0.12,mb,mb90113773,2025-09-29T17:14:54.800Z,"5 km SE of Maxville, Montana",earthquake,0.28,2.26,0.21700574777231,15.0,reviewed,mb,mb
+2025-09-29T10:41:16.813Z,54.602,-159.9161,13.7,3.0,ml,,,,0.69,ak,ak025ci0dk1p,2025-09-29T17:14:33.903Z,"89 km SSE of Sand Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
