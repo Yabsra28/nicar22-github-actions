@@ -17874,3 +17874,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T19:42:41.041Z,62.5495,-148.1731,51.9,1.6,ml,,,,0.32,ak,ak025ci5qq20,2025-09-29T19:45:13.703Z,"85 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-29T19:41:26.532Z,63.1411,-150.5811,112.4,1.6,ml,,,,0.63,ak,ak025ci5qh7x,2025-09-29T19:43:19.402Z,"72 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-29T17:08:49.380Z,44.869,-111.491,8.92,1.46,ml,18.0,101.0,0.05789,0.18,mb,mb90113828,2025-09-29T19:41:38.150Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.41,0.88,0.15637058243802,18.0,reviewed,mb,mb
+2025-09-29T19:25:23.233Z,-1.5082,97.8349,10.0,4.3,mb,20.0,91.0,2.805,0.46,us,us6000rdmw,2025-09-29T19:58:46.040Z,"203 km WNW of Tuapejat, Indonesia",earthquake,10.17,1.899,0.168,10.0,reviewed,us,us
+2025-09-29T12:12:16.580Z,44.581333333333,-112.21366666667,8.0,0.8,ml,11.0,109.0,0.1296,0.19,mb,mb90113843,2025-09-29T19:49:45.340Z,"24 km N of Spencer, Idaho",earthquake,0.59,31.61,0.048245230554008,10.0,reviewed,mb,mb
+2025-09-29T07:00:26.974Z,41.1826,-116.7315,5.8,1.3,ml,6.0,264.24,0.313,0.1266,nn,nn00905175,2025-09-29T19:58:17.173Z,"54 km NE of Valmy, Nevada",earthquake,,4.4,0.25,3.0,reviewed,nn,nn
+2025-09-29T04:40:33.107Z,41.1336,-116.7268,9.6,2.0,ml,10.0,155.56,0.284,0.2044,nn,nn00905174,2025-09-29T19:52:08.925Z,"50 km NE of Valmy, Nevada",earthquake,,1.9,0.49,4.0,reviewed,nn,nn
