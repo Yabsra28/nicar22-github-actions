@@ -17761,3 +17761,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T11:06:32.694Z,62.8996,-151.1416,106.4,1.9,ml,,,,0.38,ak,ak025ci0risl,2025-09-29T11:08:42.755Z,"48 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-29T11:03:39.530Z,33.6513333,-116.741,12.99,0.98,ml,57.0,54.0,0.05872,0.16,ci,ci41100479,2025-09-29T11:07:04.433Z,"10 km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.221,29.0,automatic,ci,ci
 2025-09-29T10:56:02.310Z,34.1495,-117.4496667,12.3,1.41,ml,87.0,31.0,0.05062,0.19,ci,ci41100471,2025-09-29T11:01:02.384Z,"6 km N of Fontana, CA",earthquake,0.14,0.29,0.161,28.0,automatic,ci,ci
+2025-09-29T11:30:29.057Z,62.965,-150.5885,114.8,1.4,ml,,,,0.16,ak,ak025ci0wnp5,2025-09-29T11:32:30.039Z,"53 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
