@@ -17871,3 +17871,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T09:45:12.050Z,46.186,-122.19533333333,5.79,-0.03,ml,6.0,149.0,0.07145,0.06,uw,uw62195586,2025-09-29T18:59:52.790Z,"36 km NNE of Amboy, Washington",earthquake,0.33,1.21,0.1246669789361,4.0,reviewed,uw,uw
 2025-09-28T21:28:48.250Z,46.110166666667,-122.16533333333,8.12,0.45,ml,9.0,216.0,0.06489,0.08,uw,uw62195486,2025-09-29T19:18:27.260Z,"31 km NE of Amboy, Washington",earthquake,0.53,0.78,0.025787328053029,4.0,reviewed,uw,uw
 2025-09-29T19:01:27.190Z,46.008,-112.46866666667,-2.0,1.63,ml,9.0,118.0,0.05981,0.1,mb,mb90113833,2025-09-29T19:34:21.140Z,"5 km E of Butte, Montana",quarry blast,0.43,31.61,0.24642103030464,18.0,reviewed,mb,mb
+2025-09-29T19:42:41.041Z,62.5495,-148.1731,51.9,1.6,ml,,,,0.32,ak,ak025ci5qq20,2025-09-29T19:45:13.703Z,"85 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-29T19:41:26.532Z,63.1411,-150.5811,112.4,1.6,ml,,,,0.63,ak,ak025ci5qh7x,2025-09-29T19:43:19.402Z,"72 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-29T17:08:49.380Z,44.869,-111.491,8.92,1.46,ml,18.0,101.0,0.05789,0.18,mb,mb90113828,2025-09-29T19:41:38.150Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.41,0.88,0.15637058243802,18.0,reviewed,mb,mb
