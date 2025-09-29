@@ -17869,3 +17869,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T18:55:10.375Z,64.4674,-146.8917,9.3,0.9,ml,,,,0.58,ak,ak025ci580e5,2025-09-29T18:56:26.209Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-29T18:38:36.501Z,33.187,-108.1078,10.104,2.7,ml,19.0,72.0,0.707,0.66,us,us6000rdmj,2025-09-29T19:11:04.678Z,"17 km N of Lake Roberts Heights, New Mexico",earthquake,3.85,8.543,0.056,42.0,reviewed,us,us
 2025-09-29T09:45:12.050Z,46.186,-122.19533333333,5.79,-0.03,ml,6.0,149.0,0.07145,0.06,uw,uw62195586,2025-09-29T18:59:52.790Z,"36 km NNE of Amboy, Washington",earthquake,0.33,1.21,0.1246669789361,4.0,reviewed,uw,uw
+2025-09-28T21:28:48.250Z,46.110166666667,-122.16533333333,8.12,0.45,ml,9.0,216.0,0.06489,0.08,uw,uw62195486,2025-09-29T19:18:27.260Z,"31 km NE of Amboy, Washington",earthquake,0.53,0.78,0.025787328053029,4.0,reviewed,uw,uw
