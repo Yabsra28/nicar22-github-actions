@@ -17882,3 +17882,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T19:59:38.650Z,35.3526667,-117.7915,5.71,1.39,ml,42.0,48.0,0.09595,0.17,ci,ci41100759,2025-09-29T20:03:08.625Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.61,0.148,26.0,automatic,ci,ci
 2025-09-29T19:58:36.840Z,33.0183333,-117.5891667,19.68,2.3,ml,57.0,136.0,0.251,0.18,ci,ci41100751,2025-09-29T20:02:13.620Z,"27 km SW of Carlsbad, CA",earthquake,0.29,0.36,0.181,26.0,automatic,ci,ci
 2025-09-29T08:55:44.665Z,41.2343,-116.6779,9.1,1.4,ml,7.0,256.62,0.317,0.2221,nn,nn00905177,2025-09-29T20:04:26.305Z,"61 km NE of Valmy, Nevada",earthquake,,3.2,0.06,3.0,reviewed,nn,nn
+2025-09-29T20:34:25.862Z,64.9371,-147.7771,10.7,1.1,ml,,,,0.38,ak,ak025ci6aere,2025-09-29T20:35:56.000Z,"4 km NW of Farmers Loop, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-29T20:32:55.450Z,38.829166412354,-122.81632995606,1.960000038147,0.68,md,8.0,122.0,0.007556,0.01,nc,nc75243487,2025-09-29T20:34:30.851Z,"8 km NNW of The Geysers, CA",earthquake,0.45,1.08000004,0.1,9.0,automatic,nc,nc
+2025-09-29T18:22:00.689Z,31.634,-103.146,6.0999,1.6,ml,26.0,35.0,0.1,0.3,tx,tx2025tewiaq,2025-09-29T20:29:55.949Z,"11 km N of Pyote, Texas",earthquake,0.97491638991152,1.9046538349811,0.2,12.0,reviewed,tx,tx
+2025-09-29T09:36:23.407Z,41.1664,-116.7115,7.1,1.9,ml,10.0,158.19,0.291,0.1717,nn,nn00905178,2025-09-29T20:28:55.004Z,"54 km NE of Valmy, Nevada",earthquake,,3.0,0.35,5.0,reviewed,nn,nn
