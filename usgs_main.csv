@@ -17751,3 +17751,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T09:26:33.740Z,33.0288333,-116.2896667,6.47,0.6,ml,44.0,46.0,0.07492,0.19,ci,ci41100463,2025-09-29T09:29:54.564Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.21,0.61,0.129,8.0,automatic,ci,ci
 2025-09-29T09:19:20.550Z,35.6715,-117.4825,7.29,0.94,ml,29.0,48.0,0.04829,0.17,ci,ci41100455,2025-09-29T09:22:47.185Z,"13 km SSW of Searles Valley, CA",earthquake,0.23,0.59,0.154,13.0,automatic,ci,ci
 2025-09-29T08:46:42.226Z,53.053,159.4689,69.108,4.7,mb,110.0,126.0,0.495,0.68,us,us6000rdjn,2025-09-29T09:22:57.040Z,"56 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.72,5.483,0.035,248.0,reviewed,us,us
+2025-09-29T10:26:56.834Z,59.5507,-153.1105,95.3,1.9,ml,,,,0.24,ak,ak025ci0afdf,2025-09-29T10:28:51.518Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-29T10:20:27.467Z,62.3527,-149.1133,11.7,1.5,ml,,,,0.4,ak,ak025ci092t6,2025-09-29T10:22:31.925Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-29T10:10:36.089Z,60.8286,-150.7979,38.8,1.5,ml,,,,0.37,ak,ak025ci06ybc,2025-09-29T10:12:34.153Z,"12 km SSW of Point Possession, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-09-29T09:30:40.588Z,41.1674,-116.7524,8.6,3.0,ml,16.0,123.4,0.318,0.1536,nn,nn00905147,2025-09-29T10:16:00.167Z,"52 km NE of Valmy, Nevada",earthquake,,2.5,0.27,11.0,reviewed,nn,nn
