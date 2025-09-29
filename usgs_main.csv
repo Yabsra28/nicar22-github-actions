@@ -17903,3 +17903,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T21:40:47.090Z,47.614,-113.81533333333,6.83,0.99,ml,15.0,123.0,0.1625,0.09,mb,mb90113858,2025-09-29T22:08:11.260Z,"12 km NW of Condon, Montana",earthquake,0.3,1.7,0.17962056151727,7.0,reviewed,mb,mb
 2025-09-29T12:20:38.042Z,41.2009,-116.7389,6.7,2.5,ml,17.0,159.73,0.328,0.1627,nn,nn00905183,2025-09-29T21:57:42.214Z,"55 km NE of Valmy, Nevada",earthquake,,2.3,0.18,10.0,reviewed,nn,nn
 2025-09-29T01:42:27.990Z,60.045166666667,-153.03433333333,1.02,-0.46,ml,5.0,214.0,0.01911,0.06,av,av93795768,2025-09-29T22:13:05.770Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.05,0.52,0.23034940959451,5.0,reviewed,av,av
+2025-09-29T22:26:55.480Z,38.82500076294,-122.84366607666,1.8099999427795,0.68,md,9.0,99.0,0.015,0.01,nc,nc75242636,2025-09-29T22:28:31.080Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.959999979,0.22,10.0,automatic,nc,nc
+2025-09-29T22:26:50.170Z,35.7763329,-117.5930023,7.41,1.02,ml,10.0,131.0,0.03949,0.19,ci,ci41100807,2025-09-29T22:28:54.878Z,"17 km W of Searles Valley, CA",earthquake,1.17,1.45,0.182,5.0,automatic,ci,ci
+2025-09-29T22:24:18.008Z,62.0182,-151.4038,77.8,1.7,ml,,,,0.33,ak,ak025ci7f47c,2025-09-29T22:26:22.881Z,"3 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-29T22:17:35.181Z,57.8224,-153.3049,47.9,2.2,ml,,,,1.28,ak,ak025ci7dnim,2025-09-29T22:21:02.871Z,"25 km WSW of Port Lions, Alaska",earthquake,,4.7,,,automatic,ak,ak
+2025-09-29T22:07:26.009Z,52.9856,159.6626,60.551,5.5,mww,88.0,76.0,0.613,0.94,us,us6000rdnq,2025-09-29T22:25:37.040Z,"69 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.18,5.82,0.086,13.0,reviewed,us,us
+2025-09-29T12:42:01.417Z,41.1814,-116.7264,7.2,2.5,ml,10.0,260.69,0.309,0.1563,nn,nn00905185,2025-09-29T22:28:15.742Z,"54 km NE of Valmy, Nevada",earthquake,,3.6,0.24,5.0,reviewed,nn,nn
+2025-09-29T12:00:40.513Z,28.811,-99.105,6.8359,1.7,ml,16.0,86.0,0.1,0.3,tx,tx2025tejrmx,2025-09-29T22:26:13.190Z,"9 km S of Pearsall, Texas",earthquake,2.4208284071374,1.5863295775564,0.1,8.0,reviewed,tx,tx
