@@ -18210,3 +18210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T19:30:27.922Z,11.0706,124.0219,10.0,4.7,mb,66.0,109.0,4.262,0.74,us,us6000rdvq,2025-09-30T21:14:42.040Z,"2 km NW of Nailong, Philippines",earthquake,10.09,1.397,0.067,68.0,reviewed,us,us
 2025-09-30T21:31:29.441Z,63.1532,-147.7303,8.1,1.4,ml,,,,0.78,ak,ak025cjuejzk,2025-09-30T21:34:08.272Z,"66 km ESE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-30T21:29:59.542Z,63.7609,-148.4865,92.9,1.0,ml,,,,0.56,ak,ak025cjue6vm,2025-09-30T21:31:51.279Z,"21 km E of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-09-30T21:38:50.566Z,63.3121,-145.1639,8.1,1.4,ml,,,,0.4,ak,ak025cjug3mo,2025-09-30T21:41:08.820Z,"33 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T20:31:05.956Z,-21.3119,-68.9589,102.815,4.2,mwr,65.0,49.0,0.549,0.97,us,us6000rdws,2025-09-30T21:49:11.040Z,"73 km W of Ollagüe, Chile",earthquake,4.17,3.831,0.086,13.0,reviewed,us,us
+2025-09-30T16:01:51.192Z,10.7762,123.9727,10.0,4.7,mb,116.0,57.0,4.01,0.51,us,us6000rdt1,2025-09-30T21:48:36.859Z,"3 km NW of Sogod, Philippines",earthquake,10.07,1.856,0.053,111.0,reviewed,us,us
+2025-09-30T00:44:47.460Z,61.025,-152.366,9.28,0.27,ml,11.0,152.0,0.1717,0.13,av,av93797478,2025-09-30T21:46:12.610Z,"66 km W of Tyonek, Alaska",earthquake,0.49,1.77,0.29155083903385,11.0,reviewed,av,av
