@@ -18236,3 +18236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T04:39:25.147Z,41.1598,-116.726,11.3,1.1,ml,7.0,252.1,0.297,0.1561,nn,nn00905235,2025-09-30T23:37:50.858Z,"52 km NE of Valmy, Nevada",earthquake,,2.5,0.32,3.0,reviewed,nn,nn
 2025-09-30T04:25:25.657Z,41.146,-116.7134,9.8,1.0,ml,4.0,260.81,0.307,0.1445,nn,nn00905234,2025-09-30T23:31:41.997Z,"52 km NE of Valmy, Nevada",earthquake,,2.8,0.0,1.0,reviewed,nn,nn
 2025-09-30T03:57:59.466Z,41.133,-116.701,9.5,1.1,ml,7.0,250.12,0.267,0.1338,nn,nn00905233,2025-09-30T23:28:37.085Z,"52 km NE of Valmy, Nevada",earthquake,,2.0,0.24,3.0,reviewed,nn,nn
+2025-09-30T23:29:58.332Z,-30.6212,-177.724,35.0,5.2,mb,35.0,125.0,12.547,0.74,us,us6000rdxa,2025-09-30T23:48:09.040Z,"Kermadec Islands, New Zealand",earthquake,12.56,1.914,0.062,87.0,reviewed,us,us
+2025-09-30T13:26:50.634Z,32.122,-102.197,3.5755,1.0,mlv,6.0,150.0,0.0,0.5,tx,tx2025tgignj,2025-09-30T23:47:53.320Z,"17 km NW of Midland, Texas",earthquake,0.0,2.1010513305664,0.3,6.0,automatic,tx,tx
+2025-09-30T11:11:21.986Z,32.119,-101.488,3.8724,1.4,mlv,23.0,82.0,0.1,0.3,tx,tx2025tgdtxz,2025-09-30T23:47:35.788Z,"11 km W of Forsan, Texas",earthquake,0.0,1.2625861167908,0.3,19.0,automatic,tx,tx
+2025-09-30T04:40:35.306Z,41.1778,-116.7302,11.2,1.4,ml,8.0,253.31,0.309,0.1206,nn,nn00905236,2025-09-30T23:43:59.910Z,"54 km NE of Valmy, Nevada",earthquake,,2.7,0.38,3.0,reviewed,nn,nn
