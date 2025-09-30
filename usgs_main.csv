@@ -18055,3 +18055,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T04:16:34.450Z,32.102,-101.52,2.2884,1.2,mlv,19.0,75.0,0.1,0.5,tx,tx2025tfqamw,2025-09-30T11:27:15.267Z,"14 km W of Forsan, Texas",earthquake,0.0,1.3239414691925,0.3,13.0,automatic,tx,tx
 2025-09-30T03:58:03.835Z,32.083,-101.477,2.7595,1.4,mlv,19.0,94.0,0.1,0.4,tx,tx2025tfpkns,2025-09-30T11:26:58.240Z,"10 km WSW of Forsan, Texas",earthquake,0.0,1.2988885641098,0.3,13.0,automatic,tx,tx
 2025-09-29T23:09:38.186Z,32.092,-101.484,3.3463,1.2,mlv,14.0,96.0,0.1,0.3,tx,tx2025tffwcc,2025-09-30T11:24:22.321Z,"11 km W of Forsan, Texas",earthquake,0.0,1.4822007417679,0.3,7.0,automatic,tx,tx
+2025-09-30T11:34:00.240Z,35.3506667,-117.7921667,5.12,1.48,ml,47.0,36.0,0.09393,0.18,ci,ci41100863,2025-09-30T11:37:49.141Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.87,0.241,25.0,automatic,ci,ci
+2025-09-30T11:29:13.201Z,63.309,-145.1296,5.5,1.6,ml,,,,0.51,ak,ak025cjofr94,2025-09-30T11:31:17.491Z,"34 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T05:38:29.424Z,31.896,-101.744,6.9035,1.0,mlv,7.0,95.0,0.1,0.2,tx,tx2025tfstca,2025-09-30T11:29:41.947Z,"25 km W of Garden City, Texas",earthquake,0.0,4.0153322219849,0.5,7.0,automatic,tx,tx
+2025-09-30T04:36:59.060Z,32.17,-101.694,4.2742,1.2,mlv,26.0,43.0,0.0,0.4,tx,tx2025tfqsbn,2025-09-30T11:29:35.948Z,"9 km ENE of Stanton, Texas",earthquake,0.0,0.98832982778549,0.3,20.0,automatic,tx,tx
