@@ -18005,3 +18005,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T06:10:59.000Z,38.79999923706,-122.77066802978,1.1799999475479,0.31,md,7.0,121.0,0.0151,0.05,nc,nc75242801,2025-09-30T06:12:37.262Z,"3 km NNW of The Geysers, CA",earthquake,0.46,1.30999994,0.1,7.0,automatic,nc,nc
 2025-09-30T05:54:19.141Z,57.2439,-157.0579,14.6,2.0,ml,,,,0.87,ak,ak025cjl0ize,2025-09-30T05:55:52.163Z,"36 km SE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-29T22:07:26.700Z,37.588333333333,-122.46433333333,9.54,0.95,md,14.0,91.0,0.03011,0.06,nc,nc75243547,2025-09-30T05:57:32.322Z,"3 km SE of Pacifica, CA",earthquake,0.31,0.43,0.423,9.0,reviewed,nc,nc
+2025-09-30T06:38:29.437Z,57.1819,-156.9035,7.1,1.9,ml,,,,0.62,ak,ak025cjlijuc,2025-09-30T06:42:23.904Z,"47 km SE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T06:21:34.670Z,36.1181667,-117.9143333,5.46,1.64,ml,30.0,48.0,0.03522,0.16,ci,ci41100839,2025-09-30T06:25:06.512Z,"9 km NNE of Coso Junction, CA",earthquake,0.2,0.36,0.27,25.0,automatic,ci,ci
+2025-09-30T01:35:22.230Z,37.589,-122.46133333333,9.08,0.55,md,9.0,89.0,0.03254,0.06,nc,nc75242696,2025-09-30T06:29:10.631Z,"4 km SE of Pacifica, CA",earthquake,0.34,0.57,0.07,6.0,reviewed,nc,nc
+2025-09-29T14:13:23.840Z,38.756,-122.714,2.27,0.03,md,3.0,319.0,0.01016,0.0,nc,nc75243352,2025-09-30T06:31:11.600Z,"3 km SW of Anderson Springs, CA",earthquake,1.48,1.23,0.382,2.0,reviewed,nc,nc
