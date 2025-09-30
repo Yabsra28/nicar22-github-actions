@@ -18098,3 +18098,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T07:06:05.600Z,37.331,-112.67866666667,6.05,0.38,md,5.0,118.0,0.2942,0.12,uu,uu80004958,2025-09-30T13:59:33.250Z,"7 km NNW of Orderville, Utah",earthquake,0.65,31.61,0.54381847532434,3.0,reviewed,uu,uu
 2025-09-30T14:23:03.137Z,38.2072,-117.9163,6.0,1.6,ml,10.0,131.92,0.464,0.2049,nn,nn00905210,2025-09-30T14:26:06.734Z,"26 km SE of Mina, Nevada",earthquake,,1.2,0.17,4.0,automatic,nn,nn
 2025-09-30T14:12:58.376Z,11.2149,124.1137,10.0,5.2,mb,78.0,47.0,4.365,0.59,us,us6000rdsd,2025-09-30T14:46:37.523Z,"7 km ESE of Talisay, Philippines",earthquake,9.82,1.858,0.07,68.0,reviewed,us,us
+2025-09-30T15:04:52.446Z,60.1923,-152.6258,101.2,2.0,ml,,,,0.9,ak,ak025cjqo7r9,2025-09-30T15:07:46.275Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-30T15:02:44.219Z,31.595,-104.564,3.1835,2.5,ml,36.0,78.0,0.1,0.3,tx,tx2025tgllhx,2025-09-30T15:09:34.606Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,1.2525203227997,0.2,25.0,automatic,tx,tx
+2025-09-30T14:57:49.337Z,36.7934,-115.9402,8.8,0.6,ml,15.0,193.18,0.005,0.1683,nn,nn00905215,2025-09-30T14:59:47.713Z,"34 km NW of Indian Springs, Nevada",earthquake,,0.9,0.4,10.0,automatic,nn,nn
+2025-09-30T14:39:39.144Z,11.0023,124.0158,10.0,5.0,mb,101.0,39.0,4.201,0.65,us,us6000rdsi,2025-09-30T15:10:42.804Z,"0 km SE of Guadalupe, Philippines",earthquake,9.64,1.86,0.056,104.0,reviewed,us,us
+2025-09-30T14:33:00.410Z,11.0338,124.0295,10.0,5.0,mb,42.0,69.0,4.226,1.11,us,us6000rdsg,2025-09-30T15:04:19.417Z,"0 km ENE of Libertad, Philippines",earthquake,11.25,1.904,0.077,54.0,reviewed,us,us
