@@ -18208,3 +18208,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T20:56:52.090Z,17.921,-65.973166666667,12.88,1.55,md,5.0,262.0,0.1073,0.08,pr,pr71496803,2025-09-30T21:07:02.510Z,"6 km SSE of Lamboglia, Puerto Rico",earthquake,0.65,0.94,0.1160522443571,4.0,reviewed,pr,pr
 2025-09-30T20:47:27.252Z,64.9366,-147.7654,0.3,0.8,ml,,,,1.24,ak,ak025cjtwjnl,2025-09-30T20:59:53.152Z,"4 km NW of Farmers Loop, Alaska",earthquake,,15.1,,,automatic,ak,ak
 2025-09-30T19:30:27.922Z,11.0706,124.0219,10.0,4.7,mb,66.0,109.0,4.262,0.74,us,us6000rdvq,2025-09-30T21:14:42.040Z,"2 km NW of Nailong, Philippines",earthquake,10.09,1.397,0.067,68.0,reviewed,us,us
+2025-09-30T21:31:29.441Z,63.1532,-147.7303,8.1,1.4,ml,,,,0.78,ak,ak025cjuejzk,2025-09-30T21:34:08.272Z,"66 km ESE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-30T21:29:59.542Z,63.7609,-148.4865,92.9,1.0,ml,,,,0.56,ak,ak025cjue6vm,2025-09-30T21:31:51.279Z,"21 km E of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
