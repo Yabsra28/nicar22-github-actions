@@ -18040,3 +18040,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T09:54:45.575Z,58.2431,-155.1952,0.0,0.3,ml,,,,0.45,ak,ak025cjnebfx,2025-09-30T09:56:39.340Z,"86 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-30T09:51:20.750Z,35.6403333,-117.463,5.75,1.03,ml,27.0,54.0,0.04044,0.13,ci,ci41100855,2025-09-30T09:54:50.477Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.43,0.166,17.0,automatic,ci,ci
 2025-09-30T09:48:59.622Z,66.4351,-148.7205,0.0,1.4,ml,,,,0.73,ak,ak025cjnd28a,2025-09-30T09:51:52.514Z,"50 km NNE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-30T10:11:16.475Z,57.4258,-154.7845,28.5,1.7,ml,,,,0.34,ak,ak025cjnqh0f,2025-09-30T10:13:29.060Z,"25 km SW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T10:07:49.026Z,62.4797,-149.8811,9.3,1.4,ml,,,,0.48,ak,ak025cjnponq,2025-09-30T10:09:49.583Z,"11 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T10:07:34.427Z,19.5545,-67.0143,25.405,4.4,mb,42.0,135.0,1.085,0.89,us,us6000rdqx,2025-09-30T10:20:48.040Z,"116 km N of Isabela, Puerto Rico",earthquake,4.98,6.193,0.105,26.0,reviewed,us,us
+2025-09-30T10:06:10.610Z,38.837833404541,-122.78316497803,1.5700000524521,0.32,md,7.0,79.0,0.005636,0.01,nc,nc75242911,2025-09-30T10:07:47.185Z,"5 km WNW of Cobb, CA",earthquake,0.47,1.52999997,0.19,7.0,automatic,nc,nc
+2025-09-30T10:05:47.850Z,38.83716583252,-122.78283691406,1.8200000524521,1.05,md,21.0,70.0,0.005993,0.03,nc,nc75242906,2025-09-30T10:07:22.169Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.370000005,0.1,21.0,automatic,nc,nc
+2025-09-30T09:59:30.977Z,58.7754,-154.2278,116.2,1.6,ml,,,,0.27,ak,ak025cjnfcw9,2025-09-30T10:01:16.906Z,"80 km SSE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
