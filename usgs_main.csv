@@ -18169,3 +18169,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T18:46:37.841Z,60.6877,-147.7168,20.8,1.5,ml,,,,0.55,ak,ak025cjsphk8,2025-09-30T18:48:40.093Z,"53 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-30T18:46:14.020Z,33.104,-116.6178333,4.53,0.66,ml,22.0,74.0,0.02858,0.23,ci,ci41101039,2025-09-30T18:49:45.501Z,"3 km NNW of Julian, CA",earthquake,0.31,0.5,0.153,12.0,automatic,ci,ci
 2025-09-30T18:45:36.490Z,36.555999755859,-121.13033294678,1.0599999427795,1.57,md,19.0,66.0,0.04702,0.24,nc,nc75243131,2025-09-30T18:47:11.201Z,"3 km NNE of Pinnacles, CA",earthquake,0.69,3.19000006,0.21,13.0,automatic,nc,nc
+2025-09-30T19:01:01.538Z,58.5696,-155.1139,10.1,0.9,ml,,,,0.23,ak,ak025cjt1755,2025-09-30T19:02:36.919Z,"90 km E of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-30T16:32:02.900Z,54.743666666667,-163.98533333333,1.78,0.31,ml,5.0,98.0,0.03496,0.25,av,av93798778,2025-09-30T19:10:01.630Z,"38 km WSW of False Pass, Alaska",earthquake,0.58,1.27,0.43067158580361,5.0,reviewed,av,av
+2025-09-30T14:05:45.781Z,38.6334,-97.5078,10.0,2.6,mb_lg,24.0,125.0,0.689,0.74,us,us6000rdsb,2025-09-30T19:08:27.040Z,"9 km ESE of Assaria, Kansas",earthquake,2.56,1.994,0.102,25.0,reviewed,us,us
