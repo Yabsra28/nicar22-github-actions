@@ -17997,3 +17997,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T03:41:45.760Z,46.198,-122.18866666667,2.38,-0.1,mh,8.0,129.0,0.01955,0.07,uw,uw62195946,2025-09-30T04:54:20.900Z,"37 km NNE of Amboy, Washington",earthquake,0.42,1.11,,0.0,reviewed,uw,uw
 2025-09-30T05:18:10.720Z,38.821334838867,-122.79416656494,3.1500000953674,0.77,md,7.0,113.0,0.0126,0.01,nc,nc75242771,2025-09-30T05:19:46.288Z,"6 km NNW of The Geysers, CA",earthquake,0.95,1.89999998,0.1,9.0,automatic,nc,nc
 2025-09-30T05:12:06.373Z,63.3161,-145.0969,7.2,2.1,ml,,,,0.7,ak,ak025cjkrhx9,2025-09-30T05:14:23.502Z,"36 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T05:34:11.087Z,61.7881,-150.7696,51.0,1.9,ml,,,,0.52,ak,ak025cjkw80x,2025-09-30T05:37:55.755Z,"30 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-30T05:16:00.280Z,52.9842,161.0411,20.596,4.8,mb,107.0,170.0,1.446,0.5,us,us6000rdq1,2025-09-30T05:37:49.040Z,"162 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.13,7.685,0.039,198.0,reviewed,us,us
