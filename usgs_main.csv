@@ -18216,3 +18216,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T00:44:47.460Z,61.025,-152.366,9.28,0.27,ml,11.0,152.0,0.1717,0.13,av,av93797478,2025-09-30T21:46:12.610Z,"66 km W of Tyonek, Alaska",earthquake,0.49,1.77,0.29155083903385,11.0,reviewed,av,av
 2025-09-30T21:51:11.040Z,35.9631667,-117.6728333,2.52,1.0,ml,20.0,54.0,0.02375,0.14,ci,ci41101127,2025-09-30T21:54:42.104Z,"21 km E of Little Lake, CA",earthquake,0.2,0.22,0.188,20.0,automatic,ci,ci
 2025-09-30T01:25:33.760Z,60.014666666667,-153.07316666667,-2.0,-0.68,ml,5.0,96.0,0.02751,0.07,av,av93797508,2025-09-30T21:58:16.360Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.51,0.23795128339186,5.0,reviewed,av,av
+2025-09-30T22:23:33.102Z,64.0274,-148.788,0.0,1.9,ml,,,,0.88,ak,ak025cjuya5a,2025-09-30T22:25:50.054Z,"16 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T22:11:51.872Z,62.21,-150.1026,19.7,1.4,ml,,,,0.5,ak,ak025cjuvr03,2025-09-30T22:14:18.679Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T22:06:09.380Z,33.3925,-116.3758333,2.23,0.98,ml,46.0,30.0,0.06304,0.22,ci,ci41101135,2025-09-30T22:09:38.201Z,"15 km N of Borrego Springs, CA",earthquake,0.19,0.36,0.151,26.0,automatic,ci,ci
+2025-09-30T22:02:11.790Z,38.74,-112.51233333333,0.48,1.75,ml,10.0,122.0,0.1399,0.12,uu,uu80118431,2025-09-30T22:25:50.470Z,"9 km SW of Kanosh, Utah",earthquake,0.39,31.61,0.20251688150218,3.0,reviewed,uu,uu
+2025-09-30T21:09:26.711Z,51.6533,159.0411,35.0,4.4,mb,17.0,162.0,1.393,0.35,us,us6000rdx2,2025-09-30T22:26:42.040Z,"148 km SSE of Vilyuchinsk, Russia",earthquake,11.1,1.976,0.13,17.0,reviewed,us,us
