@@ -17984,3 +17984,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T03:04:36.457Z,33.9874,-108.6069,9.541,1.8,ml,14.0,100.0,0.689,0.51,us,us6000rdpn,2025-09-30T03:25:42.040Z,"13 km NNW of Aragon, New Mexico",earthquake,2.29,8.613,0.077,22.0,reviewed,us,us
 2025-09-30T03:37:25.186Z,61.9503,-150.3849,48.2,1.5,ml,,,,1.01,ak,ak025cjjq12e,2025-09-30T03:39:42.662Z,"29 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-29T22:01:22.300Z,45.265333333333,-123.05183333333,-0.12,2.05,ml,12.0,93.0,0.0647,0.42,uw,uw62195796,2025-09-30T03:34:39.820Z,"3 km WSW of Dundee, Oregon",explosion,1.23,31.61,0.18362564563217,8.0,reviewed,uw,uw
+2025-09-30T00:14:41.350Z,46.187833333333,-122.19666666667,8.1,0.31,ml,13.0,95.0,0.0146,0.14,uw,uw62195891,2025-09-30T03:58:20.470Z,"36 km NNE of Amboy, Washington",earthquake,0.5,0.57,0.13703676306943,5.0,reviewed,uw,uw
