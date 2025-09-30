@@ -18202,3 +18202,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T15:52:12.560Z,33.18,-115.6015,1.31,1.06,ml,17.0,90.0,0.01212,0.23,ci,ci37744868,2025-09-30T20:36:00.053Z,"10 km NW of Calipatria, CA",earthquake,0.41,0.5,0.175,8.0,reviewed,ci,ci
 2025-09-30T20:48:54.981Z,62.312,-152.0031,105.3,1.4,ml,,,,0.24,ak,ak025cjtwtiy,2025-09-30T20:51:11.559Z,"47 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-30T17:39:27.240Z,44.510333333333,-115.85783333333,11.79,1.99,ml,15.0,66.0,0.1492,0.11,mb,mb90114178,2025-09-30T20:47:36.890Z,"14 km E of Cascade, Idaho",earthquake,0.3,0.8,0.24358831159195,13.0,reviewed,mb,mb
+2025-09-30T21:07:38.800Z,38.79683303833,-122.78566741943,3.5599999427795,0.72,md,8.0,123.0,0.00405,0.01,nc,nc75243206,2025-09-30T21:09:17.201Z,"3 km NW of The Geysers, CA",earthquake,0.6,1.22000003,0.14,8.0,automatic,nc,nc
+2025-09-30T21:02:49.009Z,63.111,-151.5088,0.0,1.7,ml,,,,0.75,ak,ak025cju8dqg,2025-09-30T21:08:11.538Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T20:58:02.108Z,62.9298,-149.6906,68.9,1.5,ml,,,,0.54,ak,ak025cjtyulu,2025-09-30T21:00:05.399Z,"57 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-30T20:56:52.090Z,17.921,-65.973166666667,12.88,1.55,md,5.0,262.0,0.1073,0.08,pr,pr71496803,2025-09-30T21:07:02.510Z,"6 km SSE of Lamboglia, Puerto Rico",earthquake,0.65,0.94,0.1160522443571,4.0,reviewed,pr,pr
+2025-09-30T20:47:27.252Z,64.9366,-147.7654,0.3,0.8,ml,,,,1.24,ak,ak025cjtwjnl,2025-09-30T20:59:53.152Z,"4 km NW of Farmers Loop, Alaska",earthquake,,15.1,,,automatic,ak,ak
