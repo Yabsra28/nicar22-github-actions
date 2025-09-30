@@ -18018,3 +18018,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T07:01:03.202Z,62.4913,-148.2906,34.7,2.1,ml,,,,0.64,ak,ak025cjlvzzz,2025-09-30T07:04:37.408Z,"77 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T07:27:22.810Z,38.82833480835,-122.80016326904,2.0999999046326,0.7,md,14.0,71.0,0.009179,0.01,nc,nc75242816,2025-09-30T07:28:57.264Z,"7 km W of Cobb, CA",earthquake,0.29,0.529999971,0.09,16.0,automatic,nc,nc
 2025-09-30T07:25:40.968Z,57.1964,-156.9507,7.7,1.8,ml,,,,0.75,ak,ak025cjm1840,2025-09-30T07:27:52.748Z,"44 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-30T07:45:36.736Z,63.2098,-151.3305,0.0,1.9,ml,,,,0.58,ak,ak025cjm5i3t,2025-09-30T07:47:45.950Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
