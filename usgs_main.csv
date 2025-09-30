@@ -18174,3 +18174,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T14:05:45.781Z,38.6334,-97.5078,10.0,2.6,mb_lg,24.0,125.0,0.689,0.74,us,us6000rdsb,2025-09-30T19:08:27.040Z,"9 km ESE of Assaria, Kansas",earthquake,2.56,1.994,0.102,25.0,reviewed,us,us
 2025-09-30T19:20:08.509Z,31.557,-104.148,4.3054,2.3,ml,39.0,69.0,0.0,0.3,tx,tx2025tgtzct,2025-09-30T19:24:31.613Z,"43 km NW of Toyah, Texas",earthquake,0.0,0.96011358499527,0.2,29.0,automatic,tx,tx
 2025-09-30T19:12:31.770Z,38.838001251221,-122.87966918945,2.1800000667572,1.02,md,13.0,127.0,0.002963,0.05,nc,nc75243146,2025-09-30T19:21:09.131Z,"12 km ENE of Cloverdale, CA",earthquake,0.37,0.479999989,0.08,14.0,automatic,nc,nc
+2025-09-30T19:27:13.100Z,36.567001342773,-121.125831604,6.8000001907349,1.39,md,9.0,73.0,0.04819,0.2,nc,nc75243156,2025-09-30T19:28:50.689Z,"4 km NNE of Pinnacles, CA",earthquake,0.77,3.68000007,0.22,6.0,automatic,nc,nc
+2025-09-30T01:21:46.686Z,41.173,-116.7491,6.9,1.8,ml,7.0,253.14,0.319,0.1618,nn,nn00905226,2025-09-30T19:36:20.525Z,"52 km NE of Valmy, Nevada",earthquake,,4.1,0.38,3.0,reviewed,nn,nn
