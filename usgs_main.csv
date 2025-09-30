@@ -18097,3 +18097,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T13:57:02.020Z,32.762,-100.657,0.0839,2.5,ml,48.0,79.0,0.1,0.6,tx,tx2025tgjgrr,2025-09-30T14:01:09.657Z,"17 km NE of Hermleigh, Texas",earthquake,0.0,0.98657602071762,0.1,27.0,automatic,tx,tx
 2025-09-30T07:06:05.600Z,37.331,-112.67866666667,6.05,0.38,md,5.0,118.0,0.2942,0.12,uu,uu80004958,2025-09-30T13:59:33.250Z,"7 km NNW of Orderville, Utah",earthquake,0.65,31.61,0.54381847532434,3.0,reviewed,uu,uu
 2025-09-30T14:23:03.137Z,38.2072,-117.9163,6.0,1.6,ml,10.0,131.92,0.464,0.2049,nn,nn00905210,2025-09-30T14:26:06.734Z,"26 km SE of Mina, Nevada",earthquake,,1.2,0.17,4.0,automatic,nn,nn
+2025-09-30T14:12:58.376Z,11.2149,124.1137,10.0,5.2,mb,78.0,47.0,4.365,0.59,us,us6000rdsd,2025-09-30T14:46:37.523Z,"7 km ESE of Talisay, Philippines",earthquake,9.82,1.858,0.07,68.0,reviewed,us,us
