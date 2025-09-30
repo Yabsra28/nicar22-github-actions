@@ -18059,3 +18059,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T11:29:13.201Z,63.309,-145.1296,5.5,1.6,ml,,,,0.51,ak,ak025cjofr94,2025-09-30T11:31:17.491Z,"34 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-30T05:38:29.424Z,31.896,-101.744,6.9035,1.0,mlv,7.0,95.0,0.1,0.2,tx,tx2025tfstca,2025-09-30T11:29:41.947Z,"25 km W of Garden City, Texas",earthquake,0.0,4.0153322219849,0.5,7.0,automatic,tx,tx
 2025-09-30T04:36:59.060Z,32.17,-101.694,4.2742,1.2,mlv,26.0,43.0,0.0,0.4,tx,tx2025tfqsbn,2025-09-30T11:29:35.948Z,"9 km ENE of Stanton, Texas",earthquake,0.0,0.98832982778549,0.3,20.0,automatic,tx,tx
+2025-09-30T11:57:29.070Z,37.492832183838,-122.29333496094,0.80000001192093,1.6,md,12.0,145.0,0.07101,0.09,nc,nc75242956,2025-09-30T11:59:07.312Z,"3 km WSW of San Carlos, CA",earthquake,0.45,3.18000007,0.15,9.0,automatic,nc,nc
+2025-09-29T23:07:07.419Z,35.32133333,-97.918,6.85,1.39,ml,74.0,50.0,0.06838658022,0.26,ok,ok2025tcxa,2025-09-30T11:56:29.133Z,"2 km ENE of Minco, Oklahoma",earthquake,,0.4,0.22,35.0,reviewed,ok,ok
