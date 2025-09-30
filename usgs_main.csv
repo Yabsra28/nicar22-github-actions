@@ -18197,3 +18197,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T16:14:23.971Z,30.738,-104.562,11.8652,2.4,ml,32.0,163.0,0.4,0.2,tx,tx2025tgnvbf,2025-09-30T20:12:04.157Z,"17 km NNW of Valentine, Texas",earthquake,1.3087506206396,2.803602661459,0.1,16.0,reviewed,tx,tx
 2025-09-30T03:46:27.735Z,41.1786,-116.7367,8.6,1.8,ml,8.0,253.41,0.314,0.16,nn,nn00905231,2025-09-30T20:16:10.236Z,"53 km NE of Valmy, Nevada",earthquake,,3.5,0.37,3.0,reviewed,nn,nn
 2025-09-30T03:20:30.400Z,41.1714,-116.7199,6.2,1.8,ml,7.0,252.82,0.299,0.0717,nn,nn00905229,2025-09-30T20:00:52.351Z,"54 km NE of Valmy, Nevada",earthquake,,6.0,0.34,3.0,reviewed,nn,nn
+2025-09-30T18:40:02.854Z,11.1749,124.1105,10.0,4.6,mb,43.0,123.0,4.329,0.78,us,us6000rdvl,2025-09-30T20:39:42.040Z,"8 km E of Calape, Philippines",earthquake,12.11,1.903,0.094,34.0,reviewed,us,us
+2025-09-30T18:29:36.140Z,45.932,-111.46183333333,-2.0,1.4,ml,11.0,94.0,0.09818,0.07,mb,mb90114138,2025-09-30T20:35:18.740Z,"5 km NNW of Logan, Montana",quarry blast,0.3,31.61,0.10680193971394,17.0,reviewed,mb,mb
+2025-09-30T15:52:12.560Z,33.18,-115.6015,1.31,1.06,ml,17.0,90.0,0.01212,0.23,ci,ci37744868,2025-09-30T20:36:00.053Z,"10 km NW of Calipatria, CA",earthquake,0.41,0.5,0.175,8.0,reviewed,ci,ci
