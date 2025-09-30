@@ -18052,3 +18052,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T10:47:02.180Z,38.809501647949,-122.79416656494,2.9700000286102,0.27,md,7.0,91.0,0.00177,0.01,nc,nc75242936,2025-09-30T10:48:36.949Z,"5 km NW of The Geysers, CA",earthquake,0.59,2.1500001,0.06,8.0,automatic,nc,nc
 2025-09-30T10:24:49.418Z,18.2599,145.8042,182.503,4.5,mb,54.0,71.0,3.002,0.67,us,us6000rdr2,2025-09-30T10:44:01.040Z,"Pagan region, Northern Mariana Islands",earthquake,8.95,6.345,0.05,118.0,reviewed,us,us
 2025-09-30T10:07:35.990Z,19.6188,-66.9935,39.0,4.22,md,26.0,212.0,1.1573,0.3,pr,pr2025273000,2025-09-30T10:47:07.548Z,"123 km N of Isabela, Puerto Rico",earthquake,1.71,12.14,0.05,13.0,reviewed,pr,pr
+2025-09-30T04:16:34.450Z,32.102,-101.52,2.2884,1.2,mlv,19.0,75.0,0.1,0.5,tx,tx2025tfqamw,2025-09-30T11:27:15.267Z,"14 km W of Forsan, Texas",earthquake,0.0,1.3239414691925,0.3,13.0,automatic,tx,tx
+2025-09-30T03:58:03.835Z,32.083,-101.477,2.7595,1.4,mlv,19.0,94.0,0.1,0.4,tx,tx2025tfpkns,2025-09-30T11:26:58.240Z,"10 km WSW of Forsan, Texas",earthquake,0.0,1.2988885641098,0.3,13.0,automatic,tx,tx
+2025-09-29T23:09:38.186Z,32.092,-101.484,3.3463,1.2,mlv,14.0,96.0,0.1,0.3,tx,tx2025tffwcc,2025-09-30T11:24:22.321Z,"11 km W of Forsan, Texas",earthquake,0.0,1.4822007417679,0.3,7.0,automatic,tx,tx
