@@ -18200,3 +18200,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T18:40:02.854Z,11.1749,124.1105,10.0,4.6,mb,43.0,123.0,4.329,0.78,us,us6000rdvl,2025-09-30T20:39:42.040Z,"8 km E of Calape, Philippines",earthquake,12.11,1.903,0.094,34.0,reviewed,us,us
 2025-09-30T18:29:36.140Z,45.932,-111.46183333333,-2.0,1.4,ml,11.0,94.0,0.09818,0.07,mb,mb90114138,2025-09-30T20:35:18.740Z,"5 km NNW of Logan, Montana",quarry blast,0.3,31.61,0.10680193971394,17.0,reviewed,mb,mb
 2025-09-30T15:52:12.560Z,33.18,-115.6015,1.31,1.06,ml,17.0,90.0,0.01212,0.23,ci,ci37744868,2025-09-30T20:36:00.053Z,"10 km NW of Calipatria, CA",earthquake,0.41,0.5,0.175,8.0,reviewed,ci,ci
+2025-09-30T20:48:54.981Z,62.312,-152.0031,105.3,1.4,ml,,,,0.24,ak,ak025cjtwtiy,2025-09-30T20:51:11.559Z,"47 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-30T17:39:27.240Z,44.510333333333,-115.85783333333,11.79,1.99,ml,15.0,66.0,0.1492,0.11,mb,mb90114178,2025-09-30T20:47:36.890Z,"14 km E of Cascade, Idaho",earthquake,0.3,0.8,0.24358831159195,13.0,reviewed,mb,mb
