@@ -18103,3 +18103,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T14:57:49.337Z,36.7934,-115.9402,8.8,0.6,ml,15.0,193.18,0.005,0.1683,nn,nn00905215,2025-09-30T14:59:47.713Z,"34 km NW of Indian Springs, Nevada",earthquake,,0.9,0.4,10.0,automatic,nn,nn
 2025-09-30T14:39:39.144Z,11.0023,124.0158,10.0,5.0,mb,101.0,39.0,4.201,0.65,us,us6000rdsi,2025-09-30T15:10:42.804Z,"0 km SE of Guadalupe, Philippines",earthquake,9.64,1.86,0.056,104.0,reviewed,us,us
 2025-09-30T14:33:00.410Z,11.0338,124.0295,10.0,5.0,mb,42.0,69.0,4.226,1.11,us,us6000rdsg,2025-09-30T15:04:19.417Z,"0 km ENE of Libertad, Philippines",earthquake,11.25,1.904,0.077,54.0,reviewed,us,us
+2025-09-30T15:25:23.805Z,62.3797,-151.5133,86.5,2.0,ml,,,,0.69,ak,ak025cjqsnmk,2025-09-30T15:27:45.542Z,"40 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-30T15:25:20.650Z,38.838832855225,-122.83583068848,1.5499999523163,0.32,md,13.0,110.0,0.0003624,0.02,nc,nc75243006,2025-09-30T15:26:58.669Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.430000007,0.24,12.0,automatic,nc,nc
+2025-09-30T15:24:38.940Z,38.84349822998,-122.87933349609,3.6500000953674,0.84,md,6.0,185.0,0.009067,0.01,nc,nc75243001,2025-09-30T15:26:13.518Z,"13 km ENE of Cloverdale, CA",earthquake,1.27,1.04999995,0.16,8.0,automatic,nc,nc
+2025-09-30T15:17:04.313Z,63.0061,-149.2555,1.1,2.1,ml,,,,0.8,ak,ak025cjqqwe6,2025-09-30T15:29:22.478Z,"45 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T15:13:31.160Z,34.885,-119.3798333,12.08,1.24,ml,27.0,95.0,0.1325,0.21,ci,ci41100943,2025-09-30T15:16:54.719Z,"19 km S of Maricopa, CA",earthquake,0.32,0.79,0.2,29.0,automatic,ci,ci
+2025-09-30T13:53:30.411Z,52.5849,160.4664,32.93,4.8,mb,122.0,129.0,1.187,0.69,us,us6000rdry,2025-09-30T15:20:04.040Z,"134 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.12,5.814,0.048,141.0,reviewed,us,us
+2025-09-30T04:51:19.050Z,34.1618333,-117.6538333,10.83,1.07,ml,29.0,52.0,0.04306,0.15,ci,ci41100831,2025-09-30T15:11:43.461Z,"7 km N of Upland, CA",earthquake,0.22,0.31,0.168,18.0,reviewed,ci,ci
