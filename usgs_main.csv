@@ -18085,3 +18085,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T13:32:50.472Z,61.3406,-151.866,87.1,1.4,ml,,,,0.46,ak,ak025cjpnchj,2025-09-30T13:35:00.045Z,"47 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-30T09:05:52.710Z,44.5715,-112.21783333333,7.84,1.31,ml,15.0,149.0,0.128,0.1,mb,mb90113998,2025-09-30T13:30:59.410Z,"23 km N of Spencer, Idaho",earthquake,0.41,1.46,0.19503202550219,24.0,reviewed,mb,mb
 2025-09-30T07:30:09.890Z,37.336,-112.713,12.93,1.81,ml,16.0,75.0,0.2834,0.17,uu,uu80118386,2025-09-30T13:47:54.870Z,"9 km NW of Orderville, Utah",earthquake,0.39,0.86,0.059603095040601,5.0,reviewed,uu,uu
+2025-09-30T13:51:03.413Z,61.4533,-150.0008,35.6,2.8,ml,,,,0.84,ak,ak025cjprbfj,2025-09-30T13:54:43.072Z,"7 km SSW of Big Lake, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-30T13:49:42.291Z,61.3043,-147.631,20.0,1.5,ml,,,,0.62,ak,ak025cjpqz11,2025-09-30T13:51:38.751Z,"56 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
