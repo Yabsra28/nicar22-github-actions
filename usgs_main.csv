@@ -18031,3 +18031,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T08:46:56.267Z,32.089,-101.484,4.2635,1.1,ml,12.0,84.0,0.2,0.2,tx,tx2025tfyzmc,2025-09-30T08:49:48.613Z,"11 km WSW of Forsan, Texas",earthquake,0.0,1.6922190189362,0.2,8.0,automatic,tx,tx
 2025-09-30T08:43:10.561Z,61.4995,-151.3705,15.1,1.3,ml,,,,1.0,ak,ak025cjmqg7b,2025-09-30T08:52:51.913Z,"42 km NNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-30T08:34:53.810Z,60.4065,-152.206,77.0,1.3,ml,,,,0.47,ak,ak025cjmom5h,2025-09-30T08:36:44.376Z,"48 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-30T08:54:55.054Z,61.0207,-146.9991,21.3,1.2,ml,,,,0.65,ak,ak025cjmswkh,2025-09-30T08:56:35.939Z,"24 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-30T08:49:37.669Z,32.767,-100.666,1.3769,1.9,ml,27.0,114.0,0.1,0.6,tx,tx2025tfzbuf,2025-09-30T08:53:47.640Z,"17 km NNE of Hermleigh, Texas",earthquake,0.0,1.1403014659882,0.1,19.0,automatic,tx,tx
