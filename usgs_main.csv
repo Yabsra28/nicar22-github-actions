@@ -18127,3 +18127,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T17:31:30.650Z,45.181833333333,-112.41866666667,-2.0,0.43,ml,6.0,110.0,0.22,0.14,mb,mb90114078,2025-09-30T16:14:17.850Z,"17 km ESE of Dillon, Montana",quarry blast,0.72,31.61,0.28913132104858,3.0,reviewed,mb,mb
 2025-09-30T16:33:20.610Z,33.71,-117.3405,1.63,1.29,ml,34.0,43.0,0.05439,0.2,ci,ci41100999,2025-09-30T16:38:07.273Z,"5 km NNW of Lake Elsinore, CA",earthquake,0.23,0.39,0.277,32.0,automatic,ci,ci
 2025-09-30T16:24:51.478Z,60.0211,-152.8339,109.2,1.7,ml,,,,0.24,ak,ak025cjrdxnf,2025-09-30T16:26:46.297Z,"62 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-30T16:34:32.991Z,11.1359,124.1727,10.0,5.0,mb,101.0,32.0,4.272,0.74,us,us6000rdt7,2025-09-30T16:53:54.040Z,"15 km ESE of Calape, Philippines",earthquake,9.46,1.867,0.052,115.0,reviewed,us,us
+2025-09-30T15:14:23.506Z,51.7108,-174.4137,63.1,2.1,ml,,,,0.37,ak,ak025cjqq5oq,2025-09-30T16:43:15.172Z,"55 km SSW of Atka, Alaska",earthquake,,4.5,,,reviewed,ak,ak
+2025-09-29T20:52:33.380Z,51.925666666667,-177.07866666667,10.38,0.27,ml,5.0,278.0,0.02752,0.09,av,av93797183,2025-09-30T16:51:59.370Z,"31 km W of Adak, Alaska",earthquake,1.43,0.54,0.37067966059158,5.0,reviewed,av,av
