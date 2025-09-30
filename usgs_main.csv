@@ -18037,3 +18037,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T09:24:33.440Z,38.807498931885,-122.79299926758,2.9900000095367,1.36,md,24.0,45.0,0.00186,0.04,nc,nc75242891,2025-09-30T09:26:12.059Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.449999988,0.16,25.0,automatic,nc,nc
 2025-09-30T09:40:31.013Z,31.622,-103.158,3.4269,1.5,ml,17.0,181.0,0.1,0.7,tx,tx2025tgatqu,2025-09-30T09:44:08.424Z,"10 km NNW of Pyote, Texas",earthquake,0.0,1.3659918308258,0.1,9.0,automatic,tx,tx
 2025-09-30T09:34:27.230Z,38.807334899902,-122.79433441162,3.0699999332428,0.78,md,16.0,67.0,0.0009861,0.01,nc,nc75242901,2025-09-30T09:36:02.198Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.649999976,0.22,18.0,automatic,nc,nc
+2025-09-30T09:54:45.575Z,58.2431,-155.1952,0.0,0.3,ml,,,,0.45,ak,ak025cjnebfx,2025-09-30T09:56:39.340Z,"86 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-30T09:51:20.750Z,35.6403333,-117.463,5.75,1.03,ml,27.0,54.0,0.04044,0.13,ci,ci41100855,2025-09-30T09:54:50.477Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.43,0.166,17.0,automatic,ci,ci
+2025-09-30T09:48:59.622Z,66.4351,-148.7205,0.0,1.4,ml,,,,0.73,ak,ak025cjnd28a,2025-09-30T09:51:52.514Z,"50 km NNE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
