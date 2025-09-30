@@ -17979,3 +17979,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T23:18:00.375Z,32.116,-102.156,5.7861,0.9,ml,14.0,71.0,0.0,0.2,tx,tx2025tfgcrm,2025-09-30T02:35:11.745Z,"15 km NNW of Midland, Texas",earthquake,1.5667894647168,1.6190601421029,0.1,10.0,reviewed,tx,tx
 2025-09-29T22:54:16.534Z,32.352,-102.061,7.0068,0.8,ml,15.0,59.0,0.0,0.2,tx,tx2025tffhrm,2025-09-30T02:25:46.700Z,"35 km NW of Stanton, Texas",earthquake,0.62623352323174,0.81460674410356,0.1,7.0,reviewed,tx,tx
 2025-09-29T19:04:25.120Z,58.3085,-154.53683333333,4.3,0.19,ml,8.0,234.0,0.1582,0.29,av,av93797043,2025-09-30T01:58:39.890Z,"82 km N of Karluk, Alaska",earthquake,1.17,4.29,0.22676497190112,8.0,reviewed,av,av
+2025-09-30T03:21:07.385Z,63.3045,-145.1515,5.6,1.8,ml,,,,0.73,ak,ak025cjjmk8i,2025-09-30T03:23:15.229Z,"33 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-30T03:12:36.300Z,38.757331848145,-122.72383117676,2.8099999427795,0.81,md,13.0,150.0,0.00433,0.02,nc,nc75242731,2025-09-30T03:32:18.356Z,"3 km SW of Anderson Springs, CA",earthquake,0.38,0.629999995,0.19,13.0,automatic,nc,nc
+2025-09-30T03:04:36.457Z,33.9874,-108.6069,9.541,1.8,ml,14.0,100.0,0.689,0.51,us,us6000rdpn,2025-09-30T03:25:42.040Z,"13 km NNW of Aragon, New Mexico",earthquake,2.29,8.613,0.077,22.0,reviewed,us,us
