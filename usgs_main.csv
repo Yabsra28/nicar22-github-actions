@@ -18472,3 +18472,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T18:34:48.379Z,38.3089,-116.8143,11.2,1.6,ml,8.0,210.95,0.924,0.1235,nn,nn00905270,2025-10-01T18:37:42.149Z,"45 km NE of Tonopah, Nevada",earthquake,,1.4,0.28,3.0,automatic,nn,nn
 2025-10-01T18:23:14.410Z,46.079833333333,-118.77533333333,14.33,1.86,ml,11.0,94.0,0.1154,0.18,uw,uw62188197,2025-10-01T18:40:45.540Z,"9 km WNW of Touchet, Washington",earthquake,0.47,1.24,0.15267564668025,6.0,reviewed,uw,uw
 2025-10-01T09:11:09.640Z,59.358,-153.43883333333,-0.08,-0.87,ml,5.0,155.0,0.005507,0.09,av,av93799978,2025-10-01T18:48:44.970Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.25,0.17,0.16888998905451,5.0,reviewed,av,av
+2025-10-01T19:00:31.251Z,60.2329,-140.6813,16.2,1.2,ml,,,,0.37,ak,ak025clgke7p,2025-10-01T19:02:25.379Z,"93 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-01T18:52:37.780Z,38.800666809082,-122.78033447266,3.1400001049042,1.09,md,19.0,64.0,0.00954,0.02,nc,nc75243581,2025-10-01T18:54:16.575Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.589999974,0.18,19.0,automatic,nc,nc
