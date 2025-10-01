@@ -18528,3 +18528,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T22:26:13.124Z,63.0878,-151.4832,4.9,1.4,ml,,,,0.75,ak,ak025clii88w,2025-10-01T22:28:12.935Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-01T21:58:05.600Z,44.798333333333,-110.86083333333,4.05,1.44,ml,10.0,111.0,0.01242,0.14,uu,uu80118511,2025-10-01T22:27:03.760Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.47,0.53,0.14051864691265,2.0,reviewed,uu,uu
 2025-10-01T15:23:38.626Z,41.8817,-119.5712,7.9,2.4,ml,5.0,221.3,0.378,0.2051,nn,nn00905284,2025-10-01T22:32:09.738Z,"48 km E of Fort Bidwell, California",earthquake,,2.8,0.0,1.0,reviewed,nn,nn
+2025-10-01T22:43:54.334Z,34.3429718,-96.894104,5.0,1.71,ml,12.0,190.546814,0.3056345582,0.9389400634,ok,ok2025tgni,2025-10-01T22:46:37.242Z,"9 km SW of Mill Creek, Oklahoma",earthquake,6.129604373,,0.21,5.0,automatic,ok,ok
+2025-10-01T22:41:58.090Z,32.8288333,-116.0413333,8.58,1.27,ml,36.0,36.0,0.05977,0.19,ci,ci41101535,2025-10-01T22:45:46.324Z,"11 km NNW of Ocotillo, CA",earthquake,0.18,0.49,0.184,28.0,automatic,ci,ci
+2025-10-01T22:37:23.580Z,36.1171667,-117.9146667,5.39,1.09,ml,30.0,48.0,0.03473,0.16,ci,ci41101527,2025-10-01T22:40:53.836Z,"9 km NNE of Coso Junction, CA",earthquake,0.2,0.36,0.203,23.0,automatic,ci,ci
+2025-10-01T20:00:51.130Z,48.879333333333,-117.369,-0.3,1.47,md,5.0,285.0,0.06944,0.21,uw,uw61504818,2025-10-01T22:45:43.970Z,"1 km N of Metaline Falls, Washington",earthquake,1.2,31.61,0.17706030304644,4.0,reviewed,uw,uw
