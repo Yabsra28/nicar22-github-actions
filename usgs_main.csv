@@ -18373,3 +18373,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T04:25:43.977Z,32.127,-101.071,1.8551,1.7,mlv,10.0,105.0,0.2,0.5,tx,tx2025thmbea,2025-10-01T11:55:43.700Z,"25 km SSW of Westbrook, Texas",earthquake,0.0,2.1621053218842,0.2,8.0,automatic,tx,tx
 2025-10-01T04:22:20.422Z,32.147,-101.053,2.6159,1.7,mlv,20.0,83.0,0.2,0.4,tx,tx2025thlyjc,2025-10-01T11:55:40.700Z,"23 km S of Westbrook, Texas",earthquake,0.0,1.3688795566559,0.2,13.0,automatic,tx,tx
 2025-10-01T02:47:53.351Z,31.683,-104.428,6.3049,1.4,ml,13.0,69.0,0.0,0.2,tx,tx2025thiupi,2025-10-01T11:58:03.239Z,"54 km S of Whites City, New Mexico",earthquake,0.91480572285331,0.56873449905751,0.3,11.0,reviewed,tx,tx
+2025-10-01T12:38:16.740Z,38.7936668396,-122.7568359375,0.5799999833107,0.31,md,9.0,138.0,0.007302,0.03,nc,nc75243476,2025-10-01T12:39:52.709Z,"2 km N of The Geysers, CA",earthquake,0.4,0.50999999,0.13,10.0,automatic,nc,nc
+2025-10-01T12:35:51.593Z,31.586,-104.55,3.2631,1.6,ml,16.0,118.0,0.1,0.4,tx,tx2025tichon,2025-10-01T12:39:10.747Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,1.6989504098892,0.2,12.0,automatic,tx,tx
+2025-10-01T12:31:36.729Z,31.728,-104.09,4.3039,1.6,ml,40.0,45.0,0.0,0.3,tx,tx2025ticdpc,2025-10-01T12:34:22.109Z,"46 km W of Mentone, Texas",earthquake,0.0,0.84152764081955,0.2,28.0,automatic,tx,tx
+2025-10-01T12:29:38.842Z,61.3014,-152.1344,107.2,1.9,ml,,,,0.68,ak,ak025clcklbb,2025-10-01T12:42:16.451Z,"59 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-01T12:22:00.306Z,61.661,-149.8995,50.2,1.1,ml,,,,0.74,ak,ak025clcivp6,2025-10-01T12:24:30.742Z,"5 km NW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-01T12:21:28.633Z,58.8192,-31.3683,10.0,5.1,mb,70.0,125.0,7.425,0.5,us,us6000rdz1,2025-10-01T12:39:22.040Z,Reykjanes Ridge,earthquake,10.06,1.916,0.069,67.0,reviewed,us,us
+2025-10-01T12:15:36.105Z,62.2453,-150.9307,78.9,1.1,ml,,,,0.36,ak,ak025clchl3e,2025-10-01T12:23:19.182Z,"29 km SSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-01T12:11:48.968Z,59.2298,-153.8704,92.2,1.6,ml,,,,0.21,ak,ak025clcgr80,2025-10-01T12:13:29.807Z,"50 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-01T12:09:45.237Z,61.9556,-149.8109,33.2,1.6,ml,,,,0.37,ak,ak025clcgbi3,2025-10-01T12:11:52.440Z,"23 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-01T12:02:02.822Z,60.5083,-149.5764,51.5,1.4,ml,,,,0.82,ak,ak025clceq7u,2025-10-01T12:03:55.078Z,"11 km WNW of Moose Pass, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-01T12:00:40.645Z,57.7628,-155.8243,17.0,1.4,ml,,,,0.19,ak,ak025clcedpc,2025-10-01T12:02:30.293Z,"84 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-01T11:59:31.549Z,11.3958,-86.817,46.493,4.9,mww,129.0,148.0,0.933,0.78,us,us6000rdyz,2025-10-01T12:35:02.040Z,"54 km SW of Masachapa, Nicaragua",earthquake,7.14,9.993,0.065,23.0,reviewed,us,us
+2025-10-01T11:44:13.902Z,32.184,-101.189,7.251,2.6,ml,19.0,62.0,0.1,0.1,tx,tx2025tiapcq,2025-10-01T12:42:49.762Z,"16 km SE of Coahoma, Texas",earthquake,0.53449239944596,1.5581713483935,0.0,7.0,reviewed,tx,tx
+2025-10-01T11:18:31.739Z,36.34516667,-97.0125,18.49,1.31,ml,85.0,26.0,0.07108605049,0.21,ok,ok2025tfqs,2025-10-01T12:12:43.766Z,"5 km N of Morrison, Oklahoma",earthquake,,0.4,0.22,30.0,reviewed,ok,ok
+2025-10-01T09:08:33.216Z,-8.7962,123.6369,109.174,4.3,mb,15.0,153.0,1.138,0.52,us,us6000rdym,2025-10-01T12:47:42.040Z,"89 km N of Naisano Dua, Indonesia",earthquake,7.88,9.558,0.142,14.0,reviewed,us,us
