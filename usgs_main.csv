@@ -18474,3 +18474,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T09:11:09.640Z,59.358,-153.43883333333,-0.08,-0.87,ml,5.0,155.0,0.005507,0.09,av,av93799978,2025-10-01T18:48:44.970Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.25,0.17,0.16888998905451,5.0,reviewed,av,av
 2025-10-01T19:00:31.251Z,60.2329,-140.6813,16.2,1.2,ml,,,,0.37,ak,ak025clgke7p,2025-10-01T19:02:25.379Z,"93 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-01T18:52:37.780Z,38.800666809082,-122.78033447266,3.1400001049042,1.09,md,19.0,64.0,0.00954,0.02,nc,nc75243581,2025-10-01T18:54:16.575Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.589999974,0.18,19.0,automatic,nc,nc
+2025-10-01T19:17:53.168Z,32.413,-102.162,3.7401,1.4,ml,27.0,92.0,0.0,0.5,tx,tx2025tipqbe,2025-10-01T19:21:16.927Z,"36 km ENE of McKinney Acres, Texas",earthquake,0.0,1.0389379262924,0.2,15.0,automatic,tx,tx
+2025-10-01T18:27:34.509Z,36.1615,-97.04633333,7.99,1.08,ml,58.0,63.0,0.1169770451,0.25,ok,ok2025tgew,2025-10-01T19:11:03.919Z,"5 km NNE of Stillwater, Oklahoma",earthquake,,0.6,0.19,21.0,reviewed,ok,ok
+2025-10-01T12:24:10.775Z,41.2085,-116.6738,9.1,1.8,ml,8.0,254.94,0.296,0.1587,nn,nn00905273,2025-10-01T19:19:19.865Z,"59 km NE of Valmy, Nevada",earthquake,,2.4,0.17,3.0,reviewed,nn,nn
+2025-10-01T10:33:53.280Z,54.761833333333,-163.963,-1.95,0.46,ml,5.0,97.0,0.05376,0.3,av,av93800073,2025-10-01T19:13:36.960Z,"36 km WSW of False Pass, Alaska",earthquake,0.42,0.63,0.33506137359189,5.0,reviewed,av,av
+2025-10-01T03:30:08.302Z,41.1497,-116.7199,7.9,1.9,ml,9.0,156.83,0.288,0.1446,nn,nn00905272,2025-10-01T19:16:14.161Z,"52 km NE of Valmy, Nevada",earthquake,,2.1,0.3,4.0,reviewed,nn,nn
+2025-10-01T00:11:34.958Z,41.168,-116.7341,8.9,1.5,ml,7.0,252.7,0.306,0.1734,nn,nn00905271,2025-10-01T19:10:05.202Z,"53 km NE of Valmy, Nevada",earthquake,,2.7,0.25,3.0,reviewed,nn,nn
