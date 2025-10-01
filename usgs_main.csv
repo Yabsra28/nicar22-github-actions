@@ -18367,3 +18367,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T10:59:34.350Z,38.770500183105,-122.73600006103,1.3200000524521,0.95,md,11.0,96.0,0.01245,0.03,nc,nc75243461,2025-10-01T11:01:13.199Z,"2 km ESE of The Geysers, CA",earthquake,0.28,0.400000006,0.17,9.0,automatic,nc,nc
 2025-10-01T11:20:04.320Z,33.5058333,-116.4936667,11.16,0.96,ml,56.0,35.0,0.09137,0.2,ci,ci41101263,2025-10-01T11:23:32.225Z,"18 km ESE of Anza, CA",earthquake,0.18,0.5,0.201,27.0,automatic,ci,ci
 2025-10-01T11:29:25.908Z,63.134,-151.7232,11.5,1.1,ml,,,,0.55,ak,ak025clbz4q6,2025-10-01T11:31:30.361Z,"45 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-01T11:41:50.708Z,60.0134,-151.5928,56.3,1.2,ml,,,,0.14,ak,ak025clc1r8e,2025-10-01T11:43:07.581Z,"5 km SE of Ninilchik, Alaska",earthquake,,3.0,,,automatic,ak,ak
+2025-10-01T04:18:14.389Z,32.149,-101.054,7.2021,2.4,ml,22.0,86.0,0.2,0.1,tx,tx2025thluuu,2025-10-01T11:45:52.854Z,"23 km S of Westbrook, Texas",earthquake,0.62557123673305,2.8637602871446,0.0,6.0,reviewed,tx,tx
