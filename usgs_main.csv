@@ -18459,3 +18459,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T17:06:08.586Z,58.8579,-31.4734,10.0,4.9,mb,55.0,133.0,7.608,0.82,us,us6000re28,2025-10-01T17:45:23.040Z,Reykjanes Ridge,earthquake,10.12,1.906,0.055,102.0,reviewed,us,us
 2025-10-01T14:50:08.210Z,38.7068,141.8902,78.59,4.8,mb,107.0,121.0,2.175,0.46,us,us6000re09,2025-10-01T17:40:56.040Z,"43 km SSE of Ōfunato, Japan",earthquake,8.6,7.228,0.054,111.0,reviewed,us,us
 2025-10-01T17:48:51.780Z,38.753833770752,-122.69966888428,1.2300000190735,1.21,md,10.0,132.0,0.01433,0.02,nc,nc75243561,2025-10-01T17:54:15.851Z,"2 km SSW of Anderson Springs, CA",earthquake,0.35,0.360000014,0.09,9.0,automatic,nc,nc
+2025-10-01T18:34:24.370Z,38.820835113525,-122.8056640625,2.25,0.8,md,9.0,146.0,0.00429,0.02,nc,nc75243571,2025-10-01T18:36:01.435Z,"6 km NW of The Geysers, CA",earthquake,0.57,0.699999988,0.22,9.0,automatic,nc,nc
+2025-10-01T18:33:11.106Z,63.2521,-150.6785,32.1,1.6,ml,,,,1.4,ak,ak025clg5zom,2025-10-01T18:35:57.225Z,"61 km ESE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-10-01T18:23:15.322Z,28.832,-98.959,11.1837,1.7,ml,6.0,103.0,0.4,0.4,tx,tx2025tinuyv,2025-10-01T18:25:59.310Z,"14 km ESE of Pearsall, Texas",earthquake,0.0,7.4666118621826,0.2,6.0,automatic,tx,tx
+2025-10-01T18:13:06.080Z,62.1702,-150.8116,64.7,1.5,ml,,,,0.38,ak,ak025clg1oz4,2025-10-01T18:14:59.768Z,"34 km WSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-01T18:10:37.417Z,62.1865,-152.0045,101.1,2.0,ml,,,,0.63,ak,ak025clg1497,2025-10-01T18:23:30.746Z,"38 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-01T18:08:23.530Z,33.0285,-116.2941667,6.92,1.44,ml,60.0,40.0,0.0741,0.19,ci,ci41101383,2025-10-01T18:12:02.978Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.54,0.203,27.0,automatic,ci,ci
+2025-10-01T17:57:17.160Z,38.807334899902,-122.79666900635,3.3499999046326,1.06,md,23.0,48.0,0.00124,0.02,nc,nc75243566,2025-10-01T18:27:18.991Z,"5 km NW of The Geysers, CA",earthquake,0.28,0.5,0.1,23.0,automatic,nc,nc
+2025-10-01T17:57:00.345Z,60.0188,-140.9951,19.4,1.2,ml,,,,0.9,ak,ak025clfpofm,2025-10-01T17:59:09.843Z,"88 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-01T11:44:49.579Z,31.588,-103.579,29.8974,1.7,mlv,12.0,106.0,0.3,0.9,tx,tx2025tiapos,2025-10-01T18:16:14.244Z,"13 km S of Mentone, Texas",earthquake,0.0,14.602214813232,0.4,10.0,automatic,tx,tx
+2025-10-01T02:56:49.574Z,41.1499,-116.7348,10.1,2.8,ml,13.0,138.89,0.297,0.1795,nn,nn00905268,2025-10-01T18:08:59.260Z,"51 km NE of Valmy, Nevada",earthquake,,2.1,0.21,8.0,reviewed,nn,nn
