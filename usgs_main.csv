@@ -18369,3 +18369,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T11:29:25.908Z,63.134,-151.7232,11.5,1.1,ml,,,,0.55,ak,ak025clbz4q6,2025-10-01T11:31:30.361Z,"45 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-01T11:41:50.708Z,60.0134,-151.5928,56.3,1.2,ml,,,,0.14,ak,ak025clc1r8e,2025-10-01T11:43:07.581Z,"5 km SE of Ninilchik, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2025-10-01T04:18:14.389Z,32.149,-101.054,7.2021,2.4,ml,22.0,86.0,0.2,0.1,tx,tx2025thluuu,2025-10-01T11:45:52.854Z,"23 km S of Westbrook, Texas",earthquake,0.62557123673305,2.8637602871446,0.0,6.0,reviewed,tx,tx
+2025-10-01T04:37:34.029Z,32.152,-101.052,1.5213,1.7,mlv,25.0,84.0,0.2,0.4,tx,tx2025thmlly,2025-10-01T11:55:45.701Z,"22 km S of Westbrook, Texas",earthquake,0.0,1.2422074079514,0.2,17.0,automatic,tx,tx
+2025-10-01T04:25:43.977Z,32.127,-101.071,1.8551,1.7,mlv,10.0,105.0,0.2,0.5,tx,tx2025thmbea,2025-10-01T11:55:43.700Z,"25 km SSW of Westbrook, Texas",earthquake,0.0,2.1621053218842,0.2,8.0,automatic,tx,tx
+2025-10-01T04:22:20.422Z,32.147,-101.053,2.6159,1.7,mlv,20.0,83.0,0.2,0.4,tx,tx2025thlyjc,2025-10-01T11:55:40.700Z,"23 km S of Westbrook, Texas",earthquake,0.0,1.3688795566559,0.2,13.0,automatic,tx,tx
+2025-10-01T02:47:53.351Z,31.683,-104.428,6.3049,1.4,ml,13.0,69.0,0.0,0.2,tx,tx2025thiupi,2025-10-01T11:58:03.239Z,"54 km S of Whites City, New Mexico",earthquake,0.91480572285331,0.56873449905751,0.3,11.0,reviewed,tx,tx
