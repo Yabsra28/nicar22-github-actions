@@ -18240,3 +18240,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T13:26:50.634Z,32.122,-102.197,3.5755,1.0,mlv,6.0,150.0,0.0,0.5,tx,tx2025tgignj,2025-09-30T23:47:53.320Z,"17 km NW of Midland, Texas",earthquake,0.0,2.1010513305664,0.3,6.0,automatic,tx,tx
 2025-09-30T11:11:21.986Z,32.119,-101.488,3.8724,1.4,mlv,23.0,82.0,0.1,0.3,tx,tx2025tgdtxz,2025-09-30T23:47:35.788Z,"11 km W of Forsan, Texas",earthquake,0.0,1.2625861167908,0.3,19.0,automatic,tx,tx
 2025-09-30T04:40:35.306Z,41.1778,-116.7302,11.2,1.4,ml,8.0,253.31,0.309,0.1206,nn,nn00905236,2025-09-30T23:43:59.910Z,"54 km NE of Valmy, Nevada",earthquake,,2.7,0.38,3.0,reviewed,nn,nn
+2025-09-30T23:47:40.500Z,32.9481667,-116.4593333,8.74,0.8,ml,23.0,71.0,0.04724,0.17,ci,ci41101167,2025-09-30T23:51:09.346Z,"16 km NNE of Pine Valley, CA",earthquake,0.23,0.53,0.12,12.0,automatic,ci,ci
+2025-09-30T09:19:09.216Z,41.1724,-116.7552,7.0,2.5,ml,14.0,157.39,0.322,0.115,nn,nn00905237,2025-09-30T23:53:12.879Z,"52 km NE of Valmy, Nevada",earthquake,,3.2,0.26,9.0,reviewed,nn,nn
