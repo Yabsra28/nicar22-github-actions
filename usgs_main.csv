@@ -18469,3 +18469,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T17:57:00.345Z,60.0188,-140.9951,19.4,1.2,ml,,,,0.9,ak,ak025clfpofm,2025-10-01T17:59:09.843Z,"88 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-01T11:44:49.579Z,31.588,-103.579,29.8974,1.7,mlv,12.0,106.0,0.3,0.9,tx,tx2025tiapos,2025-10-01T18:16:14.244Z,"13 km S of Mentone, Texas",earthquake,0.0,14.602214813232,0.4,10.0,automatic,tx,tx
 2025-10-01T02:56:49.574Z,41.1499,-116.7348,10.1,2.8,ml,13.0,138.89,0.297,0.1795,nn,nn00905268,2025-10-01T18:08:59.260Z,"51 km NE of Valmy, Nevada",earthquake,,2.1,0.21,8.0,reviewed,nn,nn
+2025-10-01T18:34:48.379Z,38.3089,-116.8143,11.2,1.6,ml,8.0,210.95,0.924,0.1235,nn,nn00905270,2025-10-01T18:37:42.149Z,"45 km NE of Tonopah, Nevada",earthquake,,1.4,0.28,3.0,automatic,nn,nn
+2025-10-01T18:23:14.410Z,46.079833333333,-118.77533333333,14.33,1.86,ml,11.0,94.0,0.1154,0.18,uw,uw62188197,2025-10-01T18:40:45.540Z,"9 km WNW of Touchet, Washington",earthquake,0.47,1.24,0.15267564668025,6.0,reviewed,uw,uw
+2025-10-01T09:11:09.640Z,59.358,-153.43883333333,-0.08,-0.87,ml,5.0,155.0,0.005507,0.09,av,av93799978,2025-10-01T18:48:44.970Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.25,0.17,0.16888998905451,5.0,reviewed,av,av
