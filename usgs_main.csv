@@ -18438,3 +18438,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T19:55:13.100Z,44.596833333333,-112.2095,1.08,0.81,ml,8.0,144.0,0.1321,0.06,mb,mb90114623,2025-10-01T15:29:38.320Z,"26 km N of Spencer, Idaho",earthquake,0.56,0.87,0.10631161118004,8.0,reviewed,mb,mb
 2025-10-01T15:45:07.150Z,32.2726669,-115.3441696,4.6,2.5,ml,30.0,51.0,0.1463,0.25,ci,ci41101311,2025-10-01T15:47:22.496Z,"17 km WSW of Delta, B.C., MX",earthquake,0.3,1.33,0.288,29.0,automatic,ci,ci
 2025-10-01T15:36:29.496Z,36.8802,-115.9668,4.0,0.2,ml,12.0,177.32,0.069,0.1159,nn,nn00905263,2025-10-01T15:38:22.554Z,"43 km NW of Indian Springs, Nevada",earthquake,,111.1,0.24,7.0,automatic,nn,nn
+2025-10-01T15:50:40.930Z,35.3521667,-118.5551667,6.89,1.62,ml,43.0,73.0,0.1256,0.17,ci,ci41101335,2025-10-01T15:55:03.166Z,"26 km NNW of Tehachapi, CA",earthquake,0.18,0.66,0.311,27.0,automatic,ci,ci
+2025-10-01T15:47:11.710Z,35.9335,-117.6656667,2.73,1.5,ml,33.0,40.0,0.01898,0.14,ci,ci41101319,2025-10-01T15:50:55.506Z,"22 km E of Little Lake, CA",earthquake,0.14,0.23,0.157,25.0,automatic,ci,ci
