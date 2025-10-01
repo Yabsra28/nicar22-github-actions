@@ -18458,3 +18458,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T10:09:45.126Z,37.3308,-114.6431,7.0,1.5,ml,12.0,147.38,0.333,0.1676,nn,nn00905267,2025-10-01T17:29:06.667Z,"33 km SSW of Caliente, Nevada",earthquake,,2.7,0.44,6.0,reviewed,nn,nn
 2025-10-01T17:06:08.586Z,58.8579,-31.4734,10.0,4.9,mb,55.0,133.0,7.608,0.82,us,us6000re28,2025-10-01T17:45:23.040Z,Reykjanes Ridge,earthquake,10.12,1.906,0.055,102.0,reviewed,us,us
 2025-10-01T14:50:08.210Z,38.7068,141.8902,78.59,4.8,mb,107.0,121.0,2.175,0.46,us,us6000re09,2025-10-01T17:40:56.040Z,"43 km SSE of Ōfunato, Japan",earthquake,8.6,7.228,0.054,111.0,reviewed,us,us
+2025-10-01T17:48:51.780Z,38.753833770752,-122.69966888428,1.2300000190735,1.21,md,10.0,132.0,0.01433,0.02,nc,nc75243561,2025-10-01T17:54:15.851Z,"2 km SSW of Anderson Springs, CA",earthquake,0.35,0.360000014,0.09,9.0,automatic,nc,nc
