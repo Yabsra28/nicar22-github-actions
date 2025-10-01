@@ -18489,3 +18489,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T19:34:36.907Z,62.6274,-150.4595,75.2,1.4,ml,,,,0.52,ak,ak025clgrozt,2025-10-01T19:46:53.983Z,"21 km NE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-01T18:51:03.765Z,-2.9021,137.2528,59.561,4.1,mb,23.0,72.0,0.983,0.58,us,us6000re2s,2025-10-01T19:46:50.040Z,"201 km ENE of Nabire, Indonesia",earthquake,6.94,8.852,0.145,13.0,reviewed,us,us
 2025-10-01T05:43:42.677Z,60.3518,-143.156,3.5,1.1,ml,,,,0.84,ak,ak025cl8hhk1,2025-10-01T19:41:31.666Z,"121 km S of McCarthy, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-10-01T19:26:13.602Z,33.4746,142.3962,10.0,4.5,mb,26.0,161.0,2.192,0.62,us,us6000re33,2025-10-01T19:53:45.040Z,"266 km SE of Katsuura, Japan",earthquake,10.34,1.941,0.15,13.0,reviewed,us,us
