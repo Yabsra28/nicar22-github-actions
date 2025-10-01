@@ -18286,3 +18286,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T06:32:18.680Z,60.045833333333,-153.10083333333,-2.29,-0.62,ml,5.0,113.0,0.02197,0.08,av,av93797933,2025-10-01T03:14:42.190Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.21,2.31,0.23986334741798,5.0,reviewed,av,av
 2025-09-30T04:45:21.310Z,60.057333333333,-153.09133333333,0.63,-0.76,ml,4.0,175.0,0.01391,0.08,av,av93797783,2025-10-01T02:25:38.340Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.8,0.43,0.18688580041309,4.0,reviewed,av,av
 2025-09-30T04:30:20.320Z,59.981666666667,-153.07833333333,1.41,-0.27,ml,5.0,130.0,0.02508,0.08,av,av93797763,2025-10-01T02:22:38.330Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.33,0.29,0.26144609134778,5.0,reviewed,av,av
+2025-10-01T03:47:49.000Z,33.9243317,-118.2473297,27.47,1.59,ml,17.0,153.0,0.1115,0.16,ci,ci41101215,2025-10-01T03:49:55.199Z,"1 km NE of Willowbrook, CA",earthquake,0.71,1.96,0.22,12.0,automatic,ci,ci
+2025-10-01T03:42:16.847Z,63.5164,-146.8801,13.6,1.7,ml,,,,1.2,ak,ak025cl7afhw,2025-10-01T03:44:32.056Z,"79 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-01T03:36:12.172Z,60.01,-151.4956,57.5,1.5,ml,,,,0.14,ak,ak025cl794u9,2025-10-01T03:37:34.603Z,"10 km ESE of Ninilchik, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2025-10-01T03:31:56.313Z,-8.3875,118.0099,164.745,4.9,mb,20.0,109.0,2.594,1.1,us,us6000rdxx,2025-10-01T03:48:34.040Z,"52 km WNW of Dompu, Indonesia",earthquake,8.81,7.006,0.15,14.0,reviewed,us,us
+2025-10-01T03:31:31.432Z,60.9263,-151.5086,59.3,1.5,ml,,,,0.67,ak,ak025cl783qv,2025-10-01T03:33:05.910Z,"25 km SW of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-10-01T02:35:36.597Z,16.9963,-85.7835,10.0,4.6,mww,60.0,33.0,3.256,1.16,us,us6000rdxt,2025-10-01T03:46:08.040Z,"60 km N of Savannah Bight, Honduras",earthquake,8.49,1.861,0.089,12.0,reviewed,us,us
+2025-09-30T08:03:32.820Z,60.0195,-153.03833333333,2.09,-1.2,ml,5.0,125.0,0.01047,0.07,av,av93798058,2025-10-01T03:30:11.830Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.62,0.86,0.22874287495948,4.0,reviewed,av,av
+2025-09-30T07:51:23.140Z,60.054833333333,-153.0835,0.81,-0.39,ml,5.0,156.0,0.0103,0.05,av,av93798038,2025-10-01T03:28:06.110Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.63,0.35,0.21514294502203,5.0,reviewed,av,av
