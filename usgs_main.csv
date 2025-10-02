@@ -18716,3 +18716,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T12:35:19.300Z,45.636333333333,-113.53316666667,12.22,1.26,ml,14.0,89.0,0.1385,0.12,mb,mb90114983,2025-10-02T15:30:46.700Z,"6 km WNW of Wisdom, Montana",earthquake,0.44,0.57,0.12097316106885,6.0,reviewed,mb,mb
 2025-10-02T01:59:53.243Z,32.758,-100.645,6.7383,0.9,ml,9.0,80.0,0.1,0.1,tx,tx2025tjcylx,2025-10-02T15:35:08.937Z,"17 km NE of Hermleigh, Texas",earthquake,1.4019290341313,2.2161519005525,0.2,10.0,reviewed,tx,tx
 2025-10-02T09:31:10.917Z,36.7928,-115.9538,7.8,2.1,ml,54.0,113.77,0.069,0.123,nn,nn00905302,2025-10-02T15:42:53.973Z,"35 km NW of Indian Springs, Nevada",earthquake,,0.6,0.34,16.0,reviewed,nn,nn
+2025-10-02T16:01:06.719Z,57.6554,-155.4153,17.2,1.7,ml,,,,0.2,ak,ak025cn2blpr,2025-10-02T16:03:09.651Z,"58 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-02T15:52:57.320Z,38.816501617432,-122.79399871826,3.0899999141693,1.51,md,29.0,38.0,0.008582,0.02,nc,nc75243936,2025-10-02T15:55:54.350Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.12,29.0,automatic,nc,nc
+2025-10-02T15:50:39.030Z,32.045,-101.81,5.0,2.3,ml,14.0,138.0,0.2,0.5,tx,tx2025tkejhn,2025-10-02T16:00:48.986Z,"9 km SSW of Stanton, Texas",earthquake,0.0,,0.3,12.0,automatic,tx,tx
+2025-10-02T15:24:55.833Z,29.041,-97.889,7.6137,1.0,ml,11.0,72.0,0.1,0.1,tx,tx2025tkdqbv,2025-10-02T16:07:13.032Z,"14 km ENE of Falls City, Texas",earthquake,0.59455825367133,0.71806846686895,0.2,6.0,reviewed,tx,tx
+2025-10-02T06:27:10.809Z,28.814,-99.089,5.6386,1.6,ml,15.0,100.0,0.1,0.2,tx,tx2025tjluvb,2025-10-02T15:54:46.077Z,"8 km S of Pearsall, Texas",earthquake,2.1021522855192,1.3597116583753,0.1,7.0,reviewed,tx,tx
+2025-10-02T04:24:41.610Z,28.816,-99.076,5.5669,1.4,ml,11.0,102.0,0.1,0.3,tx,tx2025tjhthc,2025-10-02T16:14:52.097Z,"8 km SSE of Pearsall, Texas",earthquake,2.5955631027553,1.8548457733493,0.1,6.0,reviewed,tx,tx
