@@ -18792,3 +18792,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T01:07:03.110Z,61.325,-152.24116666667,0.2,-0.3,ml,8.0,151.0,0.07267,0.07,av,av93800978,2025-10-02T20:13:58.570Z,"65 km WNW of Beluga, Alaska",earthquake,0.28,2.31,0.18360569718423,9.0,reviewed,av,av
 2025-10-01T21:41:22.210Z,45.0875,-111.71583333333,-2.0,1.12,ml,11.0,135.0,0.1158,0.21,mb,mb90114728,2025-10-02T20:28:26.970Z,"29 km S of Ennis, Montana",quarry blast,0.88,31.61,0.068052873077933,6.0,reviewed,mb,mb
 2025-10-02T20:38:34.667Z,39.076,-119.0149,9.2,1.4,ml,10.0,127.43,0.197,0.1229,nn,nn00905330,2025-10-02T20:41:19.581Z,"16 km NE of Yerington, Nevada",earthquake,,1.8,0.22,8.0,automatic,nn,nn
+2025-10-02T20:43:26.982Z,59.8033,-152.3872,84.6,1.6,ml,,,,0.37,ak,ak025cn4ydru,2025-10-02T20:45:29.323Z,"31 km W of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-10-02T20:41:04.000Z,35.9403333,-117.679,4.86,0.9,ml,24.0,66.0,0.02442,0.11,ci,ci41101911,2025-10-02T20:47:22.614Z,"20 km E of Little Lake, CA",earthquake,0.15,0.36,0.141,19.0,reviewed,ci,ci
+2025-10-02T20:35:04.518Z,33.8578,53.013,10.0,5.1,mb,94.0,47.0,6.052,0.59,us,us6000recq,2025-10-02T20:52:08.040Z,"80 km NE of Ardestān, Iran",earthquake,8.29,1.85,0.047,144.0,reviewed,us,us
+2025-10-02T02:36:30.690Z,19.533333333333,-156.43183333333,7.12,2.75,ml,59.0,233.0,0.5114,0.22,hv,hv74789832,2025-10-02T20:48:39.720Z,"46 km WSW of Kailua-Kona, Hawaii",earthquake,1.43,1.99,0.11594653513387,24.0,reviewed,hv,hv
