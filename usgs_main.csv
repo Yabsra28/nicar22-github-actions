@@ -18669,3 +18669,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T10:43:55.573Z,-30.6637,-71.8514,19.467,5.4,mww,81.0,84.0,0.187,1.27,us,us6000re62,2025-10-02T11:20:09.893Z,"62 km W of Ovalle, Chile",earthquake,4.09,4.025,0.069,20.0,reviewed,us,us
 2025-10-02T06:26:44.330Z,32.094,-101.462,4.1188,1.0,mlv,6.0,185.0,0.1,0.1,tx,tx2025tjlukn,2025-10-02T11:31:39.746Z,"9 km W of Forsan, Texas",earthquake,0.0,2.3172917366028,0.2,6.0,automatic,tx,tx
 2025-10-02T06:20:19.201Z,32.091,-101.471,3.8921,1.3,mlv,18.0,88.0,0.1,0.4,tx,tx2025tjlowg,2025-10-02T11:31:21.744Z,"10 km WSW of Forsan, Texas",earthquake,0.0,1.2803925275803,0.4,9.0,automatic,tx,tx
+2025-10-02T11:43:24.094Z,29.033,-97.876,11.1542,1.7,ml,5.0,173.0,0.1,0.2,tx,tx2025tjwhhj,2025-10-02T11:45:08.835Z,"14 km ENE of Falls City, Texas",earthquake,0.0,6.2345275878906,0.2,5.0,automatic,tx,tx
