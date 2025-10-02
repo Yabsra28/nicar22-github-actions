@@ -18735,3 +18735,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T16:54:51.751Z,32.105,-102.147,4.0591,1.2,ml,13.0,100.0,0.0,0.6,tx,tx2025tkgprs,2025-10-02T16:57:34.999Z,"13 km NNW of Midland, Texas",earthquake,0.0,1.5918354988098,0.2,6.0,automatic,tx,tx
 2025-10-02T16:53:58.904Z,62.5042,-145.2933,8.9,1.5,ml,,,,1.09,ak,ak025cn2muz6,2025-10-02T16:56:47.959Z,"22 km N of Gakona, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-02T16:53:48.020Z,38.80350112915,-122.78133392334,3.079999923706,0.47,md,7.0,102.0,0.009757,0.01,nc,nc75243966,2025-10-02T16:55:24.989Z,"4 km NW of The Geysers, CA",earthquake,0.57,1.82000005,0.27,7.0,automatic,nc,nc
+2025-10-02T17:23:52.987Z,57.661,-155.4078,17.7,1.4,ml,,,,0.36,ak,ak025cn31un6,2025-10-02T17:25:08.673Z,"57 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-02T17:20:44.190Z,37.594501495361,-122.46166992188,8.8100004196167,1.81,md,15.0,91.0,0.03316,0.04,nc,nc75243976,2025-10-02T17:22:19.039Z,"3 km SE of Pacifica, CA",earthquake,0.41,0.529999971,0.21,11.0,automatic,nc,nc
+2025-10-02T17:19:18.870Z,37.592166900635,-122.4631652832,9.1800003051758,2.11,md,34.0,84.0,0.0315,0.03,nc,nc75243971,2025-10-02T17:27:18.705Z,"3 km SE of Pacifica, CA",earthquake,0.19,0.280000001,0.17,30.0,automatic,nc,nc
+2025-10-01T21:21:33.409Z,36.73516667,-94.8035,0.0,1.67,ml,26.0,202.0,0.4481120651,0.53,ok,ok2025tgkp,2025-10-02T17:20:46.628Z,"4 km ESE of Fairland, Oklahoma",quarry blast,,0.5,0.25,4.0,reviewed,ok,ok
+2025-10-01T19:09:28.820Z,34.40833333,-97.45766667,4.24,1.24,ml,25.0,106.0,0.04679081805,0.3,ok,ok2025tggg,2025-10-02T17:24:06.889Z,"6 km SE of Ratliff City, Oklahoma",earthquake,,1.0,0.25,11.0,reviewed,ok,ok
