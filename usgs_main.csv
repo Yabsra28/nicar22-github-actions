@@ -18715,3 +18715,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T15:26:51.836Z,32.121,-102.199,7.493,1.2,ml,11.0,128.0,0.0,0.3,tx,tx2025tkdrwd,2025-10-02T15:30:30.376Z,"17 km NW of Midland, Texas",earthquake,0.0,2.2358357906342,0.2,6.0,automatic,tx,tx
 2025-10-02T12:35:19.300Z,45.636333333333,-113.53316666667,12.22,1.26,ml,14.0,89.0,0.1385,0.12,mb,mb90114983,2025-10-02T15:30:46.700Z,"6 km WNW of Wisdom, Montana",earthquake,0.44,0.57,0.12097316106885,6.0,reviewed,mb,mb
 2025-10-02T01:59:53.243Z,32.758,-100.645,6.7383,0.9,ml,9.0,80.0,0.1,0.1,tx,tx2025tjcylx,2025-10-02T15:35:08.937Z,"17 km NE of Hermleigh, Texas",earthquake,1.4019290341313,2.2161519005525,0.2,10.0,reviewed,tx,tx
+2025-10-02T09:31:10.917Z,36.7928,-115.9538,7.8,2.1,ml,54.0,113.77,0.069,0.123,nn,nn00905302,2025-10-02T15:42:53.973Z,"35 km NW of Indian Springs, Nevada",earthquake,,0.6,0.34,16.0,reviewed,nn,nn
