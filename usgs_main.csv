@@ -18638,3 +18638,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T07:27:26.090Z,33.652,-116.718,13.21,0.54,ml,29.0,56.0,0.04054,0.13,ci,ci41101695,2025-10-02T07:31:55.002Z,"10 km S of Idyllwild, CA",earthquake,0.21,0.36,0.218,13.0,automatic,ci,ci
 2025-10-02T07:24:38.571Z,61.3884,-148.2966,6.8,2.0,ml,,,,1.61,ak,ak025cmx3p24,2025-10-02T07:27:30.619Z,"33 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-02T07:36:39.837Z,57.6351,-155.3815,4.7,2.2,ml,,,,0.25,ak,ak025cmx69vz,2025-10-02T07:38:36.059Z,"55 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-02T08:23:41.960Z,38.833667755127,-122.80966949463,2.2200000286102,0.61,md,14.0,56.0,0.01026,0.01,nc,nc75243801,2025-10-02T08:25:18.580Z,"8 km W of Cobb, CA",earthquake,0.34,0.639999986,0.33,14.0,automatic,nc,nc
+2025-10-02T08:20:52.242Z,57.6626,-155.3955,18.0,1.6,ml,,,,0.29,ak,ak025cmxoazs,2025-10-02T08:22:29.063Z,"57 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-02T08:05:16.501Z,36.8353,-117.7423,0.6,1.6,ml,21.0,122.61,0.341,0.398,nn,nn00905296,2025-10-02T08:08:58.138Z,"38 km NE of Lone Pine, California",earthquake,,21.8,0.22,7.0,automatic,nn,nn
