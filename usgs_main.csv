@@ -18630,3 +18630,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T17:11:25.640Z,37.9185,-121.9525,-0.2,1.59,md,7.0,77.0,0.02935,0.04,nc,nc75243541,2025-10-02T05:57:22.179Z,"3 km SSW of Clayton, CA",quarry blast,0.25,31.61,0.403,4.0,reviewed,nc,nc
 2025-10-02T06:52:11.808Z,62.9155,-150.5551,5.8,1.5,ml,,,,0.53,ak,ak025cmwo7ks,2025-10-02T06:54:27.510Z,"47 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-02T06:50:31.420Z,34.291,-116.9996667,3.9,0.86,ml,48.0,49.0,0.03441,0.18,ci,ci41101687,2025-10-02T06:54:12.653Z,"10 km WNW of Big Bear Lake, CA",earthquake,0.15,0.29,0.161,18.0,automatic,ci,ci
+2025-10-02T07:13:49.899Z,57.6912,-155.4447,1.9,4.7,ml,,,,0.8,ak,ak025cmx1d48,2025-10-02T07:23:04.756Z,"60 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-02T07:11:10.351Z,63.1661,-150.8149,125.3,2.8,ml,,,,0.39,ak,ak025cmx0uor,2025-10-02T07:14:35.414Z,"61 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-02T07:00:03.060Z,61.2742,-149.3749,31.4,1.7,ml,,,,0.43,ak,ak025cmwyh9b,2025-10-02T07:12:12.308Z,"11 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-02T06:48:57.460Z,17.975166666667,-66.830666666667,14.17,2.44,md,12.0,160.0,0.03594,0.2,pr,pr71496843,2025-10-02T07:05:16.590Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.61,0.43,0.05666971837881,3.0,reviewed,pr,pr
