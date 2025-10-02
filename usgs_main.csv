@@ -18729,3 +18729,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T16:12:32.570Z,33.2623333,-116.2923333,8.47,0.76,ml,15.0,145.0,0.07653,0.09,ci,ci41101775,2025-10-02T16:16:03.207Z,"8 km E of Borrego Springs, CA",earthquake,0.34,0.84,0.194,16.0,automatic,ci,ci
 2025-10-02T15:29:19.430Z,33.564,-117.6243333,13.36,0.9,ml,14.0,232.0,0.05592,0.13,ci,ci41101767,2025-10-02T16:34:33.542Z,"1 km SE of Ladera Ranch, CA",earthquake,0.53,0.6,0.105,9.0,reviewed,ci,ci
 2025-10-02T08:13:44.300Z,40.981,-111.62916666667,9.26,0.98,md,11.0,72.0,0.07072,0.13,uu,uu80004988,2025-10-02T16:16:00.900Z,"7 km SSE of Morgan, Utah",earthquake,0.36,1.31,0.49710407476884,5.0,reviewed,uu,uu
+2025-10-02T16:48:06.444Z,29.026,-97.874,6.5026,1.8,ml,11.0,78.0,0.0,0.5,tx,tx2025tkgjsf,2025-10-02T16:50:38.410Z,"14 km ENE of Falls City, Texas",earthquake,0.0,3.4349801540375,0.1,7.0,automatic,tx,tx
+2025-10-02T16:12:02.337Z,51.4471,158.9395,35.0,4.4,mb,22.0,239.0,1.589,0.46,us,us6000re78,2025-10-02T16:49:10.040Z,"169 km SSE of Vilyuchinsk, Russia",earthquake,13.35,2.005,0.139,16.0,reviewed,us,us
