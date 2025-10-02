@@ -18637,3 +18637,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T07:27:57.052Z,57.6317,-155.3496,20.7,1.5,ml,,,,0.13,ak,ak025cmx4drt,2025-10-02T07:29:46.363Z,"53 km W of Karluk, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2025-10-02T07:27:26.090Z,33.652,-116.718,13.21,0.54,ml,29.0,56.0,0.04054,0.13,ci,ci41101695,2025-10-02T07:31:55.002Z,"10 km S of Idyllwild, CA",earthquake,0.21,0.36,0.218,13.0,automatic,ci,ci
 2025-10-02T07:24:38.571Z,61.3884,-148.2966,6.8,2.0,ml,,,,1.61,ak,ak025cmx3p24,2025-10-02T07:27:30.619Z,"33 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-02T07:36:39.837Z,57.6351,-155.3815,4.7,2.2,ml,,,,0.25,ak,ak025cmx69vz,2025-10-02T07:38:36.059Z,"55 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
