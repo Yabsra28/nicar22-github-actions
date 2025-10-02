@@ -18691,3 +18691,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T13:34:13.090Z,38.819831848145,-122.76599884033,2.170000076294,0.73,md,7.0,109.0,0.01105,0.01,nc,nc75243901,2025-10-02T13:35:50.572Z,"4 km W of Cobb, CA",earthquake,0.59,1.28999996,0.07,8.0,automatic,nc,nc
 2025-10-02T13:47:50.227Z,59.4857,-151.8853,47.0,1.9,ml,,,,0.57,ak,ak025cn0t938,2025-10-02T13:51:45.392Z,"11 km WNW of Seldovia, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-10-02T13:41:51.160Z,38.801334381104,-122.78016662598,2.7300000190735,2.25,md,42.0,66.0,0.01015,0.04,nc,nc75243911,2025-10-02T13:46:25.420Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.300000012,0.15,45.0,automatic,nc,nc
+2025-10-02T14:09:15.490Z,33.901,-116.2061667,2.9,1.58,ml,60.0,51.0,0.03657,0.19,ci,ci41101735,2025-10-02T14:12:57.403Z,"19 km ENE of Thousand Palms, CA",earthquake,0.13,0.25,0.141,26.0,automatic,ci,ci
+2025-10-02T14:04:49.130Z,34.2373352,-117.0908356,4.93,1.04,ml,20.0,57.0,0.04999,0.21,ci,ci41101727,2025-10-02T14:06:55.587Z,"4 km NNE of Running Springs, CA",earthquake,0.44,0.89,0.183,6.0,automatic,ci,ci
+2025-10-02T12:59:21.446Z,54.4619,-159.8215,35.0,3.6,ml,48.0,193.0,0.394,0.78,us,us6000re6i,2025-10-02T14:15:10.040Z,"106 km SSE of Sand Point, Alaska",earthquake,6.83,2.003,0.066,30.0,reviewed,us,us
