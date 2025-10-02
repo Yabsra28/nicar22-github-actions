@@ -18664,3 +18664,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T09:35:00.192Z,52.0619,160.7447,10.0,4.7,mb,30.0,124.0,1.601,1.1,us,us6000re5v,2025-10-02T10:26:27.040Z,"181 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.03,1.916,0.091,37.0,reviewed,us,us
 2025-10-02T10:41:07.084Z,57.9294,-153.1934,35.3,2.6,ml,,,,0.62,ak,ak025cmyzkr8,2025-10-02T10:43:15.438Z,"19 km WNW of Port Lions, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2025-10-02T10:41:02.060Z,37.404,-117.2399,0.0,0.6,ml,9.0,278.58,0.105,0.4467,nn,nn00905316,2025-10-02T10:43:25.723Z,"33 km S of Goldfield, Nevada",earthquake,,45.8,0.34,4.0,automatic,nn,nn
+2025-10-02T11:16:42.880Z,38.837333679199,-122.80200195312,2.2300000190735,1.27,md,19.0,63.0,0.009168,0.01,nc,nc75243871,2025-10-02T11:18:19.489Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.439999998,0.13,18.0,automatic,nc,nc
+2025-10-02T11:05:15.260Z,38.796001434326,-122.80516815185,2.9700000286102,1.05,md,21.0,64.0,0.007838,0.02,nc,nc75243861,2025-10-02T11:06:54.566Z,"5 km WNW of The Geysers, CA",earthquake,0.26,0.479999989,0.07,20.0,automatic,nc,nc
+2025-10-02T10:43:55.573Z,-30.6637,-71.8514,19.467,5.4,mww,81.0,84.0,0.187,1.27,us,us6000re62,2025-10-02T11:20:09.893Z,"62 km W of Ovalle, Chile",earthquake,4.09,4.025,0.069,20.0,reviewed,us,us
