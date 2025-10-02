@@ -18685,3 +18685,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T12:52:37.877Z,55.8901,-157.1033,76.3,2.9,ml,,,,0.58,ak,ak025cn08v8u,2025-10-02T12:55:21.071Z,"92 km ESE of Chignik, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2025-10-02T11:40:01.299Z,51.7185,159.7877,34.754,4.6,mb,39.0,126.0,1.481,1.15,us,us6000re66,2025-10-02T12:46:45.040Z,"164 km SE of Vilyuchinsk, Russia",earthquake,10.79,3.769,0.072,57.0,reviewed,us,us
 2025-10-02T10:30:30.933Z,53.4952,153.8486,476.509,4.3,mb,62.0,93.0,2.343,0.59,us,us6000re60,2025-10-02T12:27:49.040Z,"286 km NW of Ozernovskiy, Russia",earthquake,11.9,8.75,0.048,122.0,reviewed,us,us
+2025-10-02T13:08:01.521Z,63.003,-150.9379,69.4,1.5,ml,,,,1.05,ak,ak025cn0ksjl,2025-10-02T13:14:48.665Z,"57 km N of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-10-02T07:59:13.260Z,40.707833333333,-112.03683333333,8.54,0.5,md,14.0,50.0,0.01911,0.12,uu,uu80118521,2025-10-02T13:18:50.530Z,"3 km WNW of West Valley City, Utah",earthquake,0.38,0.84,0.42764569610113,6.0,reviewed,uu,uu
