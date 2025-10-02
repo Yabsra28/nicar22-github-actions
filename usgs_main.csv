@@ -18601,3 +18601,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T14:38:27.802Z,36.852,-116.045,8.4,-0.1,ml,10.0,118.28,0.069,0.044,nn,nn00905292,2025-10-02T02:49:12.974Z,"45 km NW of Indian Springs, Nevada",earthquake,,2.2,0.08,3.0,reviewed,nn,nn
 2025-10-02T03:34:30.812Z,57.8157,-156.216,122.6,1.5,ml,,,,0.15,ak,ak025cmus3c9,2025-10-02T03:36:45.514Z,"78 km ENE of Ugashik, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-10-02T03:29:35.580Z,32.9325,-116.2633333,5.66,0.79,ml,35.0,43.0,0.04024,0.19,ci,ci41101607,2025-10-02T03:33:08.288Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.58,0.24,13.0,automatic,ci,ci
+2025-10-02T03:48:55.430Z,38.827331542969,-122.85316467285,2.6500000953674,0.77,md,12.0,101.0,0.002904,0.01,nc,nc75243731,2025-10-02T03:50:33.436Z,"10 km WNW of The Geysers, CA",earthquake,0.58,0.519999981,0.17,12.0,automatic,nc,nc
+2025-10-02T03:41:05.826Z,57.6269,-155.3731,0.0,2.6,ml,,,,0.31,ak,ak025cmutjfa,2025-10-02T03:43:18.365Z,"55 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-02T03:26:49.224Z,36.5852,77.0377,10.0,4.2,mb,22.0,157.0,4.012,0.81,us,us6000re4k,2025-10-02T03:51:26.040Z,"135 km SSE of Damusi, China",earthquake,11.76,1.976,0.167,10.0,reviewed,us,us
