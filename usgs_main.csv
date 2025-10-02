@@ -18649,3 +18649,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T09:18:20.540Z,57.6489,-155.3581,15.0,1.9,ml,,,,0.41,ak,ak025cmy98py,2025-10-02T09:20:15.969Z,"54 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-02T09:07:10.340Z,63.2768,-149.4213,72.0,1.6,ml,,,,0.77,ak,ak025cmy6v19,2025-10-02T09:10:53.218Z,"26 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-02T09:04:26.370Z,33.1241667,-116.392,10.54,0.39,ml,30.0,146.0,0.06073,0.16,ci,ci41101711,2025-10-02T09:07:55.246Z,"15 km S of Borrego Springs, CA",earthquake,0.3,0.42,0.121,7.0,automatic,ci,ci
+2025-10-02T09:33:08.077Z,57.6474,-155.3896,9.7,2.2,ml,,,,0.23,ak,ak025cmycfhz,2025-10-02T09:34:57.545Z,"56 km W of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-10-02T09:31:13.547Z,57.6467,-155.3857,5.4,2.3,ml,,,,0.26,ak,ak025cmyc0h3,2025-10-02T09:33:42.784Z,"56 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-10-02T09:22:29.474Z,37.4476,-117.2631,2.4,1.2,ml,19.0,157.71,0.147,0.3712,nn,nn00905300,2025-10-02T09:25:08.383Z,"29 km S of Goldfield, Nevada",earthquake,,1.7,0.43,11.0,automatic,nn,nn
