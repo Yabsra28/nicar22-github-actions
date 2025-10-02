@@ -18641,3 +18641,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T08:23:41.960Z,38.833667755127,-122.80966949463,2.2200000286102,0.61,md,14.0,56.0,0.01026,0.01,nc,nc75243801,2025-10-02T08:25:18.580Z,"8 km W of Cobb, CA",earthquake,0.34,0.639999986,0.33,14.0,automatic,nc,nc
 2025-10-02T08:20:52.242Z,57.6626,-155.3955,18.0,1.6,ml,,,,0.29,ak,ak025cmxoazs,2025-10-02T08:22:29.063Z,"57 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-02T08:05:16.501Z,36.8353,-117.7423,0.6,1.6,ml,21.0,122.61,0.341,0.398,nn,nn00905296,2025-10-02T08:08:58.138Z,"38 km NE of Lone Pine, California",earthquake,,21.8,0.22,7.0,automatic,nn,nn
+2025-10-02T08:37:32.230Z,19.473167419434,-155.91600036621,3.6900000572205,2.28,ml,39.0,216.0,0.1202,0.319999993,hv,hv74790097,2025-10-02T08:41:48.830Z,"2 km SSE of Captain Cook, Hawaii",earthquake,0.77,0.689999998,0.45,3.0,automatic,hv,hv
+2025-10-02T08:25:59.798Z,31.455,-103.862,7.6317,1.7,ml,25.0,60.0,0.1,0.5,tx,tx2025tjptbz,2025-10-02T08:30:27.580Z,"16 km NNW of Toyah, Texas",earthquake,0.0,1.814647436142,0.1,17.0,automatic,tx,tx
+2025-10-02T08:06:55.585Z,19.9089,121.2708,10.0,4.7,mb,50.0,118.0,2.9,1.02,us,us6000re5i,2025-10-02T08:36:37.040Z,"94 km SW of Basco, Philippines",earthquake,9.96,1.9,0.096,33.0,reviewed,us,us
