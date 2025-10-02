@@ -18660,3 +18660,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T10:18:22.618Z,37.4585,-117.2604,1.4,1.2,ml,24.0,158.96,0.158,0.2722,nn,nn00905314,2025-10-02T10:20:58.736Z,"27 km S of Goldfield, Nevada",earthquake,,6.3,0.34,10.0,automatic,nn,nn
 2025-10-02T10:15:21.760Z,38.835834503174,-122.78299713135,1.8200000524521,1.02,md,12.0,68.0,0.006287,0.01,nc,nc75243836,2025-10-02T10:16:59.045Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.5,0.24,13.0,automatic,nc,nc
 2025-10-02T10:13:00.177Z,37.4584,-117.2531,3.4,1.2,ml,18.0,286.17,0.158,0.3703,nn,nn00905312,2025-10-02T10:15:27.507Z,"27 km S of Goldfield, Nevada",earthquake,,106.0,0.5,10.0,automatic,nn,nn
+2025-10-02T10:35:12.524Z,29.035,-97.882,7.6711,2.2,ml,10.0,120.0,0.1,0.3,tx,tx2025tjuamw,2025-10-02T10:39:12.638Z,"14 km ENE of Falls City, Texas",earthquake,0.0,2.6671659946442,0.1,8.0,automatic,tx,tx
+2025-10-02T09:35:00.192Z,52.0619,160.7447,10.0,4.7,mb,30.0,124.0,1.601,1.1,us,us6000re5v,2025-10-02T10:26:27.040Z,"181 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.03,1.916,0.091,37.0,reviewed,us,us
