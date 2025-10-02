@@ -18681,3 +18681,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T11:54:14.119Z,31.581,-104.027,5.6632,2.2,ml,44.0,42.0,0.0,0.3,tx,tx2025tjwqqf,2025-10-02T12:01:48.541Z,"36 km NW of Toyah, Texas",earthquake,0.0,1.4838277101517,0.2,34.0,automatic,tx,tx
 2025-10-02T07:37:42.850Z,35.3285,-97.9245,6.07,0.87,ml,55.0,52.0,0.06208781625,0.25,ok,ok2025they,2025-10-02T12:00:46.261Z,"2 km NE of Minco, Oklahoma",earthquake,,0.4,0.2,22.0,reviewed,ok,ok
 2025-10-02T02:20:21.420Z,34.274,-82.099333333333,0.03,1.81,md,11.0,79.0,0.1386,0.21,se,se60504238,2025-10-02T12:12:44.291Z,"1 km NNW of Coronaca, South Carolina",earthquake,0.72,3.36,0.068780987192651,9.0,reviewed,se,se
+2025-10-02T12:57:08.360Z,38.823001861572,-122.75949859619,1.5900000333786,1.43,md,28.0,131.0,0.01104,0.04,nc,nc75243896,2025-10-02T12:58:45.303Z,"3 km W of Cobb, CA",earthquake,0.23,0.330000013,0.17,28.0,automatic,nc,nc
+2025-10-02T12:52:37.877Z,55.8901,-157.1033,76.3,2.9,ml,,,,0.58,ak,ak025cn08v8u,2025-10-02T12:55:21.071Z,"92 km ESE of Chignik, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2025-10-02T11:40:01.299Z,51.7185,159.7877,34.754,4.6,mb,39.0,126.0,1.481,1.15,us,us6000re66,2025-10-02T12:46:45.040Z,"164 km SE of Vilyuchinsk, Russia",earthquake,10.79,3.769,0.072,57.0,reviewed,us,us
+2025-10-02T10:30:30.933Z,53.4952,153.8486,476.509,4.3,mb,62.0,93.0,2.343,0.59,us,us6000re60,2025-10-02T12:27:49.040Z,"286 km NW of Ozernovskiy, Russia",earthquake,11.9,8.75,0.048,122.0,reviewed,us,us
