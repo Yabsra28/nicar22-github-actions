@@ -18731,3 +18731,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T08:13:44.300Z,40.981,-111.62916666667,9.26,0.98,md,11.0,72.0,0.07072,0.13,uu,uu80004988,2025-10-02T16:16:00.900Z,"7 km SSE of Morgan, Utah",earthquake,0.36,1.31,0.49710407476884,5.0,reviewed,uu,uu
 2025-10-02T16:48:06.444Z,29.026,-97.874,6.5026,1.8,ml,11.0,78.0,0.0,0.5,tx,tx2025tkgjsf,2025-10-02T16:50:38.410Z,"14 km ENE of Falls City, Texas",earthquake,0.0,3.4349801540375,0.1,7.0,automatic,tx,tx
 2025-10-02T16:12:02.337Z,51.4471,158.9395,35.0,4.4,mb,22.0,239.0,1.589,0.46,us,us6000re78,2025-10-02T16:49:10.040Z,"169 km SSE of Vilyuchinsk, Russia",earthquake,13.35,2.005,0.139,16.0,reviewed,us,us
+2025-10-02T17:04:01.290Z,35.619,-117.4738333,8.38,1.36,ml,38.0,50.0,0.06151,0.13,ci,ci41101815,2025-10-02T17:07:46.544Z,"18 km SSW of Searles Valley, CA",earthquake,0.13,0.39,0.176,26.0,automatic,ci,ci
+2025-10-02T16:54:51.751Z,32.105,-102.147,4.0591,1.2,ml,13.0,100.0,0.0,0.6,tx,tx2025tkgprs,2025-10-02T16:57:34.999Z,"13 km NNW of Midland, Texas",earthquake,0.0,1.5918354988098,0.2,6.0,automatic,tx,tx
+2025-10-02T16:53:58.904Z,62.5042,-145.2933,8.9,1.5,ml,,,,1.09,ak,ak025cn2muz6,2025-10-02T16:56:47.959Z,"22 km N of Gakona, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-02T16:53:48.020Z,38.80350112915,-122.78133392334,3.079999923706,0.47,md,7.0,102.0,0.009757,0.01,nc,nc75243966,2025-10-02T16:55:24.989Z,"4 km NW of The Geysers, CA",earthquake,0.57,1.82000005,0.27,7.0,automatic,nc,nc
