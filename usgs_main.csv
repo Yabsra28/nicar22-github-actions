@@ -18748,3 +18748,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T17:17:49.197Z,-18.1209,-177.7807,621.879,4.4,mb,42.0,132.0,3.175,0.78,us,us6000re7m,2025-10-02T17:34:22.040Z,Fiji region,earthquake,15.02,10.737,0.083,42.0,reviewed,us,us
 2025-10-01T18:02:07.700Z,36.27366667,-95.85033333,0.0,1.32,ml,50.0,194.0,0.4283159498,0.58,ok,ok2025tgea,2025-10-02T17:38:34.213Z,"0 km NE of Owasso, Oklahoma",quarry blast,,0.7,0.19,20.0,reviewed,ok,ok
 2025-10-02T13:11:19.470Z,48.126833333333,-123.37466666667,38.56,1.46,ml,23.0,71.0,0.1086,0.2,uw,uw62188312,2025-10-02T17:44:42.330Z,"2 km N of Port Angeles East, Washington",earthquake,0.41,0.68,0.16699083786955,11.0,reviewed,uw,uw
+2025-10-02T17:51:44.430Z,36.37833404541,-121.22149658203,2.8199999332428,1.4,md,20.0,51.0,0.04465,0.09,nc,nc75244001,2025-10-02T17:53:20.754Z,"7 km NNE of Greenfield, CA",earthquake,0.25,0.75,0.18,14.0,automatic,nc,nc
+2025-10-02T17:51:30.429Z,64.5571,-149.9248,17.4,2.4,ml,,,,0.56,ak,ak025cn37sya,2025-10-02T17:53:44.096Z,"38 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-02T17:49:33.372Z,62.9565,-150.5874,113.5,1.4,ml,,,,0.31,ak,ak025cn37dqx,2025-10-02T17:52:01.999Z,"52 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-10-02T17:45:27.420Z,35.32216667,-97.93033333,6.59,0.92,ml,40.0,93.0,0.06928640364,0.31,ok,ok2025thyz,2025-10-02T17:56:38.656Z,"1 km NE of Minco, Oklahoma",earthquake,,0.6,0.23,16.0,reviewed,ok,ok
+2025-10-02T17:41:38.717Z,63.0321,-150.6676,117.7,1.5,ml,,,,0.17,ak,ak025cn35ofj,2025-10-02T17:49:50.936Z,"59 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-02T17:37:37.019Z,57.4759,-155.4321,249.9,0.1,ml,,,,0.89,ak,ak025cn34yy5,2025-10-02T17:49:39.237Z,"59 km W of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2025-10-02T17:36:31.442Z,-22.8152,171.1758,12.642,4.7,mb,32.0,127.0,3.449,0.8,us,us6000re7t,2025-10-02T17:56:27.040Z,southeast of the Loyalty Islands,earthquake,8.77,4.529,0.11,25.0,reviewed,us,us
+2025-10-02T07:48:39.190Z,51.801666666667,-178.82,4.74,0.27,ml,5.0,162.0,0.01965,0.13,av,av93801478,2025-10-02T17:58:40.500Z,"150 km W of Adak, Alaska",earthquake,0.71,1.05,0.29220958649269,5.0,reviewed,av,av
+2025-10-01T21:35:47.360Z,44.362166666667,-115.17316666667,5.78,2.11,ml,17.0,73.0,0.3473,0.15,mb,mb90114723,2025-10-02T17:53:23.120Z,"24 km NW of Stanley, Idaho",earthquake,0.41,2.45,0.18098325659538,16.0,reviewed,mb,mb
