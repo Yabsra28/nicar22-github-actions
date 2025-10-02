@@ -18806,3 +18806,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T21:37:50.720Z,38.839000701904,-122.78383636475,1.8500000238419,1.03,md,16.0,85.0,0.005116,0.02,nc,nc75244056,2025-10-02T21:39:29.507Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.400000006,0.07,18.0,automatic,nc,nc
 2025-10-02T21:37:58.464Z,-27.0636,-63.5228,571.146,5.7,mww,57.0,39.0,5.295,1.23,us,us6000recz,2025-10-02T21:54:08.415Z,"29 km W of El Hoyo, Argentina",earthquake,11.66,11.842,0.043,51.0,reviewed,us,us
 2025-10-02T21:28:16.589Z,35.3685,-97.91116667,10.16,0.79,ml,26.0,92.0,0.02159576217,0.14,ok,ok2025tigi,2025-10-02T21:50:17.102Z,"3 km SE of Union City, Oklahoma",earthquake,,0.5,0.15,12.0,reviewed,ok,ok
+2025-10-02T22:17:41.320Z,35.051,-118.3231667,-0.21,1.36,ml,32.0,35.0,0.06212,0.19,ci,ci41101959,2025-10-02T22:21:08.917Z,"14 km W of Mojave, CA",earthquake,0.21,0.54,0.166,32.0,automatic,ci,ci
+2025-10-02T22:17:33.642Z,59.691,-138.8529,0.0,2.4,ml,,,,0.65,ak,ak025cn5zovo,2025-10-02T22:19:41.475Z,"51 km ENE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-02T22:03:44.489Z,32.098,-102.023,2.0855,1.1,ml,7.0,179.0,0.1,0.5,tx,tx2025tkqvwa,2025-10-02T22:06:04.951Z,"12 km NNE of Midland, Texas",earthquake,0.0,2.9501111507416,0.2,7.0,automatic,tx,tx
+2025-10-02T21:57:43.990Z,60.7821,-149.9729,33.6,1.8,ml,,,,0.34,ak,ak025cn5mupr,2025-10-02T21:59:10.539Z,"23 km SW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-02T21:39:55.986Z,10.9525,124.2953,10.0,5.3,mww,55.0,52.0,4.061,0.91,us,us6000red2,2025-10-02T22:16:42.832Z,"13 km WNW of Bantiqui, Philippines",earthquake,4.91,1.838,0.062,25.0,reviewed,us,us
+2025-10-02T19:36:15.400Z,46.2035,-122.173,6.97,0.26,ml,9.0,103.0,0.02981,0.07,uw,uw62188372,2025-10-02T22:18:27.500Z,"38 km NNE of Amboy, Washington",earthquake,0.53,0.86,0.05554683645206,5.0,reviewed,uw,uw
+2025-10-02T19:09:11.930Z,46.1985,-122.18133333333,6.41,0.0,md,8.0,97.0,0.02434,0.08,uw,uw62188357,2025-10-02T22:12:00.840Z,"38 km NNE of Amboy, Washington",earthquake,0.44,0.58,0.1230800973602,4.0,reviewed,uw,uw
+2025-10-02T15:48:13.680Z,46.206166666667,-122.16916666667,-0.83,0.1,mh,3.0,307.0,0.01282,0.0,uw,uw62188332,2025-10-02T22:03:03.850Z,"39 km NNE of Amboy, Washington",earthquake,2.45,2.8,,0.0,reviewed,uw,uw
