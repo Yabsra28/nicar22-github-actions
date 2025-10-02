@@ -18623,3 +18623,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T05:34:51.680Z,33.8078333,-117.6331667,4.89,1.51,ml,69.0,48.0,0.02365,0.18,ci,ci41101671,2025-10-02T05:40:16.141Z,"9 km SW of Corona, CA",earthquake,0.14,0.28,0.162,30.0,automatic,ci,ci
 2025-10-02T05:34:51.670Z,33.8105011,-117.6330032,4.33,1.4,ml,42.0,81.0,0.02505,0.18,ci,ci41101679,2025-10-02T05:37:11.122Z,"9 km SW of Corona, CA",earthquake,0.24,0.54,0.244,20.0,automatic,ci,ci
 2025-10-01T12:14:47.120Z,37.593,-122.4605,8.51,0.56,md,7.0,87.0,0.03374,0.05,nc,nc75243471,2025-10-02T05:52:20.410Z,"3 km SE of Pacifica, CA",earthquake,0.56,1.06,0.057,5.0,reviewed,nc,nc
+2025-10-02T06:32:12.290Z,40.960166931152,-123.34266662598,29.430000305176,2.77,md,17.0,84.0,0.07507,0.1,nc,nc75243786,2025-10-02T06:33:52.202Z,"24 km E of Willow Creek, CA",earthquake,0.37,0.939999998,0.2,11.0,automatic,nc,nc
+2025-10-02T06:23:18.477Z,60.0912,-152.7998,114.4,2.3,ml,,,,0.54,ak,ak025cmwi0b7,2025-10-02T06:30:50.457Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-02T05:58:04.361Z,64.9324,-147.6103,7.3,1.0,ml,,,,0.3,ak,ak025cmw41p0,2025-10-02T05:59:47.002Z,"2 km S of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-02T05:56:53.284Z,62.1464,-148.0683,27.1,1.9,ml,,,,0.61,ak,ak025cmw3q1c,2025-10-02T05:59:29.912Z,"43 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-01T17:11:25.640Z,37.9185,-121.9525,-0.2,1.59,md,7.0,77.0,0.02935,0.04,nc,nc75243541,2025-10-02T05:57:22.179Z,"3 km SSW of Clayton, CA",quarry blast,0.25,31.61,0.403,4.0,reviewed,nc,nc
