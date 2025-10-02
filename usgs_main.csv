@@ -18791,3 +18791,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T01:25:19.140Z,60.022666666667,-153.09333333333,0.28,-1.01,ml,5.0,116.0,0.03786,0.18,av,av93800998,2025-10-02T20:23:06.070Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.4,2.35,0.35940663589198,5.0,reviewed,av,av
 2025-10-02T01:07:03.110Z,61.325,-152.24116666667,0.2,-0.3,ml,8.0,151.0,0.07267,0.07,av,av93800978,2025-10-02T20:13:58.570Z,"65 km WNW of Beluga, Alaska",earthquake,0.28,2.31,0.18360569718423,9.0,reviewed,av,av
 2025-10-01T21:41:22.210Z,45.0875,-111.71583333333,-2.0,1.12,ml,11.0,135.0,0.1158,0.21,mb,mb90114728,2025-10-02T20:28:26.970Z,"29 km S of Ennis, Montana",quarry blast,0.88,31.61,0.068052873077933,6.0,reviewed,mb,mb
+2025-10-02T20:38:34.667Z,39.076,-119.0149,9.2,1.4,ml,10.0,127.43,0.197,0.1229,nn,nn00905330,2025-10-02T20:41:19.581Z,"16 km NE of Yerington, Nevada",earthquake,,1.8,0.22,8.0,automatic,nn,nn
