@@ -18931,3 +18931,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T07:45:24.782Z,62.1713,-150.5872,2.2,1.6,ml,,,,0.68,ak,ak025cokriny,2025-10-03T07:47:22.737Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-03T06:49:42.040Z,18.446,-64.015333333333,148.22,3.44,md,15.0,340.0,0.37,0.53,pr,pr71496898,2025-10-03T07:47:27.460Z,"83 km E of Cruz Bay, U.S. Virgin Islands",earthquake,10.76,2.21,0.085864778515898,3.0,reviewed,pr,pr
 2025-10-02T11:03:24.385Z,28.733,-98.845,6.7732,1.8,ml,22.0,71.0,0.1,0.2,tx,tx2025tjuyvy,2025-10-03T07:43:59.469Z,"19 km SW of Charlotte, Texas",earthquake,0.96691765410367,0.9242886815357,0.1,10.0,reviewed,tx,tx
+2025-10-03T08:11:28.490Z,38.774501800537,-122.72833251953,1.460000038147,1.32,md,12.0,69.0,0.01091,0.03,nc,nc75244246,2025-10-03T08:13:05.950Z,"2 km E of The Geysers, CA",earthquake,0.33,0.639999986,0.13,12.0,automatic,nc,nc
