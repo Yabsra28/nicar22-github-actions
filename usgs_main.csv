@@ -18980,3 +18980,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T13:28:19.836Z,64.4718,-146.8668,9.0,1.4,ml,,,,0.74,ak,ak025coo8gpc,2025-10-03T13:31:06.902Z,"6 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-03T13:20:32.783Z,31.71,-104.591,2.8465,1.6,ml,23.0,103.0,0.1,0.4,tx,tx2025tlvfxg,2025-10-03T13:24:26.611Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,1.3274289369583,0.2,16.0,automatic,tx,tx
 2025-10-02T19:52:48.310Z,35.453833333333,-91.702333333333,1.09,2.22,md,10.0,101.0,0.1124,0.25,nm,nm60614521,2025-10-03T13:28:49.846Z,"12 km ENE of Pangburn, Arkansas",earthquake,0.56,1.29,0.10362425817745,6.0,reviewed,nm,nm
+2025-10-03T13:42:49.494Z,31.902,-101.74,2.4716,1.3,ml,19.0,58.0,0.1,0.6,tx,tx2025tlvzcg,2025-10-03T13:46:18.290Z,"24 km W of Garden City, Texas",earthquake,0.0,1.2461593151093,0.2,11.0,automatic,tx,tx
+2025-10-03T13:39:58.680Z,32.92,-116.2331667,7.7,0.9,ml,32.0,45.0,0.06839,0.18,ci,ci41102119,2025-10-03T13:43:23.744Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.25,0.67,0.223,14.0,automatic,ci,ci
+2025-10-03T13:39:33.970Z,33.5368333,-116.8043333,5.82,1.14,ml,9.0,105.0,0.03364,0.02,ci,ci41102111,2025-10-03T13:43:06.108Z,"12 km NNE of Aguanga, CA",earthquake,0.21,0.41,0.307,14.0,automatic,ci,ci
