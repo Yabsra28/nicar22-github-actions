@@ -19107,3 +19107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T16:34:23.990Z,46.100166666667,-122.12633333333,13.42,-0.18,md,4.0,227.0,0.05824,0.09,uw,uw62188607,2025-10-03T23:26:40.790Z,"32 km NE of Amboy, Washington",earthquake,0.9,1.1,,1.0,reviewed,uw,uw
 2025-10-03T14:53:11.610Z,32.117,-102.218,3.8204,1.0,mlv,7.0,162.0,0.0,0.3,tx,tx2025tlyhsl,2025-10-03T23:28:26.347Z,"18 km NE of Gardendale, Texas",earthquake,0.0,1.8867686986923,0.3,6.0,automatic,tx,tx
 2025-10-03T10:16:19.660Z,62.021333333333,-144.14433333333,16.8,-0.13,ml,5.0,135.0,0.05368,0.12,av,av93050489,2025-10-03T23:28:20.220Z,"54 km NE of Kenny Lake, Alaska",earthquake,1.16,0.53,0.1975763904696,5.0,reviewed,av,av
+2025-10-03T22:52:41.605Z,51.6336,159.3953,39.352,4.9,mb,71.0,151.0,1.465,0.9,us,us6000rent,2025-10-03T23:31:12.040Z,"159 km SSE of Vilyuchinsk, Russia",earthquake,9.45,7.258,0.065,74.0,reviewed,us,us
+2025-10-03T21:27:28.610Z,41.9465,-119.633,9.0,1.8,ml,5.0,208.95,0.299,0.1331,nn,nn00905401,2025-10-03T23:34:17.321Z,"44 km ENE of Fort Bidwell, California",earthquake,,7.4,0.36,3.0,reviewed,nn,nn
+2025-10-03T11:47:08.840Z,61.298333333333,-152.265,1.01,-0.24,ml,9.0,116.0,0.06233,0.08,av,av93803388,2025-10-03T23:38:38.240Z,"65 km WNW of Tyonek, Alaska",earthquake,0.23,0.88,0.1200302651258,9.0,reviewed,av,av
+2025-10-03T10:55:16.990Z,57.013166666667,-135.6345,4.68,-0.2,ml,4.0,206.0,0.05112,0.08,av,av93050494,2025-10-03T23:31:26.190Z,"18 km WSW of Sitka, Alaska",earthquake,1.29,2.01,0.169853023393,4.0,reviewed,av,av
