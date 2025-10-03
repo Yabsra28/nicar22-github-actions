@@ -19032,3 +19032,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T17:08:50.790Z,38.752834320068,-122.70050048828,1.2000000476837,1.04,md,8.0,83.0,0.01535,0.03,nc,nc75244371,2025-10-03T17:27:21.213Z,"3 km SSW of Anderson Springs, CA",earthquake,0.34,0.610000014,0.14,9.0,automatic,nc,nc
 2025-10-03T16:24:10.458Z,2.011,126.6613,42.838,4.6,mb,51.0,94.0,1.419,0.78,us,us6000rejx,2025-10-03T17:11:02.040Z,"153 km WNW of Tobelo, Indonesia",earthquake,6.65,7.614,0.084,42.0,reviewed,us,us
 2025-10-03T14:26:35.922Z,52.49,159.2483,54.002,4.7,mb,135.0,85.0,0.646,0.82,us,us6000rehu,2025-10-03T17:10:34.040Z,"75 km SE of Vilyuchinsk, Russia",earthquake,9.07,7.222,0.036,234.0,reviewed,us,us
+2025-10-03T07:37:44.980Z,45.349333333333,-121.7615,5.04,0.87,ml,11.0,140.0,0.03242,0.07,uw,uw62188532,2025-10-03T17:36:16.870Z,"5 km N of Government Camp, Oregon",earthquake,0.3,0.42,0.095655740687755,6.0,reviewed,uw,uw
+2025-10-03T06:28:23.615Z,38.4583,-116.5099,9.6,2.3,ml,8.0,152.48,0.492,0.1508,nn,nn00905368,2025-10-03T17:29:47.313Z,"76 km NE of Tonopah, Nevada",earthquake,,3.6,0.18,4.0,reviewed,nn,nn
