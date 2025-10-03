@@ -18907,3 +18907,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T05:36:42.125Z,38.4724,-119.4881,9.5,1.4,ml,12.0,155.31,0.129,0.214,nn,nn00905366,2025-10-03T05:39:12.472Z,"4 km SSW of Walker, California",earthquake,,1.4,0.19,7.0,automatic,nn,nn
 2025-10-03T05:33:18.816Z,29.031,-97.87,6.5634,1.9,ml,14.0,68.0,0.1,0.4,tx,tx2025tlftgk,2025-10-03T05:36:06.065Z,"15 km ENE of Falls City, Texas",earthquake,0.0,2.4039194583893,0.2,11.0,automatic,tx,tx
 2025-10-03T05:32:21.390Z,31.603,-104.124,4.4272,0.6,ml,17.0,98.0,0.0,0.5,tx,tx2025tlfsjy,2025-10-03T05:37:01.076Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.2976815700531,0.1,13.0,automatic,tx,tx
+2025-10-03T05:49:27.650Z,38.834331512451,-122.81533050537,1.6299999952316,0.74,md,12.0,90.0,0.01167,0.02,nc,nc75244221,2025-10-03T05:51:05.800Z,"8 km W of Cobb, CA",earthquake,0.35,0.819999993,0.15,14.0,automatic,nc,nc
