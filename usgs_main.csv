@@ -18899,3 +18899,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T04:17:51.538Z,28.211,-43.778,10.0,5.1,mb,95.0,55.0,18.007,0.94,us,us6000reep,2025-10-03T04:38:28.040Z,northern Mid-Atlantic Ridge,earthquake,10.72,1.885,0.03,348.0,reviewed,us,us
 2025-10-03T03:55:52.144Z,1.5646,122.9748,10.0,4.6,mb,50.0,55.0,1.868,1.39,us,us6000reek,2025-10-03T04:41:01.040Z,"113 km N of Gorontalo, Indonesia",earthquake,4.44,1.872,0.093,34.0,reviewed,us,us
 2025-10-02T16:03:03.070Z,58.3345,-154.548,11.59,-0.16,ml,5.0,242.0,0.1421,0.06,av,av93050459,2025-10-03T04:33:53.710Z,"85 km N of Karluk, Alaska",earthquake,0.88,1.01,0.14672488708469,6.0,reviewed,av,av
+2025-10-02T16:08:52.200Z,58.266333333333,-155.04633333333,4.34,-0.22,ml,7.0,122.0,0.0315,0.13,av,av93802013,2025-10-03T04:51:33.750Z,"85 km NNW of Karluk, Alaska",earthquake,0.34,0.75,0.27129701258909,7.0,reviewed,av,av
