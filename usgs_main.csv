@@ -18936,3 +18936,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T08:29:25.097Z,32.115,-102.177,4.0956,1.5,ml,46.0,55.0,0.0,0.5,tx,tx2025tllozk,2025-10-03T08:34:30.467Z,"16 km NW of Midland, Texas",earthquake,0.0,0.80632174015045,0.1,26.0,automatic,tx,tx
 2025-10-03T08:25:47.613Z,37.8664,-116.1027,12.7,0.9,ml,8.0,170.91,0.68,0.3139,nn,nn00905371,2025-10-03T08:28:51.771Z,"40 km NW of Rachel, Nevada",earthquake,,2.4,0.56,3.0,automatic,nn,nn
 2025-10-03T08:09:11.400Z,19.079666666667,-64.718666666667,23.81,3.16,md,17.0,262.0,0.6584,0.18,pr,pr71496913,2025-10-03T08:38:36.940Z,"83 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.21,15.5,0.031227165484354,2.0,reviewed,pr,pr
+2025-10-03T08:46:04.360Z,35.9018333,-117.6665,3.76,0.72,ml,6.0,175.0,0.1026,0.01,ci,ci41102055,2025-10-03T08:49:34.750Z,"22 km E of Little Lake, CA",earthquake,1.03,1.05,0.107,11.0,automatic,ci,ci
+2025-10-03T08:38:17.738Z,37.0036,-117.7997,16.0,1.1,ml,11.0,190.62,0.962,0.2267,nn,nn00905372,2025-10-03T08:40:52.135Z,"42 km ENE of Independence, California",earthquake,,1.8,0.55,5.0,automatic,nn,nn
