@@ -19002,3 +19002,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T03:52:13.740Z,44.574,-112.22016666667,7.82,2.57,ml,55.0,73.0,0.1259,0.24,mb,mb90115163,2025-10-03T15:02:40.440Z,"23 km N of Spencer, Idaho",earthquake,0.35,1.06,0.20355311943932,54.0,reviewed,mb,mb
 2025-10-03T14:59:24.777Z,13.4708,-61.2256,141.204,4.8,mb,68.0,56.0,1.258,0.88,us,us6000rehv,2025-10-03T15:25:43.040Z,"19 km N of Chateaubelair, Saint Vincent and the Grenadines",earthquake,7.99,7.566,0.037,224.0,reviewed,us,us
 2025-10-03T14:54:09.730Z,33.427,-116.6088333,9.38,0.39,ml,17.0,63.0,0.06775,0.09,ci,ci41102135,2025-10-03T15:12:24.186Z,"15 km SSE of Anza, CA",earthquake,0.18,0.44,0.267,7.0,reviewed,ci,ci
+2025-10-03T15:30:21.422Z,60.8128,-151.4888,40.4,1.2,ml,,,,0.94,ak,ak025copfri6,2025-10-03T15:32:28.672Z,"17 km NW of Nikiski, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2025-10-03T15:16:02.832Z,45.5271,151.3983,53.201,5.1,mb,86.0,128.0,6.16,0.83,us,us6000rehx,2025-10-03T15:38:29.040Z,"277 km E of Kuril’sk, Russia",earthquake,9.25,6.688,0.036,246.0,reviewed,us,us
+2025-10-03T05:02:05.240Z,44.574,-112.21833333333,8.36,2.16,ml,30.0,86.0,0.1272,0.18,mb,mb90115208,2025-10-03T15:31:27.700Z,"23 km N of Spencer, Idaho",earthquake,0.39,1.78,0.21680952517364,51.0,reviewed,mb,mb
