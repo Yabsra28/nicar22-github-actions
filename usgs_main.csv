@@ -18957,3 +18957,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T11:21:34.282Z,62.0763,-147.934,42.2,1.4,ml,,,,1.06,ak,ak025con03vo,2025-10-03T11:23:31.683Z,"33 km NNW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-03T11:03:19.804Z,-2.9624,101.3492,61.466,5.2,mb,98.0,124.0,2.121,0.84,us,us6000reh2,2025-10-03T11:22:41.040Z,"100 km S of Sungai Penuh, Indonesia",earthquake,8.46,6.989,0.057,99.0,reviewed,us,us
 2025-10-03T10:27:23.405Z,54.4217,165.6729,10.0,4.6,mb,66.0,128.0,4.4,0.6,us,us6000regw,2025-10-03T11:16:05.040Z,"285 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,11.93,1.894,0.056,94.0,reviewed,us,us
+2025-10-03T11:46:29.647Z,61.0952,-152.0421,6.4,0.6,ml,,,,0.96,ak,ak025con5gze,2025-10-03T11:48:54.611Z,"48 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-03T11:42:44.100Z,33.1105,-115.5995,10.21,1.26,ml,35.0,44.0,0.01938,0.2,ci,ci41102095,2025-10-03T11:46:16.999Z,"8 km WSW of Calipatria, CA",earthquake,0.21,0.4,0.153,21.0,automatic,ci,ci
+2025-10-03T10:50:34.878Z,32.109,-101.929,6.0369,1.0,mlv,15.0,83.0,0.1,0.4,tx,tx2025tlqgqw,2025-10-03T11:48:58.857Z,"13 km W of Stanton, Texas",earthquake,0.0,2.5576457977295,0.4,12.0,automatic,tx,tx
