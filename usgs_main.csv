@@ -18914,3 +18914,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T17:38:27.420Z,54.756,-163.975,3.89,0.71,ml,5.0,95.0,0.04838,0.19,av,av93802113,2025-10-03T06:17:04.450Z,"37 km WSW of False Pass, Alaska",earthquake,0.5,2.6,0.21943983337885,5.0,reviewed,av,av
 2025-10-02T11:13:33.970Z,54.745,-164.04566666667,1.66,0.49,ml,5.0,159.0,0.04539,0.25,av,av93801693,2025-10-03T06:16:39.210Z,"42 km WSW of False Pass, Alaska",earthquake,1.06,1.25,0.26193279755482,5.0,reviewed,av,av
 2025-10-02T08:50:15.671Z,51.2681,159.2052,53.775,4.6,mb,20.0,144.0,1.791,1.2,us,us6000re5n,2025-10-03T06:19:26.040Z,"189 km E of Ozernovskiy, Russia",earthquake,13.02,6.386,0.129,18.0,reviewed,us,us
+2025-10-03T06:44:32.630Z,38.823501586914,-122.84283447266,1.5499999523163,0.22,md,10.0,78.0,0.006108,0.01,nc,nc75244226,2025-10-03T06:46:10.319Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.629999995,0.1,10.0,automatic,nc,nc
+2025-10-03T06:28:56.570Z,19.170333862305,-155.48466491699,29.290000915527,3.74,ml,61.0,98.0,0.02598,0.109999999,hv,hv74791302,2025-10-03T06:44:20.951Z,"3 km S of Pāhala, Hawaii",earthquake,0.39,0.5,0.32,46.0,automatic,hv,hv
+2025-10-03T06:27:25.537Z,61.4335,-150.0851,31.2,1.5,ml,,,,0.74,ak,ak025cok2889,2025-10-03T06:29:44.811Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-03T06:16:36.726Z,52.0116,160.1994,10.0,5.3,mb,63.0,122.0,1.387,0.75,us,us6000refw,2025-10-03T06:35:46.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.56,1.892,0.029,406.0,reviewed,us,us
+2025-10-02T21:39:15.946Z,44.1524,17.5491,10.0,3.7,ml,21.0,80.0,0.651,0.67,us,us6000red0,2025-10-03T06:42:32.040Z,"8 km WSW of Novi Travnik, Bosnia and Herzegovina",earthquake,5.3,1.974,0.059,38.0,reviewed,us,us
