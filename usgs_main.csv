@@ -18919,3 +18919,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T06:27:25.537Z,61.4335,-150.0851,31.2,1.5,ml,,,,0.74,ak,ak025cok2889,2025-10-03T06:29:44.811Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-03T06:16:36.726Z,52.0116,160.1994,10.0,5.3,mb,63.0,122.0,1.387,0.75,us,us6000refw,2025-10-03T06:35:46.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.56,1.892,0.029,406.0,reviewed,us,us
 2025-10-02T21:39:15.946Z,44.1524,17.5491,10.0,3.7,ml,21.0,80.0,0.651,0.67,us,us6000red0,2025-10-03T06:42:32.040Z,"8 km WSW of Novi Travnik, Bosnia and Herzegovina",earthquake,5.3,1.974,0.059,38.0,reviewed,us,us
+2025-10-03T06:54:48.430Z,40.579666137695,-122.22650146484,12.140000343323,2.0,md,7.0,162.0,0.07029,0.09,nc,nc75244231,2025-10-03T06:56:25.416Z,"2 km NNE of Palo Cedro, CA",earthquake,1.11,1.62,0.15,5.0,automatic,nc,nc
