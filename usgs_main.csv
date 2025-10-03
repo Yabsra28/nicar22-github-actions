@@ -18974,3 +18974,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T11:03:18.093Z,29.042,-97.886,7.315,1.2,ml,15.0,80.0,0.1,0.2,tx,tx2025tlqrpm,2025-10-03T12:30:42.677Z,"14 km ENE of Falls City, Texas",earthquake,0.43221509364539,0.64787673141409,0.1,7.0,reviewed,tx,tx
 2025-10-03T05:32:24.176Z,29.037,-97.874,8.8092,1.0,ml,11.0,89.0,0.1,0.1,tx,tx2025tlfsmh,2025-10-03T12:19:30.548Z,"15 km ENE of Falls City, Texas",earthquake,0.54925111496314,0.89004306675665,0.1,6.0,reviewed,tx,tx
 2025-10-02T16:56:10.307Z,29.098,-97.917,6.1768,1.2,ml,15.0,60.0,0.1,0.4,tx,tx2025tkgqus,2025-10-03T12:05:12.455Z,"15 km SSE of Stockdale, Texas",earthquake,1.4489920558125,3.0681912332735,0.2,10.0,reviewed,tx,tx
+2025-10-03T12:32:47.400Z,31.721,-104.535,4.2029,2.8,ml,29.0,83.0,0.0,0.2,tx,tx2025tltqom,2025-10-03T13:00:08.451Z,"52 km SSW of Whites City, New Mexico",earthquake,0.83984226822389,0.40737203644315,0.1,19.0,reviewed,tx,tx
