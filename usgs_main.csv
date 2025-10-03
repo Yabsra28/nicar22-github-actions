@@ -19005,3 +19005,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T15:30:21.422Z,60.8128,-151.4888,40.4,1.2,ml,,,,0.94,ak,ak025copfri6,2025-10-03T15:32:28.672Z,"17 km NW of Nikiski, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-10-03T15:16:02.832Z,45.5271,151.3983,53.201,5.1,mb,86.0,128.0,6.16,0.83,us,us6000rehx,2025-10-03T15:38:29.040Z,"277 km E of Kuril’sk, Russia",earthquake,9.25,6.688,0.036,246.0,reviewed,us,us
 2025-10-03T05:02:05.240Z,44.574,-112.21833333333,8.36,2.16,ml,30.0,86.0,0.1272,0.18,mb,mb90115208,2025-10-03T15:31:27.700Z,"23 km N of Spencer, Idaho",earthquake,0.39,1.78,0.21680952517364,51.0,reviewed,mb,mb
+2025-10-03T15:50:22.583Z,31.706,-104.594,2.7173,2.2,ml,24.0,115.0,0.1,0.2,tx,tx2025tmafaa,2025-10-03T15:52:45.253Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,1.4282757043839,0.2,18.0,automatic,tx,tx
+2025-10-03T15:45:34.904Z,61.6495,-146.4414,9.6,2.2,ml,,,,0.91,ak,ak025copj09o,2025-10-03T15:50:02.318Z,"41 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
