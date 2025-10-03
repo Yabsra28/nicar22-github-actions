@@ -18953,3 +18953,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T15:34:17.597Z,29.037,-97.888,7.145,1.2,ml,14.0,70.0,0.1,0.2,tx,tx2025tkdygv,2025-10-03T10:38:02.354Z,"13 km ENE of Falls City, Texas",earthquake,0.78077706487053,0.84948636992278,0.1,8.0,reviewed,tx,tx
 2025-10-03T10:45:23.551Z,63.0779,-144.562,7.5,1.8,ml,,,,0.46,ak,ak025comjtdv,2025-10-03T10:47:15.490Z,"43 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-02T14:48:41.867Z,28.833,-99.063,6.4117,1.5,ml,14.0,77.0,0.1,0.4,tx,tx2025tkckzo,2025-10-03T11:05:00.574Z,"7 km SSE of Pearsall, Texas",earthquake,2.4965930748485,1.8271628582647,0.1,7.0,reviewed,tx,tx
+2025-10-03T11:23:45.910Z,33.9378319,-116.8146667,16.46,1.19,ml,19.0,74.0,0.09724,0.12,ci,ci41102087,2025-10-03T11:25:52.389Z,"3 km NW of Cabazon, CA",earthquake,0.35,0.85,0.322,7.0,automatic,ci,ci
+2025-10-03T11:21:34.282Z,62.0763,-147.934,42.2,1.4,ml,,,,1.06,ak,ak025con03vo,2025-10-03T11:23:31.683Z,"33 km NNW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-03T11:03:19.804Z,-2.9624,101.3492,61.466,5.2,mb,98.0,124.0,2.121,0.84,us,us6000reh2,2025-10-03T11:22:41.040Z,"100 km S of Sungai Penuh, Indonesia",earthquake,8.46,6.989,0.057,99.0,reviewed,us,us
+2025-10-03T10:27:23.405Z,54.4217,165.6729,10.0,4.6,mb,66.0,128.0,4.4,0.6,us,us6000regw,2025-10-03T11:16:05.040Z,"285 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,11.93,1.894,0.056,94.0,reviewed,us,us
