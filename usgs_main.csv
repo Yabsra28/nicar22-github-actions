@@ -18960,3 +18960,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T11:46:29.647Z,61.0952,-152.0421,6.4,0.6,ml,,,,0.96,ak,ak025con5gze,2025-10-03T11:48:54.611Z,"48 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-03T11:42:44.100Z,33.1105,-115.5995,10.21,1.26,ml,35.0,44.0,0.01938,0.2,ci,ci41102095,2025-10-03T11:46:16.999Z,"8 km WSW of Calipatria, CA",earthquake,0.21,0.4,0.153,21.0,automatic,ci,ci
 2025-10-03T10:50:34.878Z,32.109,-101.929,6.0369,1.0,mlv,15.0,83.0,0.1,0.4,tx,tx2025tlqgqw,2025-10-03T11:48:58.857Z,"13 km W of Stanton, Texas",earthquake,0.0,2.5576457977295,0.4,12.0,automatic,tx,tx
+2025-10-03T11:51:52.000Z,38.779834747315,-122.75299835205,1.5800000429153,0.94,md,7.0,106.0,0.01316,0.01,nc,nc75244276,2025-10-03T11:53:26.363Z,"0 km NE of The Geysers, CA",earthquake,0.48,0.660000026,0.09,6.0,automatic,nc,nc
+2025-10-03T10:47:31.827Z,10.3444,-86.5812,19.426,4.2,mwr,98.0,153.0,1.183,0.53,us,us6000reh3,2025-10-03T11:48:57.040Z,"81 km W of Tamarindo, Costa Rica",earthquake,6.48,4.301,0.083,14.0,reviewed,us,us
+2025-10-03T10:05:56.329Z,35.32083333,-97.93083333,7.63,0.84,ml,41.0,61.0,0.07018622707,0.2,ok,ok2025tjfh,2025-10-03T11:57:23.776Z,"1 km NE of Minco, Oklahoma",earthquake,,0.3,0.26,18.0,reviewed,ok,ok
