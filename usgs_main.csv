@@ -18975,3 +18975,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T05:32:24.176Z,29.037,-97.874,8.8092,1.0,ml,11.0,89.0,0.1,0.1,tx,tx2025tlfsmh,2025-10-03T12:19:30.548Z,"15 km ENE of Falls City, Texas",earthquake,0.54925111496314,0.89004306675665,0.1,6.0,reviewed,tx,tx
 2025-10-02T16:56:10.307Z,29.098,-97.917,6.1768,1.2,ml,15.0,60.0,0.1,0.4,tx,tx2025tkgqus,2025-10-03T12:05:12.455Z,"15 km SSE of Stockdale, Texas",earthquake,1.4489920558125,3.0681912332735,0.2,10.0,reviewed,tx,tx
 2025-10-03T12:32:47.400Z,31.721,-104.535,4.2029,2.8,ml,29.0,83.0,0.0,0.2,tx,tx2025tltqom,2025-10-03T13:00:08.451Z,"52 km SSW of Whites City, New Mexico",earthquake,0.83984226822389,0.40737203644315,0.1,19.0,reviewed,tx,tx
+2025-10-03T13:34:24.638Z,61.4364,-146.5411,27.5,1.3,ml,,,,0.61,ak,ak025coo9ren,2025-10-03T13:36:31.526Z,"35 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-03T13:34:08.800Z,40.40950012207,-121.97383117676,10.010000228882,3.36,ml,45.0,39.0,0.1448,0.27,nc,nc75244306,2025-10-03T13:37:01.570Z,"9 km W of Manton, CA",earthquake,0.33,1.69000006,0.283,21.0,automatic,nc,nc
+2025-10-03T13:28:19.836Z,64.4718,-146.8668,9.0,1.4,ml,,,,0.74,ak,ak025coo8gpc,2025-10-03T13:31:06.902Z,"6 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-03T13:20:32.783Z,31.71,-104.591,2.8465,1.6,ml,23.0,103.0,0.1,0.4,tx,tx2025tlvfxg,2025-10-03T13:24:26.611Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,1.3274289369583,0.2,16.0,automatic,tx,tx
+2025-10-02T19:52:48.310Z,35.453833333333,-91.702333333333,1.09,2.22,md,10.0,101.0,0.1124,0.25,nm,nm60614521,2025-10-03T13:28:49.846Z,"12 km ENE of Pangburn, Arkansas",earthquake,0.56,1.29,0.10362425817745,6.0,reviewed,nm,nm
