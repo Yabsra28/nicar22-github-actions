@@ -18951,3 +18951,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T10:40:56.580Z,33.1411667,-116.3815002,10.59,1.02,ml,23.0,77.0,0.1187,0.2,ci,ci41102079,2025-10-03T10:43:08.808Z,"13 km S of Borrego Springs, CA",earthquake,0.38,1.04,0.279,7.0,automatic,ci,ci
 2025-10-03T03:01:32.087Z,29.038,-97.885,8.1095,1.0,ml,16.0,70.0,0.1,0.2,tx,tx2025tlasmo,2025-10-03T10:43:35.393Z,"14 km ENE of Falls City, Texas",earthquake,0.35165772109052,0.59538535979303,0.1,7.0,reviewed,tx,tx
 2025-10-02T15:34:17.597Z,29.037,-97.888,7.145,1.2,ml,14.0,70.0,0.1,0.2,tx,tx2025tkdygv,2025-10-03T10:38:02.354Z,"13 km ENE of Falls City, Texas",earthquake,0.78077706487053,0.84948636992278,0.1,8.0,reviewed,tx,tx
+2025-10-03T10:45:23.551Z,63.0779,-144.562,7.5,1.8,ml,,,,0.46,ak,ak025comjtdv,2025-10-03T10:47:15.490Z,"43 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
