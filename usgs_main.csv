@@ -18924,3 +18924,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T07:15:56.727Z,31.649,-104.372,4.1188,2.1,ml,36.0,71.0,0.1,0.3,tx,tx2025tljbdk,2025-10-03T07:19:47.316Z,"58 km S of Whites City, New Mexico",earthquake,0.0,0.95601725578308,0.2,27.0,automatic,tx,tx
 2025-10-03T07:12:28.759Z,31.624,-104.154,4.3014,1.7,ml,38.0,63.0,0.1,0.2,tx,tx2025tljaoc,2025-10-03T07:18:30.714Z,"48 km NW of Toyah, Texas",earthquake,0.0,0.90007835626602,0.2,27.0,automatic,tx,tx
 2025-10-03T06:18:28.974Z,-2.9727,136.3008,10.0,4.8,mb,25.0,57.0,1.795,0.87,us,us6000refu,2025-10-03T06:58:35.040Z,"98 km ENE of Nabire, Indonesia",earthquake,6.85,1.893,0.105,28.0,reviewed,us,us
+2025-10-03T07:21:13.240Z,56.4107,-156.7001,54.1,2.3,ml,,,,0.63,ak,ak025cokmcl8,2025-10-03T07:23:56.521Z,"106 km E of Chignik, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2025-10-03T07:19:19.117Z,59.6678,-152.7201,86.5,1.9,ml,,,,0.52,ak,ak025coklxjn,2025-10-03T07:31:54.045Z,"51 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
