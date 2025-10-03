@@ -19021,3 +19021,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T16:46:53.580Z,38.456165313721,-122.83567047119,2.3699998855591,1.42,md,9.0,76.0,0.04868,0.05,nc,nc75244361,2025-10-03T16:48:31.493Z,"4 km NE of Graton, CA",earthquake,0.26,1.04999995,0.09,8.0,automatic,nc,nc
 2025-10-03T16:26:58.115Z,-33.6649,-179.0105,38.893,5.2,mb,62.0,181.0,4.461,1.22,us,us6000rekj,2025-10-03T16:47:46.040Z,south of the Kermadec Islands,earthquake,12.82,7.644,0.075,58.0,reviewed,us,us
 2025-10-03T16:18:02.738Z,51.619,159.6315,35.023,5.1,mb,74.0,134.0,1.53,0.91,us,us6000rekc,2025-10-03T16:41:30.040Z,"168 km SSE of Vilyuchinsk, Russia",earthquake,10.61,7.002,0.055,107.0,reviewed,us,us
+2025-10-03T17:07:37.781Z,60.854,-148.5256,12.6,1.5,ml,,,,1.9,ak,ak025coqhqia,2025-10-03T17:09:35.419Z,"12 km NE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-03T17:06:50.710Z,35.9814987,-117.8723297,2.3,1.91,ml,24.0,39.0,0.03001,0.13,ci,ci41102183,2025-10-03T17:09:14.859Z,"6 km NNE of Little Lake, CA",earthquake,0.26,0.35,0.242,24.0,automatic,ci,ci
+2025-10-03T16:32:57.500Z,39.65,-111.283,12.48,1.95,ml,18.0,101.0,0.06191,0.12,uu,uu80118641,2025-10-03T17:07:24.580Z,"11 km W of Clear Creek, Utah",earthquake,0.45,0.75,0.11255409016718,8.0,reviewed,uu,uu
+2025-10-03T16:29:02.218Z,51.7631,159.7205,10.0,4.7,mb,41.0,144.0,1.423,1.06,us,us6000rem5,2025-10-03T16:56:18.040Z,"157 km SE of Vilyuchinsk, Russia",earthquake,9.66,1.888,0.084,43.0,reviewed,us,us
