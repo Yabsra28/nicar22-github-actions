@@ -18938,3 +18938,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T08:09:11.400Z,19.079666666667,-64.718666666667,23.81,3.16,md,17.0,262.0,0.6584,0.18,pr,pr71496913,2025-10-03T08:38:36.940Z,"83 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.21,15.5,0.031227165484354,2.0,reviewed,pr,pr
 2025-10-03T08:46:04.360Z,35.9018333,-117.6665,3.76,0.72,ml,6.0,175.0,0.1026,0.01,ci,ci41102055,2025-10-03T08:49:34.750Z,"22 km E of Little Lake, CA",earthquake,1.03,1.05,0.107,11.0,automatic,ci,ci
 2025-10-03T08:38:17.738Z,37.0036,-117.7997,16.0,1.1,ml,11.0,190.62,0.962,0.2267,nn,nn00905372,2025-10-03T08:40:52.135Z,"42 km ENE of Independence, California",earthquake,,1.8,0.55,5.0,automatic,nn,nn
+2025-10-03T09:07:26.369Z,61.6108,-149.7286,42.0,1.4,ml,,,,0.78,ak,ak025colq8sc,2025-10-03T09:09:14.698Z,"5 km ESE of Houston, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-03T09:07:05.430Z,33.2646675,-116.6141663,16.42,3.24,ml,106.0,21.0,0.07099,0.21,ci,ci41102063,2025-10-03T09:10:29.889Z,"3 km SE of Warner Springs, CA",earthquake,0.21,0.6,0.26,17.0,automatic,ci,ci
+2025-10-03T08:31:09.020Z,38.823001861572,-122.84216308594,1.75,1.08,md,12.0,108.0,0.005573,0.01,nc,nc75244261,2025-10-03T09:10:10.512Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.550000012,0.15,19.0,automatic,nc,nc
