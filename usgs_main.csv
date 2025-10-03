@@ -18900,3 +18900,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T03:55:52.144Z,1.5646,122.9748,10.0,4.6,mb,50.0,55.0,1.868,1.39,us,us6000reek,2025-10-03T04:41:01.040Z,"113 km N of Gorontalo, Indonesia",earthquake,4.44,1.872,0.093,34.0,reviewed,us,us
 2025-10-02T16:03:03.070Z,58.3345,-154.548,11.59,-0.16,ml,5.0,242.0,0.1421,0.06,av,av93050459,2025-10-03T04:33:53.710Z,"85 km N of Karluk, Alaska",earthquake,0.88,1.01,0.14672488708469,6.0,reviewed,av,av
 2025-10-02T16:08:52.200Z,58.266333333333,-155.04633333333,4.34,-0.22,ml,7.0,122.0,0.0315,0.13,av,av93802013,2025-10-03T04:51:33.750Z,"85 km NNW of Karluk, Alaska",earthquake,0.34,0.75,0.27129701258909,7.0,reviewed,av,av
+2025-10-03T04:54:58.000Z,34.0658333,-118.8246667,12.69,1.35,ml,10.0,105.0,0.03909,0.16,ci,ci41102031,2025-10-03T04:58:24.287Z,"7 km N of Malibu, CA",earthquake,0.52,0.98,0.275,33.0,automatic,ci,ci
+2025-10-03T04:53:18.435Z,-2.8749,136.3381,10.0,4.5,mb,18.0,129.0,1.789,1.16,us,us6000reff,2025-10-03T05:05:04.040Z,"107 km ENE of Nabire, Indonesia",earthquake,5.63,1.941,0.156,12.0,reviewed,us,us
+2025-10-03T04:51:57.726Z,63.7398,-149.2593,5.1,2.5,ml,,,,0.74,ak,ak025coj0kow,2025-10-03T05:11:13.040Z,"17 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
