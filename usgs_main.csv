@@ -19207,3 +19207,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T10:36:49.153Z,32.486,-101.155,2.4765,1.1,ml,8.0,175.0,0.1,0.3,tx,tx2025tnlnrt,2025-10-04T10:39:26.716Z,"19 km NW of Westbrook, Texas",earthquake,0.0,2.34144282341,0.2,7.0,automatic,tx,tx
 2025-10-04T10:29:54.500Z,35.6658333,-117.5143333,5.48,1.02,ml,28.0,46.0,0.0738,0.15,ci,ci41102431,2025-10-04T10:33:47.029Z,"15 km SW of Searles Valley, CA",earthquake,0.19,0.81,0.225,19.0,automatic,ci,ci
 2025-10-04T10:29:03.687Z,62.9387,-148.3348,62.0,1.6,ml,,,,0.82,ak,ak025cq9zow0,2025-10-04T10:31:15.519Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-04T10:47:13.210Z,39.90966796875,-120.62733459473,-0.31000000238419,2.06,md,9.0,113.0,0.3374,0.07,nc,nc75244656,2025-10-04T10:49:41.429Z,"8 km NE of Cromberg, CA",earthquake,0.58,7.71000004,0.23,4.0,automatic,nc,nc
