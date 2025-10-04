@@ -19273,3 +19273,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T15:42:41.890Z,19.165166666667,-67.807166666667,10.69,3.41,md,22.0,256.0,0.8451,0.41,pr,pr71497003,2025-10-04T16:11:24.570Z,"90 km NE of Punta Cana, Dominican Republic",earthquake,3.33,4.38,0.080583236268094,13.0,reviewed,pr,pr
 2025-10-04T14:15:19.580Z,39.7457,142.1935,53.247,4.5,mb,45.0,150.0,1.354,0.64,us,us6000resi,2025-10-04T16:11:26.040Z,"24 km ENE of Miyako, Japan",earthquake,7.7,6.396,0.102,29.0,reviewed,us,us
 2025-10-03T19:53:23.280Z,29.1535,57.9198,10.0,4.4,mb,65.0,64.0,4.462,0.4,us,us6000remx,2025-10-04T16:03:17.040Z,"42 km W of Bam, Iran",earthquake,8.91,1.876,0.07,59.0,reviewed,us,us
+2025-10-04T16:38:36.760Z,38.038333892822,-122.23533630371,7.4699997901917,1.26,md,12.0,113.0,0.04183,0.08,nc,nc75244756,2025-10-04T16:40:11.726Z,"3 km SW of Crockett, CA",earthquake,0.55,0.670000017,0.17,10.0,automatic,nc,nc
+2025-10-04T16:36:58.431Z,28.865,-99.102,4.5519,1.7,ml,8.0,94.0,0.3,0.4,tx,tx2025tnxlzr,2025-10-04T16:40:30.119Z,"3 km SSW of Pearsall, Texas",earthquake,0.0,3.230865240097,0.3,4.0,automatic,tx,tx
+2025-10-04T16:36:50.634Z,58.7645,-153.848,16.4,1.7,ml,,,,0.64,ak,ak025cqdlw4l,2025-10-04T16:40:03.982Z,"92 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-04T13:12:43.941Z,51.4009,160.9921,10.0,4.5,mb,57.0,135.0,2.172,0.61,us,us6000resh,2025-10-04T16:38:59.040Z,"245 km SE of Vilyuchinsk, Russia",earthquake,11.43,1.876,0.076,51.0,reviewed,us,us
+2025-10-03T20:38:42.013Z,-4.2645,152.6772,66.915,4.7,mb,72.0,90.0,0.517,0.41,us,us6000ren9,2025-10-04T16:41:06.040Z,"46 km E of Kokopo, Papua New Guinea",earthquake,6.47,6.504,0.065,71.0,reviewed,us,us
