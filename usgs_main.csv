@@ -19172,3 +19172,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T05:37:24.810Z,34.8085,-118.909,13.65,1.15,ml,31.0,60.0,0.03395,0.22,ci,ci41102375,2025-10-04T05:40:52.435Z,"4 km ESE of Frazier Park, CA",earthquake,0.26,0.51,0.219,27.0,automatic,ci,ci
 2025-10-04T05:33:38.240Z,35.978,-117.8723333,2.31,0.93,ml,24.0,52.0,0.0331,0.12,ci,ci41102367,2025-10-04T05:37:03.512Z,"6 km NE of Little Lake, CA",earthquake,0.13,0.15,0.276,17.0,automatic,ci,ci
 2025-10-04T05:48:21.210Z,35.8991667,-117.678,2.48,1.09,ml,27.0,43.0,0.05355,0.14,ci,ci41102383,2025-10-04T05:51:49.403Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.27,0.191,21.0,automatic,ci,ci
+2025-10-04T06:25:26.240Z,36.014831542969,-120.57666778565,3.960000038147,1.55,md,18.0,80.0,0.04186,0.05,nc,nc75244591,2025-10-04T06:27:03.845Z,"18 km NW of Parkfield, CA",earthquake,0.3,0.430000007,0.22,10.0,automatic,nc,nc
+2025-10-04T06:01:49.500Z,32.28,-101.929,3.7965,1.8,ml,65.0,41.0,0.0,0.5,tx,tx2025tncksg,2025-10-04T06:05:47.785Z,"21 km NW of Stanton, Texas",earthquake,0.0,0.63293135166168,0.2,40.0,automatic,tx,tx
