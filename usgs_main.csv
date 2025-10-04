@@ -19327,3 +19327,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T19:33:42.480Z,32.9846649,-115.9666672,6.82,1.57,ml,51.0,63.0,0.0976,0.21,ci,ci41102631,2025-10-04T19:35:53.568Z,"23 km SE of Ocotillo Wells, CA",earthquake,0.26,1.25,0.206,20.0,automatic,ci,ci
 2025-10-04T19:28:28.741Z,60.6238,-142.8472,18.2,1.1,ml,,,,0.28,ak,ak025cqfcfju,2025-10-04T19:30:23.606Z,"90 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-04T19:34:45.723Z,31.526,-104.161,4.3063,1.6,ml,31.0,73.0,0.1,0.3,tx,tx2025todjac,2025-10-04T19:37:25.214Z,"42 km WNW of Toyah, Texas",earthquake,0.0,1.0847572088242,0.1,22.0,automatic,tx,tx
+2025-10-04T19:47:26.229Z,59.3981,-152.0648,35.7,2.2,ml,,,,0.78,ak,ak025cqfghym,2025-10-04T19:49:26.573Z,"9 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
