@@ -19165,3 +19165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T04:18:37.230Z,33.6686667,-116.7341667,13.78,0.74,ml,19.0,67.0,0.04897,0.13,ci,ci41102335,2025-10-04T04:22:01.378Z,"8 km S of Idyllwild, CA",earthquake,0.26,0.49,0.184,15.0,automatic,ci,ci
 2025-10-04T04:42:27.620Z,33.9803333,-117.1538333,9.45,0.99,ml,27.0,244.0,0.1259,0.16,ci,ci41102359,2025-10-04T04:46:27.047Z,"9 km SSE of Redlands, CA",earthquake,0.66,1.21,0.236,30.0,automatic,ci,ci
 2025-10-04T04:42:27.080Z,34.0143333,-117.1483333,10.16,0.84,ml,14.0,132.0,0.03653,0.13,ci,ci41102351,2025-10-04T04:45:56.516Z,"6 km SE of Redlands, CA",earthquake,0.63,1.22,0.271,7.0,automatic,ci,ci
+2025-10-04T05:07:30.100Z,37.553333282471,-121.66483306885,4.8899998664856,1.12,md,9.0,74.0,0.08521,0.09,nc,nc75244581,2025-10-04T05:09:07.907Z,"17 km SSE of Livermore, CA",earthquake,0.41,1.44000006,0.28,6.0,automatic,nc,nc
+2025-10-04T05:01:19.449Z,57.6338,-155.3681,20.0,2.0,ml,,,,0.16,ak,ak025cq6uk14,2025-10-04T05:02:42.268Z,"55 km W of Karluk, Alaska",earthquake,,13.6,,,automatic,ak,ak
+2025-10-03T18:56:59.234Z,44.9998,9.332,10.0,3.0,ml,26.0,74.0,0.944,1.0,us,us6000remm,2025-10-04T04:59:45.493Z,"1 km SW of Rovescala, Italy",earthquake,4.42,1.982,0.064,32.0,reviewed,us,us
+2025-10-03T05:35:28.123Z,44.5615,-112.2557,8.509,2.4,ml,38.0,36.0,0.283,0.8,us,us6000refr,2025-10-04T05:16:25.040Z,"22 km NNW of Spencer, Idaho",earthquake,1.41,8.511,0.043,72.0,reviewed,us,us
