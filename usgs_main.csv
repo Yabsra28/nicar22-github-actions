@@ -19341,3 +19341,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T21:28:22.850Z,33.7283333,-116.0923333,9.34,1.23,ml,6.0,173.0,0.1122,0.17,ci,ci41102671,2025-10-04T21:32:22.534Z,"9 km NE of Coachella, CA",earthquake,2.62,6.68,0.119,26.0,automatic,ci,ci
 2025-10-04T21:08:45.808Z,10.543,-84.8718,10.0,4.7,mb,39.0,78.0,0.263,0.91,us,us6000reun,2025-10-04T21:45:12.040Z,"13 km NE of Tilarán, Costa Rica",earthquake,5.78,1.925,0.072,58.0,reviewed,us,us
 2025-10-04T21:54:54.611Z,39.5078,-119.5253,4.4,1.1,ml,9.0,102.42,0.233,0.306,nn,nn00905441,2025-10-04T21:57:23.078Z,"19 km NW of Stagecoach, Nevada",earthquake,,2.0,0.34,3.0,automatic,nn,nn
+2025-10-04T21:09:39.916Z,-20.8721,-179.0873,643.06,4.2,mb,37.0,136.0,4.12,0.59,us,us6000reus,2025-10-04T22:25:54.040Z,Fiji region,earthquake,15.16,8.7,0.084,39.0,reviewed,us,us
+2025-10-04T14:24:16.630Z,47.7535,-121.89016666667,20.43,1.16,ml,8.0,113.0,0.09213,0.05,uw,uw62189267,2025-10-04T22:25:13.460Z,"7 km NNE of Lake Marcel-Stillwater, Washington",earthquake,0.5,0.51,0.14309713744371,3.0,reviewed,uw,uw
