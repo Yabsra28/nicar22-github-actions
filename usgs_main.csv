@@ -19169,3 +19169,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T05:01:19.449Z,57.6338,-155.3681,20.0,2.0,ml,,,,0.16,ak,ak025cq6uk14,2025-10-04T05:02:42.268Z,"55 km W of Karluk, Alaska",earthquake,,13.6,,,automatic,ak,ak
 2025-10-03T18:56:59.234Z,44.9998,9.332,10.0,3.0,ml,26.0,74.0,0.944,1.0,us,us6000remm,2025-10-04T04:59:45.493Z,"1 km SW of Rovescala, Italy",earthquake,4.42,1.982,0.064,32.0,reviewed,us,us
 2025-10-03T05:35:28.123Z,44.5615,-112.2557,8.509,2.4,ml,38.0,36.0,0.283,0.8,us,us6000refr,2025-10-04T05:16:25.040Z,"22 km NNW of Spencer, Idaho",earthquake,1.41,8.511,0.043,72.0,reviewed,us,us
+2025-10-04T05:37:24.810Z,34.8085,-118.909,13.65,1.15,ml,31.0,60.0,0.03395,0.22,ci,ci41102375,2025-10-04T05:40:52.435Z,"4 km ESE of Frazier Park, CA",earthquake,0.26,0.51,0.219,27.0,automatic,ci,ci
+2025-10-04T05:33:38.240Z,35.978,-117.8723333,2.31,0.93,ml,24.0,52.0,0.0331,0.12,ci,ci41102367,2025-10-04T05:37:03.512Z,"6 km NE of Little Lake, CA",earthquake,0.13,0.15,0.276,17.0,automatic,ci,ci
