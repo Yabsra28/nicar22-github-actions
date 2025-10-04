@@ -19163,3 +19163,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T04:21:11.240Z,33.6666667,-116.7338333,13.52,0.86,ml,27.0,43.0,0.05012,0.13,ci,ci41102343,2025-10-04T04:24:37.394Z,"8 km S of Idyllwild, CA",earthquake,0.21,0.39,0.221,26.0,automatic,ci,ci
 2025-10-04T04:19:38.109Z,61.3663,-150.0864,43.4,1.2,ml,,,,0.41,ak,ak025cq6d0r6,2025-10-04T04:21:15.142Z,"5 km W of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-04T04:18:37.230Z,33.6686667,-116.7341667,13.78,0.74,ml,19.0,67.0,0.04897,0.13,ci,ci41102335,2025-10-04T04:22:01.378Z,"8 km S of Idyllwild, CA",earthquake,0.26,0.49,0.184,15.0,automatic,ci,ci
+2025-10-04T04:42:27.620Z,33.9803333,-117.1538333,9.45,0.99,ml,27.0,244.0,0.1259,0.16,ci,ci41102359,2025-10-04T04:46:27.047Z,"9 km SSE of Redlands, CA",earthquake,0.66,1.21,0.236,30.0,automatic,ci,ci
+2025-10-04T04:42:27.080Z,34.0143333,-117.1483333,10.16,0.84,ml,14.0,132.0,0.03653,0.13,ci,ci41102351,2025-10-04T04:45:56.516Z,"6 km SE of Redlands, CA",earthquake,0.63,1.22,0.271,7.0,automatic,ci,ci
