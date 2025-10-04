@@ -19278,3 +19278,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T16:36:50.634Z,58.7645,-153.848,16.4,1.7,ml,,,,0.64,ak,ak025cqdlw4l,2025-10-04T16:40:03.982Z,"92 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-04T13:12:43.941Z,51.4009,160.9921,10.0,4.5,mb,57.0,135.0,2.172,0.61,us,us6000resh,2025-10-04T16:38:59.040Z,"245 km SE of Vilyuchinsk, Russia",earthquake,11.43,1.876,0.076,51.0,reviewed,us,us
 2025-10-03T20:38:42.013Z,-4.2645,152.6772,66.915,4.7,mb,72.0,90.0,0.517,0.41,us,us6000ren9,2025-10-04T16:41:06.040Z,"46 km E of Kokopo, Papua New Guinea",earthquake,6.47,6.504,0.065,71.0,reviewed,us,us
+2025-10-04T16:48:10.630Z,34.8935,-118.7288333,9.88,1.49,ml,51.0,61.0,0.05502,0.15,ci,ci41102535,2025-10-04T16:51:54.237Z,"14 km ENE of Lebec, CA",earthquake,0.14,0.29,0.19,27.0,automatic,ci,ci
+2025-10-04T16:46:51.910Z,46.849834442139,-121.76116943359,1.9299999475479,0.0900000036,md,14.0,116.0,,0.0299999993,uw,uw62189292,2025-10-04T16:48:37.000Z,"22 km ENE of Ashford, Washington",earthquake,0.47,0.689999998,,1.0,automatic,uw,uw
+2025-10-04T16:46:47.940Z,46.850166320801,-121.76667022705,0.81000000238419,1.52999997,md,16.0,74.0,,0.0399999991,uw,uw62189287,2025-10-04T16:48:20.760Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.74000001,,1.0,automatic,uw,uw
+2025-10-04T16:43:54.397Z,59.2189,-139.4701,8.3,2.2,ml,,,,0.68,ak,ak025cqdnegf,2025-10-04T16:46:09.460Z,"39 km SSE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
