@@ -19152,3 +19152,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T02:23:08.944Z,60.1588,-152.2936,88.6,1.8,ml,,,,0.38,ak,ak025cq56yfu,2025-10-04T02:35:17.700Z,"36 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-04T02:11:44.031Z,60.6006,-142.2601,18.3,1.4,ml,,,,0.45,ak,ak025cq54g9v,2025-10-04T02:13:11.640Z,"99 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-04T01:57:18.183Z,51.8025,159.989,10.0,4.6,mb,94.0,126.0,1.472,0.89,us,us6000repa,2025-10-04T02:21:16.040Z,"165 km SE of Vilyuchinsk, Russia",earthquake,8.07,1.897,0.055,100.0,reviewed,us,us
+2025-10-04T03:24:10.109Z,60.6235,-151.244,56.8,2.1,ml,,,,0.73,ak,ak025cq5slm1,2025-10-04T03:27:21.698Z,"4 km ENE of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-04T03:10:46.620Z,38.788833618164,-122.76866912842,1.960000038147,1.09,md,15.0,79.0,0.01566,0.02,nc,nc75244561,2025-10-04T03:27:19.581Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.529999971,0.23,15.0,automatic,nc,nc
+2025-10-04T03:01:18.880Z,17.925,-67.197166666667,8.16,2.51,md,8.0,289.0,0.1162,0.2,pr,pr71496938,2025-10-04T03:13:17.330Z,"5 km SSW of Pole Ojea, Puerto Rico",earthquake,1.19,1.72,0.027936820683709,7.0,reviewed,pr,pr
