@@ -19210,3 +19210,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T10:47:13.210Z,39.90966796875,-120.62733459473,-0.31000000238419,2.06,md,9.0,113.0,0.3374,0.07,nc,nc75244656,2025-10-04T10:49:41.429Z,"8 km NE of Cromberg, CA",earthquake,0.58,7.71000004,0.23,4.0,automatic,nc,nc
 2025-10-04T11:05:40.290Z,35.7098351,-117.5698318,2.08,1.08,ml,14.0,123.0,0.108,0.15,ci,ci41102439,2025-10-04T11:07:46.726Z,"14 km NE of Ridgecrest, CA",earthquake,0.39,0.64,0.135,7.0,automatic,ci,ci
 2025-10-04T10:58:34.529Z,63.1227,-144.4412,1.0,1.5,ml,,,,0.25,ak,ak025cqa5z18,2025-10-04T11:00:33.945Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-04T11:19:27.930Z,33.1871681,-116.12117,11.72,0.98,ml,20.0,158.0,0.1115,0.16,ci,ci41102447,2025-10-04T11:21:30.420Z,"5 km NNE of Ocotillo Wells, CA",earthquake,0.5,0.98,0.116,4.0,automatic,ci,ci
+2025-10-04T11:10:14.360Z,37.596668243408,-122.46533203125,9.670000076294,1.29,md,12.0,99.0,0.03099,0.03,nc,nc75244666,2025-10-04T11:11:49.426Z,"3 km SE of Pacifica, CA",earthquake,0.51,0.75,0.02,8.0,automatic,nc,nc
