@@ -19283,3 +19283,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T16:46:47.940Z,46.850166320801,-121.76667022705,0.81000000238419,1.52999997,md,16.0,74.0,,0.0399999991,uw,uw62189287,2025-10-04T16:48:20.760Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.74000001,,1.0,automatic,uw,uw
 2025-10-04T16:43:54.397Z,59.2189,-139.4701,8.3,2.2,ml,,,,0.68,ak,ak025cqdnegf,2025-10-04T16:46:09.460Z,"39 km SSE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-04T16:54:16.459Z,32.122,-102.192,5.6882,1.1,ml,20.0,80.0,0.0,0.6,tx,tx2025tnyayy,2025-10-04T16:57:07.652Z,"17 km NW of Midland, Texas",earthquake,0.0,1.4718688726425,0.2,11.0,automatic,tx,tx
+2025-10-04T17:20:03.611Z,37.7894,-116.3893,0.0,1.4,ml,12.0,201.36,0.58,0.4332,nn,nn00905428,2025-10-04T17:22:41.764Z,"59 km WNW of Rachel, Nevada",earthquake,,178.2,0.36,7.0,automatic,nn,nn
+2025-10-04T17:15:28.510Z,38.787998199463,-122.7705001831,0.93000000715256,0.75,md,12.0,86.0,0.01765,0.03,nc,nc75244766,2025-10-04T17:17:07.193Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.589999974,0.14,12.0,automatic,nc,nc
+2025-10-04T17:14:08.814Z,61.6966,-149.6271,29.3,1.4,ml,,,,0.54,ak,ak025cqe2isd,2025-10-04T17:16:45.094Z,"8 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-04T17:10:34.347Z,31.734,-104.781,5.0,1.6,ml,12.0,254.0,0.2,0.7,tx,tx2025tnyozr,2025-10-04T17:12:48.196Z,"45 km ESE of Dell City, Texas",earthquake,0.0,,0.1,9.0,automatic,tx,tx
+2025-10-04T14:20:28.089Z,31.616,-104.128,3.4258,1.6,mlv,24.0,57.0,0.0,0.5,tx,tx2025tnsykb,2025-10-04T17:12:36.195Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.1211372613907,0.1,19.0,automatic,tx,tx
