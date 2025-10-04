@@ -19208,3 +19208,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T10:29:54.500Z,35.6658333,-117.5143333,5.48,1.02,ml,28.0,46.0,0.0738,0.15,ci,ci41102431,2025-10-04T10:33:47.029Z,"15 km SW of Searles Valley, CA",earthquake,0.19,0.81,0.225,19.0,automatic,ci,ci
 2025-10-04T10:29:03.687Z,62.9387,-148.3348,62.0,1.6,ml,,,,0.82,ak,ak025cq9zow0,2025-10-04T10:31:15.519Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-04T10:47:13.210Z,39.90966796875,-120.62733459473,-0.31000000238419,2.06,md,9.0,113.0,0.3374,0.07,nc,nc75244656,2025-10-04T10:49:41.429Z,"8 km NE of Cromberg, CA",earthquake,0.58,7.71000004,0.23,4.0,automatic,nc,nc
+2025-10-04T11:05:40.290Z,35.7098351,-117.5698318,2.08,1.08,ml,14.0,123.0,0.108,0.15,ci,ci41102439,2025-10-04T11:07:46.726Z,"14 km NE of Ridgecrest, CA",earthquake,0.39,0.64,0.135,7.0,automatic,ci,ci
+2025-10-04T10:58:34.529Z,63.1227,-144.4412,1.0,1.5,ml,,,,0.25,ak,ak025cqa5z18,2025-10-04T11:00:33.945Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
