@@ -19345,3 +19345,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T14:24:16.630Z,47.7535,-121.89016666667,20.43,1.16,ml,8.0,113.0,0.09213,0.05,uw,uw62189267,2025-10-04T22:25:13.460Z,"7 km NNE of Lake Marcel-Stillwater, Washington",earthquake,0.5,0.51,0.14309713744371,3.0,reviewed,uw,uw
 2025-10-04T22:36:17.627Z,31.731,-104.1,4.5,1.5,ml,33.0,50.0,0.0,0.4,tx,tx2025tojjrb,2025-10-04T22:40:08.579Z,"47 km W of Mentone, Texas",earthquake,0.0,0.90505307912827,0.2,25.0,automatic,tx,tx
 2025-10-04T22:19:59.450Z,45.577499389648,-122.37616729736,21.299999237061,2.1345570087433,ml,9.0,137.0,0.5016,0.389999986,uw,uw62189542,2025-10-04T22:43:09.190Z,"1 km WSW of Washougal, Washington",earthquake,1.96,5.67000008,0.45718652009964,8.0,reviewed,uw,uw
+2025-10-04T23:09:43.553Z,64.9743,-147.4101,0.0,1.4,ml,,,,0.72,ak,ak025cqhm4j7,2025-10-04T23:13:15.293Z,"10 km E of Fox, Alaska",earthquake,,28.8,,,automatic,ak,ak
