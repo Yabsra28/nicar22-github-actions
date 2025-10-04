@@ -19156,3 +19156,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T03:10:46.620Z,38.788833618164,-122.76866912842,1.960000038147,1.09,md,15.0,79.0,0.01566,0.02,nc,nc75244561,2025-10-04T03:27:19.581Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.529999971,0.23,15.0,automatic,nc,nc
 2025-10-04T03:01:18.880Z,17.925,-67.197166666667,8.16,2.51,md,8.0,289.0,0.1162,0.2,pr,pr71496938,2025-10-04T03:13:17.330Z,"5 km SSW of Pole Ojea, Puerto Rico",earthquake,1.19,1.72,0.027936820683709,7.0,reviewed,pr,pr
 2025-10-04T03:41:23.214Z,62.2711,-148.4287,20.2,1.5,ml,,,,0.62,ak,ak025cq5w9r5,2025-10-04T03:43:05.573Z,"52 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-04T03:57:41.130Z,38.821834564209,-122.85316467285,2.460000038147,0.56,md,9.0,108.0,0.006396,0.01,nc,nc75244576,2025-10-04T04:17:22.943Z,"10 km WNW of The Geysers, CA",earthquake,0.4,1.10000002,0.41,10.0,automatic,nc,nc
+2025-10-04T03:49:18.727Z,39.2201,28.7841,10.0,4.1,mb,29.0,46.0,1.385,1.36,us,us6000req8,2025-10-04T04:09:46.040Z,"22 km NNE of Demirci, Turkey",earthquake,4.24,1.947,0.198,7.0,reviewed,us,us
