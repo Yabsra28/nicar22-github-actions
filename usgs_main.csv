@@ -19212,3 +19212,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T10:58:34.529Z,63.1227,-144.4412,1.0,1.5,ml,,,,0.25,ak,ak025cqa5z18,2025-10-04T11:00:33.945Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-04T11:19:27.930Z,33.1871681,-116.12117,11.72,0.98,ml,20.0,158.0,0.1115,0.16,ci,ci41102447,2025-10-04T11:21:30.420Z,"5 km NNE of Ocotillo Wells, CA",earthquake,0.5,0.98,0.116,4.0,automatic,ci,ci
 2025-10-04T11:10:14.360Z,37.596668243408,-122.46533203125,9.670000076294,1.29,md,12.0,99.0,0.03099,0.03,nc,nc75244666,2025-10-04T11:11:49.426Z,"3 km SE of Pacifica, CA",earthquake,0.51,0.75,0.02,8.0,automatic,nc,nc
+2025-10-04T11:32:05.300Z,35.8611679,-117.6906662,7.37,1.21,ml,17.0,119.0,0.08823,0.09,ci,ci41102455,2025-10-04T11:34:13.635Z,"21 km ESE of Little Lake, CA",earthquake,0.39,1.07,0.145,8.0,automatic,ci,ci
+2025-10-04T11:30:43.334Z,36.28265762,-97.50162506,1.381401181,2.82,ml,84.0,24.74450684,0.06471420079,0.7121842575,ok,ok2025tldq,2025-10-04T11:32:49.708Z,"4 km WNW of Lucien, Oklahoma",earthquake,1.25185445,1.098485018,0.28,65.0,automatic,ok,ok
+2025-10-04T07:41:15.376Z,32.339,-101.531,4.2837,1.2,mlv,12.0,58.0,0.1,0.3,tx,tx2025tnfspi,2025-10-04T11:26:59.188Z,"10 km NNW of Big Spring, Texas",earthquake,0.0,1.4403046369553,0.4,8.0,automatic,tx,tx
