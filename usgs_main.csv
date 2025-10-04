@@ -19199,3 +19199,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T09:34:18.612Z,60.6144,-151.9448,83.8,1.3,ml,,,,0.68,ak,ak025cq9fd04,2025-10-04T09:36:53.799Z,"34 km W of Salamatof, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2025-10-04T09:31:13.445Z,64.99,-148.7933,27.4,0.9,ml,,,,1.4,ak,ak025cq9epgw,2025-10-04T09:33:33.415Z,"31 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-04T09:41:18.157Z,10.8955,123.9567,10.0,5.0,mb,56.0,51.0,4.125,0.74,us,us6000rers,2025-10-04T09:59:16.040Z,"1 km SW of Ilihan, Philippines",earthquake,10.79,1.877,0.075,56.0,reviewed,us,us
+2025-10-04T10:19:18.186Z,61.223,-149.9733,36.2,1.8,ml,,,,0.37,ak,ak025cq9xkui,2025-10-04T10:21:01.529Z,"3 km W of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-04T10:17:25.880Z,34.2403333,-117.1386667,5.4,0.84,ml,46.0,59.0,0.04479,0.15,ci,ci41102423,2025-10-04T10:21:12.742Z,"4 km NW of Running Springs, CA",earthquake,0.16,0.34,0.18,19.0,automatic,ci,ci
+2025-10-04T10:14:12.252Z,30.861,-103.476,4.8385,2.2,ml,22.0,110.0,0.1,1.3,tx,tx2025tnkuer,2025-10-04T10:17:27.589Z,"29 km ESE of Balmorhea, Texas",earthquake,0.0,1.3583954572678,0.2,17.0,automatic,tx,tx
+2025-10-04T10:13:05.980Z,35.8625,-117.692,7.57,0.9,ml,23.0,66.0,0.08984,0.14,ci,ci41102415,2025-10-04T10:16:36.156Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.6,0.144,17.0,automatic,ci,ci
+2025-10-04T09:50:17.086Z,10.8943,123.9099,10.0,4.6,mb,39.0,127.0,6.316,0.83,us,us6000reru,2025-10-04T10:07:32.040Z,"2 km ESE of Maravilla, Philippines",earthquake,14.04,1.896,0.096,32.0,reviewed,us,us
