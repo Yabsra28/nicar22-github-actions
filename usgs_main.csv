@@ -19263,3 +19263,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T15:25:46.044Z,31.733,-104.101,4.6132,1.7,ml,33.0,48.0,0.0,0.3,tx,tx2025tnvcph,2025-10-04T15:28:34.717Z,"47 km W of Mentone, Texas",earthquake,0.0,0.89699971675873,0.2,24.0,automatic,tx,tx
 2025-10-04T15:21:09.029Z,37.3867,141.6529,46.754,6.0,mww,127.0,49.0,2.884,0.77,us,us6000resn,2025-10-04T15:45:40.275Z,"56 km E of Tomioka, Japan",earthquake,6.37,6.276,0.039,63.0,reviewed,us,us
 2025-10-03T19:50:42.836Z,51.6489,159.5017,38.305,4.6,mb,131.0,138.0,1.472,0.66,us,us6000remv,2025-10-04T15:47:37.040Z,"161 km SSE of Vilyuchinsk, Russia",earthquake,6.45,7.148,0.05,121.0,reviewed,us,us
+2025-10-04T15:54:20.696Z,62.0208,-148.5308,11.8,1.2,ml,,,,0.75,ak,ak025cqd494o,2025-10-04T15:56:58.895Z,"25 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
