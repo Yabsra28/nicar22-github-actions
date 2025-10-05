@@ -19493,3 +19493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T09:25:08.370Z,44.563166666667,-112.21716666667,7.53,3.13,ml,55.0,31.0,0.1301,0.17,mb,mb90115658,2025-10-05T13:37:04.580Z,"22 km N of Spencer, Idaho",earthquake,0.23,1.01,0.25613174921158,74.0,reviewed,mb,mb
 2025-10-05T13:42:30.422Z,62.0365,-150.6091,14.2,1.8,ml,,,,0.29,ak,ak025crze6ki,2025-10-05T13:44:32.364Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-05T13:37:03.410Z,37.015167236328,-121.18583679199,39.759998321533,2.49,ml,6.0,158.0,0.3267,0.21,nc,nc75245146,2025-10-05T13:47:21.287Z,"27 km NE of Hollister, CA",earthquake,2.98,6.67999983,0.568,4.0,automatic,nc,nc
+2025-10-05T13:55:10.146Z,31.569,-104.361,4.1716,1.8,ml,19.0,233.0,0.2,0.5,tx,tx2025tpnvmk,2025-10-05T13:59:01.064Z,"60 km WNW of Toyah, Texas",earthquake,0.0,1.8776969909668,0.1,12.0,automatic,tx,tx
