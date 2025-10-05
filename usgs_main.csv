@@ -19551,3 +19551,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T05:25:57.390Z,33.7675,-117.5221667,5.95,-0.02,ml,7.0,79.0,0.0775,0.08,ci,ci41102735,2025-10-05T18:12:19.996Z,"12 km SSE of Corona, CA",earthquake,0.22,0.92,0.135,6.0,reviewed,ci,ci
 2025-10-05T18:34:55.330Z,38.783668518066,-122.75949859619,1.8999999761581,0.78,md,7.0,119.0,0.0178,0.02,nc,nc75245236,2025-10-05T18:36:31.267Z,"1 km NNW of The Geysers, CA",earthquake,0.48,1.08000004,0.07,8.0,automatic,nc,nc
 2025-10-05T18:28:45.718Z,14.8343,108.0503,10.0,4.8,mww,83.0,55.0,9.442,0.63,us,us6000reze,2025-10-05T18:46:25.040Z,"53 km N of Kon Tum, Vietnam",earthquake,10.18,1.8,0.071,19.0,reviewed,us,us
+2025-10-05T18:50:11.510Z,34.4993324,-118.1366653,13.94,1.06,ml,16.0,64.0,0.03106,0.16,ci,ci41103231,2025-10-05T18:52:14.998Z,"2 km W of Vincent, CA",earthquake,0.47,0.64,0.228,11.0,automatic,ci,ci
+2025-10-05T18:36:25.283Z,32.2167,-104.6293,6.046,2.5,ml,25.0,86.0,0.557,0.46,us,us6000rezf,2025-10-05T18:52:08.040Z,"24 km W of Whites City, New Mexico",earthquake,1.91,6.204,0.069,58.0,reviewed,us,us
