@@ -19458,3 +19458,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T11:01:34.744Z,31.665,-104.392,4.6574,1.8,ml,28.0,70.0,0.0,0.3,tx,tx2025tpibur,2025-10-05T11:05:10.493Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.1086834669113,0.1,18.0,automatic,tx,tx
 2025-10-05T11:16:17.129Z,37.3081,-115.8757,1.1,0.8,ml,10.0,198.03,0.223,0.3061,nn,nn00905463,2025-10-05T11:18:26.169Z,"39 km SSW of Rachel, Nevada",earthquake,,0.0,0.25,8.0,automatic,nn,nn
 2025-10-05T10:30:06.028Z,3.6309,127.9895,136.288,4.7,mb,93.0,53.0,2.733,0.84,us,us6000rexl,2025-10-05T11:16:19.040Z,"210 km N of Tobelo, Indonesia",earthquake,8.11,7.246,0.054,104.0,reviewed,us,us
+2025-10-05T11:30:44.390Z,33.6666667,-117.0156667,9.92,0.36,ml,21.0,74.0,0.0174,0.12,ci,ci41102943,2025-10-05T11:34:13.213Z,"8 km SE of Winchester, CA",earthquake,0.22,0.23,0.231,8.0,automatic,ci,ci
+2025-10-05T11:23:03.330Z,38.818668365479,-122.80883026123,3.670000076294,1.62,md,32.0,40.0,0.004819,0.05,nc,nc75245096,2025-10-05T11:26:23.350Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.12,32.0,automatic,nc,nc
+2025-10-05T11:20:04.731Z,61.414,-140.1042,4.3,4.8,ml,,,,1.06,ak,ak025cry2ji8,2025-10-05T11:31:35.361Z,"150 km E of McCarthy, Alaska",earthquake,,52.6,,,automatic,ak,ak
+2025-10-05T11:00:03.131Z,-0.3506,125.2194,39.346,4.6,mb,38.0,47.0,1.822,0.62,us,us6000rexr,2025-10-05T11:25:04.040Z,"124 km SE of Modisi, Indonesia",earthquake,7.07,8.54,0.109,25.0,reviewed,us,us
