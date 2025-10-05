@@ -19426,3 +19426,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T08:57:14.158Z,30.948,-103.359,4.924,1.7,ml,24.0,131.0,0.0,0.7,tx,tx2025tpdyto,2025-10-05T09:00:52.715Z,"37 km E of Balmorhea, Texas",earthquake,0.0,1.3237121105194,0.2,15.0,automatic,tx,tx
 2025-10-05T08:53:42.510Z,33.1345,-115.9588333,5.37,0.84,ml,45.0,47.0,0.042,0.23,ci,ci41102823,2025-10-05T08:57:29.415Z,"16 km E of Ocotillo Wells, CA",earthquake,0.2,0.47,0.184,14.0,automatic,ci,ci
 2025-10-05T08:50:36.223Z,55.4977,-158.7783,15.8,2.2,ml,,,,0.44,ak,ak025crwgqpy,2025-10-05T08:52:49.662Z,"51 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-05T09:13:57.070Z,33.2653351,-116.6138306,16.92,1.61,ml,60.0,23.0,0.07171,0.24,ci,ci41102839,2025-10-05T09:16:17.371Z,"3 km SE of Warner Springs, CA",earthquake,0.26,0.61,0.294,25.0,automatic,ci,ci
