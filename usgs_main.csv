@@ -19456,3 +19456,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T11:06:14.090Z,38.835998535156,-122.78883361816,1.7400000095367,0.59,md,7.0,137.0,0.00268,0.0,nc,nc75245091,2025-10-05T11:07:50.948Z,"6 km WNW of Cobb, CA",earthquake,0.46,0.930000007,0.35,8.0,automatic,nc,nc
 2025-10-05T11:04:13.750Z,33.9966667,-116.6886667,15.99,1.13,ml,62.0,30.0,0.05373,0.17,ci,ci41102935,2025-10-05T11:08:31.078Z,"11 km WSW of Morongo Valley, CA",earthquake,0.13,0.37,0.146,26.0,automatic,ci,ci
 2025-10-05T11:01:34.744Z,31.665,-104.392,4.6574,1.8,ml,28.0,70.0,0.0,0.3,tx,tx2025tpibur,2025-10-05T11:05:10.493Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.1086834669113,0.1,18.0,automatic,tx,tx
+2025-10-05T11:16:17.129Z,37.3081,-115.8757,1.1,0.8,ml,10.0,198.03,0.223,0.3061,nn,nn00905463,2025-10-05T11:18:26.169Z,"39 km SSW of Rachel, Nevada",earthquake,,0.0,0.25,8.0,automatic,nn,nn
+2025-10-05T10:30:06.028Z,3.6309,127.9895,136.288,4.7,mb,93.0,53.0,2.733,0.84,us,us6000rexl,2025-10-05T11:16:19.040Z,"210 km N of Tobelo, Indonesia",earthquake,8.11,7.246,0.054,104.0,reviewed,us,us
