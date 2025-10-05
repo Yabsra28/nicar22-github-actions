@@ -19399,3 +19399,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T04:51:12.318Z,31.736,-104.37,3.5722,1.6,mlv,24.0,131.0,0.0,0.5,tx,tx2025tovurp,2025-10-05T05:17:25.345Z,"48 km S of Whites City, New Mexico",earthquake,0.0,1.0968325138092,0.2,19.0,automatic,tx,tx
 2025-10-05T02:25:50.340Z,48.975666666667,-122.48016666667,16.38,2.49,ml,28.0,149.0,0.04419,0.2,uw,uw62189687,2025-10-05T05:24:51.311Z,"3 km NNW of Lynden, Washington",earthquake,0.36,0.43,0.13121235041817,36.0,reviewed,uw,uw
 2025-10-05T01:50:26.534Z,31.714,-104.592,1.7204,1.7,mlv,24.0,113.0,0.1,0.6,tx,tx2025topuzb,2025-10-05T05:16:41.611Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,1.3511202335358,0.2,18.0,automatic,tx,tx
+2025-10-05T05:34:22.280Z,33.1656667,-116.4178333,8.24,0.43,ml,33.0,54.0,0.1023,0.2,ci,ci41102743,2025-10-05T05:37:56.769Z,"11 km SSW of Borrego Springs, CA",earthquake,0.24,1.01,0.135,8.0,automatic,ci,ci
+2025-10-05T05:27:40.950Z,38.829833984375,-122.81416320801,2.5699999332428,0.51,md,8.0,112.0,0.007179,0.04,nc,nc75244966,2025-10-05T05:29:19.611Z,"8 km NW of The Geysers, CA",earthquake,0.56,0.959999979,0.34,9.0,automatic,nc,nc
