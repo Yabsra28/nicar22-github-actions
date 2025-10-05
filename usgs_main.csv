@@ -19379,3 +19379,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T00:59:18.792Z,32.361,-102.109,11.9317,1.1,ml,10.0,74.0,0.0,0.5,tx,tx2025toocsr,2025-10-05T02:00:22.458Z,"39 km NW of Stanton, Texas",earthquake,0.0,2.9529054164886,0.1,6.0,automatic,tx,tx
 2025-10-05T00:59:01.612Z,31.64,-104.458,4.6933,1.6,ml,22.0,100.0,0.0,0.4,tx,tx2025toocne,2025-10-05T01:01:53.635Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.2927516698837,0.1,17.0,automatic,tx,tx
 2025-10-05T00:08:29.920Z,18.9256,-68.3253,90.0,3.61,md,15.0,170.0,0.4155,0.3,pr,pr2025278000,2025-10-05T00:56:32.898Z,"38 km NNE of Punta Cana, Dominican Republic",earthquake,2.94,2.47,0.18,11.0,reviewed,pr,pr
+2025-10-05T03:07:21.300Z,37.592666625977,-122.4623336792,8.9099998474121,1.8,md,32.0,82.0,0.03225,0.05,nc,nc75244936,2025-10-05T03:08:58.640Z,"3 km SE of Pacifica, CA",earthquake,0.25,0.340000004,0.2,24.0,automatic,nc,nc
+2025-10-05T03:06:03.840Z,38.822166442871,-122.8433303833,2.4500000476837,1.05,md,17.0,103.0,0.006553,0.02,nc,nc75244931,2025-10-05T03:22:17.829Z,"9 km WNW of The Geysers, CA",earthquake,0.32,0.430000007,0.12,21.0,automatic,nc,nc
+2025-10-05T02:44:09.009Z,63.085,-151.4616,4.8,1.6,ml,,,,0.74,ak,ak025crsusp0,2025-10-05T02:46:21.511Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-05T02:22:36.899Z,51.7977,159.5092,35.0,5.0,mb,63.0,139.0,1.336,1.01,us,us6000revx,2025-10-05T02:57:38.040Z,"146 km SSE of Vilyuchinsk, Russia",earthquake,8.93,1.913,0.063,85.0,reviewed,us,us
