@@ -19427,3 +19427,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T08:53:42.510Z,33.1345,-115.9588333,5.37,0.84,ml,45.0,47.0,0.042,0.23,ci,ci41102823,2025-10-05T08:57:29.415Z,"16 km E of Ocotillo Wells, CA",earthquake,0.2,0.47,0.184,14.0,automatic,ci,ci
 2025-10-05T08:50:36.223Z,55.4977,-158.7783,15.8,2.2,ml,,,,0.44,ak,ak025crwgqpy,2025-10-05T08:52:49.662Z,"51 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-05T09:13:57.070Z,33.2653351,-116.6138306,16.92,1.61,ml,60.0,23.0,0.07171,0.24,ci,ci41102839,2025-10-05T09:16:17.371Z,"3 km SE of Warner Springs, CA",earthquake,0.26,0.61,0.294,25.0,automatic,ci,ci
+2025-10-05T09:31:03.380Z,38.831665039062,-122.81483459473,1.9700000286102,0.4,md,8.0,121.0,0.009057,0.03,nc,nc75245016,2025-10-05T09:32:41.173Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.25999999,0.26,8.0,automatic,nc,nc
+2025-10-05T09:29:55.150Z,38.829498291016,-122.813331604,1.9900000095367,1.05,md,17.0,87.0,0.006604,0.02,nc,nc75245011,2025-10-05T09:31:31.446Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.469999999,0.09,19.0,automatic,nc,nc
+2025-10-05T09:25:00.501Z,63.214,-150.5601,129.5,2.3,ml,,,,0.36,ak,ak025crwwqnk,2025-10-05T09:29:15.149Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-05T09:08:15.019Z,71.1768,-7.9169,10.0,5.2,mww,107.0,45.0,8.169,0.81,us,us6000rex4,2025-10-05T09:27:48.040Z,"40 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,3.58,1.861,0.061,26.0,reviewed,us,us
