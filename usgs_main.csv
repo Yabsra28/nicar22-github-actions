@@ -19439,3 +19439,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T10:00:01.805Z,32.104,-101.911,3.6641,1.7,ml,59.0,39.0,0.1,0.4,tx,tx2025tpgawh,2025-10-05T10:04:04.388Z,"11 km WSW of Stanton, Texas",earthquake,0.0,0.68958032131195,0.1,40.0,automatic,tx,tx
 2025-10-05T09:55:41.300Z,33.1691667,-116.4398333,12.05,0.97,ml,61.0,36.0,0.09163,0.2,ci,ci41102855,2025-10-05T10:08:26.568Z,"11 km SSW of Borrego Springs, CA",earthquake,0.17,0.48,0.136,27.0,automatic,ci,ci
 2025-10-05T09:54:31.529Z,60.0017,-152.8658,115.9,1.9,ml,,,,0.77,ak,ak025crx30uf,2025-10-05T09:59:41.396Z,"63 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-05T10:30:33.561Z,31.673,-104.396,6.6213,1.8,ml,29.0,69.0,0.0,0.3,tx,tx2025tphbdx,2025-10-05T10:32:55.181Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.1049768924713,0.1,18.0,automatic,tx,tx
+2025-10-05T10:25:23.120Z,33.1635,-116.4235,8.39,1.29,ml,73.0,20.0,0.08685,0.19,ci,ci41102863,2025-10-05T10:29:27.468Z,"11 km SSW of Borrego Springs, CA",earthquake,0.13,0.57,0.195,27.0,automatic,ci,ci
+2025-10-04T16:10:10.514Z,28.827,-99.063,7.431,1.9,ml,18.0,85.0,0.1,0.3,tx,tx2025tnwoyz,2025-10-05T10:29:43.557Z,"7 km SSE of Pearsall, Texas",earthquake,1.8952191917519,0.84402028386419,0.1,11.0,reviewed,tx,tx
