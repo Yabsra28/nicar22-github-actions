@@ -19390,3 +19390,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T04:35:52.590Z,38.83466720581,-122.81517028809,1.9500000476837,1.11,md,16.0,85.0,0.01933,0.02,nc,nc75244961,2025-10-05T04:37:29.119Z,"8 km W of Cobb, CA",earthquake,0.3,0.439999998,0.08,16.0,automatic,nc,nc
 2025-10-05T04:31:27.117Z,31.667,-104.387,4.1269,1.5,ml,19.0,70.0,0.0,0.3,tx,tx2025tovdso,2025-10-05T04:34:03.388Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.3100377321243,0.2,13.0,automatic,tx,tx
 2025-10-05T04:27:56.986Z,61.2801,-149.3767,20.0,2.3,ml,,,,0.54,ak,ak025crty4gf,2025-10-05T04:36:01.261Z,"11 km ESE of Eagle River, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-05T04:40:31.294Z,31.669,-104.398,4.0043,1.8,ml,27.0,70.0,0.0,0.4,tx,tx2025tovlfk,2025-10-05T04:43:37.211Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.1792104244232,0.2,15.0,automatic,tx,tx
+2025-10-05T04:25:24.478Z,-8.4157,148.8665,78.866,4.9,mb,40.0,61.0,5.324,0.93,us,us6000rew5,2025-10-05T04:47:26.040Z,"79 km ENE of Popondetta, Papua New Guinea",earthquake,9.38,4.987,0.104,29.0,reviewed,us,us
