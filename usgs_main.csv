@@ -19559,3 +19559,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T19:02:16.168Z,58.0104,-155.4707,131.8,1.1,ml,,,,0.2,ak,ak025cs2q64i,2025-10-05T19:06:47.453Z,"77 km NW of Karluk, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2025-10-05T18:59:33.266Z,60.0524,-151.8129,62.6,1.6,ml,,,,0.43,ak,ak025cs2gyk4,2025-10-05T19:02:00.487Z,"8 km W of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-05T18:56:58.020Z,32.5781667,-117.0553333,14.41,1.37,ml,12.0,142.0,0.1097,0.1,ci,ci41103239,2025-10-05T19:04:11.235Z,"3 km NNW of San Ysidro, CA",earthquake,0.39,0.78,0.255,16.0,automatic,ci,ci
+2025-10-05T19:18:34.610Z,35.3478333,-117.7931667,6.19,1.01,ml,39.0,79.0,0.09106,0.18,ci,ci41103263,2025-10-05T19:22:03.357Z,"15 km W of Johannesburg, CA",earthquake,0.19,0.53,0.154,21.0,automatic,ci,ci
+2025-10-05T17:03:14.457Z,32.01,-103.841,6.2796,1.6,mlv,20.0,95.0,0.1,0.5,tx,tx2025tpubnz,2025-10-05T19:19:24.505Z,"32 km SE of Malaga, New Mexico",earthquake,0.0,3.0387341976166,0.1,13.0,automatic,tx,tx
