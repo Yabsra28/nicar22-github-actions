@@ -19467,3 +19467,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T11:46:57.019Z,38.475,-116.4895,7.1,1.6,ml,9.0,197.81,1.27,0.1347,nn,nn00905465,2025-10-05T11:49:46.265Z,"79 km NE of Tonopah, Nevada",earthquake,,1.5,0.13,7.0,automatic,nn,nn
 2025-10-05T11:45:02.580Z,36.535831451416,-121.07933044434,6.9499998092651,1.38,md,15.0,59.0,0.05327,0.18,nc,nc75245111,2025-10-05T11:51:18.159Z,"6 km E of Pinnacles, CA",earthquake,0.47,1.61000001,0.18,11.0,automatic,nc,nc
 2025-10-05T10:53:54.706Z,32.091,-102.114,3.0776,1.2,mlv,13.0,134.0,0.1,0.5,tx,tx2025tphvhh,2025-10-05T11:55:58.521Z,"10 km NNW of Midland, Texas",earthquake,0.0,1.7869024276733,0.5,10.0,automatic,tx,tx
+2025-10-05T12:25:58.347Z,65.0433,-148.4475,5.7,1.5,ml,,,,0.3,ak,ak025cryp5y2,2025-10-05T12:27:43.588Z,"29 km NW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-05T12:12:39.390Z,34.3208333,-116.8551667,6.49,1.06,ml,47.0,39.0,0.03552,0.14,ci,ci41102983,2025-10-05T12:16:10.148Z,"7 km N of Big Bear City, CA",earthquake,0.13,0.37,0.156,27.0,automatic,ci,ci
+2025-10-05T12:08:35.750Z,34.3191667,-116.8553333,5.39,1.19,ml,51.0,47.0,0.03689,0.15,ci,ci41102975,2025-10-05T12:12:07.449Z,"6 km N of Big Bear City, CA",earthquake,0.14,0.33,0.23,28.0,automatic,ci,ci
+2025-10-05T12:01:22.344Z,71.2917,-7.9274,10.0,4.8,mb,123.0,57.0,4.678,0.92,us,us6000rey4,2025-10-05T12:22:41.040Z,"50 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.38,1.882,0.038,217.0,reviewed,us,us
+2025-10-05T11:57:04.740Z,18.805666666667,-66.690833333333,90.97,3.01,md,16.0,252.0,0.4605,0.19,pr,pr71497053,2025-10-05T12:16:05.490Z,"36 km N of Arecibo, Puerto Rico",earthquake,1.58,1.31,0.068799539238324,10.0,reviewed,pr,pr
+2025-10-05T11:55:48.630Z,35.353,-117.7881667,6.41,1.58,ml,48.0,37.0,0.09754,0.15,ci,ci41102967,2025-10-05T11:59:34.398Z,"14 km W of Johannesburg, CA",earthquake,0.14,0.44,0.175,25.0,automatic,ci,ci
+2025-10-05T11:20:04.967Z,61.4705,-140.5266,10.0,4.4,mb,33.0,93.0,0.686,1.39,us,us6000rexs,2025-10-05T12:29:23.375Z,"127 km E of McCarthy, Alaska",earthquake,2.71,1.586,0.038,207.0,reviewed,us,us
+2025-10-05T09:11:56.221Z,51.1154,178.9218,22.062,4.2,mb,60.0,219.0,0.355,0.75,us,us6000rey2,2025-10-05T12:35:52.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.98,8.4,0.077,47.0,reviewed,us,us
