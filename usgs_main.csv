@@ -19462,3 +19462,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T11:23:03.330Z,38.818668365479,-122.80883026123,3.670000076294,1.62,md,32.0,40.0,0.004819,0.05,nc,nc75245096,2025-10-05T11:26:23.350Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.12,32.0,automatic,nc,nc
 2025-10-05T11:20:04.731Z,61.414,-140.1042,4.3,4.8,ml,,,,1.06,ak,ak025cry2ji8,2025-10-05T11:31:35.361Z,"150 km E of McCarthy, Alaska",earthquake,,52.6,,,automatic,ak,ak
 2025-10-05T11:00:03.131Z,-0.3506,125.2194,39.346,4.6,mb,38.0,47.0,1.822,0.62,us,us6000rexr,2025-10-05T11:25:04.040Z,"124 km SE of Modisi, Indonesia",earthquake,7.07,8.54,0.109,25.0,reviewed,us,us
+2025-10-05T11:34:58.420Z,34.32,-116.855,6.28,1.87,ml,91.0,25.0,0.03607,0.15,ci,ci41102951,2025-10-05T11:45:37.230Z,"7 km N of Big Bear City, CA",earthquake,0.09,0.29,0.212,27.0,automatic,ci,ci
