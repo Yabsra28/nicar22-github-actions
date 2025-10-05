@@ -19431,3 +19431,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T09:29:55.150Z,38.829498291016,-122.813331604,1.9900000095367,1.05,md,17.0,87.0,0.006604,0.02,nc,nc75245011,2025-10-05T09:31:31.446Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.469999999,0.09,19.0,automatic,nc,nc
 2025-10-05T09:25:00.501Z,63.214,-150.5601,129.5,2.3,ml,,,,0.36,ak,ak025crwwqnk,2025-10-05T09:29:15.149Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-05T09:08:15.019Z,71.1768,-7.9169,10.0,5.2,mww,107.0,45.0,8.169,0.81,us,us6000rex4,2025-10-05T09:27:48.040Z,"40 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,3.58,1.861,0.061,26.0,reviewed,us,us
+2025-10-05T09:34:12.156Z,68.4394,-146.8469,0.0,2.1,ml,,,,0.81,ak,ak025crwyoy3,2025-10-05T09:39:39.937Z,"64 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
