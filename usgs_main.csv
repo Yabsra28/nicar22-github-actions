@@ -19501,3 +19501,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T14:51:56.040Z,38.7936668396,-122.7696685791,3.7799999713898,0.78,md,13.0,97.0,0.01427,0.03,nc,nc75245161,2025-10-05T14:53:32.634Z,"2 km NNW of The Geysers, CA",earthquake,0.45,1.13,0.29,14.0,automatic,nc,nc
 2025-10-05T14:50:57.119Z,36.8744,-117.6432,0.0,0.9,ml,8.0,221.4,0.253,0.3966,nn,nn00905475,2025-10-05T14:53:37.053Z,"47 km NNE of Keeler, California",earthquake,,110.3,0.63,4.0,automatic,nn,nn
 2025-10-05T14:32:00.130Z,-30.5664,-178.0315,81.21,5.0,mww,44.0,75.0,7.61,0.9,us,us6000reyr,2025-10-05T14:50:23.040Z,"Kermadec Islands, New Zealand",earthquake,11.69,6.853,0.098,10.0,reviewed,us,us
+2025-10-05T15:08:07.300Z,35.8868333,-117.7286667,3.13,1.32,ml,24.0,41.0,0.08804,0.14,ci,ci41103111,2025-10-05T15:11:38.104Z,"17 km ESE of Little Lake, CA",earthquake,0.16,0.75,0.14,9.0,automatic,ci,ci
+2025-10-05T15:07:43.750Z,35.8841667,-117.73,2.38,1.68,ml,35.0,34.0,0.09067,0.15,ci,ci41103103,2025-10-05T15:11:21.198Z,"17 km ESE of Little Lake, CA",earthquake,0.14,0.28,0.135,25.0,automatic,ci,ci
+2025-10-05T15:01:00.760Z,38.82500076294,-122.8450012207,1.9299999475479,0.37,md,8.0,144.0,0.008013,0.02,nc,nc75245171,2025-10-05T15:02:36.962Z,"9 km NW of The Geysers, CA",earthquake,0.5,1.05999994,0.24,9.0,automatic,nc,nc
+2025-10-05T14:56:34.084Z,63.2262,-149.0525,78.4,1.7,ml,,,,0.7,ak,ak025cs02mhc,2025-10-05T14:59:04.190Z,"19 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-05T14:30:36.470Z,71.1222,-7.8291,10.0,4.6,mb,54.0,61.0,4.703,0.71,us,us6000reyq,2025-10-05T15:00:57.040Z,"39 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.95,1.886,0.068,65.0,reviewed,us,us
+2025-10-05T14:02:27.788Z,13.4624,144.6058,80.56,4.4,mb,38.0,106.0,0.285,0.84,us,us6000reyt,2025-10-05T15:12:05.987Z,"9 km W of Piti Village, Guam",earthquake,12.12,6.568,0.1,29.0,reviewed,us,us
