@@ -19704,3 +19704,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T10:27:57.209Z,61.7262,-151.0049,142.3,1.4,ml,,,,0.95,ak,ak025ctl22ko,2025-10-06T10:29:48.315Z,"33 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-06T10:14:23.430Z,35.8641667,-117.6946667,6.88,0.59,ml,20.0,49.0,0.09096,0.17,ci,ci41103535,2025-10-06T10:17:50.247Z,"21 km ESE of Little Lake, CA",earthquake,0.31,0.79,0.159,8.0,automatic,ci,ci
 2025-10-06T10:12:09.600Z,35.8625,-117.6905,6.78,1.95,ml,35.0,37.0,0.0888,0.18,ci,ci41103527,2025-10-06T10:22:25.600Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.48,0.194,25.0,automatic,ci,ci
+2025-10-06T10:37:30.310Z,33.777,-116.032,7.73,0.76,ml,33.0,96.0,0.1265,0.16,ci,ci41103559,2025-10-06T10:42:05.231Z,"17 km NE of Coachella, CA",earthquake,0.21,1.01,0.15,8.0,automatic,ci,ci
+2025-10-06T10:36:30.730Z,33.4533333,-116.6278333,11.04,0.36,ml,26.0,45.0,0.04649,0.11,ci,ci41103551,2025-10-06T10:41:20.227Z,"12 km SSE of Anza, CA",earthquake,0.15,0.31,0.175,5.0,automatic,ci,ci
+2025-10-06T10:34:53.710Z,33.5375,-116.5531667,14.91,0.51,ml,32.0,48.0,0.05191,0.12,ci,ci41103543,2025-10-06T10:39:34.216Z,"11 km E of Anza, CA",earthquake,0.16,0.29,0.086,10.0,automatic,ci,ci
+2025-10-06T10:32:16.219Z,28.749,-98.49,9.6729,1.5,ml,6.0,132.0,0.0,0.4,tx,tx2025trcvlj,2025-10-06T10:35:55.305Z,"4 km S of Christine, Texas",earthquake,0.0,4.7675862312317,0.2,6.0,automatic,tx,tx
