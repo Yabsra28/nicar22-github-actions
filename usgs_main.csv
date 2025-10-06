@@ -19708,3 +19708,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T10:36:30.730Z,33.4533333,-116.6278333,11.04,0.36,ml,26.0,45.0,0.04649,0.11,ci,ci41103551,2025-10-06T10:41:20.227Z,"12 km SSE of Anza, CA",earthquake,0.15,0.31,0.175,5.0,automatic,ci,ci
 2025-10-06T10:34:53.710Z,33.5375,-116.5531667,14.91,0.51,ml,32.0,48.0,0.05191,0.12,ci,ci41103543,2025-10-06T10:39:34.216Z,"11 km E of Anza, CA",earthquake,0.16,0.29,0.086,10.0,automatic,ci,ci
 2025-10-06T10:32:16.219Z,28.749,-98.49,9.6729,1.5,ml,6.0,132.0,0.0,0.4,tx,tx2025trcvlj,2025-10-06T10:35:55.305Z,"4 km S of Christine, Texas",earthquake,0.0,4.7675862312317,0.2,6.0,automatic,tx,tx
+2025-10-06T10:54:44.940Z,35.6795006,-117.5561676,2.14,1.06,ml,11.0,89.0,0.1088,0.05,ci,ci41103575,2025-10-06T10:56:54.316Z,"13 km ENE of Ridgecrest, CA",earthquake,0.34,0.86,0.175,5.0,automatic,ci,ci
+2025-10-06T10:54:00.140Z,33.3358333,-116.382,12.67,1.3,ml,68.0,32.0,0.0154,0.21,ci,ci41103567,2025-10-06T11:04:43.010Z,"9 km N of Borrego Springs, CA",earthquake,0.17,0.39,0.233,26.0,automatic,ci,ci
