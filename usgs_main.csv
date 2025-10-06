@@ -19746,3 +19746,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T09:36:46.530Z,41.874,-112.724,0.95,1.18,md,11.0,186.0,0.1017,0.09,uu,uu80118831,2025-10-06T13:50:11.740Z,"10 km S of Snowville, Utah",earthquake,0.48,31.61,0.26060171866278,9.0,reviewed,uu,uu
 2025-10-06T09:10:38.580Z,41.871333333333,-112.71883333333,2.7,1.27,md,16.0,183.0,0.1008,0.14,uu,uu80118826,2025-10-06T13:52:18.450Z,"10 km S of Snowville, Utah",earthquake,0.53,3.72,0.24557210767131,13.0,reviewed,uu,uu
 2025-10-06T06:47:12.350Z,44.565,-112.21666666667,6.05,0.78,ml,12.0,131.0,0.1301,0.09,mb,mb90115743,2025-10-06T13:51:45.290Z,"22 km N of Spencer, Idaho",earthquake,0.54,2.41,0.15435916842954,12.0,reviewed,mb,mb
+2025-10-06T14:17:29.198Z,60.9314,-149.6509,32.6,1.8,ml,,,,0.35,ak,ak025ctndlo7,2025-10-06T14:19:17.794Z,"1 km NNW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-06T14:12:35.049Z,66.9845,-154.2964,5.0,1.5,ml,,,,1.37,ak,ak025ctncjjk,2025-10-06T14:14:38.785Z,"84 km WNW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-06T13:54:00.493Z,28.776,-98.128,5.0,2.2,ml,6.0,130.0,0.1,0.4,tx,tx2025trjnln,2025-10-06T14:00:13.915Z,"18 km NW of Pawnee, Texas",earthquake,0.0,,0.5,6.0,automatic,tx,tx
+2025-10-05T21:36:41.119Z,35.33233333,-97.9305,8.97,0.78,ml,19.0,104.0,0.05938834598,0.15,ok,ok2025tntd,2025-10-06T14:18:51.816Z,"2 km NNE of Minco, Oklahoma",earthquake,,1.4,0.24,10.0,reviewed,ok,ok
