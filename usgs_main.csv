@@ -19770,3 +19770,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T15:22:38.633Z,30.818,-103.459,5.0,1.5,ml,10.0,239.0,0.3,0.8,tx,tx2025trmltn,2025-10-06T15:29:18.291Z,"32 km SE of Balmorhea, Texas",earthquake,0.0,,0.2,7.0,automatic,tx,tx
 2025-10-06T15:17:50.540Z,35.3501667,-117.7916667,6.16,1.08,ml,30.0,89.0,0.09369,0.18,ci,ci41103743,2025-10-06T15:21:13.193Z,"14 km W of Johannesburg, CA",earthquake,0.21,0.6,0.182,23.0,automatic,ci,ci
 2025-10-06T14:57:59.833Z,37.7601,144.2022,10.0,4.9,mb,108.0,125.0,3.883,0.93,us,us6000rf34,2025-10-06T15:24:09.040Z,"253 km ESE of Onagawa Chō, Japan",earthquake,8.46,1.867,0.038,218.0,reviewed,us,us
+2025-10-06T15:38:52.210Z,34.322,-116.858,6.67,1.98,ml,77.0,25.0,0.03623,0.14,ci,ci41103775,2025-10-06T15:42:35.323Z,"7 km N of Big Bear City, CA",earthquake,0.1,0.33,0.164,26.0,automatic,ci,ci
