@@ -19885,3 +19885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T22:38:55.161Z,28.734,-98.6,4.1537,1.8,ml,5.0,161.0,0.1,0.5,tx,tx2025tsaxpg,2025-10-06T22:40:45.525Z,"11 km WSW of Christine, Texas",earthquake,0.0,4.2965960502625,0.1,5.0,automatic,tx,tx
 2025-10-06T22:37:09.033Z,31.7,-104.495,5.0,0.7,ml,9.0,114.0,0.0,1.0,tx,tx2025tsawgk,2025-10-06T22:38:50.513Z,"53 km SSW of Whites City, New Mexico",earthquake,0.0,,0.7,7.0,automatic,tx,tx
 2025-10-06T22:34:44.150Z,17.936333333333,-66.8955,4.61,2.16,md,8.0,216.0,0.0415,0.05,pr,pr71497208,2025-10-06T22:43:02.220Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.63,0.19,0.11621878569461,5.0,reviewed,pr,pr
+2025-10-06T22:57:15.750Z,38.816501617432,-122.81716918945,1.9299999475479,1.05,md,16.0,74.0,0.01209,0.05,nc,nc75245766,2025-10-06T22:58:51.493Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.860000014,0.33,17.0,automatic,nc,nc
