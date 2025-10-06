@@ -19696,3 +19696,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T09:03:22.050Z,33.4613333,-116.5246667,10.54,0.46,ml,30.0,53.0,0.07285,0.14,ci,ci41103511,2025-10-06T09:06:47.562Z,"17 km SE of Anza, CA",earthquake,0.17,0.33,0.098,13.0,automatic,ci,ci
 2025-10-06T09:01:22.760Z,36.538833618164,-121.08016967773,5.3499999046326,1.14,md,9.0,62.0,0.05133,0.19,nc,nc75245466,2025-10-06T09:17:22.401Z,"6 km E of Pinnacles, CA",earthquake,0.62,2.58999991,0.16,8.0,automatic,nc,nc
 2025-10-06T08:54:27.694Z,28.751,-98.436,7.1091,1.6,ml,9.0,79.0,0.1,0.4,tx,tx2025tqzpgg,2025-10-06T09:00:10.556Z,"7 km SE of Christine, Texas",earthquake,0.0,3.6777372360229,0.1,6.0,automatic,tx,tx
+2025-10-06T09:26:43.752Z,61.8633,-149.9851,32.7,1.6,ml,,,,0.58,ak,ak025ctkge7r,2025-10-06T09:28:58.067Z,"13 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-06T09:24:49.564Z,38.4557,-116.5294,0.0,1.6,ml,9.0,225.89,1.037,0.2708,nn,nn00905489,2025-10-06T09:27:42.380Z,"74 km NE of Tonopah, Nevada",earthquake,,7.0,0.25,3.0,automatic,nn,nn
