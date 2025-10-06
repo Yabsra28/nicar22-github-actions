@@ -19750,3 +19750,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T14:12:35.049Z,66.9845,-154.2964,5.0,1.5,ml,,,,1.37,ak,ak025ctncjjk,2025-10-06T14:14:38.785Z,"84 km WNW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-06T13:54:00.493Z,28.776,-98.128,5.0,2.2,ml,6.0,130.0,0.1,0.4,tx,tx2025trjnln,2025-10-06T14:00:13.915Z,"18 km NW of Pawnee, Texas",earthquake,0.0,,0.5,6.0,automatic,tx,tx
 2025-10-05T21:36:41.119Z,35.33233333,-97.9305,8.97,0.78,ml,19.0,104.0,0.05938834598,0.15,ok,ok2025tntd,2025-10-06T14:18:51.816Z,"2 km NNE of Minco, Oklahoma",earthquake,,1.4,0.24,10.0,reviewed,ok,ok
+2025-10-06T14:38:54.730Z,33.6416667,-116.7486667,14.71,0.82,ml,24.0,83.0,0.0681,0.15,ci,ci41103711,2025-10-06T14:42:35.951Z,"11 km SSW of Idyllwild, CA",earthquake,0.23,0.46,0.305,23.0,automatic,ci,ci
+2025-10-05T21:12:43.039Z,34.40033333,-97.47216667,6.6,1.15,ml,16.0,119.0,0.03689276038,0.17,ok,ok2025tnsi,2025-10-06T14:29:18.669Z,"6 km SSE of Ratliff City, Oklahoma",earthquake,,0.6,0.14,8.0,reviewed,ok,ok
