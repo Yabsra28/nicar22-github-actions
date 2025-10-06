@@ -19752,3 +19752,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T21:36:41.119Z,35.33233333,-97.9305,8.97,0.78,ml,19.0,104.0,0.05938834598,0.15,ok,ok2025tntd,2025-10-06T14:18:51.816Z,"2 km NNE of Minco, Oklahoma",earthquake,,1.4,0.24,10.0,reviewed,ok,ok
 2025-10-06T14:38:54.730Z,33.6416667,-116.7486667,14.71,0.82,ml,24.0,83.0,0.0681,0.15,ci,ci41103711,2025-10-06T14:42:35.951Z,"11 km SSW of Idyllwild, CA",earthquake,0.23,0.46,0.305,23.0,automatic,ci,ci
 2025-10-05T21:12:43.039Z,34.40033333,-97.47216667,6.6,1.15,ml,16.0,119.0,0.03689276038,0.17,ok,ok2025tnsi,2025-10-06T14:29:18.669Z,"6 km SSE of Ratliff City, Oklahoma",earthquake,,0.6,0.14,8.0,reviewed,ok,ok
+2025-10-06T14:53:14.460Z,38.81916809082,-122.84133148193,2.1800000667572,1.04,md,16.0,103.0,0.006306,0.01,nc,nc75245566,2025-10-06T14:54:51.826Z,"9 km WNW of The Geysers, CA",earthquake,0.28,0.430000007,0.14,18.0,automatic,nc,nc
+2025-10-06T14:45:52.981Z,62.8016,-150.6181,79.1,1.9,ml,,,,0.46,ak,ak025ctnjnh9,2025-10-06T14:49:09.370Z,"34 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-06T14:43:48.731Z,60.7894,-147.3764,25.1,1.4,ml,,,,0.84,ak,ak025ctnj7sa,2025-10-06T14:46:07.268Z,"38 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-06T14:20:28.882Z,37.7685,144.044,29.711,4.8,mb,81.0,91.0,3.8,0.54,us,us6000rf2y,2025-10-06T14:50:20.040Z,"239 km ESE of Onagawa Chō, Japan",earthquake,8.7,5.33,0.048,135.0,reviewed,us,us
+2025-10-06T10:35:59.710Z,47.904,-122.85933333333,16.87,1.28,ml,32.0,72.0,0.09736,0.15,uw,uw62190147,2025-10-06T14:51:51.300Z,"9 km N of Quilcene, Washington",earthquake,0.24,0.55,0.14049161829047,25.0,reviewed,uw,uw
+2025-10-06T10:03:44.150Z,46.199833333333,-122.1825,6.46,-0.08,ml,8.0,97.0,0.03208,0.08,uw,uw62190142,2025-10-06T14:47:55.270Z,"38 km NNE of Amboy, Washington",earthquake,0.43,0.9,0.048195293665507,3.0,reviewed,uw,uw
+2025-10-06T05:09:50.673Z,29.077,-97.816,7.0175,1.3,ml,17.0,81.0,0.0,0.2,tx,tx2025tqsdrp,2025-10-06T14:49:51.956Z,"21 km SSW of Nixon, Texas",earthquake,0.52978257306178,0.64680927399773,0.2,8.0,reviewed,tx,tx
