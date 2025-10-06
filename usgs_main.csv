@@ -19715,3 +19715,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T10:13:59.165Z,43.9869,13.3497,10.0,4.9,mb,62.0,31.0,0.939,1.0,us,us6000rf24,2025-10-06T11:36:00.040Z,"29 km NE of Ponte Sasso, Italy",earthquake,4.51,1.901,0.048,136.0,reviewed,us,us
 2025-10-06T11:47:52.383Z,64.8134,-147.8371,14.4,2.4,ml,,,,0.68,ak,ak025ctlrs4m,2025-10-06T11:49:40.050Z,"2 km W of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-06T11:26:56.282Z,-22.3463,-179.554,599.741,4.4,mb,46.0,73.0,9.578,0.7,us,us6000rf2d,2025-10-06T11:49:48.040Z,south of the Fiji Islands,earthquake,13.74,8.996,0.081,44.0,reviewed,us,us
+2025-10-06T12:09:39.264Z,62.5126,-147.8919,49.6,1.4,ml,,,,1.17,ak,ak025ctm51ie,2025-10-06T12:12:01.871Z,"73 km WNW of Lake Louise, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-06T11:53:42.991Z,32.369,-102.175,4.8519,1.2,ml,26.0,75.0,0.0,0.6,tx,tx2025trfnln,2025-10-06T11:56:13.271Z,"34 km ENE of McKinney Acres, Texas",earthquake,0.0,0.99081033468246,0.3,9.0,automatic,tx,tx
+2025-10-06T11:51:09.450Z,34.3193333,-116.853,5.53,1.35,ml,54.0,47.0,0.03558,0.15,ci,ci41103599,2025-10-06T12:02:04.560Z,"6 km N of Big Bear City, CA",earthquake,0.12,0.31,0.222,28.0,automatic,ci,ci
+2025-10-06T11:35:06.770Z,18.777,-64.6875,20.03,3.43,md,15.0,233.0,0.3606,0.18,pr,pr71497138,2025-10-06T12:02:20.940Z,"50 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,0.92,16.32,0.070487078867486,9.0,reviewed,pr,pr
+2025-10-05T22:57:45.520Z,35.447666666667,-91.670333333333,7.01,2.14,md,11.0,186.0,0.1089,0.16,nm,nm60504253,2025-10-06T12:07:14.620Z,"12 km SSW of Pleasant Plains, Arkansas",earthquake,0.93,1.79,0.098363825859348,10.0,reviewed,nm,nm
