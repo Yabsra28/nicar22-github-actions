@@ -19685,3 +19685,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T07:51:03.930Z,38.788166046143,-122.75900268555,1.5499999523163,1.69,md,24.0,77.0,0.01809,0.05,nc,nc75245461,2025-10-06T07:52:42.034Z,"1 km N of The Geysers, CA",earthquake,0.24,0.419999987,0.11,28.0,automatic,nc,nc
 2025-10-06T07:42:54.266Z,61.8521,-148.8064,16.9,1.6,ml,,,,0.64,ak,ak025ctjcz9u,2025-10-06T07:44:53.461Z,"8 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-06T07:22:52.330Z,19.2483,-64.8136,68.0,3.6,md,9.0,267.0,0.8558,0.5,pr,pr2025279000,2025-10-06T07:47:26.740Z,"101 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,7.18,13.13,0.18,5.0,reviewed,pr,pr
+2025-10-06T08:11:18.350Z,46.214668273926,-122.17949676514,4.1500000953674,1.86000001,md,27.0,83.0,,0.0900000036,uw,uw62190127,2025-10-06T08:14:00.410Z,"38 km S of Morton, Washington",earthquake,0.33,0.349999994,1.85000002,2.0,automatic,uw,uw
+2025-10-06T08:10:50.520Z,35.912,-117.7386667,2.77,0.53,ml,19.0,102.0,0.0742,0.17,ci,ci41103487,2025-10-06T08:14:19.529Z,"15 km E of Little Lake, CA",earthquake,0.21,0.27,0.131,10.0,automatic,ci,ci
+2025-10-06T07:58:27.280Z,33.6636667,-116.7593333,14.0,0.63,ml,43.0,56.0,0.06399,0.16,ci,ci41103479,2025-10-06T08:01:58.172Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.32,0.267,18.0,automatic,ci,ci
