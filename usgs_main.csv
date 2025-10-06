@@ -19661,3 +19661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T05:10:54.530Z,38.823001861572,-122.82266998291,0.10999999940395,0.44,md,9.0,75.0,0.009656,0.02,nc,nc75245416,2025-10-06T05:12:31.646Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.879999995,0.32,10.0,automatic,nc,nc
 2025-10-06T05:09:27.960Z,33.161,-116.4256667,8.8,2.01,ml,93.0,21.0,0.08413,0.19,ci,ci41103407,2025-10-06T05:19:55.950Z,"12 km SSW of Borrego Springs, CA",earthquake,0.12,0.46,0.203,26.0,automatic,ci,ci
 2025-10-06T05:07:42.130Z,32.7643318,-115.4134979,13.17,1.6,ml,20.0,70.0,0.04957,0.32,ci,ci41103399,2025-10-06T05:09:52.088Z,"6 km SSW of Holtville, CA",earthquake,0.68,0.98,0.309,12.0,automatic,ci,ci
+2025-10-06T05:29:36.250Z,33.1658333,-116.4188333,9.27,0.64,ml,40.0,55.0,0.08978,0.2,ci,ci41103415,2025-10-06T05:33:04.091Z,"11 km SSW of Borrego Springs, CA",earthquake,0.2,0.64,0.069,9.0,automatic,ci,ci
+2025-10-06T05:10:03.456Z,13.3105,-44.6288,10.0,5.0,mb,44.0,188.0,11.353,0.79,us,us6000rf12,2025-10-06T05:29:42.040Z,northern Mid-Atlantic Ridge,earthquake,15.12,1.956,0.038,217.0,reviewed,us,us
