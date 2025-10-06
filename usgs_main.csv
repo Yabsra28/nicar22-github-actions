@@ -19816,3 +19816,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T18:35:21.480Z,33.4008333,-116.8043333,12.52,0.67,ml,21.0,61.0,0.06782,0.12,ci,ci41103927,2025-10-06T18:38:51.603Z,"7 km SE of Aguanga, CA",earthquake,0.21,0.51,0.106,14.0,automatic,ci,ci
 2025-10-06T18:25:05.232Z,37.8565,144.0981,10.0,4.7,mb,53.0,130.0,3.756,0.82,us,us6000rf5k,2025-10-06T18:44:09.040Z,"241 km ESE of Onagawa Chō, Japan",earthquake,9.57,1.91,0.068,66.0,reviewed,us,us
 2025-10-06T04:54:55.910Z,61.092833333333,-152.35883333333,1.97,0.05,ml,10.0,272.0,0.1035,0.09,av,av93807618,2025-10-06T18:45:54.550Z,"66 km W of Tyonek, Alaska",earthquake,0.52,0.34,0.10678203166842,10.0,reviewed,av,av
+2025-10-06T19:01:24.843Z,28.745,-98.423,4.4932,1.5,ml,11.0,78.0,0.1,0.5,tx,tx2025trtsga,2025-10-06T19:04:39.493Z,"8 km SE of Christine, Texas",earthquake,0.0,1.5370995998383,0.1,8.0,automatic,tx,tx
+2025-10-06T18:53:26.073Z,28.75,-98.478,8.8183,1.5,ml,10.0,98.0,0.0,0.5,tx,tx2025trtljo,2025-10-06T19:01:35.474Z,"4 km SSE of Christine, Texas",earthquake,0.0,2.8136692047119,0.2,7.0,automatic,tx,tx
+2025-10-06T18:49:53.840Z,35.8611679,-117.690834,8.86,1.19,ml,17.0,67.0,0.07985,0.12,ci,ci41103951,2025-10-06T18:53:15.873Z,"21 km ESE of Little Lake, CA",earthquake,0.47,0.97,0.217,10.0,automatic,ci,ci
+2025-10-06T06:04:36.412Z,42.2212,-120.4632,4.0,1.4,ml,5.0,168.53,0.079,0.0882,nn,nn00905504,2025-10-06T19:05:05.189Z,"10 km WNW of Lakeview, Oregon",earthquake,,2.3,0.21,3.0,reviewed,nn,nn
