@@ -19976,3 +19976,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T04:53:09.405Z,65.0529,-142.6924,2.8,1.8,ml,,,,0.95,ak,ak025cv56ad8,2025-10-07T04:55:22.747Z,"76 km WNW of Eagle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-07T04:51:50.263Z,61.4176,-147.2492,18.9,1.6,ml,,,,0.62,ak,ak025cv55y2l,2025-10-07T04:54:08.531Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-07T04:48:36.625Z,37.4386,-114.5013,9.6,1.3,ml,10.0,206.75,0.438,0.3172,nn,nn00905527,2025-10-07T04:51:17.382Z,"19 km S of Caliente, Nevada",earthquake,,0.8,0.9,6.0,automatic,nn,nn
+2025-10-07T05:19:03.540Z,33.7671667,-115.9161667,1.99,1.26,ml,46.0,46.0,0.09687,0.16,ci,ci41104311,2025-10-07T05:22:26.429Z,"25 km NE of Thermal, CA",earthquake,0.14,0.33,0.078,27.0,automatic,ci,ci
+2025-10-07T05:12:35.991Z,61.4341,-147.1985,22.1,1.5,ml,,,,0.75,ak,ak025cv5iznz,2025-10-07T05:14:28.119Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-07T04:58:02.170Z,31.733,-104.122,4.0314,1.6,ml,36.0,38.0,0.0,0.4,tx,tx2025tsnmjv,2025-10-07T05:05:25.492Z,"49 km W of Mentone, Texas",earthquake,0.0,0.8823744058609,0.2,25.0,automatic,tx,tx
+2025-10-07T04:55:50.842Z,10.1681,126.5212,50.647,4.9,mb,46.0,112.0,3.216,0.58,us,us6000rf9f,2025-10-07T05:09:26.040Z,"55 km ENE of Santa Monica, Philippines",earthquake,8.96,6.006,0.085,43.0,reviewed,us,us
+2025-10-07T02:40:06.381Z,31.664,-104.128,4.0393,1.5,mlv,27.0,48.0,0.0,0.5,tx,tx2025tsixnk,2025-10-07T05:13:36.932Z,"50 km NW of Toyah, Texas",earthquake,0.0,1.0144108533859,0.2,20.0,automatic,tx,tx
