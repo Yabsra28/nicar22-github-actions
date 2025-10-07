@@ -20044,3 +20044,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T10:02:09.870Z,33.767,-115.9175,2.31,0.83,ml,40.0,70.0,0.09715,0.16,ci,ci41104399,2025-10-07T10:05:33.538Z,"25 km NE of Thermal, CA",earthquake,0.17,0.33,0.144,15.0,automatic,ci,ci
 2025-10-07T10:01:09.662Z,29.009,-97.847,5.1775,2.3,ml,5.0,139.0,0.1,0.5,tx,tx2025tsxnmz,2025-10-07T10:03:15.654Z,"14 km NNE of Karnes City, Texas",earthquake,0.0,5.0362772941589,0.3,5.0,automatic,tx,tx
 2025-10-07T09:54:54.860Z,34.0546667,-117.2376667,13.66,1.12,ml,70.0,20.0,0.06299,0.17,ci,ci41104391,2025-10-07T09:58:41.072Z,"2 km ENE of Loma Linda, CA",earthquake,0.14,0.35,0.202,30.0,automatic,ci,ci
+2025-10-07T10:35:10.071Z,59.2193,-153.646,105.2,1.8,ml,,,,0.57,ak,ak025cv8n15r,2025-10-07T10:37:24.576Z,"61 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-07T10:22:31.530Z,35.8635,-117.6875,8.44,0.33,ml,11.0,150.0,0.08728,0.06,ci,ci41104431,2025-10-07T10:26:05.227Z,"21 km ESE of Little Lake, CA",earthquake,0.47,0.82,0.054,5.0,automatic,ci,ci
