@@ -20099,3 +20099,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T14:20:34.730Z,17.8805,-66.851166666667,13.75,2.48,md,9.0,208.0,0.09284,0.18,pr,pr71497388,2025-10-07T14:34:28.870Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.97,0.46,0.15914383435896,5.0,reviewed,pr,pr
 2025-10-07T12:35:25.638Z,32.189,-100.994,7.2998,1.8,ml,28.0,55.0,0.3,0.2,tx,tx2025ttcqno,2025-10-07T14:31:30.286Z,"18 km S of Westbrook, Texas",earthquake,0.76362961916984,2.2226951670954,0.2,11.0,reviewed,tx,tx
 2025-10-07T08:24:12.687Z,28.755,-98.45,8.0473,1.3,ml,11.0,74.0,0.1,0.1,tx,tx2025tsuibm,2025-10-07T14:39:43.342Z,"5 km SE of Christine, Texas",earthquake,0.80383373122424,0.95196963820739,0.0,7.0,reviewed,tx,tx
+2025-10-06T17:30:23.685Z,28.76,-98.451,8.8153,1.3,ml,10.0,75.0,0.1,0.1,tx,tx2025trqruk,2025-10-07T14:48:12.386Z,"5 km SE of Christine, Texas",earthquake,0.70337258851229,0.93488841107585,0.1,6.0,reviewed,tx,tx
