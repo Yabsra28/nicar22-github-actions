@@ -20032,3 +20032,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T09:28:19.271Z,38.3572,-116.7046,3.9,1.7,ml,14.0,166.26,0.965,0.1779,nn,nn00905555,2025-10-07T09:31:19.828Z,"56 km NE of Tonopah, Nevada",earthquake,,1.5,0.2,9.0,automatic,nn,nn
 2025-10-07T09:18:23.500Z,33.7655,-115.9168333,2.38,1.09,ml,41.0,45.0,0.09555,0.17,ci,ci41104375,2025-10-07T09:28:43.890Z,"25 km NE of Thermal, CA",earthquake,0.16,0.34,0.111,26.0,automatic,ci,ci
 2025-10-07T09:01:50.198Z,38.4442,-116.4899,5.9,3.0,ml,8.0,113.03,0.5,0.1503,nn,nn00905541,2025-10-07T09:27:36.405Z,"77 km ENE of Tonopah, Nevada",earthquake,,4.8,0.18,4.0,reviewed,nn,nn
+2025-10-07T09:42:01.690Z,33.1638333,-116.4216667,9.34,1.17,ml,68.0,28.0,0.1042,0.19,ci,ci41104383,2025-10-07T09:46:37.939Z,"11 km SSW of Borrego Springs, CA",earthquake,0.14,0.48,0.184,27.0,automatic,ci,ci
+2025-10-07T09:41:04.290Z,19.46866607666,-155.40249633789,4.7399997711182,2.13,ml,15.0,73.0,0.02891,0.230000004,hv,hv74796102,2025-10-07T09:44:03.650Z,"17 km W of Volcano, Hawaii",earthquake,0.48,1.07000005,0.15,6.0,automatic,hv,hv
