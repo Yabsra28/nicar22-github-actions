@@ -20093,3 +20093,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T23:44:45.817Z,28.759,-98.453,8.8984,1.3,ml,13.0,75.0,0.1,0.1,tx,tx2025tsdcle,2025-10-07T13:36:13.886Z,"5 km SE of Christine, Texas",earthquake,0.66968401450496,0.92954718534211,0.2,10.0,reviewed,tx,tx
 2025-10-06T23:25:34.294Z,28.757,-98.455,8.6688,1.3,ml,12.0,76.0,0.1,0.1,tx,tx2025tsclwy,2025-10-07T13:42:22.941Z,"5 km SE of Christine, Texas",earthquake,0.88336771732097,0.84378189906344,0.2,8.0,reviewed,tx,tx
 2025-10-07T04:22:30.974Z,36.6397,-116.1064,5.0,-0.4,ml,11.0,231.04,0.057,0.0557,nn,nn00905582,2025-10-07T13:53:59.155Z,"39 km W of Indian Springs, Nevada",earthquake,,4.1,0.07,2.0,reviewed,nn,nn
+2025-10-07T14:13:47.300Z,38.821998596191,-122.81199645996,3.0099999904633,1.08,md,18.0,48.0,0.01803,0.02,nc,nc75246091,2025-10-07T14:15:21.093Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.579999983,0.12,20.0,automatic,nc,nc
