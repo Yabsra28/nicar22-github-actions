@@ -20175,3 +20175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T18:49:50.680Z,36.13,-117.9598333,7.64,0.83,ml,22.0,48.0,0.02059,0.18,ci,ci41104767,2025-10-07T18:53:16.777Z,"10 km N of Coso Junction, CA",earthquake,0.3,0.68,0.209,14.0,automatic,ci,ci
 2025-10-07T18:39:07.440Z,44.828833333333,-110.40833333333,10.47,1.17,ml,13.0,106.0,0.08457,0.21,uu,uu80118921,2025-10-07T18:57:33.620Z,"28 km SE of Mammoth, Wyoming",earthquake,0.58,1.4,0.4462110689287,4.0,reviewed,uu,uu
 2025-10-07T17:59:56.559Z,28.754,-98.459,10.5049,2.1,ml,9.0,77.0,0.0,0.2,tx,tx2025ttnkeo,2025-10-07T19:01:06.775Z,"5 km SE of Christine, Texas",earthquake,0.0,6.4806780815125,0.1,9.0,automatic,tx,tx
+2025-10-07T19:12:49.060Z,33.1691667,-116.4181667,9.69,0.91,ml,38.0,55.0,0.09315,0.2,ci,ci41104783,2025-10-07T19:17:02.919Z,"10 km SSW of Borrego Springs, CA",earthquake,0.19,0.55,0.124,19.0,automatic,ci,ci
