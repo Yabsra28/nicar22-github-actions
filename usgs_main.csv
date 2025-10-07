@@ -20192,3 +20192,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T20:01:51.514Z,60.2227,-152.9711,118.6,2.0,ml,,,,0.64,ak,ak025cvee634,2025-10-07T20:19:10.185Z,"74 km E of Port Alsworth, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-10-07T20:01:31.730Z,33.2661667,-116.4188333,4.57,0.87,ml,40.0,74.0,0.002465,0.19,ci,ci41104815,2025-10-07T20:04:58.311Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.32,0.066,19.0,automatic,ci,ci
 2025-10-07T19:39:04.650Z,44.737833333333,-111.115,9.29,0.4,md,11.0,97.0,0.0593,0.16,uu,uu80118941,2025-10-07T20:06:11.190Z,"6 km ESE of Hebgen Lake Estates, Montana",earthquake,0.46,1.22,0.24591142688636,7.0,reviewed,uu,uu
+2025-10-07T20:38:04.520Z,48.494998931885,-123.66233062744,31.709999084473,1.5073165893555,ml,16.0,70.0,,0.150000006,uw,uw62190592,2025-10-07T20:40:39.230Z,"12 km WNW of Langford, Canada",earthquake,0.63,2.18000007,0.220434486866,10.0,automatic,uw,uw
+2025-10-07T20:36:19.818Z,64.9483,-147.9886,10.1,1.4,ml,,,,1.01,ak,ak025cvellrn,2025-10-07T20:39:44.286Z,"11 km N of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
