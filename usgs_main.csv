@@ -20152,3 +20152,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T17:34:20.749Z,38.4249,-116.5055,4.0,1.9,ml,11.0,172.28,1.257,0.3528,nn,nn00905587,2025-10-07T17:37:12.989Z,"74 km ENE of Tonopah, Nevada",earthquake,,2.7,0.2,8.0,automatic,nn,nn
 2025-10-07T17:27:29.000Z,38.796165466309,-122.77416992188,3.079999923706,1.29,md,27.0,74.0,0.01115,0.02,nc,nc75246181,2025-10-07T17:29:06.595Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.12,27.0,automatic,nc,nc
 2025-10-07T17:38:33.242Z,39.2301,-119.6977,0.0,1.2,ml,13.0,68.62,0.075,0.251,nn,nn00905588,2025-10-07T17:40:34.014Z,"9 km W of Dayton, Nevada",earthquake,,3.0,0.28,9.0,automatic,nn,nn
+2025-10-07T17:53:28.871Z,60.4235,-152.5482,90.1,1.7,ml,,,,0.73,ak,ak025cvcwyqf,2025-10-07T17:56:05.093Z,"64 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-10-07T17:50:36.113Z,28.754,-98.47,11.1056,1.5,ml,8.0,117.0,0.0,0.2,tx,tx2025ttnccx,2025-10-07T17:52:58.949Z,"4 km SE of Christine, Texas",earthquake,0.0,6.9748826026917,0.1,7.0,automatic,tx,tx
+2025-10-07T03:50:20.210Z,33.1501667,-116.6916667,17.26,0.45,ml,26.0,43.0,0.06142,0.17,ci,ci37745620,2025-10-07T17:54:12.353Z,"12 km NW of Julian, CA",earthquake,0.25,0.59,0.212,16.0,reviewed,ci,ci
