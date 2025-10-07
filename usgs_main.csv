@@ -20025,3 +20025,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T08:45:29.018Z,28.738,-98.509,6.6145,1.5,ml,10.0,132.0,0.1,0.4,tx,tx2025tsvaij,2025-10-07T08:49:33.573Z,"5 km SSW of Christine, Texas",earthquake,0.0,6.3620767593384,0.2,7.0,automatic,tx,tx
 2025-10-07T08:44:02.191Z,38.1702,-117.9338,2.0,1.8,ml,19.0,112.55,0.456,0.3297,nn,nn00905539,2025-10-07T08:48:40.785Z,"28 km SSE of Mina, Nevada",earthquake,,1.9,0.27,9.0,automatic,nn,nn
 2025-10-07T07:50:57.290Z,20.040833333333,-155.80583333333,22.56,2.08,ml,28.0,186.0,0.0882,0.12,hv,hv74796002,2025-10-07T08:44:19.750Z,"8 km NNE of Puako, Hawaii",earthquake,0.55,0.85,0.10861565331241,12.0,reviewed,hv,hv
+2025-10-07T09:16:33.063Z,29.036,-97.863,6.9929,1.7,ml,9.0,75.0,0.1,0.5,tx,tx2025tswbae,2025-10-07T09:18:28.796Z,"16 km ENE of Falls City, Texas",earthquake,0.0,3.7216725349426,0.2,7.0,automatic,tx,tx
+2025-10-07T09:14:38.633Z,38.4884,-116.454,4.8,3.9,ml,35.0,48.55,1.078,0.3445,nn,nn00905548,2025-10-07T09:18:05.098Z,"82 km NE of Tonopah, Nevada",earthquake,,0.7,0.25,23.0,reviewed,nn,nn
+2025-10-07T09:01:08.740Z,38.786499023438,-122.74600219727,1.7200000286102,0.45,md,7.0,120.0,0.007949,0.01,nc,nc75245971,2025-10-07T09:17:19.788Z,"1 km NE of The Geysers, CA",earthquake,0.35,0.680000007,0.24,8.0,automatic,nc,nc
+2025-10-07T08:56:37.381Z,63.4492,-147.5284,0.0,1.7,ml,,,,0.64,ak,ak025cv7kq3e,2025-10-07T08:58:27.128Z,"71 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
