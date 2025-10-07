@@ -19981,3 +19981,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T04:58:02.170Z,31.733,-104.122,4.0314,1.6,ml,36.0,38.0,0.0,0.4,tx,tx2025tsnmjv,2025-10-07T05:05:25.492Z,"49 km W of Mentone, Texas",earthquake,0.0,0.8823744058609,0.2,25.0,automatic,tx,tx
 2025-10-07T04:55:50.842Z,10.1681,126.5212,50.647,4.9,mb,46.0,112.0,3.216,0.58,us,us6000rf9f,2025-10-07T05:09:26.040Z,"55 km ENE of Santa Monica, Philippines",earthquake,8.96,6.006,0.085,43.0,reviewed,us,us
 2025-10-07T02:40:06.381Z,31.664,-104.128,4.0393,1.5,mlv,27.0,48.0,0.0,0.5,tx,tx2025tsixnk,2025-10-07T05:13:36.932Z,"50 km NW of Toyah, Texas",earthquake,0.0,1.0144108533859,0.2,20.0,automatic,tx,tx
+2025-10-07T05:37:27.650Z,40.232666015625,-124.12433624268,12.529999732971,1.99,md,25.0,68.0,0.0144,0.13,nc,nc75245901,2025-10-07T05:39:04.736Z,"17 km SE of Petrolia, CA",earthquake,0.34,0.649999976,0.16,18.0,automatic,nc,nc
+2025-10-07T05:31:46.356Z,37.4871,-116.6019,0.0,0.6,ml,9.0,325.15,0.351,0.5199,nn,nn00905532,2025-10-07T05:34:07.073Z,"61 km ESE of Goldfield, Nevada",earthquake,,45.0,0.4,5.0,automatic,nn,nn
+2025-10-07T05:25:56.490Z,37.3721,-116.5638,0.0,0.4,ml,11.0,233.96,0.314,0.3496,nn,nn00905529,2025-10-07T05:28:07.625Z,"54 km NNE of Beatty, Nevada",earthquake,,50.8,0.45,8.0,automatic,nn,nn
+2025-10-07T05:25:42.750Z,35.56,-118.4168333,2.83,1.1,ml,26.0,67.0,0.1126,0.13,ci,ci41104319,2025-10-07T05:29:04.015Z,"8 km ESE of Bodfish, CA",earthquake,0.16,0.74,0.153,18.0,automatic,ci,ci
+2025-10-07T05:19:09.988Z,17.8089,-66.8701,22.925,3.7,ml,19.0,102.0,0.23,0.84,us,us6000rf9n,2025-10-07T05:33:48.040Z,"18 km SSE of Guánica, Puerto Rico",earthquake,2.63,4.472,0.059,38.0,reviewed,us,us
+2025-10-07T04:18:28.010Z,45.378666666667,-121.69733333333,-1.39,0.38,ml,5.0,121.0,0.02091,0.14,uw,uw62190372,2025-10-07T05:34:33.610Z,"9 km NNE of Government Camp, Oregon",earthquake,0.7,0.69,0.038808162171518,3.0,reviewed,uw,uw
