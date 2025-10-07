@@ -20242,3 +20242,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T23:34:25.711Z,31.636,-104.475,3.9068,2.5,ml,25.0,104.0,0.0,0.3,tx,tx2025ttymkj,2025-10-07T23:38:26.987Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.3276309967041,0.2,18.0,automatic,tx,tx
 2025-10-07T22:30:26.008Z,35.4764,-115.5363,5.0,2.5,ml,17.0,88.0,0.016,0.23,us,us6000rfhi,2025-10-07T23:40:44.040Z,"38 km SSE of Sandy Valley, Nevada",earthquake,1.63,1.232,0.034,116.0,reviewed,us,us
 2025-10-07T11:01:42.090Z,61.331666666667,-152.23733333333,0.25,-0.68,ml,7.0,191.0,0.0773,0.04,av,av93809498,2025-10-07T23:33:37.390Z,"65 km WNW of Beluga, Alaska",earthquake,0.33,2.03,0.12908057341497,7.0,reviewed,av,av
+2025-10-07T23:50:08.144Z,28.747,-98.481,7.152,1.7,ml,13.0,87.0,0.0,0.4,tx,tx2025ttyzxw,2025-10-07T23:53:39.189Z,"4 km SSE of Christine, Texas",earthquake,0.0,2.4960908889771,0.2,9.0,automatic,tx,tx
+2025-10-07T23:48:57.823Z,28.741,-98.431,5.255,1.4,ml,12.0,66.0,0.1,0.5,tx,tx2025ttyyxq,2025-10-07T23:51:47.172Z,"8 km SE of Christine, Texas",earthquake,0.0,2.2311761379242,0.2,8.0,automatic,tx,tx
+2025-10-07T23:46:48.352Z,56.3496,-156.5842,36.7,3.1,ml,,,,0.45,ak,ak025cvgg3qw,2025-10-07T23:49:58.965Z,"112 km E of Chignik, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2025-10-07T23:44:31.711Z,31.657,-104.35,4.0679,1.9,ml,33.0,70.0,0.1,0.2,tx,tx2025ttyuzz,2025-10-07T23:49:54.663Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.0403025150299,0.1,21.0,automatic,tx,tx
+2025-10-07T23:44:23.430Z,32.809,-117.597,11.18,1.74,ml,29.0,168.0,0.3833,0.23,ci,ci41104943,2025-10-07T23:47:53.550Z,"30 km W of La Jolla, CA",earthquake,0.49,1.05,0.151,29.0,automatic,ci,ci
