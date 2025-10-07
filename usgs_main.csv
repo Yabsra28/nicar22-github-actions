@@ -20238,3 +20238,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T21:19:11.130Z,49.381166666667,-120.4955,-0.37,2.04,ml,23.0,184.0,0.572,0.53,uw,uw62190642,2025-10-07T22:58:34.730Z,"8 km S of Princeton, Canada",explosion,2.58,31.61,0.13631799363024,16.0,reviewed,uw,uw
 2025-10-07T20:45:58.240Z,46.546,-111.98166666667,-2.0,1.26,ml,9.0,95.0,0.06651,0.11,mb,mb90115888,2025-10-07T23:11:38.180Z,"1 km SE of South Hills, Montana",quarry blast,0.52,31.61,0.34219507857302,5.0,reviewed,mb,mb
 2025-10-07T10:54:56.420Z,61.327666666667,-152.2435,-0.98,0.11,ml,10.0,127.0,0.07551,0.08,av,av93050619,2025-10-07T23:27:24.610Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,4.47,0.17965795983554,11.0,reviewed,av,av
+2025-10-07T23:37:51.717Z,62.2832,-149.2804,18.6,1.4,ml,,,,0.39,ak,ak025cvge6nn,2025-10-07T23:40:12.807Z,"32 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-07T23:34:25.711Z,31.636,-104.475,3.9068,2.5,ml,25.0,104.0,0.0,0.3,tx,tx2025ttymkj,2025-10-07T23:38:26.987Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.3276309967041,0.2,18.0,automatic,tx,tx
+2025-10-07T22:30:26.008Z,35.4764,-115.5363,5.0,2.5,ml,17.0,88.0,0.016,0.23,us,us6000rfhi,2025-10-07T23:40:44.040Z,"38 km SSE of Sandy Valley, Nevada",earthquake,1.63,1.232,0.034,116.0,reviewed,us,us
+2025-10-07T11:01:42.090Z,61.331666666667,-152.23733333333,0.25,-0.68,ml,7.0,191.0,0.0773,0.04,av,av93809498,2025-10-07T23:33:37.390Z,"65 km WNW of Beluga, Alaska",earthquake,0.33,2.03,0.12908057341497,7.0,reviewed,av,av
