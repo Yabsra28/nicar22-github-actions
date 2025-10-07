@@ -20059,3 +20059,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T21:51:58.764Z,32.185,-101.193,6.4209,1.0,ml,12.0,64.0,0.1,0.2,tx,tx2025trzjer,2025-10-07T11:13:23.707Z,"16 km SE of Coahoma, Texas",earthquake,1.0512663957427,2.4216938527391,0.2,6.0,reviewed,tx,tx
 2025-10-07T11:32:48.670Z,35.3135,-118.5551667,5.26,1.76,ml,41.0,34.0,0.1121,0.16,ci,ci41104471,2025-10-07T11:36:19.376Z,"22 km NNW of Tehachapi, CA",earthquake,0.15,0.5,0.162,26.0,automatic,ci,ci
 2025-10-07T11:30:58.350Z,38.818832397461,-122.84066772461,2.5699999332428,2.01,md,40.0,56.0,0.006139,0.06,nc,nc75246026,2025-10-07T11:34:06.630Z,"9 km WNW of The Geysers, CA",earthquake,0.18,0.300000012,0.17,41.0,automatic,nc,nc
+2025-10-07T11:40:06.498Z,28.736,-98.465,7.8332,2.4,ml,8.0,121.0,0.1,0.3,tx,tx2025ttauqf,2025-10-07T11:43:23.499Z,"6 km SSE of Christine, Texas",earthquake,0.0,6.587290763855,0.2,6.0,automatic,tx,tx
