@@ -19988,3 +19988,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T05:19:09.988Z,17.8089,-66.8701,22.925,3.7,ml,19.0,102.0,0.23,0.84,us,us6000rf9n,2025-10-07T05:33:48.040Z,"18 km SSE of Guánica, Puerto Rico",earthquake,2.63,4.472,0.059,38.0,reviewed,us,us
 2025-10-07T04:18:28.010Z,45.378666666667,-121.69733333333,-1.39,0.38,ml,5.0,121.0,0.02091,0.14,uw,uw62190372,2025-10-07T05:34:33.610Z,"9 km NNE of Government Camp, Oregon",earthquake,0.7,0.69,0.038808162171518,3.0,reviewed,uw,uw
 2025-10-07T05:44:09.189Z,37.4003,-116.5621,0.0,0.5,ml,9.0,236.64,0.342,0.4367,nn,nn00905533,2025-10-07T05:46:37.242Z,"57 km NNE of Beatty, Nevada",earthquake,,52.8,0.67,6.0,automatic,nn,nn
+2025-10-07T05:19:11.230Z,17.8256,-66.8645,7.0,3.57,md,27.0,229.0,0.1502,0.18,pr,pr2025280002,2025-10-07T06:05:55.253Z,"16 km SSE of Guánica, Puerto Rico",earthquake,0.61,0.46,0.11,20.0,reviewed,pr,pr
