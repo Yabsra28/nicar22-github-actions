@@ -20230,3 +20230,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T22:48:21.700Z,58.22,-150.7654,37.4,3.3,ml,,,,0.58,ak,ak025cvfv0jx,2025-10-07T22:51:55.187Z,"107 km ENE of Ouzinkie, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2025-10-07T22:48:08.944Z,61.0223,-148.4758,10.5,1.4,ml,,,,1.58,ak,ak025cvfv0lw,2025-10-07T22:50:57.074Z,"29 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-07T22:44:46.720Z,33.74,-117.5316667,4.04,0.87,ml,25.0,50.0,0.08485,0.19,ci,ci41104911,2025-10-07T22:48:09.340Z,"10 km NNE of Trabuco Canyon, CA",earthquake,0.24,0.66,0.214,21.0,automatic,ci,ci
+2025-10-07T23:11:33.071Z,31.656,-104.355,3.8288,2.7,ml,40.0,70.0,0.1,0.4,tx,tx2025ttxsrs,2025-10-07T23:17:31.218Z,"57 km S of Whites City, New Mexico",earthquake,0.0,0.93815422058105,0.2,27.0,automatic,tx,tx
+2025-10-07T23:06:53.750Z,38.78099822998,-122.77066802978,12.229999542236,0.81,md,8.0,112.0,0.01096,0.05,nc,nc75246341,2025-10-07T23:08:33.079Z,"1 km WNW of The Geysers, CA",earthquake,1.18,0.579999983,0.06,7.0,automatic,nc,nc
+2025-10-07T23:06:10.490Z,38.786334991455,-122.75550079346,2.4300000667572,1.73,md,33.0,42.0,0.015,0.06,nc,nc75246336,2025-10-07T23:09:17.280Z,"1 km N of The Geysers, CA",earthquake,0.23,0.409999996,0.13,32.0,automatic,nc,nc
+2025-10-07T23:05:55.609Z,64.9377,-147.3023,0.1,1.2,ml,,,,1.21,ak,ak025cvg7c20,2025-10-07T23:08:00.585Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-07T22:36:22.098Z,-15.6589,168.0918,35.0,5.7,mww,97.0,22.0,6.063,1.05,us,us6000rfhk,2025-10-07T23:09:10.004Z,"86 km ENE of Norsup, Vanuatu",earthquake,7.38,1.681,0.052,36.0,reviewed,us,us
+2025-10-07T21:19:11.130Z,49.381166666667,-120.4955,-0.37,2.04,ml,23.0,184.0,0.572,0.53,uw,uw62190642,2025-10-07T22:58:34.730Z,"8 km S of Princeton, Canada",explosion,2.58,31.61,0.13631799363024,16.0,reviewed,uw,uw
+2025-10-07T20:45:58.240Z,46.546,-111.98166666667,-2.0,1.26,ml,9.0,95.0,0.06651,0.11,mb,mb90115888,2025-10-07T23:11:38.180Z,"1 km SE of South Hills, Montana",quarry blast,0.52,31.61,0.34219507857302,5.0,reviewed,mb,mb
