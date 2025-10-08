@@ -20485,3 +20485,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T21:21:19.230Z,33.2878333,-116.8365,13.74,0.78,ml,31.0,28.0,0.06916,0.18,ci,ci41105399,2025-10-08T21:25:24.435Z,"8 km SSE of Palomar Observatory, CA",earthquake,0.23,0.6,0.112,21.0,automatic,ci,ci
 2025-10-08T21:21:18.839Z,64.9482,-147.9886,10.1,1.5,ml,,,,1.06,ak,ak025cx2n61a,2025-10-08T21:23:33.764Z,"11 km N of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-08T04:04:29.280Z,19.196166666667,-155.44416666667,6.86,1.01,md,13.0,151.0,0.04394,0.09,hv,hv74797527,2025-10-08T21:17:03.900Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.35,0.79,0.026161211444365,4.0,reviewed,hv,hv
+2025-10-08T21:44:56.900Z,34.2683333,-117.1825,2.47,1.93,ml,79.0,29.0,0.05625,0.17,ci,ci41105415,2025-10-08T21:48:34.575Z,"2 km NNE of Lake Arrowhead, CA",earthquake,0.12,0.24,0.137,26.0,automatic,ci,ci
