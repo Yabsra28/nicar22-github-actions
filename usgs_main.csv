@@ -20477,3 +20477,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T19:26:43.833Z,53.1995,159.7713,65.314,4.6,mb,35.0,177.0,0.699,0.61,us,us6000rfp5,2025-10-08T20:41:48.040Z,"78 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.69,9.116,0.095,33.0,reviewed,us,us
 2025-10-08T20:43:10.620Z,60.0375,-152.7597,107.8,2.2,ml,,,,0.39,ak,ak025cx26fig,2025-10-08T20:46:46.294Z,"58 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-08T19:38:50.708Z,51.5537,-175.2508,35.0,4.5,mb,58.0,156.0,0.738,1.05,us,us6000rfp7,2025-10-08T20:50:38.040Z,"101 km SW of Atka, Alaska",earthquake,7.42,1.944,0.058,88.0,reviewed,us,us
+2025-10-08T21:10:47.221Z,36.1943,-115.2636,8.7,1.6,ml,12.0,244.98,0.322,0.3286,nn,nn00905671,2025-10-08T21:13:23.873Z,"9 km N of Spring Valley, Nevada",earthquake,,1.5,0.34,11.0,automatic,nn,nn
+2025-10-08T21:09:50.602Z,62.0071,-151.4179,83.2,1.8,ml,,,,0.72,ak,ak025cx2kntg,2025-10-08T21:13:05.718Z,"2 km NNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-10-08T20:36:48.220Z,44.7905,-110.843,4.82,1.66,ml,18.0,105.0,0.005764,0.18,uu,uu80119011,2025-10-08T20:57:34.010Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.42,0.24296517171029,5.0,reviewed,uu,uu
+2025-10-08T07:14:45.420Z,60.023666666667,-153.048,-0.96,-0.54,ml,5.0,129.0,0.01656,0.13,av,av93810578,2025-10-08T21:15:49.230Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.39,4.88,0.22940235686586,5.0,reviewed,av,av
