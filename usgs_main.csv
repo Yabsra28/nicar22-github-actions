@@ -20331,3 +20331,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T07:33:55.305Z,59.5022,-152.8152,93.1,3.7,ml,,,,0.61,ak,ak025cwudqus,2025-10-08T07:39:52.451Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-08T07:02:09.970Z,19.0576,-64.7945,21.0,3.49,md,17.0,256.0,0.6662,0.35,pr,pr2025281001,2025-10-08T07:39:06.266Z,"80 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.56,28.56,0.25,10.0,reviewed,pr,pr
 2025-10-08T06:53:59.550Z,19.055333333333,-64.748333333333,24.82,3.41,md,18.0,257.0,0.6433,0.25,pr,pr71497478,2025-10-08T07:35:44.770Z,"80 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.64,17.13,0.066877523951171,5.0,reviewed,pr,pr
+2025-10-08T07:48:34.890Z,40.333332061768,-111.34149932861,-2.460000038147,2.76,ml,61.0,50.0,0.1026,0.379999995,uu,uu80118976,2025-10-08T07:52:01.580Z,"7 km WNW of Independence, Utah",earthquake,0.4,5.67999983,0.22,35.0,automatic,uu,uu
+2025-10-08T07:45:27.694Z,63.8393,-149.065,3.2,1.5,ml,,,,0.48,ak,ak025cwug9cx,2025-10-08T07:47:45.087Z,"5 km WSW of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
