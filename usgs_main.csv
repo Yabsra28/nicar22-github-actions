@@ -20423,3 +20423,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T15:19:42.357Z,60.5093,-150.8211,30.1,1.8,ml,,,,0.51,ak,ak025cwz26pn,2025-10-08T15:21:37.504Z,"3 km WNW of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-08T15:15:39.758Z,62.1655,-150.5168,0.1,1.8,ml,,,,0.86,ak,ak025cwz1bng,2025-10-08T15:18:40.719Z,"22 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-08T10:52:34.836Z,32.01,-102.1,8.2275,0.7,ml,18.0,63.0,0.0,0.1,tx,tx2025tuuyrv,2025-10-08T14:58:08.599Z,"2 km NW of Midland, Texas",earthquake,0.70386181640965,1.6838455807619,0.1,7.0,reviewed,tx,tx
+2025-10-08T15:30:23.130Z,40.388168334961,-121.97733306885,6.3200001716614,2.41,md,24.0,115.0,0.1804,0.2,nc,nc75246596,2025-10-08T15:33:14.346Z,"10 km WSW of Manton, CA",earthquake,0.52,2.1099999,0.12,19.0,automatic,nc,nc
