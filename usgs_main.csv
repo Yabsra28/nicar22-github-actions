@@ -20309,3 +20309,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T00:54:08.299Z,53.3959,160.8766,35.04,4.7,mb,46.0,116.0,1.39,0.5,us,us6000rfih,2025-10-08T05:16:21.040Z,"154 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.5,8.228,0.083,44.0,reviewed,us,us
 2025-10-08T05:33:39.690Z,33.209,-116.7278333,10.91,0.43,ml,29.0,35.0,0.03736,0.18,ci,ci41105007,2025-10-08T05:37:27.726Z,"5 km SE of Lake Henshaw, CA",earthquake,0.23,0.44,0.107,5.0,automatic,ci,ci
 2025-10-08T05:20:54.560Z,46.193666666667,-122.16933333333,7.28,0.5,ml,16.0,71.0,0.01299,0.14,uw,uw62190797,2025-10-08T05:37:10.680Z,"38 km NE of Amboy, Washington",earthquake,0.34,0.34,0.14157666542227,8.0,reviewed,uw,uw
+2025-10-08T05:44:48.878Z,60.4827,-150.9132,54.6,1.5,ml,,,,0.91,ak,ak025cwt982f,2025-10-08T05:46:37.323Z,"7 km E of Soldotna, Alaska",earthquake,,0.9,,,automatic,ak,ak
