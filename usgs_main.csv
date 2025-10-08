@@ -20289,3 +20289,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T03:41:25.848Z,63.0292,-150.8884,119.1,2.4,ml,,,,0.56,ak,ak025cws1nue,2025-10-08T03:45:43.072Z,"59 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-08T03:33:52.437Z,23.4528,122.0801,19.281,4.4,mwr,45.0,84.0,0.722,0.77,us,us6000rfiv,2025-10-08T03:50:22.040Z,"75 km SE of Hualien City, Taiwan",earthquake,4.1,4.476,0.06,27.0,reviewed,us,us
 2025-10-07T23:23:23.121Z,52.4461,158.9869,69.942,4.5,mb,36.0,148.0,0.613,0.74,us,us6000rfhx,2025-10-08T03:44:38.040Z,"66 km SE of Vilyuchinsk, Russia",earthquake,5.08,7.354,0.1,29.0,reviewed,us,us
+2025-10-08T04:16:22.568Z,32.515,-101.256,3.2886,1.2,ml,15.0,78.0,0.0,0.3,tx,tx2025tuhvje,2025-10-08T04:18:59.290Z,"24 km N of Coahoma, Texas",earthquake,0.0,1.2628855705261,0.2,6.0,automatic,tx,tx
+2025-10-08T04:14:53.857Z,60.587,-147.5708,15.8,2.5,ml,,,,0.67,ak,ak025cwshdd8,2025-10-08T04:17:56.130Z,"57 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-08T04:14:33.281Z,37.2964,-116.5354,13.1,-0.3,ml,8.0,287.81,0.184,0.3126,nn,nn00905622,2025-10-08T04:16:35.955Z,"47 km NNE of Beatty, Nevada",earthquake,,1.4,0.24,2.0,automatic,nn,nn
+2025-10-08T04:06:25.206Z,37.8117,-116.3273,0.0,1.3,ml,10.0,206.82,0.601,0.4529,nn,nn00905620,2025-10-08T04:09:06.385Z,"54 km WNW of Rachel, Nevada",earthquake,,51.3,0.56,5.0,automatic,nn,nn
+2025-10-08T03:55:01.140Z,33.3521667,-116.2298333,10.51,1.04,ml,63.0,25.0,0.06753,0.19,ci,ci41104991,2025-10-08T03:58:47.091Z,"17 km NE of Borrego Springs, CA",earthquake,0.15,0.36,0.198,27.0,automatic,ci,ci
+2025-10-08T03:50:46.348Z,-57.8245,-24.1577,10.0,5.4,mb,92.0,87.0,7.759,1.11,us,us6000rfjc,2025-10-08T04:16:10.568Z,South Sandwich Islands region,earthquake,7.85,1.853,0.056,107.0,reviewed,us,us
