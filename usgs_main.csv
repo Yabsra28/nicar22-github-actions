@@ -20316,3 +20316,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T05:57:32.360Z,37.592666625977,-122.46183013916,9.0500001907349,1.03,md,9.0,123.0,0.03264,0.02,nc,nc75246406,2025-10-08T05:59:10.323Z,"3 km SE of Pacifica, CA",earthquake,0.75,0.839999974,0.05,5.0,automatic,nc,nc
 2025-10-08T05:51:20.679Z,59.8738,-153.2202,124.0,2.0,ml,,,,0.83,ak,ak025cwtanwk,2025-10-08T05:54:50.039Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-08T05:12:47.310Z,18.901,-64.6381,69.0,3.7,md,21.0,251.0,0.4733,0.48,pr,pr2025281000,2025-10-08T05:53:34.620Z,"65 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.47,4.41,0.17,16.0,reviewed,pr,pr
+2025-10-08T06:17:45.941Z,36.7112,-116.3064,4.3,0.0,ml,12.0,132.86,0.068,0.2691,nn,nn00905630,2025-10-08T06:19:47.127Z,"45 km ESE of Beatty, Nevada",earthquake,,2.8,0.16,8.0,automatic,nn,nn
