@@ -20481,3 +20481,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T21:09:50.602Z,62.0071,-151.4179,83.2,1.8,ml,,,,0.72,ak,ak025cx2kntg,2025-10-08T21:13:05.718Z,"2 km NNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-10-08T20:36:48.220Z,44.7905,-110.843,4.82,1.66,ml,18.0,105.0,0.005764,0.18,uu,uu80119011,2025-10-08T20:57:34.010Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.42,0.24296517171029,5.0,reviewed,uu,uu
 2025-10-08T07:14:45.420Z,60.023666666667,-153.048,-0.96,-0.54,ml,5.0,129.0,0.01656,0.13,av,av93810578,2025-10-08T21:15:49.230Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.39,4.88,0.22940235686586,5.0,reviewed,av,av
+2025-10-08T21:25:24.805Z,59.7684,-138.7833,2.9,2.7,ml,,,,0.52,ak,ak025cx2o1a8,2025-10-08T21:28:05.057Z,"58 km ENE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-08T21:21:19.230Z,33.2878333,-116.8365,13.74,0.78,ml,31.0,28.0,0.06916,0.18,ci,ci41105399,2025-10-08T21:25:24.435Z,"8 km SSE of Palomar Observatory, CA",earthquake,0.23,0.6,0.112,21.0,automatic,ci,ci
+2025-10-08T21:21:18.839Z,64.9482,-147.9886,10.1,1.5,ml,,,,1.06,ak,ak025cx2n61a,2025-10-08T21:23:33.764Z,"11 km N of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-08T04:04:29.280Z,19.196166666667,-155.44416666667,6.86,1.01,md,13.0,151.0,0.04394,0.09,hv,hv74797527,2025-10-08T21:17:03.900Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.35,0.79,0.026161211444365,4.0,reviewed,hv,hv
