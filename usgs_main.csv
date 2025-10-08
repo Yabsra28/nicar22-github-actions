@@ -20434,3 +20434,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T16:10:39.600Z,37.154499053955,-121.52766418457,7.0900001525879,1.11,md,14.0,89.0,0.05992,0.06,nc,nc75246611,2025-10-08T16:32:19.362Z,"11 km NE of San Martin, CA",earthquake,0.26,0.810000002,0.27,9.0,automatic,nc,nc
 2025-10-08T16:38:26.777Z,61.6848,-152.3695,1.6,2.6,ml,,,,0.79,ak,ak025cwzrnpx,2025-10-08T16:50:53.447Z,"61 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-08T16:36:13.607Z,31.797,-101.291,3.092,1.7,ml,6.0,266.0,0.4,0.4,tx,tx2025tvgiyq,2025-10-08T16:39:11.377Z,"19 km ESE of Garden City, Texas",earthquake,0.0,3.8941810131073,0.4,4.0,automatic,tx,tx
+2025-10-08T16:52:39.586Z,28.478,-98.131,11.4204,1.9,ml,5.0,193.0,0.1,0.4,tx,tx2025tvgxbp,2025-10-08T16:56:29.523Z,"5 km ENE of Three Rivers, Texas",earthquake,0.0,9.4594383239746,0.4,5.0,automatic,tx,tx
+2025-10-08T16:50:28.249Z,63.3312,-145.4772,0.0,1.8,ml,,,,0.73,ak,ak025cwzu8fc,2025-10-08T16:52:21.953Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
