@@ -20372,3 +20372,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T10:46:48.350Z,32.9475,-116.4576667,8.23,0.61,ml,29.0,50.0,0.04638,0.15,ci,ci41105127,2025-10-08T10:50:42.044Z,"16 km NNE of Pine Valley, CA",earthquake,0.17,0.47,0.119,7.0,automatic,ci,ci
 2025-10-08T11:38:13.100Z,37.436164855957,-118.87716674805,7.0100002288818,2.65,md,28.0,99.0,0.1583,0.08,nc,nc75246471,2025-10-08T11:39:49.572Z,"22 km SW of Toms Place, CA",earthquake,0.25,2.1400001,0.21,33.0,automatic,nc,nc
 2025-10-08T11:35:16.615Z,60.6359,-151.6749,70.2,1.5,ml,,,,0.17,ak,ak025cwwrtrh,2025-10-08T11:37:04.232Z,"19 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-10-08T11:46:24.660Z,37.3102,-117.4755,4.4,1.4,ml,23.0,138.73,0.171,0.3597,nn,nn00905649,2025-10-08T11:49:02.072Z,"49 km SSW of Goldfield, Nevada",earthquake,,2.2,0.35,16.0,automatic,nn,nn
+2025-10-08T11:39:29.214Z,61.2322,-146.7208,21.1,1.5,ml,,,,0.56,ak,ak025cwwspll,2025-10-08T11:41:36.638Z,"23 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-08T05:00:35.849Z,28.752,-98.46,8.4402,1.4,ml,13.0,78.0,0.1,0.1,tx,tx2025tujhmc,2025-10-08T11:41:16.382Z,"5 km SE of Christine, Texas",earthquake,1.1232122573383,1.0890702374631,0.1,7.0,reviewed,tx,tx
