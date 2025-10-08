@@ -20303,3 +20303,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T04:16:54.214Z,28.75,-98.484,11.0775,1.7,ml,12.0,89.0,0.0,0.5,tx,tx2025tuhvvd,2025-10-08T04:19:49.297Z,"4 km SSE of Christine, Texas",earthquake,0.0,3.9666364192963,0.1,10.0,automatic,tx,tx
 2025-10-08T04:41:05.447Z,37.6245,-117.0455,4.3,0.9,ml,16.0,249.38,0.366,0.3485,nn,nn00905623,2025-10-08T04:43:47.627Z,"19 km ESE of Goldfield, Nevada",earthquake,,5.8,0.43,7.0,automatic,nn,nn
 2025-10-08T04:49:33.719Z,37.5392,-116.9446,6.2,0.5,ml,9.0,222.21,0.605,0.3214,nn,nn00905625,2025-10-08T04:52:06.100Z,"31 km SE of Goldfield, Nevada",earthquake,,9.6,0.5,6.0,automatic,nn,nn
+2025-10-08T05:14:23.325Z,60.245,-152.8736,122.2,1.9,ml,,,,0.36,ak,ak025cwt2qm4,2025-10-08T05:22:56.302Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-08T05:00:59.510Z,60.3265,-153.5541,176.9,2.6,ml,,,,0.58,ak,ak025cwsztec,2025-10-08T05:14:25.966Z,"44 km ENE of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-08T04:26:19.966Z,32.045,-104.028,8.1069,2.0,ml,8.0,130.0,0.1,0.9,tx,tx2025tuidyh,2025-10-08T05:00:22.584Z,"20 km SSE of Malaga, New Mexico",earthquake,0.0,6.7517790794373,0.3,5.0,automatic,tx,tx
+2025-10-08T00:54:08.299Z,53.3959,160.8766,35.04,4.7,mb,46.0,116.0,1.39,0.5,us,us6000rfih,2025-10-08T05:16:21.040Z,"154 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.5,8.228,0.083,44.0,reviewed,us,us
