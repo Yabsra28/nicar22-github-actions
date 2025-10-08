@@ -20375,3 +20375,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T11:46:24.660Z,37.3102,-117.4755,4.4,1.4,ml,23.0,138.73,0.171,0.3597,nn,nn00905649,2025-10-08T11:49:02.072Z,"49 km SSW of Goldfield, Nevada",earthquake,,2.2,0.35,16.0,automatic,nn,nn
 2025-10-08T11:39:29.214Z,61.2322,-146.7208,21.1,1.5,ml,,,,0.56,ak,ak025cwwspll,2025-10-08T11:41:36.638Z,"23 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-08T05:00:35.849Z,28.752,-98.46,8.4402,1.4,ml,13.0,78.0,0.1,0.1,tx,tx2025tujhmc,2025-10-08T11:41:16.382Z,"5 km SE of Christine, Texas",earthquake,1.1232122573383,1.0890702374631,0.1,7.0,reviewed,tx,tx
+2025-10-08T11:58:02.957Z,13.8993,-92.068,10.0,4.6,mb,41.0,177.0,0.823,0.68,us,us6000rfl9,2025-10-08T12:09:40.040Z,"46 km SSW of Champerico, Guatemala",earthquake,10.29,1.965,0.036,231.0,reviewed,us,us
+2025-10-08T11:52:35.178Z,62.5127,-150.8738,59.9,2.1,ml,,,,0.82,ak,ak025cwwvicb,2025-10-08T11:56:27.736Z,"5 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-08T11:50:06.548Z,36.6553,-115.615,11.4,0.6,ml,9.0,159.32,0.279,0.0833,nn,nn00905651,2025-10-08T11:52:08.608Z,"10 km NNE of Indian Springs, Nevada",earthquake,,5.2,0.29,3.0,automatic,nn,nn
+2025-10-08T11:20:38.891Z,50.0057,88.2751,10.0,4.2,mb,15.0,197.0,3.401,0.54,us,us6000rfl6,2025-10-08T12:00:56.040Z,"28 km W of Kosh-Agach, Russia",earthquake,7.5,1.955,0.159,11.0,reviewed,us,us
+2025-10-08T04:00:00.820Z,35.541,-96.74783333,6.42,1.18,ml,78.0,49.0,0.009898057663,0.19,ok,ok2025trwu,2025-10-08T12:12:27.472Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.22,32.0,reviewed,ok,ok
