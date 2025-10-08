@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T19:14:54.250Z,33.1843333,-116.4206667,10.75,1.01,ml,46,59,0.08369,0.22,ci,ci41105343,2025-10-08T19:18:25.368Z,"9 km SSW of Borrego Springs, CA",earthquake,0.2,0.49,0.194,28,automatic,ci,ci
 2025-10-08T19:13:36.260Z,33.184,-116.4163333,11.38,0.75,ml,34,60,0.08398,0.19,ci,ci41105335,2025-10-08T19:17:26.362Z,"9 km SSW of Borrego Springs, CA",earthquake,0.22,0.58,0.088,17,automatic,ci,ci
 2025-10-08T19:13:00.700Z,33.1848333,-116.4175,11.54,0.74,ml,37,60,0.08314,0.19,ci,ci41105327,2025-10-08T19:16:31.356Z,"9 km SSW of Borrego Springs, CA",earthquake,0.23,0.59,0.17,14,automatic,ci,ci
-2025-10-08T19:10:40.450Z,33.1795,-116.4276667,11.41,1.96,ml,84,19,0.0889,0.21,ci,ci41105319,2025-10-08T19:15:04.744Z,"10 km SSW of Borrego Springs, CA",earthquake,0.13,0.3,0.18,27,automatic,ci,ci
+2025-10-08T19:10:40.450Z,33.1795,-116.4276667,11.41,1.96,ml,84,19,0.0889,0.21,ci,ci41105319,2025-10-08T19:21:17.040Z,"10 km SSW of Borrego Springs, CA",earthquake,0.13,0.3,0.18,27,automatic,ci,ci
 2025-10-08T19:06:03.370Z,38.826168060303,-122.80616760254,1.5099999904633,0.74,md,8,106,0.00412,0.02,nc,nc75246681,2025-10-08T19:07:41.702Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.800000012,0.18,8,automatic,nc,nc
 2025-10-08T19:00:27.340Z,33.861,-117.5038333,2.33,1.47,ml,56,29,0.04983,0.19,ci,ci41105303,2025-10-08T19:11:04.900Z,"2 km SE of Home Gardens, CA",earthquake,0.18,0.27,0.292,33,automatic,ci,ci
 2025-10-08T18:59:44.380Z,38.789165496826,-122.76816558838,1.8700000047684,1.25,md,21,79,0.01595,0.03,nc,nc75246676,2025-10-08T19:17:19.503Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.419999987,0.21,20,automatic,nc,nc
@@ -249,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T19:43:52.060Z,33.6418333,-117.0115,12.37,0.97,ml,24,79,0.008329,0.13,ci,ci41104807,2025-10-07T20:12:01.771Z,"10 km SE of Winchester, CA",earthquake,0.21,0.37,0.201,18,reviewed,ci,ci
 2025-10-07T19:41:28.256Z,60.018,-153.2526,138,2,ml,,,,0.58,ak,ak025cve19bp,2025-10-07T20:17:01.040Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-07T19:39:04.650Z,44.737833333333,-111.115,9.29,0.4,md,11,97,0.0593,0.16,uu,uu80118941,2025-10-07T20:06:11.190Z,"6 km ESE of Hebgen Lake Estates, Montana",earthquake,0.46,1.22,0.24591142688636,7,reviewed,uu,uu
-2025-10-07T19:29:44.450Z,33.232,-116.732,11.79,0.59,ml,26,32,0.02278,0.13,ci,ci41104799,2025-10-07T20:06:28.089Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.19,0.45,0.195,8,reviewed,ci,ci
-2025-10-07T19:29:10.510Z,38.786499023438,-122.77166748047,0.93999999761581,1.05,md,15,83,0.01434,0.03,nc,nc75246226,2025-10-07T20:27:17.535Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.409999996,0.08,14,automatic,nc,nc
