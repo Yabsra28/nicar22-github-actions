@@ -20424,3 +20424,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T15:15:39.758Z,62.1655,-150.5168,0.1,1.8,ml,,,,0.86,ak,ak025cwz1bng,2025-10-08T15:18:40.719Z,"22 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-08T10:52:34.836Z,32.01,-102.1,8.2275,0.7,ml,18.0,63.0,0.0,0.1,tx,tx2025tuuyrv,2025-10-08T14:58:08.599Z,"2 km NW of Midland, Texas",earthquake,0.70386181640965,1.6838455807619,0.1,7.0,reviewed,tx,tx
 2025-10-08T15:30:23.130Z,40.388168334961,-121.97733306885,6.3200001716614,2.41,md,24.0,115.0,0.1804,0.2,nc,nc75246596,2025-10-08T15:33:14.346Z,"10 km WSW of Manton, CA",earthquake,0.52,2.1099999,0.12,19.0,automatic,nc,nc
+2025-10-08T16:07:40.857Z,60.9722,-141.0314,0.0,2.0,ml,,,,0.66,ak,ak025cwzl1lx,2025-10-08T16:09:33.630Z,"113 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-08T16:03:00.820Z,38.830665588379,-122.81800079346,1.5,0.25,md,8.0,129.0,0.01578,0.01,nc,nc75246606,2025-10-08T16:04:35.321Z,"8 km NW of The Geysers, CA",earthquake,0.42,0.800000012,0.12,8.0,automatic,nc,nc
+2025-10-08T16:01:50.807Z,63.0592,-150.3985,81.3,1.6,ml,,,,0.63,ak,ak025cwzjs2w,2025-10-08T16:04:30.522Z,"65 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-08T15:05:04.530Z,44.829666666667,-110.65183333333,7.43,1.2,ml,18.0,75.0,0.09189,0.16,uu,uu80119001,2025-10-08T15:58:20.580Z,"16 km SSE of Mammoth, Wyoming",earthquake,0.39,1.09,0.25025440153831,4.0,reviewed,uu,uu
+2025-10-08T06:10:17.660Z,35.9053333,-117.7416667,9.72,0.33,ml,14.0,108.0,0.07576,0.15,ci,ci37745636,2025-10-08T15:50:50.936Z,"15 km ESE of Little Lake, CA",earthquake,0.34,0.75,0.266,12.0,reviewed,ci,ci
