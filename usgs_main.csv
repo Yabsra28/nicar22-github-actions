@@ -20323,3 +20323,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T06:45:55.425Z,28.746,-98.477,7.5676,1.7,ml,13.0,86.0,0.0,0.5,tx,tx2025tumufy,2025-10-08T06:47:48.990Z,"5 km SSE of Christine, Texas",earthquake,0.0,2.5115265846252,0.2,10.0,automatic,tx,tx
 2025-10-08T06:43:18.725Z,61.2896,-152.0287,89.4,1.2,ml,,,,0.68,ak,ak025cwtudmo,2025-10-08T06:45:31.375Z,"53 km WNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-08T05:20:34.712Z,-0.6328,128.0869,10.0,4.7,mb,30.0,103.0,1.57,0.77,us,us6000rfjr,2025-10-08T07:09:31.040Z,"67 km E of Labuha, Indonesia",earthquake,7.16,1.932,0.126,19.0,reviewed,us,us
+2025-10-08T07:28:06.170Z,32.5656662,-117.0179977,13.67,2.53,ml,67.0,78.0,0.05746,0.23,ci,ci41105031,2025-10-08T07:30:22.552Z,"3 km ENE of San Ysidro, CA",earthquake,0.29,0.53,0.456,19.0,automatic,ci,ci
+2025-10-08T07:20:25.366Z,36.8734,-116.1565,7.7,-0.1,ml,12.0,82.74,0.082,0.1285,nn,nn00905631,2025-10-08T07:22:27.601Z,"53 km E of Beatty, Nevada",earthquake,,1.1,0.36,5.0,automatic,nn,nn
+2025-10-08T07:17:20.068Z,28.758,-98.486,11.4375,1.6,ml,9.0,141.0,0.0,0.4,tx,tx2025tunvib,2025-10-08T07:20:23.227Z,"3 km SSE of Christine, Texas",earthquake,0.0,4.9057188034058,0.2,5.0,automatic,tx,tx
