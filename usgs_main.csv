@@ -20462,3 +20462,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T18:59:44.380Z,38.789165496826,-122.76816558838,1.8700000047684,1.25,md,21.0,79.0,0.01595,0.03,nc,nc75246676,2025-10-08T19:17:19.503Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.419999987,0.21,20.0,automatic,nc,nc
 2025-10-08T18:39:37.838Z,52.812,159.1202,71.267,4.9,mb,86.0,115.0,0.355,0.67,us,us6000rfnu,2025-10-08T19:12:22.040Z,"43 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.7,5.626,0.035,257.0,reviewed,us,us
 2025-10-08T15:49:37.128Z,28.752,-98.462,8.7708,1.4,ml,13.0,79.0,0.0,0.1,tx,tx2025tveutl,2025-10-08T19:05:42.915Z,"5 km SE of Christine, Texas",earthquake,0.43473151319949,0.66837923570126,0.1,10.0,reviewed,tx,tx
+2025-10-08T19:35:18.750Z,38.824001312256,-122.84266662598,1.8600000143051,0.26,md,8.0,143.0,0.00603,0.02,nc,nc75246696,2025-10-08T19:36:56.897Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.709999979,0.14,8.0,automatic,nc,nc
