@@ -20493,3 +20493,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T22:23:18.746Z,57.4427,-155.7542,129.3,1.8,ml,,,,1.44,ak,ak025cx39102,2025-10-08T22:29:55.044Z,"79 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-08T22:20:35.346Z,31.59,-104.201,3.9734,2.3,ml,40.0,69.0,0.1,0.3,tx,tx2025tvrtqt,2025-10-08T22:24:55.703Z,"49 km NW of Toyah, Texas",earthquake,0.0,0.95960021018982,0.2,30.0,automatic,tx,tx
 2025-10-08T13:16:56.420Z,58.158,-155.3275,0.95,0.92,ml,13.0,68.0,0.05252,0.06,av,av93810798,2025-10-08T22:16:33.850Z,"83 km NW of Karluk, Alaska",earthquake,0.15,0.64,0.37907762823452,13.0,reviewed,av,av
+2025-10-08T22:38:03.420Z,36.0971667,-117.9001667,5.85,1.02,ml,26.0,77.0,0.04197,0.14,ci,ci41105455,2025-10-08T22:41:27.040Z,"7 km NE of Coso Junction, CA",earthquake,0.2,0.44,0.211,21.0,automatic,ci,ci
+2025-10-08T13:10:31.940Z,61.975333333333,-144.04666666667,3.56,0.35,ml,7.0,120.0,0.07705,0.22,av,av93050649,2025-10-08T22:37:19.880Z,"55 km NNE of Chitina, Alaska",earthquake,0.88,1.04,0.17764158635772,8.0,reviewed,av,av
