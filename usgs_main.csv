@@ -20664,3 +20664,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T16:49:15.580Z,34.395,-116.8803333,4.63,1.48,ml,51.0,43.0,0.06409,0.15,ci,ci41105791,2025-10-09T16:52:43.235Z,"10 km SE of Lucerne Valley, CA",earthquake,0.15,0.44,0.163,27.0,automatic,ci,ci
 2025-10-09T03:48:05.506Z,32.777,-100.677,3.9307,0.7,ml,9.0,81.0,0.1,0.1,tx,tx2025twcpwi,2025-10-09T16:50:44.866Z,"17 km NNE of Hermleigh, Texas",earthquake,0.71667970646709,2.1566399841544,0.1,7.0,reviewed,tx,tx
 2025-10-09T16:57:59.610Z,34.2661667,-117.0806667,5.42,0.8,ml,18.0,63.0,0.063,0.19,ci,ci41105799,2025-10-09T17:19:36.433Z,"7 km NNE of Running Springs, CA",earthquake,0.28,0.74,0.07,10.0,reviewed,ci,ci
+2025-10-09T17:29:34.900Z,46.205333333333,-122.16433333333,5.72,0.62,ml,17.0,111.0,0.01224,0.09,uw,uw62191442,2025-10-09T17:37:13.590Z,"39 km NNE of Amboy, Washington",earthquake,0.33,0.42,0.123538014685,7.0,reviewed,uw,uw
+2025-10-09T14:45:06.944Z,-52.0044,14.604,10.0,5.2,mb,69.0,65.0,20.128,0.6,us,us6000rfux,2025-10-09T17:23:45.040Z,southwest of Africa,earthquake,9.78,1.801,0.088,42.0,reviewed,us,us
