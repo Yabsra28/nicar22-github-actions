@@ -20545,3 +20545,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T18:09:34.339Z,31.609,-104.273,4.4078,1.5,mlv,27.0,163.0,0.1,0.3,tx,tx2025tvjlja,2025-10-09T03:08:11.567Z,"56 km NW of Toyah, Texas",earthquake,0.0,1.1443988084793,0.2,19.0,automatic,tx,tx
 2025-10-08T09:17:04.217Z,36.717,-116.0457,5.9,-0.2,ml,10.0,124.19,0.047,0.0346,nn,nn00905691,2025-10-09T03:06:19.175Z,"37 km WNW of Indian Springs, Nevada",earthquake,,2.0,0.02,2.0,reviewed,nn,nn
 2025-10-08T05:54:22.020Z,36.7148,-116.0461,5.5,-0.3,ml,12.0,120.2,0.046,0.0512,nn,nn00905689,2025-10-09T03:00:06.920Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.02,2.0,reviewed,nn,nn
+2025-10-09T03:37:37.890Z,34.345,-119.5328333,14.23,1.55,ml,35.0,112.0,0.05595,0.26,ci,ci41105567,2025-10-09T03:41:19.599Z,"6 km SSW of Carpinteria, CA",earthquake,0.35,0.62,0.14,26.0,automatic,ci,ci
+2025-10-09T03:15:52.049Z,62.8843,-143.6574,0.0,1.8,ml,,,,0.2,ak,ak025cyffhtw,2025-10-09T03:17:34.058Z,"7 km SE of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-09T03:15:41.836Z,28.72,-98.445,7.5965,1.6,ml,5.0,119.0,0.1,0.4,tx,tx2025twbnyp,2025-10-09T03:17:33.173Z,"9 km SSE of Christine, Texas",earthquake,0.0,9.781909942627,0.3,5.0,automatic,tx,tx
+2025-10-09T03:10:13.370Z,38.834167480469,-122.8184967041,1.6200000047684,0.63,md,8.0,89.0,0.01261,0.01,nc,nc75246841,2025-10-09T03:27:17.067Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.05999994,0.47,8.0,automatic,nc,nc
+2025-10-08T09:08:08.880Z,36.7174,-116.0461,6.0,-0.2,ml,8.0,177.16,0.047,0.0262,nn,nn00905694,2025-10-09T03:15:34.350Z,"37 km WNW of Indian Springs, Nevada",earthquake,,2.6,0.08,2.0,reviewed,nn,nn
+2025-10-08T07:29:44.003Z,36.8683,-116.1659,6.1,-0.5,ml,12.0,107.05,0.014,0.0628,nn,nn00905692,2025-10-09T03:12:28.985Z,"53 km E of Beatty, Nevada",earthquake,,2.3,0.0,1.0,reviewed,nn,nn
