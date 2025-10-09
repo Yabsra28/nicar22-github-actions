@@ -20657,3 +20657,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T15:22:34.662Z,65.0137,-147.4986,0.0,1.3,ml,,,,0.86,ak,ak025cymm5sd,2025-10-09T15:34:11.527Z,"8 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-09T09:52:17.892Z,28.691,-98.23,8.0334,1.3,ml,16.0,57.0,0.1,0.2,tx,tx2025tworsk,2025-10-09T15:27:33.188Z,"22 km W of Pawnee, Texas",earthquake,1.2028477653586,1.598126540264,0.1,13.0,reviewed,tx,tx
 2025-10-09T01:18:06.737Z,32.749,-100.675,6.945,1.0,ml,11.0,71.0,0.1,0.1,tx,tx2025tvxqqb,2025-10-09T15:33:27.229Z,"14 km NNE of Hermleigh, Texas",earthquake,0.8432546349645,1.7666292725315,0.2,9.0,reviewed,tx,tx
+2025-10-09T15:51:38.223Z,61.6918,-150.1295,16.7,2.1,ml,,,,0.84,ak,ak025cymsdu9,2025-10-09T15:54:47.304Z,"7 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-09T15:17:03.035Z,32.1221,-103.7116,10.48,2.5,ml,33.0,53.0,0.131,0.37,us,us6000rftv,2025-10-09T15:50:00.040Z,"35 km ESE of Malaga, New Mexico",earthquake,1.61,6.365,0.069,28.0,reviewed,us,us
