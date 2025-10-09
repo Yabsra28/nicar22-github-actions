@@ -20661,3 +20661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T15:17:03.035Z,32.1221,-103.7116,10.48,2.5,ml,33.0,53.0,0.131,0.37,us,us6000rftv,2025-10-09T15:50:00.040Z,"35 km ESE of Malaga, New Mexico",earthquake,1.61,6.365,0.069,28.0,reviewed,us,us
 2025-10-09T16:00:37.240Z,38.821666717529,-122.76716613769,2.0299999713898,0.76,md,12.0,109.0,0.009049,0.02,nc,nc75247011,2025-10-09T16:17:19.503Z,"4 km W of Cobb, CA",earthquake,0.27,0.629999995,0.07,12.0,automatic,nc,nc
 2025-10-09T11:49:53.051Z,32.004,-103.807,7.7405,1.0,ml,11.0,86.0,0.0,0.1,tx,tx2025twsofr,2025-10-09T16:14:06.605Z,"34 km SE of Malaga, New Mexico",earthquake,0.77645337963339,0.98782840387239,0.1,7.0,reviewed,tx,tx
+2025-10-09T16:49:15.580Z,34.395,-116.8803333,4.63,1.48,ml,51.0,43.0,0.06409,0.15,ci,ci41105791,2025-10-09T16:52:43.235Z,"10 km SE of Lucerne Valley, CA",earthquake,0.15,0.44,0.163,27.0,automatic,ci,ci
+2025-10-09T03:48:05.506Z,32.777,-100.677,3.9307,0.7,ml,9.0,81.0,0.1,0.1,tx,tx2025twcpwi,2025-10-09T16:50:44.866Z,"17 km NNE of Hermleigh, Texas",earthquake,0.71667970646709,2.1566399841544,0.1,7.0,reviewed,tx,tx
