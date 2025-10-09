@@ -20590,3 +20590,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T09:32:32.600Z,32.948,-115.4496667,5.16,2.34,ml,42.0,41.0,0.08669,0.29,ci,ci41105655,2025-10-09T09:36:11.157Z,"8 km ESE of Brawley, CA",earthquake,0.28,0.82,0.237,27.0,automatic,ci,ci
 2025-10-09T09:24:17.157Z,61.6049,-149.8608,34.0,3.8,ml,,,,0.66,ak,ak025cyj1y8u,2025-10-09T09:34:59.040Z,"3 km SW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T09:18:57.270Z,38.802165985107,-122.78182983398,2.9700000286102,1.07,md,13.0,114.0,0.01016,0.03,nc,nc75246886,2025-10-09T09:20:36.018Z,"4 km NW of The Geysers, CA",earthquake,0.4,0.720000029,0.35,17.0,automatic,nc,nc
+2025-10-09T09:40:15.350Z,63.1157,-151.6669,18.8,1.7,ml,,,,1.16,ak,ak025cyj5dix,2025-10-09T09:42:39.026Z,"47 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
