@@ -20586,3 +20586,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T08:22:06.149Z,31.633,-104.473,3.7021,1.6,ml,17.0,119.0,0.0,0.2,tx,tx2025twlrpl,2025-10-09T08:25:03.449Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.5449392795563,0.1,12.0,automatic,tx,tx
 2025-10-09T08:15:47.340Z,31.64,-104.492,4.757,1.5,ml,15.0,106.0,0.0,0.4,tx,tx2025twlmol,2025-10-09T08:20:26.456Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.9063222408295,0.1,11.0,automatic,tx,tx
 2025-10-09T07:24:02.600Z,18.726166666667,-64.095833333333,21.07,3.4,md,17.0,326.0,0.3736,0.38,pr,pr71497573,2025-10-09T08:18:33.700Z,"85 km ENE of Cruz Bay, U.S. Virgin Islands",earthquake,2.56,19.4,0.084926953713807,7.0,reviewed,pr,pr
+2025-10-09T08:36:30.840Z,19.060833333333,-65.374166666667,72.97,3.38,md,11.0,238.0,0.9573,0.38,pr,pr71497578,2025-10-09T08:55:11.980Z,"84 km N of Culebra, Puerto Rico",earthquake,3.71,6.41,0.083542501626589,8.0,reviewed,pr,pr
