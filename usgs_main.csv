@@ -20668,3 +20668,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T14:45:06.944Z,-52.0044,14.604,10.0,5.2,mb,69.0,65.0,20.128,0.6,us,us6000rfux,2025-10-09T17:23:45.040Z,southwest of Africa,earthquake,9.78,1.801,0.088,42.0,reviewed,us,us
 2025-10-09T17:42:44.673Z,32.1321,-101.9142,4.733,3.0,mb_lg,35.0,60.0,0.214,0.36,us,us6000rfv4,2025-10-09T17:48:05.040Z,"11 km W of Stanton, Texas",earthquake,1.51,4.656,0.063,67.0,reviewed,us,us
 2025-10-09T17:38:08.493Z,64.1988,-145.6812,19.9,1.1,ml,,,,0.24,ak,ak025cynweep,2025-10-09T17:40:20.038Z,"9 km ENE of Big Delta, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-09T17:52:40.427Z,61.1981,-141.1427,13.3,1.4,ml,,,,1.22,ak,ak025cynzgrt,2025-10-09T17:56:28.595Z,"98 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-09T15:24:04.206Z,51.4522,158.4469,35.0,4.5,mb,78.0,130.0,1.579,1.11,us,us6000rfus,2025-10-09T17:58:02.040Z,"135 km E of Ozernovskiy, Russia",earthquake,9.14,1.931,0.065,73.0,reviewed,us,us
