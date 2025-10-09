@@ -20594,3 +20594,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T10:14:42.991Z,60.3104,-140.9271,4.2,1.5,ml,,,,0.51,ak,ak025cyjlanf,2025-10-09T10:17:20.367Z,"108 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T10:07:31.740Z,17.974833333333,-66.8265,16.18,2.36,md,9.0,160.0,0.03987,0.18,pr,pr71497588,2025-10-09T10:21:31.460Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.93,0.65,0.12699875787128,6.0,reviewed,pr,pr
 2025-10-09T09:55:42.250Z,35.7786667,-117.5855,9.47,0.51,ml,14.0,119.0,0.03826,0.14,ci,ci41105663,2025-10-09T09:59:14.549Z,"16 km W of Searles Valley, CA",earthquake,0.4,0.35,0.136,8.0,automatic,ci,ci
+2025-10-09T10:38:14.510Z,33.1673333,-116.4156667,8.43,0.43,ml,27.0,55.0,0.09176,0.19,ci,ci41105671,2025-10-09T10:41:36.696Z,"10 km SSW of Borrego Springs, CA",earthquake,0.23,0.93,0.14,7.0,automatic,ci,ci
+2025-10-09T10:26:52.520Z,38.791000366211,-122.76667022705,1.4500000476837,0.31,md,8.0,88.0,0.01675,0.02,nc,nc75246896,2025-10-09T10:28:30.226Z,"2 km NNW of The Geysers, CA",earthquake,0.43,1.03999996,0.09,7.0,automatic,nc,nc
