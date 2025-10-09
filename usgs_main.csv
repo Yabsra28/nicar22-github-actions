@@ -20678,3 +20678,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T17:42:44.522Z,32.119,-101.925,8.3269,3.1,ml,25.0,57.0,0.0,0.1,tx,tx2025txehcl,2025-10-09T18:08:04.733Z,"12 km W of Stanton, Texas",earthquake,0.35872204478277,0.60970667112773,0.2,39.0,reviewed,tx,tx
 2025-10-09T10:32:01.798Z,36.9292,-115.9352,8.5,0.0,ml,20.0,186.91,0.031,0.1359,nn,nn00905699,2025-10-09T18:11:19.322Z,"46 km NNW of Indian Springs, Nevada",earthquake,,1.0,0.58,6.0,reviewed,nn,nn
 2025-10-09T10:12:11.080Z,47.591166666667,-122.1925,32.31,0.97,ml,13.0,93.0,0.02144,0.34,uw,uw62191372,2025-10-09T18:28:55.980Z,"0 km NE of Beaux Arts Village, Washington",earthquake,1.88,1.23,0.10258660238476,8.0,reviewed,uw,uw
+2025-10-09T18:41:30.467Z,31.76,-104.527,7.5525,2.8,ml,20.0,207.0,0.2,0.7,tx,tx2025txgftp,2025-10-09T18:50:07.040Z,"48 km SSW of Whites City, New Mexico",earthquake,0.0,3.8287014961243,0.2,13.0,automatic,tx,tx
+2025-10-09T18:39:14.216Z,32.117,-101.919,4.3439,2.0,ml,62.0,38.0,0.1,0.4,tx,tx2025txgduj,2025-10-09T18:47:32.322Z,"12 km W of Stanton, Texas",earthquake,0.0,0.71708685159683,0.2,36.0,automatic,tx,tx
