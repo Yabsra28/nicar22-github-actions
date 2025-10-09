@@ -20568,3 +20568,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T05:29:05.340Z,17.881,-66.846333333333,16.43,2.18,md,6.0,242.0,0.09327,0.13,pr,pr71497558,2025-10-09T05:42:51.150Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,1.16,0.73,0.1801681436599,3.0,reviewed,pr,pr
 2025-10-09T05:17:40.730Z,30.9106,99.939,10.0,5.6,mww,114.0,34.0,5.931,0.55,us,us6000rfs1,2025-10-09T05:43:01.539Z,"210 km N of Daocheng, China",earthquake,8.87,1.845,0.089,12.0,reviewed,us,us
 2025-10-09T06:02:41.488Z,28.749,-98.481,10.9569,1.6,ml,8.0,102.0,0.0,0.3,tx,tx2025twhbwx,2025-10-09T06:04:21.553Z,"4 km SSE of Christine, Texas",earthquake,0.0,4.8409652709961,0.2,7.0,automatic,tx,tx
+2025-10-09T06:42:35.080Z,33.1788333,-115.6058333,3.28,1.57,ml,40.0,86.0,0.008336,0.19,ci,ci41105599,2025-10-09T06:46:26.933Z,"10 km NW of Calipatria, CA",earthquake,0.19,0.13,0.161,27.0,automatic,ci,ci
+2025-10-09T06:41:27.700Z,33.1778333,-115.6008333,3.39,0.98,ml,28.0,86.0,0.01242,0.17,ci,ci41105591,2025-10-09T06:44:55.921Z,"10 km NW of Calipatria, CA",earthquake,0.18,0.12,0.283,12.0,automatic,ci,ci
