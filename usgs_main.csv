@@ -20559,3 +20559,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T04:43:55.160Z,38.822666168213,-122.80316925049,2.6500000953674,1.0,md,15.0,78.0,0.005442,0.01,nc,nc75246846,2025-10-09T04:45:30.909Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.670000017,0.28,16.0,automatic,nc,nc
 2025-10-09T04:10:56.408Z,-30.9045,-67.0711,36.112,4.0,mwr,37.0,65.0,1.512,0.82,us,us6000rfrq,2025-10-09T04:42:19.040Z,"48 km SE of San Agustín de Valle Fértil, Argentina",earthquake,2.14,7.164,0.056,31.0,reviewed,us,us
 2025-10-09T04:05:21.530Z,44.802333333333,-110.85933333333,11.06,2.15,ml,24.0,44.0,0.1131,0.18,uu,uu80119041,2025-10-09T04:49:02.630Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.58,0.2197191080202,11.0,reviewed,uu,uu
+2025-10-09T05:04:10.807Z,57.6501,-155.4038,17.1,1.8,ml,,,,0.21,ak,ak025cygjwzc,2025-10-09T05:05:32.104Z,"57 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
