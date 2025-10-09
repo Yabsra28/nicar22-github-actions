@@ -20659,3 +20659,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T01:18:06.737Z,32.749,-100.675,6.945,1.0,ml,11.0,71.0,0.1,0.1,tx,tx2025tvxqqb,2025-10-09T15:33:27.229Z,"14 km NNE of Hermleigh, Texas",earthquake,0.8432546349645,1.7666292725315,0.2,9.0,reviewed,tx,tx
 2025-10-09T15:51:38.223Z,61.6918,-150.1295,16.7,2.1,ml,,,,0.84,ak,ak025cymsdu9,2025-10-09T15:54:47.304Z,"7 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T15:17:03.035Z,32.1221,-103.7116,10.48,2.5,ml,33.0,53.0,0.131,0.37,us,us6000rftv,2025-10-09T15:50:00.040Z,"35 km ESE of Malaga, New Mexico",earthquake,1.61,6.365,0.069,28.0,reviewed,us,us
+2025-10-09T16:00:37.240Z,38.821666717529,-122.76716613769,2.0299999713898,0.76,md,12.0,109.0,0.009049,0.02,nc,nc75247011,2025-10-09T16:17:19.503Z,"4 km W of Cobb, CA",earthquake,0.27,0.629999995,0.07,12.0,automatic,nc,nc
+2025-10-09T11:49:53.051Z,32.004,-103.807,7.7405,1.0,ml,11.0,86.0,0.0,0.1,tx,tx2025twsofr,2025-10-09T16:14:06.605Z,"34 km SE of Malaga, New Mexico",earthquake,0.77645337963339,0.98782840387239,0.1,7.0,reviewed,tx,tx
