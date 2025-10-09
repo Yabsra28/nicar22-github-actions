@@ -20651,3 +20651,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T14:41:21.686Z,63.1584,-147.6852,3.2,1.7,ml,,,,1.0,ak,ak025cym4rrb,2025-10-09T14:46:20.499Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T14:35:05.029Z,28.669,-98.228,14.8781,1.5,ml,5.0,97.0,0.1,0.0,tx,tx2025twybkf,2025-10-09T15:00:15.378Z,"22 km W of Pawnee, Texas",earthquake,0.0,6.8234896659851,0.1,5.0,automatic,tx,tx
 2025-10-09T09:13:53.080Z,44.737166666667,-112.86366666667,3.68,0.67,ml,7.0,143.0,0.09111,0.03,mb,mb90116158,2025-10-09T14:51:26.230Z,"24 km WNW of Lima, Montana",earthquake,0.33,0.63,0.27968638834886,10.0,reviewed,mb,mb
+2025-10-09T15:03:00.366Z,-52.224,14.3187,10.0,5.4,mb,116.0,23.0,20.387,0.5,us,us6000rftu,2025-10-09T15:22:48.040Z,southwest of Africa,earthquake,10.6,1.846,0.055,113.0,reviewed,us,us
