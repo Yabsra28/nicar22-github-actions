@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T15:25:10.790Z,35.7098333,-117.5661667,7.25,0.51,ml,19,69,0.1087,0.16,ci,ci41112263,2025-10-21T15:28:40.881Z,"14 km NE of Ridgecrest, CA",earthquake,0.28,0.55,0.184,9,automatic,ci,ci
+2025-10-21T15:22:08.710Z,38.785667419434,-122.73349761963,1.6399999856949,0.76,md,8,86,0.0035,0.01,nc,nc75252381,2025-10-21T15:23:46.343Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.730000019,0.12,7,automatic,nc,nc
 2025-10-21T15:09:52.580Z,63.2818,-150.3565,7.9,1.7,ml,,,,0.65,ak,ak025digzkre,2025-10-21T15:12:35.680Z,"71 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-21T14:22:20.220Z,38.829833984375,-122.87933349609,2.829999923706,1.03,md,12,89,0.008973,0.02,nc,nc75252371,2025-10-21T14:42:16.879Z,"12 km WNW of The Geysers, CA",earthquake,0.53,0.620000005,0.14,15,automatic,nc,nc
-2025-10-21T14:08:37.150Z,-32.3416,-69.7204,122.014,4.9,mww,106,69,0.818,1.15,us,us6000rigb,2025-10-21T14:47:54.677Z,"98 km ENE of Los Andes, Chile",earthquake,4.81,5.271,0.089,12,reviewed,us,us
+2025-10-21T14:08:37.150Z,-32.3416,-69.7204,122.014,4.9,mww,106,69,0.818,1.15,us,us6000rigb,2025-10-21T15:17:26.914Z,"98 km ENE of Los Andes, Chile",earthquake,4.81,5.271,0.089,12,reviewed,us,us
 2025-10-21T14:01:04.430Z,18.969,-68.856166666667,26.78,3.39,md,8,150,0.3983,0.28,pr,pr71498498,2025-10-21T14:20:32.480Z,"20 km E of Miches, Dominican Republic",earthquake,1.05,4.67,0.075570171470135,4,reviewed,pr,pr
 2025-10-21T13:53:58.157Z,64.3996,-146.5256,3.6,2.6,ml,,,,0.55,ak,ak025dig23a2,2025-10-21T13:56:03.845Z,"4 km NE of Harding-Birch Lakes, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-21T13:39:09.530Z,38.801166534424,-122.76850128174,1.4800000190735,2.08,md,42,50,0.01538,0.05,nc,nc75252361,2025-10-21T14:17:22.730Z,"3 km NNW of The Geysers, CA",earthquake,0.15,0.25999999,0.14,44,automatic,nc,nc
