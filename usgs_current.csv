@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-09T13:34:24.409Z,63.3483,-151.1679,2,2.1,ml,,,,0.87,ak,ak025edv5lju,2025-11-09T13:37:30.145Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-11-09T13:34:24.409Z,63.3483,-151.1679,2,2.1,ml,,,,0.87,ak,ak025edv5lju,2025-11-09T13:46:38.035Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-09T13:23:19.755Z,58.7812,-154.1254,4.8,1.9,ml,,,,1.26,ak,ak025edv38aq,2025-11-09T13:27:20.533Z,"82 km SSE of Kokhanok, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-11-09T13:15:09.797Z,31.272,-103.414,6.9224,1.9,ml,21,108,0.1,0.6,tx,tx2025wbsxug,2025-11-09T13:17:49.822Z,"15 km SE of Lindsay, Texas",earthquake,0,3.4952075481415,0.1,17,automatic,tx,tx
 2025-11-09T13:07:20.480Z,40.433834075928,-124.71282958984,21.610000610352,2.44,md,34,251,0.3066,0.17,nc,nc75260841,2025-11-09T13:32:18.309Z,"38 km WNW of Petrolia, CA",earthquake,2.54,1.00999999,0.13,18,automatic,nc,nc
