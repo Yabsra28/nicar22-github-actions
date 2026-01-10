@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-09T20:13:31.328Z,31.7563,138.8924,277.724,4.4,mb,110,90,1.563,0.79,us,us7000rnrj,2026-01-10T18:20:18.040Z,"Izu Islands, Japan region",earthquake,8.16,6.848,0.05,114,reviewed,us,us
 2026-01-09T20:08:40.780Z,38.822166442871,-122.84449768066,2.1400001049042,0.73,md,11,105,0.007456,0.01,nc,nc75293151,2026-01-09T20:10:18.802Z,"9 km WNW of The Geysers, CA",earthquake,0.29,0.49000001,0.11,12,automatic,nc,nc
 2026-01-09T20:01:09.696Z,27.2801,104.1919,10,4.7,mb,54,85,8.66,0.97,us,us7000rnrh,2026-01-09T20:45:57.040Z,"47 km E of Zhaotong, China",earthquake,9.07,1.881,0.082,45,reviewed,us,us
-2026-01-09T19:52:55.554Z,62.078,-149.342,20.6,2.2,ml,28,49,0.4,0.8,ak,ak2026aqfjai,2026-01-09T19:54:23.234Z,"28 km ESE of Susitna North, Alaska",earthquake,0,2.757,0.5,4,automatic,ak,ak
