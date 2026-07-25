@@ -100234,3 +100234,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-25T15:04:27.300Z,47.1353,153.1701,89.719,4.4,mb,107.0,131.0,6.649,0.63,us,us7000t3bu,2026-07-25T18:53:15.040Z,Kuril Islands,earthquake,29.47,18.188,0.053,100.0,reviewed,us,us
 2026-07-25T14:31:07.210Z,31.967,-103.324,8.8054,1.5,ml,17.0,94.0,0.0,0.5,tx,tx2026onktcs,2026-07-25T19:15:45.298Z,"20 km SW of Jal, New Mexico",earthquake,0.0,2.0048613548279,0.2,13.0,automatic,tx,tx
 2026-07-25T13:15:38.288Z,31.975,-103.315,8.3105,1.5,ml,22.0,94.0,0.0,0.4,tx,tx2026onifwv,2026-07-25T19:14:33.038Z,"19 km SW of Jal, New Mexico",earthquake,0.0,1.8070751428604,0.2,16.0,automatic,tx,tx
+2026-07-25T20:30:11.690Z,40.24433517456,-124.18450164795,12.859999656677,1.55,md,7.0,118.0,0.05782,0.39,nc,nc75405672,2026-07-25T20:31:46.139Z,"12 km SE of Petrolia, CA",earthquake,1.92,4.01000023,,1.0,automatic,nc,nc
+2026-07-25T20:14:19.632Z,60.7,-150.031,33.7,1.6,ml,27.0,67.0,0.4,0.6,ak,aka2026oqeysl,2026-07-25T20:15:54.585Z,"25 km NNW of Cooper Landing, Alaska",earthquake,3.2,4.6416,0.2,4.0,automatic,ak,ak
+2026-07-25T20:13:23.680Z,17.962,-66.913333333333,15.1,1.93,md,3.0,206.0,0.03494,0.03,pr,pr71525798,2026-07-25T20:24:51.890Z,"1 km SSW of Guánica, Puerto Rico",earthquake,3.02,1.02,0.055888690115659,3.0,reviewed,pr,pr
