@@ -100359,3 +100359,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-26T09:26:55.020Z,11.2364,-86.8076,35.0,4.6,mb,54.0,176.0,2.051,0.98,us,us7000t3fs,2026-07-26T10:00:21.040Z,"68 km SSW of Masachapa, Nicaragua",earthquake,7.74,1.953,0.031,307.0,reviewed,us,us
 2026-07-26T06:26:47.710Z,17.972,-66.844333333333,13.05,2.32,md,14.0,165.0,0.03338,0.24,pr,pr71525863,2026-07-26T10:22:07.080Z,"3 km SW of Indios, Puerto Rico",earthquake,0.65,0.4,0.083308104537394,7.0,reviewed,pr,pr
 2026-07-26T06:25:35.470Z,17.966333333333,-66.838833333333,12.9,2.16,md,13.0,188.0,0.03944,0.22,pr,pr71525858,2026-07-26T10:31:37.250Z,"3 km SW of Indios, Puerto Rico",earthquake,0.74,0.48,0.18339924697703,6.0,reviewed,pr,pr
+2026-07-26T12:00:02.670Z,60.394,-147.778,18.7,1.2,ml,8.0,97.0,0.4,0.5,ak,aka2026orknkg,2026-07-26T12:02:09.291Z,"38 km NNE of Chenega, Alaska",earthquake,4.9,5.3237,0.1,6.0,automatic,ak,ak
+2026-07-26T11:57:39.301Z,65.801,-150.947,4.7,2.2,ml,32.0,47.0,0.2,0.8,ak,aka2026orklig,2026-07-26T11:59:44.478Z,"48 km NW of Rampart, Alaska",earthquake,4.2,3.1345,0.2,7.0,automatic,ak,ak
+2026-07-26T11:54:06.462Z,57.051,-153.734,37.3,2.0,ml,19.0,152.0,0.3,0.5,ak,aka2026orkigf,2026-07-26T11:56:08.501Z,"29 km ENE of Akhiok, Alaska",earthquake,7.3,5.9477,0.1,4.0,automatic,ak,ak
+2026-07-26T11:52:50.842Z,31.643,-104.241,4.6095,2.0,ml,43.0,67.0,0.0,0.3,tx,tx2026opbfjx,2026-07-26T11:57:17.678Z,"55 km NW of Toyah, Texas",earthquake,0.0,0.8485112786293,0.2,32.0,automatic,tx,tx
+2026-07-26T11:39:18.518Z,59.739,-150.718,37.6,1.8,ml,27.0,148.0,0.0,0.8,ak,aka2026orjvkv,2026-07-26T11:41:37.778Z,"18 km SE of Fox River, Alaska",earthquake,5.4,3.7568,0.2,19.0,automatic,ak,ak
+2026-07-26T11:25:29.650Z,38.800498962402,-122.77083587647,4.4200000762939,0.76,md,5.0,171.0,0.02052,0.01,nc,nc75405967,2026-07-26T11:27:06.756Z,"3 km NNW of The Geysers, CA",earthquake,0.76,4.69000006,0.05,7.0,automatic,nc,nc
+2026-07-26T10:57:37.061Z,-10.007,123.4402,10.0,5.3,mb,68.0,40.0,0.852,1.08,us,us7000t3g4,2026-07-26T11:57:57.795Z,"25 km NW of Kupang, Indonesia",earthquake,6.04,1.847,0.061,90.0,reviewed,us,us
+2026-07-26T04:57:56.570Z,19.287833333333,-65.6875,-0.1,3.32,md,20.0,242.0,1.043,0.45,pr,pr71525843,2026-07-26T11:09:09.210Z,"96 km N of Suárez, Puerto Rico",earthquake,2.7,1.62,0.080483308496024,18.0,reviewed,pr,pr
+2026-07-26T00:27:09.502Z,31.578,-102.112,1.9546,1.0,ml,13.0,120.0,0.2,0.4,tx,tx2026ooemsh,2026-07-26T11:16:13.027Z,"30 km NE of Crane, Texas",earthquake,0.0,1.6488354206085,0.4,10.0,automatic,tx,tx
