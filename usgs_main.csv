@@ -100409,3 +100409,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-26T13:58:52.620Z,19.046167373657,-155.37350463867,34.430000305176,2.1,md,45.0,211.0,0.1372,0.140000001,hv,hv75008207,2026-07-26T14:02:23.140Z,"20 km SSE of Pāhala, Hawaii",earthquake,0.56,0.680000007,0.071881123210399,15.0,automatic,hv,hv
 2026-07-26T13:39:29.094Z,37.1636,-3.6227,10.0,3.1,mb_lg,6.0,166.0,2.445,0.15,us,us7000t3hl,2026-07-26T15:02:37.133Z,"2 km N of Armilla, Spain",earthquake,8.36,2.001,0.295,3.0,reviewed,us,us
 2026-07-26T13:18:43.603Z,51.7323,-173.4513,43.18,4.3,mb,77.0,129.0,0.659,0.71,us,us7000t3gz,2026-07-26T14:03:44.040Z,"72 km SE of Atka, Alaska",earthquake,6.76,6.363,0.055,94.0,reviewed,us,us
+2026-07-26T16:12:16.703Z,60.374,-147.741,18.0,1.7,ml,13.0,97.0,0.4,0.7,ak,aka2026orsycj,2026-07-26T16:15:10.327Z,"37 km NNE of Chenega, Alaska",earthquake,3.8,3.1864,0.1,6.0,automatic,ak,ak
+2026-07-26T15:54:30.790Z,62.905,-150.386,95.2,1.8,ml,42.0,54.0,0.4,0.7,ak,aka2026orsiru,2026-07-26T15:56:34.306Z,"49 km NNE of Petersville, Alaska",earthquake,3.1,3.1819,0.1,5.0,automatic,ak,ak
+2026-07-26T15:31:59.670Z,33.5385,-117.71016666667,11.92,1.37,ml,39.0,120.0,0.0557,0.16,ci,ci40661602,2026-07-26T15:35:33.242Z,"2 km N of Laguna Niguel, CA",earthquake,0.26,0.41,0.34691487408913,31.0,automatic,ci,ci
+2026-07-26T15:29:54.427Z,64.717,-146.825,8.0,0.8,ml,13.0,89.0,0.1,0.4,ak,aka2026orrnjj,2026-07-26T15:31:18.053Z,"12 km ENE of Eielson Air Force Base, Alaska",earthquake,4.7,3.7739,0.2,5.0,automatic,ak,ak
+2026-07-26T15:26:01.010Z,38.81233215332,-122.80966949463,2.6099998950958,0.75,md,16.0,47.0,0.01105,0.02,nc,nc75406047,2026-07-26T15:27:36.411Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.600000024,0.13,18.0,automatic,nc,nc
+2026-07-26T15:04:43.496Z,31.623,-104.125,4.5279,1.5,ml,33.0,53.0,0.0,0.4,tx,tx2026ophoxz,2026-07-26T16:00:57.501Z,"46 km NW of Toyah, Texas",earthquake,0.0,0.98455959558487,0.2,22.0,automatic,tx,tx
+2026-07-26T15:02:39.020Z,66.6451,-140.8743,10.0,3.0,ml,26.0,83.0,0.351,0.6,us,us7000t3hq,2026-07-26T15:45:40.040Z,"126 km E of Chalkyitsik, Alaska",earthquake,5.0,2.0,0.048,56.0,reviewed,us,us
