@@ -121268,3 +121268,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-10-10T16:57:42.041Z,55.917,-158.81,83.3,1.8,ml,10.0,268.0,0.3,0.3,ak,aka2026uceciq,2026-10-10T22:38:01.455Z,"20 km E of Perryville, Alaska",earthquake,32.2,7.1425,0.7,5.0,reviewed,ak,ak
 2026-10-10T06:17:48.108Z,54.382,-163.884,78.9,2.5,ml,20.0,197.0,0.3,0.5,ak,aka2026ubitvo,2026-10-10T22:40:00.289Z,"60 km SSW of False Pass, Alaska",earthquake,23.5,6.0377,0.3,13.0,reviewed,ak,ak
 2026-10-10T00:47:02.729Z,54.0661,86.4114,10.0,4.7,mb,41.0,82.0,0.947,0.75,us,us6000u1bi,2026-10-10T23:32:19.959Z,"7 km S of Trudarmeyskiy, Russia",earthquake,6.94,1.741,0.065,72.0,reviewed,us,us
+2026-10-11T02:45:47.414Z,59.909,-152.59,84.3,1.5,ml,23.0,89.0,0.2,0.5,ak,aka2026ucxspa,2026-10-11T02:48:19.511Z,"45 km WNW of Anchor Point, Alaska",earthquake,6.1,2.7611,0.5,13.0,automatic,ak,ak
+2026-10-11T02:35:35.917Z,5.4706,126.6164,121.25,4.6,mb,26.0,155.0,1.894,0.44,us,us6000u1i0,2026-10-11T02:52:52.040Z,"109 km SSE of Pondaguitan, Philippines",earthquake,15.73,10.112,0.122,20.0,reviewed,us,us
+2026-10-11T02:18:06.130Z,33.6445,-116.72266666667,13.03,0.43,ml,27.0,56.0,0.04747,0.12,ci,ci41346303,2026-10-11T02:21:24.958Z,"11 km S of Idyllwild, CA",earthquake,0.21,0.42,0.16879095642611,7.0,automatic,ci,ci
+2026-10-11T02:15:11.616Z,62.909,-142.894,22.5,1.5,ml,8.0,228.0,0.2,1.0,ak,aka2026ucwsbp,2026-10-11T02:16:50.276Z,"31 km SW of Tetlin, Alaska",earthquake,20.8,6.2094,0.2,5.0,automatic,ak,ak
+2026-10-11T01:50:52.299Z,7.5139,-80.4283,10.0,5.0,mb,47.0,129.0,1.743,1.01,us,us6000u1hw,2026-10-11T02:48:53.775Z,"3 km NW of Flores, Panama",earthquake,7.17,1.932,0.049,131.0,reviewed,us,us
+2026-10-11T01:47:19.035Z,61.666,-149.922,15.2,1.8,ml,24.0,68.0,0.4,0.8,ak,aka2026ucvtwv,2026-10-11T01:48:44.222Z,"6 km NW of Houston, Alaska",earthquake,3.2,2.8127,0.1,13.0,automatic,ak,ak
+2026-10-11T01:11:28.591Z,58.515,-153.139,68.0,2.2,ml,45.0,82.0,0.4,0.5,ak,aka2026ucuowu,2026-10-11T01:14:29.708Z,"52 km NNW of Aleneva, Alaska",earthquake,4.5,4.3598,0.2,26.0,automatic,ak,ak
+2026-10-11T01:06:08.370Z,33.118333333333,-116.41566666667,6.93,0.84,ml,42.0,55.0,0.04508,0.19,ci,ci41346287,2026-10-11T01:09:30.853Z,"16 km SSW of Borrego Springs, CA",earthquake,0.2,0.61,0.097607779275059,12.0,automatic,ci,ci
+2026-10-11T00:38:09.379Z,65.339,-144.684,5.0,1.2,ml,10.0,155.0,0.4,0.5,ak,aka2026uctlxv,2026-10-11T00:39:33.569Z,"26 km SSE of Central, Alaska",earthquake,6.1,,0.3,5.0,automatic,ak,ak
+2026-10-11T00:29:21.307Z,63.573,-147.514,0.1,1.6,ml,20.0,55.0,0.6,0.6,ak,aka2026uctehk,2026-10-11T00:30:39.205Z,"71 km ESE of Denali Park, Alaska",earthquake,4.2,3.6718,0.2,6.0,automatic,ak,ak
+2026-10-11T00:28:20.300Z,46.660667419434,-121.93183135986,3.4700000286102,1.5241599082947,ml,49.0,82.0,0.0802,0.0799999982,uw,uw714118242,2026-10-11T00:30:13.770Z,"13 km SE of Ashford, Washington",earthquake,0.28,1.15999997,0.27531442046165,33.0,automatic,uw,uw
+2026-10-11T00:06:09.289Z,7.8093,-81.472,10.0,4.6,mb,40.0,128.0,2.105,0.98,us,us6000u1hj,2026-10-11T01:33:16.399Z,"18 km WNW of Río Grande, Panama",earthquake,6.02,1.913,0.098,32.0,reviewed,us,us
+2026-10-11T00:03:32.330Z,36.0225,-117.77783333333,1.48,0.94,ml,22.0,64.0,0.01055,0.16,ci,ci41346279,2026-10-11T00:06:55.435Z,"15 km NE of Little Lake, CA",earthquake,0.18,0.19,0.15012113970795,16.0,automatic,ci,ci
+2026-10-10T23:56:51.430Z,37.319332122803,-117.98750305176,0.61000001430511,2.18,md,11.0,203.0,0.05009,0.08,nc,nc75447546,2026-10-11T00:22:21.990Z,"6 km S of Deep Springs, CA",earthquake,1.47,4.42999983,0.33,10.0,automatic,nc,nc
+2026-10-10T23:11:02.714Z,36.7357,71.1253,203.491,4.1,mb,25.0,108.0,2.746,0.45,us,us6000u1h9,2026-10-11T00:29:36.040Z,"29 km ESE of Jurm, Afghanistan",earthquake,7.29,7.066,0.175,9.0,reviewed,us,us
